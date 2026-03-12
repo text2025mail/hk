@@ -1,17 +1,17 @@
 [
   {
     "perfIx": 6,
-    "movie": "Hoppers(Cantonese Version)",
+    "movie": "Ultimate Revenge",
     "venue": "Cinema.com.hk",
     "date": "2026-03-12",
-    "time": "15:50",
-    "total": 191,
-    "available": 149,
+    "time": "14:40",
+    "total": 70,
+    "available": 51,
     "blocked": 0,
-    "sold": 42,
-    "gross": 4620,
-    "price": 110,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "sold": 19,
+    "gross": 1805,
+    "price": 95,
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 67170,
@@ -132,12 +132,12 @@
     "date": "2026-03-12",
     "time": "14:45",
     "total": 260,
-    "available": 255,
+    "available": 249,
     "blocked": 0,
-    "sold": 5,
-    "gross": 525,
+    "sold": 11,
+    "gross": 1155,
     "price": 105,
-    "last_updated": "2026-03-12 09:14:45 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66903,
@@ -151,7 +151,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-03-12 09:14:45 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66724,
@@ -160,12 +160,12 @@
     "date": "2026-03-12",
     "time": "15:35",
     "total": 191,
-    "available": 183,
+    "available": 187,
     "blocked": 0,
-    "sold": 8,
-    "gross": 880,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-03-12 09:18:52 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66702,
@@ -174,12 +174,12 @@
     "date": "2026-03-12",
     "time": "15:50",
     "total": 191,
-    "available": 158,
+    "available": 166,
     "blocked": 0,
-    "sold": 33,
-    "gross": 3630,
+    "sold": 25,
+    "gross": 2750,
     "price": 110,
-    "last_updated": "2026-03-12 09:18:52 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66780,
@@ -193,7 +193,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66714,
@@ -202,12 +202,12 @@
     "date": "2026-03-12",
     "time": "16:15",
     "total": 202,
-    "available": 196,
+    "available": 202,
     "blocked": 0,
-    "sold": 6,
-    "gross": 720,
+    "sold": 0,
+    "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66695,
@@ -221,7 +221,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66690,
@@ -235,7 +235,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66787,
@@ -249,7 +249,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66711,
@@ -258,12 +258,12 @@
     "date": "2026-03-12",
     "time": "16:40",
     "total": 197,
-    "available": 196,
+    "available": 197,
     "blocked": 0,
-    "sold": 1,
-    "gross": 110,
+    "sold": 0,
+    "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   },
   {
     "perfIx": 66896,
@@ -277,6 +277,6 @@
     "sold": 1,
     "gross": 95,
     "price": 95,
-    "last_updated": "2026-03-12 10:23:40 PM IST"
+    "last_updated": "2026-03-12 11:13:59 PM IST"
   }
 ]
