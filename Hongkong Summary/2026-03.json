@@ -66,8 +66,8 @@
   "Night King": {
     "shows": 412,
     "seats": 63312,
-    "sold": 1643,
-    "gross": 157030,
+    "sold": 1645,
+    "gross": 157250,
     "dates": {
       "2026-03-14": {
         "shows": 142,
@@ -84,8 +84,8 @@
       "2026-03-13": {
         "shows": 138,
         "seats": 21928,
-        "sold": 920,
-        "gross": 84715
+        "sold": 922,
+        "gross": 84935
       },
       "2026-03-15": {
         "shows": 124,
@@ -420,14 +420,14 @@
   "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 29,
     "seats": 2622,
-    "sold": 99,
-    "gross": 9325,
+    "sold": 100,
+    "gross": 9425,
     "dates": {
       "2026-03-14": {
         "shows": 10,
         "seats": 842,
-        "sold": 1,
-        "gross": 100
+        "sold": 2,
+        "gross": 200
       },
       "2026-03-12": {
         "shows": 1,
@@ -1018,14 +1018,14 @@
   "Wuthering Heights": {
     "shows": 13,
     "seats": 1132,
-    "sold": 32,
-    "gross": 4160,
+    "sold": 34,
+    "gross": 4420,
     "dates": {
       "2026-03-14": {
         "shows": 4,
         "seats": 326,
-        "sold": 4,
-        "gross": 520
+        "sold": 6,
+        "gross": 780
       },
       "2026-03-13": {
         "shows": 5,
