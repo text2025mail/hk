@@ -1,0 +1,44 @@
+[
+  {
+    "perfIx": 61217,
+    "movie": "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "06:00",
+    "total": 261,
+    "available": 184,
+    "blocked": 0,
+    "sold": 77,
+    "gross": 32340,
+    "price": 420,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 65360,
+    "movie": "Merrily We Roll Along (2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "06:00",
+    "total": 127,
+    "available": 82,
+    "blocked": 0,
+    "sold": 45,
+    "gross": 9900,
+    "price": 220,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 61377,
+    "movie": "Merrily We Roll Along (2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "08:10",
+    "total": 81,
+    "available": 29,
+    "blocked": 0,
+    "sold": 52,
+    "gross": 11440,
+    "price": 220,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  }
+]

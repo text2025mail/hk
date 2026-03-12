@@ -1,0 +1,30 @@
+[
+  {
+    "perfIx": 67734,
+    "movie": "Let's have a cup of doodh patti chai",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-07",
+    "time": "09:20",
+    "total": 119,
+    "available": 116,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 285,
+    "price": 95,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 63098,
+    "movie": "Portrait of a Lady on Fire",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-07",
+    "time": "11:30",
+    "total": 119,
+    "available": 41,
+    "blocked": 0,
+    "sold": 78,
+    "gross": 7410,
+    "price": 95,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "perfIx": 12575,
+    "movie": "LE PARC (Paris Opera Ballet 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-06-14",
+    "time": "05:20",
+    "total": 88,
+    "available": 81,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 1050,
+    "price": 150,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 27878,
+    "movie": "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-06-14",
+    "time": "07:20",
+    "total": 58,
+    "available": 56,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 580,
+    "price": 290,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  }
+]

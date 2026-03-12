@@ -1,0 +1,44 @@
+[
+  {
+    "perfIx": 64732,
+    "movie": "Sinners (CTTA 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-17",
+    "time": "11:00",
+    "total": 115,
+    "available": 70,
+    "blocked": 0,
+    "sold": 45,
+    "gross": 4950,
+    "price": 110,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 61437,
+    "movie": "Girl on Edge(AC2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-17",
+    "time": "11:15",
+    "total": 119,
+    "available": 34,
+    "blocked": 0,
+    "sold": 85,
+    "gross": 8075,
+    "price": 95,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  },
+  {
+    "perfIx": 64473,
+    "movie": "The Worst Person In The World",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-17",
+    "time": "13:45",
+    "total": 119,
+    "available": 105,
+    "blocked": 0,
+    "sold": 14,
+    "gross": 1050,
+    "price": 75,
+    "last_updated": "2026-03-12 09:14:45 PM IST"
+  }
+]
