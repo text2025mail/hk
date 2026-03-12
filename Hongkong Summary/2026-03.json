@@ -2,14 +2,14 @@
   "Hoppers(Cantonese Version)": {
     "shows": 233,
     "seats": 44942,
-    "sold": 1795,
-    "gross": 155280,
+    "sold": 1785,
+    "gross": 154250,
     "dates": {
       "2026-03-14": {
         "shows": 84,
         "seats": 15739,
-        "sold": 733,
-        "gross": 63125
+        "sold": 729,
+        "gross": 62725
       },
       "2026-03-12": {
         "shows": 2,
@@ -20,14 +20,14 @@
       "2026-03-13": {
         "shows": 63,
         "seats": 13033,
-        "sold": 651,
-        "gross": 59320
+        "sold": 647,
+        "gross": 58890
       },
       "2026-03-15": {
         "shows": 84,
         "seats": 15799,
-        "sold": 386,
-        "gross": 30085
+        "sold": 384,
+        "gross": 29885
       }
     }
   },
@@ -66,14 +66,14 @@
   "Night King": {
     "shows": 412,
     "seats": 63312,
-    "sold": 1639,
-    "gross": 156710,
+    "sold": 1638,
+    "gross": 156605,
     "dates": {
       "2026-03-14": {
         "shows": 142,
         "seats": 21252,
-        "sold": 646,
-        "gross": 65280
+        "sold": 645,
+        "gross": 65175
       },
       "2026-03-12": {
         "shows": 8,
@@ -208,8 +208,8 @@
   "Hoppers(English Version)": {
     "shows": 183,
     "seats": 26393,
-    "sold": 1195,
-    "gross": 124200,
+    "sold": 1190,
+    "gross": 123650,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -220,14 +220,14 @@
       "2026-03-13": {
         "shows": 58,
         "seats": 8590,
-        "sold": 635,
-        "gross": 68010
+        "sold": 633,
+        "gross": 67790
       },
       "2026-03-15": {
         "shows": 57,
         "seats": 8069,
-        "sold": 182,
-        "gross": 16645
+        "sold": 179,
+        "gross": 16315
       }
     }
   },
@@ -286,14 +286,14 @@
   "IMAX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 27,
     "seats": 9121,
-    "sold": 438,
-    "gross": 65910,
+    "sold": 435,
+    "gross": 65460,
     "dates": {
       "2026-03-14": {
         "shows": 10,
         "seats": 3405,
-        "sold": 84,
-        "gross": 12420
+        "sold": 82,
+        "gross": 12100
       },
       "2026-03-13": {
         "shows": 6,
@@ -304,8 +304,8 @@
       "2026-03-15": {
         "shows": 11,
         "seats": 3673,
-        "sold": 40,
-        "gross": 5500
+        "sold": 39,
+        "gross": 5370
       }
     }
   },
@@ -452,8 +452,8 @@
   "Girlfriends": {
     "shows": 29,
     "seats": 3467,
-    "sold": 102,
-    "gross": 9940,
+    "sold": 101,
+    "gross": 9845,
     "dates": {
       "2026-03-14": {
         "shows": 9,
@@ -464,8 +464,8 @@
       "2026-03-13": {
         "shows": 13,
         "seats": 1577,
-        "sold": 90,
-        "gross": 8860
+        "sold": 89,
+        "gross": 8765
       },
       "2026-03-15": {
         "shows": 7,
@@ -478,14 +478,14 @@
   "CGS Hoppers(English Version)": {
     "shows": 11,
     "seats": 3461,
-    "sold": 97,
-    "gross": 8020,
+    "sold": 95,
+    "gross": 7800,
     "dates": {
       "2026-03-14": {
         "shows": 5,
         "seats": 1600,
-        "sold": 41,
-        "gross": 4060
+        "sold": 39,
+        "gross": 3840
       },
       "2026-03-13": {
         "shows": 1,
@@ -556,14 +556,14 @@
   "4DX KING OF PRISM-Your Endless Call-Everyone Sparkle! Prism Tours": {
     "shows": 3,
     "seats": 225,
-    "sold": 86,
-    "gross": 12900,
+    "sold": 85,
+    "gross": 12750,
     "dates": {
       "2026-03-14": {
         "shows": 1,
         "seats": 121,
-        "sold": 37,
-        "gross": 5550
+        "sold": 36,
+        "gross": 5400
       },
       "2026-03-13": {
         "shows": 1,
@@ -626,14 +626,14 @@
   "Marty Supreme": {
     "shows": 5,
     "seats": 572,
-    "sold": 221,
-    "gross": 29200,
+    "sold": 220,
+    "gross": 29050,
     "dates": {
       "2026-03-14": {
         "shows": 3,
         "seats": 334,
-        "sold": 127,
-        "gross": 18230
+        "sold": 126,
+        "gross": 18080
       },
       "2026-03-15": {
         "shows": 2,
@@ -646,8 +646,8 @@
   "Crime 101": {
     "shows": 27,
     "seats": 2934,
-    "sold": 33,
-    "gross": 2225,
+    "sold": 32,
+    "gross": 2140,
     "dates": {
       "2026-03-14": {
         "shows": 6,
@@ -664,8 +664,8 @@
       "2026-03-13": {
         "shows": 14,
         "seats": 1522,
-        "sold": 31,
-        "gross": 2025
+        "sold": 30,
+        "gross": 1940
       },
       "2026-03-15": {
         "shows": 6,
@@ -884,8 +884,8 @@
   "Attack on Titan: THE LAST ATTACK Special Rerun A": {
     "shows": 4,
     "seats": 519,
-    "sold": 422,
-    "gross": 51890,
+    "sold": 420,
+    "gross": 51640,
     "dates": {
       "2026-03-14": {
         "shows": 1,
@@ -896,8 +896,8 @@
       "2026-03-15": {
         "shows": 1,
         "seats": 127,
-        "sold": 105,
-        "gross": 13125
+        "sold": 103,
+        "gross": 12875
       },
       "2026-03-21": {
         "shows": 2,
@@ -1018,14 +1018,14 @@
   "Wuthering Heights": {
     "shows": 13,
     "seats": 1132,
-    "sold": 30,
-    "gross": 3900,
+    "sold": 28,
+    "gross": 3640,
     "dates": {
       "2026-03-14": {
         "shows": 4,
         "seats": 326,
-        "sold": 2,
-        "gross": 260
+        "sold": 0,
+        "gross": 0
       },
       "2026-03-13": {
         "shows": 5,
@@ -1340,8 +1340,8 @@
   "The Rose : Come back to me (2026)": {
     "shows": 4,
     "seats": 416,
-    "sold": 141,
-    "gross": 18330,
+    "sold": 140,
+    "gross": 18200,
     "dates": {
       "2026-03-28": {
         "shows": 1,
@@ -1352,8 +1352,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 81,
-        "sold": 13,
-        "gross": 1690
+        "sold": 12,
+        "gross": 1560
       },
       "2026-03-22": {
         "shows": 1,
