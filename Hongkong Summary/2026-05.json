@@ -1,0 +1,64 @@
+{
+  "Bellini\u2019s I Puritani (The Met 2026)": {
+    "shows": 2,
+    "seats": 139,
+    "sold": 17,
+    "gross": 4930,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 9,
+        "gross": 2610
+      },
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 8,
+        "gross": 2320
+      }
+    }
+  },
+  "The Nutcracker (Paris Opera Ballet 2026) ": {
+    "shows": 1,
+    "seats": 58,
+    "sold": 2,
+    "gross": 260,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 2,
+        "gross": 260
+      }
+    }
+  },
+  "The History Of Sound (InDPanda)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 47,
+    "gross": 4465,
+    "dates": {
+      "2026-05-09": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 47,
+        "gross": 4465
+      }
+    }
+  },
+  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
+    "shows": 1,
+    "seats": 81,
+    "sold": 6,
+    "gross": 1740,
+    "dates": {
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 6,
+        "gross": 1740
+      }
+    }
+  }
+}
