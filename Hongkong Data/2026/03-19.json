@@ -11,7 +11,7 @@
     "sold": 18,
     "gross": 3060,
     "price": 170,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 60496,
@@ -25,7 +25,7 @@
     "sold": 103,
     "gross": 9785,
     "price": 95,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 67731,
@@ -39,7 +39,7 @@
     "sold": 120,
     "gross": 15600,
     "price": 130,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 68974,
@@ -53,7 +53,7 @@
     "sold": 1,
     "gross": 80,
     "price": 80,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 68975,
@@ -67,7 +67,7 @@
     "sold": 3,
     "gross": 345,
     "price": 115,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 68976,
@@ -81,7 +81,7 @@
     "sold": 0,
     "gross": 0,
     "price": 115,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 68977,
@@ -95,7 +95,7 @@
     "sold": 0,
     "gross": 0,
     "price": 115,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 68978,
@@ -109,7 +109,7 @@
     "sold": 0,
     "gross": 0,
     "price": 115,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69671,
@@ -123,7 +123,7 @@
     "sold": 0,
     "gross": 0,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69702,
@@ -137,7 +137,7 @@
     "sold": 0,
     "gross": 0,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69672,
@@ -146,12 +146,12 @@
     "date": "2026-03-19",
     "time": "11:00",
     "total": 99,
-    "available": 99,
+    "available": 97,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 300,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69703,
@@ -165,7 +165,7 @@
     "sold": 0,
     "gross": 0,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69145,
@@ -179,7 +179,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69240,
@@ -193,7 +193,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69673,
@@ -207,7 +207,7 @@
     "sold": 0,
     "gross": 0,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   },
   {
     "perfIx": 69704,
@@ -221,6 +221,104 @@
     "sold": 0,
     "gross": 0,
     "price": 150,
-    "last_updated": "2026-03-14 12:36:19 AM IST"
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69887,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "02:45",
+    "total": 147,
+    "available": 147,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 80,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69888,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "05:30",
+    "total": 147,
+    "available": 147,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69897,
+    "movie": "Kill Bill: The Whole Bloody Affair",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "06:00",
+    "total": 144,
+    "available": 144,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 220,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69889,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "08:15",
+    "total": 147,
+    "available": 147,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69890,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "11:00",
+    "total": 147,
+    "available": 147,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69898,
+    "movie": "Kill Bill: The Whole Bloody Affair",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "11:00",
+    "total": 144,
+    "available": 144,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 220,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
+  },
+  {
+    "perfIx": 69891,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-19",
+    "time": "13:45",
+    "total": 147,
+    "available": 147,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-14 01:23:15 AM IST"
   }
 ]
