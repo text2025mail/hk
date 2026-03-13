@@ -16,14 +16,14 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 327,
-    "gross": 75210,
+    "sold": 326,
+    "gross": 74980,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 97,
-        "gross": 22310
+        "sold": 96,
+        "gross": 22080
       },
       "2026-04-13": {
         "shows": 1,
@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 286,
-    "gross": 27800,
+    "sold": 284,
+    "gross": 27610,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -98,8 +98,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 12,
+        "gross": 1140
       },
       "2026-04-11": {
         "shows": 1,
@@ -118,14 +118,14 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 5,
-    "gross": 475,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 0,
+        "gross": 0
       },
       "2026-04-15": {
         "shows": 1,
@@ -136,16 +136,16 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 2,
+        "gross": 190
       }
     }
   },
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 368,
-    "gross": 154560,
+    "sold": 367,
+    "gross": 154140,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -162,8 +162,8 @@
       "2026-04-03": {
         "shows": 1,
         "seats": 156,
-        "sold": 92,
-        "gross": 38640
+        "sold": 91,
+        "gross": 38220
       },
       "2026-04-19": {
         "shows": 1,
@@ -242,8 +242,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1752,
-    "gross": 630720,
+    "sold": 1750,
+    "gross": 630000,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -254,8 +254,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1369,
-        "gross": 492840
+        "sold": 1367,
+        "gross": 492120
       }
     }
   },
