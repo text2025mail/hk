@@ -48,8 +48,8 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 4,
-    "gross": 380,
+    "sold": 5,
+    "gross": 475,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -60,16 +60,16 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 271,
-    "gross": 26305,
+    "sold": 272,
+    "gross": 26400,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -92,8 +92,8 @@
       "2026-04-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 80,
-        "gross": 7600
+        "sold": 81,
+        "gross": 7695
       },
       "2026-04-06": {
         "shows": 1,
