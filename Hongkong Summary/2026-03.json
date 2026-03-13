@@ -2,14 +2,14 @@
   "Hoppers(Cantonese Version)": {
     "shows": 387,
     "seats": 76562,
-    "sold": 4439,
-    "gross": 391335,
+    "sold": 4441,
+    "gross": 391545,
     "dates": {
       "2026-03-14": {
         "shows": 85,
         "seats": 15954,
-        "sold": 1800,
-        "gross": 155345
+        "sold": 1802,
+        "gross": 155555
       },
       "2026-03-16": {
         "shows": 51,
@@ -102,14 +102,14 @@
   "Night King": {
     "shows": 745,
     "seats": 115509,
-    "sold": 4314,
-    "gross": 399900,
+    "sold": 4318,
+    "gross": 400300,
     "dates": {
       "2026-03-14": {
         "shows": 142,
         "seats": 21252,
-        "sold": 1573,
-        "gross": 144040
+        "sold": 1575,
+        "gross": 144240
       },
       "2026-03-16": {
         "shows": 107,
@@ -144,8 +144,8 @@
       "2026-03-15": {
         "shows": 142,
         "seats": 21098,
-        "sold": 398,
-        "gross": 32730
+        "sold": 400,
+        "gross": 32930
       }
     }
   },
