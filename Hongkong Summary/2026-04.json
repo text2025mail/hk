@@ -2,22 +2,22 @@
   "Love after Love(bcSunday)": {
     "shows": 1,
     "seats": 127,
-    "sold": 25,
-    "gross": 2375,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 127,
-        "sold": 25,
-        "gross": 2375
+        "sold": 27,
+        "gross": 2565
       }
     }
   },
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 323,
-    "gross": 74290,
+    "sold": 324,
+    "gross": 74520,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -40,8 +40,8 @@
       "2026-04-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 69,
-        "gross": 15870
+        "sold": 70,
+        "gross": 16100
       }
     }
   },
@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 274,
-    "gross": 26590,
+    "sold": 276,
+    "gross": 26780,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,14 +80,14 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 5,
+        "gross": 475
       },
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 70,
-        "gross": 6650
+        "sold": 71,
+        "gross": 6745
       },
       "2026-04-03": {
         "shows": 1,
@@ -115,11 +115,37 @@
       }
     }
   },
+  "As the Water Flows": {
+    "shows": 3,
+    "seats": 357,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-07": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-15": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 366,
-    "gross": 153720,
+    "sold": 367,
+    "gross": 154140,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -142,8 +168,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 77,
-        "gross": 32340
+        "sold": 78,
+        "gross": 32760
       }
     }
   },
@@ -202,14 +228,14 @@
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 1,
     "seats": 88,
-    "sold": 44,
-    "gross": 5720,
+    "sold": 46,
+    "gross": 5980,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 88,
-        "sold": 44,
-        "gross": 5720
+        "sold": 46,
+        "gross": 5980
       }
     }
   },
@@ -264,14 +290,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 10,
-    "gross": 1300,
+    "sold": 12,
+    "gross": 1560,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 10,
-        "gross": 1300
+        "sold": 12,
+        "gross": 1560
       }
     }
   },

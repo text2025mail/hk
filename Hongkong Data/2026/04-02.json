@@ -6,11 +6,25 @@
     "date": "2026-04-02",
     "time": "07:00",
     "total": 119,
-    "available": 49,
+    "available": 48,
     "blocked": 0,
-    "sold": 70,
-    "gross": 6650,
+    "sold": 71,
+    "gross": 6745,
     "price": 95,
-    "last_updated": "2026-03-13 11:37:40 AM IST"
+    "last_updated": "2026-03-13 12:56:53 PM IST"
+  },
+  {
+    "perfIx": 67798,
+    "movie": "As the Water Flows",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-02",
+    "time": "13:50",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-03-13 12:56:53 PM IST"
   }
 ]
