@@ -6222,12 +6222,12 @@
     "date": "2026-03-13",
     "time": "15:50",
     "total": 191,
-    "available": 191,
+    "available": 189,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 220,
     "price": 110,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66747,
@@ -6236,12 +6236,12 @@
     "date": "2026-03-13",
     "time": "15:55",
     "total": 191,
-    "available": 187,
+    "available": 177,
     "blocked": 0,
-    "sold": 4,
-    "gross": 440,
+    "sold": 14,
+    "gross": 1540,
     "price": 110,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66946,
@@ -6250,12 +6250,12 @@
     "date": "2026-03-13",
     "time": "16:00",
     "total": 260,
-    "available": 260,
+    "available": 254,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 6,
+    "gross": 630,
     "price": 105,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66733,
@@ -6264,12 +6264,12 @@
     "date": "2026-03-13",
     "time": "16:20",
     "total": 121,
-    "available": 121,
+    "available": 120,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 110,
     "price": 110,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66762,
@@ -6283,7 +6283,7 @@
     "sold": 2,
     "gross": 240,
     "price": 120,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66953,
@@ -6292,12 +6292,12 @@
     "date": "2026-03-13",
     "time": "16:30",
     "total": 260,
-    "available": 260,
+    "available": 258,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 210,
     "price": 105,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66754,
@@ -6306,12 +6306,12 @@
     "date": "2026-03-13",
     "time": "16:40",
     "total": 197,
-    "available": 192,
+    "available": 187,
     "blocked": 0,
-    "sold": 5,
-    "gross": 550,
+    "sold": 10,
+    "gross": 1100,
     "price": 110,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 66967,
@@ -6325,20 +6325,20 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "HAMNET",
+    "movie": "Night King",
     "venue": "Cinema.com.hk",
     "date": "2026-03-13",
-    "time": "11:05",
-    "total": 103,
-    "available": 83,
+    "time": "15:40",
+    "total": 202,
+    "available": 188,
     "blocked": 0,
-    "sold": 20,
-    "gross": 2000,
-    "price": 100,
-    "last_updated": "2026-03-13 08:09:19 PM IST"
+    "sold": 14,
+    "gross": 1540,
+    "price": 110,
+    "last_updated": "2026-03-13 09:06:39 PM IST"
   }
 ]
