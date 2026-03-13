@@ -11,7 +11,7 @@
     "sold": 38,
     "gross": 3610,
     "price": 95,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   },
   {
     "perfIx": 67891,
@@ -20,12 +20,12 @@
     "date": "2026-03-20",
     "time": "11:20",
     "total": 52,
-    "available": 38,
+    "available": 37,
     "blocked": 0,
-    "sold": 14,
-    "gross": 2380,
+    "sold": 15,
+    "gross": 2550,
     "price": 170,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   },
   {
     "perfIx": 67615,
@@ -34,12 +34,12 @@
     "date": "2026-03-20",
     "time": "11:30",
     "total": 320,
-    "available": 52,
+    "available": 51,
     "blocked": 0,
-    "sold": 268,
-    "gross": 67000,
+    "sold": 269,
+    "gross": 67250,
     "price": 250,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   },
   {
     "perfIx": 67870,
@@ -53,7 +53,7 @@
     "sold": 35,
     "gross": 4550,
     "price": 130,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   },
   {
     "perfIx": 67692,
@@ -62,12 +62,12 @@
     "date": "2026-03-20",
     "time": "13:50",
     "total": 260,
-    "available": 150,
+    "available": 143,
     "blocked": 0,
-    "sold": 110,
-    "gross": 27500,
+    "sold": 117,
+    "gross": 29250,
     "price": 250,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   },
   {
     "perfIx": 67729,
@@ -81,6 +81,76 @@
     "sold": 116,
     "gross": 19720,
     "price": 170,
-    "last_updated": "2026-03-13 05:21:26 PM IST"
+    "last_updated": "2026-03-13 06:11:26 PM IST"
+  },
+  {
+    "perfIx": 68979,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-20",
+    "time": "02:45",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 80,
+    "last_updated": "2026-03-13 06:11:26 PM IST"
+  },
+  {
+    "perfIx": 68980,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-20",
+    "time": "05:30",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 115,
+    "last_updated": "2026-03-13 06:11:26 PM IST"
+  },
+  {
+    "perfIx": 68981,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-20",
+    "time": "08:15",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 115,
+    "last_updated": "2026-03-13 06:11:26 PM IST"
+  },
+  {
+    "perfIx": 68982,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-20",
+    "time": "11:00",
+    "total": 119,
+    "available": 118,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 115,
+    "price": 115,
+    "last_updated": "2026-03-13 06:11:26 PM IST"
+  },
+  {
+    "perfIx": 68983,
+    "movie": "Marty Supreme",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-20",
+    "time": "13:45",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 115,
+    "last_updated": "2026-03-13 06:11:26 PM IST"
   }
 ]
