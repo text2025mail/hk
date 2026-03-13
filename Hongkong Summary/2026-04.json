@@ -225,6 +225,26 @@
       }
     }
   },
+  "Kill Bill: The Whole Bloody Affair": {
+    "shows": 2,
+    "seats": 211,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-05": {
+        "shows": 1,
+        "seats": 113,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-12": {
+        "shows": 1,
+        "seats": 98,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 1,
     "seats": 88,
@@ -256,20 +276,6 @@
         "seats": 1997,
         "sold": 1369,
         "gross": 492840
-      }
-    }
-  },
-  "Kill Bill: The Whole Bloody Affair": {
-    "shows": 1,
-    "seats": 98,
-    "sold": 0,
-    "gross": 0,
-    "dates": {
-      "2026-04-12": {
-        "shows": 1,
-        "seats": 98,
-        "sold": 0,
-        "gross": 0
       }
     }
   },
