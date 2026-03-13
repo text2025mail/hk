@@ -2,14 +2,14 @@
   "Hoppers(Cantonese Version)": {
     "shows": 387,
     "seats": 76562,
-    "sold": 4441,
-    "gross": 391545,
+    "sold": 4443,
+    "gross": 391745,
     "dates": {
       "2026-03-14": {
         "shows": 85,
         "seats": 15954,
-        "sold": 1802,
-        "gross": 155555
+        "sold": 1804,
+        "gross": 155755
       },
       "2026-03-16": {
         "shows": 51,
@@ -102,14 +102,14 @@
   "Night King": {
     "shows": 745,
     "seats": 115509,
-    "sold": 4318,
-    "gross": 400300,
+    "sold": 4320,
+    "gross": 400420,
     "dates": {
       "2026-03-14": {
         "shows": 142,
         "seats": 21252,
-        "sold": 1575,
-        "gross": 144240
+        "sold": 1577,
+        "gross": 144360
       },
       "2026-03-16": {
         "shows": 107,
@@ -152,14 +152,14 @@
   "GAMER GIRLS": {
     "shows": 53,
     "seats": 4598,
-    "sold": 49,
-    "gross": 4365,
+    "sold": 50,
+    "gross": 4460,
     "dates": {
       "2026-03-14": {
         "shows": 8,
         "seats": 659,
-        "sold": 9,
-        "gross": 715
+        "sold": 10,
+        "gross": 810
       },
       "2026-03-16": {
         "shows": 8,
@@ -378,14 +378,14 @@
   "Blades Of The Guardians": {
     "shows": 36,
     "seats": 4275,
-    "sold": 125,
-    "gross": 8990,
+    "sold": 127,
+    "gross": 9110,
     "dates": {
       "2026-03-14": {
         "shows": 5,
         "seats": 732,
-        "sold": 48,
-        "gross": 3330
+        "sold": 50,
+        "gross": 3450
       },
       "2026-03-16": {
         "shows": 5,
@@ -466,8 +466,8 @@
   "IMAX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 42,
     "seats": 15316,
-    "sold": 797,
-    "gross": 118750,
+    "sold": 798,
+    "gross": 118910,
     "dates": {
       "2026-03-14": {
         "shows": 10,
@@ -502,8 +502,8 @@
       "2026-03-15": {
         "shows": 11,
         "seats": 3673,
-        "sold": 158,
-        "gross": 22730
+        "sold": 159,
+        "gross": 22890
       }
     }
   },
