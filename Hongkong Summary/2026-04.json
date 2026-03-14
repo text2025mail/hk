@@ -48,14 +48,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 4,
+        "gross": 380
       },
       "2026-04-26": {
         "shows": 1,
@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 305,
-    "gross": 29745,
+    "sold": 307,
+    "gross": 29970,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       },
       "2026-04-02": {
         "shows": 1,
@@ -104,8 +104,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 22,
-        "gross": 2860
+        "sold": 23,
+        "gross": 2990
       },
       "2026-04-04": {
         "shows": 1,
@@ -118,8 +118,8 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -136,8 +136,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 5,
+        "gross": 475
       }
     }
   },
@@ -196,14 +196,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 183,
-    "gross": 40260,
+    "sold": 187,
+    "gross": 41140,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 81,
-        "sold": 20,
-        "gross": 4400
+        "sold": 24,
+        "gross": 5280
       },
       "2026-04-12": {
         "shows": 1,
