@@ -4262,12 +4262,12 @@
     "date": "2026-03-14",
     "time": "16:00",
     "total": 202,
-    "available": 197,
+    "available": 195,
     "blocked": 0,
-    "sold": 5,
-    "gross": 600,
+    "sold": 7,
+    "gross": 840,
     "price": 120,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 67777,
@@ -4276,12 +4276,12 @@
     "date": "2026-03-14",
     "time": "16:10",
     "total": 121,
-    "available": 113,
+    "available": 110,
     "blocked": 0,
-    "sold": 8,
-    "gross": 1360,
+    "sold": 11,
+    "gross": 1870,
     "price": 170,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68244,
@@ -5536,12 +5536,12 @@
     "date": "2026-03-14",
     "time": "15:30",
     "total": 191,
-    "available": 189,
+    "available": 153,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 38,
+    "gross": 4180,
     "price": 110,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68309,
@@ -5550,12 +5550,12 @@
     "date": "2026-03-14",
     "time": "15:45",
     "total": 202,
-    "available": 196,
+    "available": 167,
     "blocked": 0,
-    "sold": 6,
-    "gross": 660,
+    "sold": 35,
+    "gross": 3850,
     "price": 110,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68312,
@@ -5569,7 +5569,7 @@
     "sold": 1,
     "gross": 110,
     "price": 110,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68321,
@@ -5583,7 +5583,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68480,
@@ -6740,12 +6740,12 @@
     "date": "2026-03-14",
     "time": "16:00",
     "total": 260,
-    "available": 260,
+    "available": 257,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 315,
     "price": 105,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68390,
@@ -6754,12 +6754,12 @@
     "date": "2026-03-14",
     "time": "16:30",
     "total": 260,
-    "available": 259,
+    "available": 255,
     "blocked": 0,
-    "sold": 1,
-    "gross": 105,
+    "sold": 5,
+    "gross": 525,
     "price": 105,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 68404,
@@ -6773,20 +6773,20 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "Hoppers(Cantonese Version)",
+    "movie": "Night King",
     "venue": "Cinema.com.hk",
     "date": "2026-03-14",
-    "time": "12:50",
-    "total": 70,
-    "available": 21,
+    "time": "15:25",
+    "total": 57,
+    "available": 39,
     "blocked": 0,
-    "sold": 49,
-    "gross": 4655,
+    "sold": 18,
+    "gross": 1710,
     "price": 95,
-    "last_updated": "2026-03-14 09:18:58 PM IST"
+    "last_updated": "2026-03-14 09:52:42 PM IST"
   }
 ]
