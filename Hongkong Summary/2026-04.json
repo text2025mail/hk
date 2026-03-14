@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 290,
-    "gross": 28250,
+    "sold": 293,
+    "gross": 28535,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -110,22 +110,22 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 6,
-    "gross": 570,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-04-15": {
         "shows": 1,
@@ -228,8 +228,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 2,
     "seats": 211,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 440,
     "dates": {
       "2026-04-05": {
         "shows": 1,
@@ -240,8 +240,8 @@
       "2026-04-12": {
         "shows": 1,
         "seats": 98,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 440
       }
     }
   },
