@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 331,
-    "gross": 76130,
+    "sold": 330,
+    "gross": 75900,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -40,8 +40,8 @@
       "2026-04-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 16790
+        "sold": 72,
+        "gross": 16560
       }
     }
   },
@@ -118,14 +118,14 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 7,
+        "gross": 665
       },
       "2026-04-15": {
         "shows": 1,
@@ -144,8 +144,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 372,
-    "gross": 156240,
+    "sold": 371,
+    "gross": 155820,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -156,8 +156,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 191,
-        "sold": 134,
-        "gross": 56280
+        "sold": 133,
+        "gross": 55860
       },
       "2026-04-03": {
         "shows": 1,
@@ -248,14 +248,14 @@
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 1,
     "seats": 88,
-    "sold": 47,
-    "gross": 6110,
+    "sold": 46,
+    "gross": 5980,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 88,
-        "sold": 47,
-        "gross": 6110
+        "sold": 46,
+        "gross": 5980
       }
     }
   },
@@ -324,14 +324,14 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 1,
     "seats": 81,
-    "sold": 23,
-    "gross": 3220,
+    "sold": 22,
+    "gross": 3080,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 23,
-        "gross": 3220
+        "sold": 22,
+        "gross": 3080
       }
     }
   },
