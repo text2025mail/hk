@@ -4276,12 +4276,12 @@
     "date": "2026-03-14",
     "time": "16:10",
     "total": 121,
-    "available": 113,
+    "available": 102,
     "blocked": 0,
-    "sold": 8,
-    "gross": 1360,
+    "sold": 19,
+    "gross": 3230,
     "price": 170,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 68244,
@@ -5569,7 +5569,7 @@
     "sold": 1,
     "gross": 110,
     "price": 110,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 68321,
@@ -5583,7 +5583,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 68480,
@@ -6740,12 +6740,12 @@
     "date": "2026-03-14",
     "time": "16:00",
     "total": 260,
-    "available": 260,
+    "available": 255,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 525,
     "price": 105,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 68390,
@@ -6754,12 +6754,12 @@
     "date": "2026-03-14",
     "time": "16:30",
     "total": 260,
-    "available": 259,
+    "available": 253,
     "blocked": 0,
-    "sold": 1,
-    "gross": 105,
+    "sold": 7,
+    "gross": 735,
     "price": 105,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 68404,
@@ -6768,25 +6768,25 @@
     "date": "2026-03-14",
     "time": "16:55",
     "total": 70,
-    "available": 70,
+    "available": 67,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 285,
     "price": 95,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   },
   {
     "perfIx": 6,
-    "movie": "Hoppers(Cantonese Version)",
+    "movie": "Night King",
     "venue": "Cinema.com.hk",
     "date": "2026-03-14",
-    "time": "14:30",
-    "total": 215,
-    "available": 186,
+    "time": "16:00",
+    "total": 202,
+    "available": 192,
     "blocked": 0,
-    "sold": 29,
-    "gross": 2320,
-    "price": 80,
-    "last_updated": "2026-03-14 11:58:41 PM IST"
+    "sold": 10,
+    "gross": 1200,
+    "price": 120,
+    "last_updated": "2026-03-15 01:16:43 AM IST"
   }
 ]
