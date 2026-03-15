@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 420,
     "seats": 82551,
-    "sold": 6966,
-    "gross": 622290,
+    "sold": 6960,
+    "gross": 621750,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -44,8 +44,8 @@
       "2026-03-15": {
         "shows": 85,
         "seats": 16050,
-        "sold": 3099,
-        "gross": 265485
+        "sold": 3093,
+        "gross": 264945
       }
     }
   },
@@ -246,8 +246,8 @@
   "Rental Family": {
     "shows": 83,
     "seats": 8977,
-    "sold": 879,
-    "gross": 80080,
+    "sold": 877,
+    "gross": 79880,
     "dates": {
       "2026-03-14": {
         "shows": 14,
@@ -276,8 +276,8 @@
       "2026-03-18": {
         "shows": 12,
         "seats": 1273,
-        "sold": 6,
-        "gross": 610
+        "sold": 4,
+        "gross": 410
       },
       "2026-03-15": {
         "shows": 12,
@@ -672,8 +672,8 @@
   "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 65,
     "seats": 6353,
-    "sold": 277,
-    "gross": 25445,
+    "sold": 276,
+    "gross": 25345,
     "dates": {
       "2026-03-14": {
         "shows": 10,
@@ -714,8 +714,8 @@
       "2026-03-15": {
         "shows": 10,
         "seats": 902,
-        "sold": 71,
-        "gross": 6200
+        "sold": 70,
+        "gross": 6100
       }
     }
   },
@@ -1400,8 +1400,8 @@
   "SCREAM 7": {
     "shows": 35,
     "seats": 5413,
-    "sold": 115,
-    "gross": 12195,
+    "sold": 112,
+    "gross": 11865,
     "dates": {
       "2026-03-14": {
         "shows": 4,
@@ -1442,8 +1442,8 @@
       "2026-03-15": {
         "shows": 4,
         "seats": 572,
-        "sold": 39,
-        "gross": 4130
+        "sold": 36,
+        "gross": 3800
       }
     }
   },
