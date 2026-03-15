@@ -144,14 +144,14 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 375,
-    "gross": 157500,
+    "sold": 377,
+    "gross": 158340,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 261,
-        "sold": 68,
-        "gross": 28560
+        "sold": 70,
+        "gross": 29400
       },
       "2026-04-05": {
         "shows": 1,
@@ -310,14 +310,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 12,
-    "gross": 1560,
+    "sold": 13,
+    "gross": 1690,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 12,
-        "gross": 1560
+        "sold": 13,
+        "gross": 1690
       }
     }
   },
