@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 339,
-    "gross": 77970,
+    "sold": 340,
+    "gross": 78200,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -28,8 +28,8 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 80,
-        "gross": 18400
+        "sold": 81,
+        "gross": 18630
       },
       "2026-04-05": {
         "shows": 1,
@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 336,
-    "gross": 32970,
+    "sold": 340,
+    "gross": 33350,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 14,
+        "gross": 1330
       },
       "2026-04-02": {
         "shows": 1,
@@ -98,8 +98,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 27,
-        "gross": 2565
+        "sold": 28,
+        "gross": 2660
       },
       "2026-04-11": {
         "shows": 1,
@@ -110,8 +110,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 3040
+        "sold": 34,
+        "gross": 3230
       }
     }
   },
