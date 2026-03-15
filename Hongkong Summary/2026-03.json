@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 420,
     "seats": 82551,
-    "sold": 6809,
-    "gross": 602995,
+    "sold": 6829,
+    "gross": 604945,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -44,8 +44,8 @@
       "2026-03-15": {
         "shows": 85,
         "seats": 16050,
-        "sold": 3111,
-        "gross": 260485
+        "sold": 3131,
+        "gross": 262435
       }
     }
   },
@@ -100,10 +100,10 @@
     }
   },
   "Night King": {
-    "shows": 804,
-    "seats": 124201,
-    "sold": 6332,
-    "gross": 580200,
+    "shows": 805,
+    "seats": 124320,
+    "sold": 6411,
+    "gross": 588135,
     "dates": {
       "2026-03-14": {
         "shows": 143,
@@ -142,10 +142,10 @@
         "gross": 820
       },
       "2026-03-15": {
-        "shows": 142,
-        "seats": 21098,
-        "sold": 2111,
-        "gross": 177120
+        "shows": 143,
+        "seats": 21217,
+        "sold": 2190,
+        "gross": 185055
       }
     }
   },
@@ -202,8 +202,8 @@
   "Tokyo Taxi": {
     "shows": 75,
     "seats": 8669,
-    "sold": 390,
-    "gross": 29830,
+    "sold": 394,
+    "gross": 30200,
     "dates": {
       "2026-03-14": {
         "shows": 12,
@@ -214,8 +214,8 @@
       "2026-03-16": {
         "shows": 15,
         "seats": 1720,
-        "sold": 15,
-        "gross": 1345
+        "sold": 16,
+        "gross": 1405
       },
       "2026-03-17": {
         "shows": 14,
@@ -238,8 +238,8 @@
       "2026-03-15": {
         "shows": 13,
         "seats": 1569,
-        "sold": 183,
-        "gross": 13570
+        "sold": 186,
+        "gross": 13880
       }
     }
   },
@@ -332,10 +332,10 @@
     }
   },
   "Hoppers(English Version)": {
-    "shows": 339,
-    "seats": 50207,
-    "sold": 4373,
-    "gross": 447350,
+    "shows": 338,
+    "seats": 50022,
+    "sold": 4332,
+    "gross": 441920,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -368,10 +368,10 @@
         "gross": 1030
       },
       "2026-03-15": {
-        "shows": 68,
-        "seats": 10001,
-        "sold": 2058,
-        "gross": 202540
+        "shows": 67,
+        "seats": 9816,
+        "sold": 2017,
+        "gross": 197110
       }
     }
   },
@@ -422,8 +422,8 @@
   "HAMNET": {
     "shows": 148,
     "seats": 17249,
-    "sold": 1211,
-    "gross": 115460,
+    "sold": 1213,
+    "gross": 115680,
     "dates": {
       "2026-03-14": {
         "shows": 22,
@@ -458,16 +458,16 @@
       "2026-03-15": {
         "shows": 22,
         "seats": 2421,
-        "sold": 381,
-        "gross": 35600
+        "sold": 383,
+        "gross": 35820
       }
     }
   },
   "IMAX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 56,
     "seats": 19068,
-    "sold": 1000,
-    "gross": 148850,
+    "sold": 1001,
+    "gross": 149010,
     "dates": {
       "2026-03-14": {
         "shows": 10,
@@ -502,8 +502,8 @@
       "2026-03-15": {
         "shows": 11,
         "seats": 3673,
-        "sold": 333,
-        "gross": 47880
+        "sold": 334,
+        "gross": 48040
       }
     }
   },
@@ -766,8 +766,8 @@
   "CGS Hoppers(English Version)": {
     "shows": 29,
     "seats": 8867,
-    "sold": 233,
-    "gross": 20580,
+    "sold": 235,
+    "gross": 20800,
     "dates": {
       "2026-03-14": {
         "shows": 5,
@@ -802,8 +802,8 @@
       "2026-03-15": {
         "shows": 5,
         "seats": 1541,
-        "sold": 123,
-        "gross": 9830
+        "sold": 125,
+        "gross": 10050
       }
     }
   },
@@ -968,8 +968,8 @@
   "Marty Supreme": {
     "shows": 46,
     "seats": 5823,
-    "sold": 394,
-    "gross": 50095,
+    "sold": 395,
+    "gross": 50210,
     "dates": {
       "2026-03-14": {
         "shows": 3,
@@ -980,8 +980,8 @@
       "2026-03-22": {
         "shows": 5,
         "seats": 595,
-        "sold": 6,
-        "gross": 655
+        "sold": 7,
+        "gross": 770
       },
       "2026-03-15": {
         "shows": 2,
@@ -1450,8 +1450,8 @@
   "Wuthering Heights": {
     "shows": 26,
     "seats": 2202,
-    "sold": 175,
-    "gross": 22210,
+    "sold": 177,
+    "gross": 22470,
     "dates": {
       "2026-03-14": {
         "shows": 4,
@@ -1486,8 +1486,8 @@
       "2026-03-15": {
         "shows": 7,
         "seats": 625,
-        "sold": 88,
-        "gross": 11060
+        "sold": 90,
+        "gross": 11320
       }
     }
   },
