@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 343,
-    "gross": 78890,
+    "sold": 344,
+    "gross": 79120,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -28,8 +28,8 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 19090
+        "sold": 84,
+        "gross": 19320
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,26 +88,26 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 357,
-    "gross": 35000,
+    "sold": 363,
+    "gross": 35640,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 80,
-        "gross": 7600
+        "sold": 81,
+        "gross": 7695
       },
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       },
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 71,
-        "gross": 6745
+        "sold": 72,
+        "gross": 6840
       },
       "2026-04-03": {
         "shows": 1,
@@ -124,14 +124,14 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 31,
-        "gross": 4030
+        "sold": 33,
+        "gross": 4290
       },
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 41,
-        "gross": 3895
+        "sold": 42,
+        "gross": 3990
       }
     }
   },
@@ -216,8 +216,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 199,
-    "gross": 43780,
+    "sold": 201,
+    "gross": 44220,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -234,8 +234,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 101,
-        "gross": 22220
+        "sold": 103,
+        "gross": 22660
       },
       "2026-04-11": {
         "shows": 1,
@@ -330,14 +330,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 797,
-    "gross": 286920,
+    "sold": 798,
+    "gross": 287280,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 797,
-        "gross": 286920
+        "sold": 798,
+        "gross": 287280
       }
     }
   },
