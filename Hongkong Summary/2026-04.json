@@ -45,11 +45,31 @@
       }
     }
   },
+  "The Worst Person In The World": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-05": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -60,16 +80,16 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 10,
+        "gross": 950
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 347,
-    "gross": 34050,
+    "sold": 350,
+    "gross": 34335,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -92,8 +112,8 @@
       "2026-04-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 7790
+        "sold": 84,
+        "gross": 7980
       },
       "2026-04-06": {
         "shows": 1,
@@ -110,8 +130,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 3420
+        "sold": 37,
+        "gross": 3515
       }
     }
   },
@@ -245,6 +265,20 @@
       }
     }
   },
+  "Life is Climbing(bcDocs)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 1,
     "seats": 88,
@@ -262,8 +296,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1786,
-    "gross": 642960,
+    "sold": 1788,
+    "gross": 643680,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -274,36 +308,50 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1391,
-        "gross": 500760
+        "sold": 1393,
+        "gross": 501480
+      }
+    }
+  },
+  "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-06": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 789,
-    "gross": 284040,
+    "sold": 790,
+    "gross": 284400,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 789,
-        "gross": 284040
+        "sold": 790,
+        "gross": 284400
       }
     }
   },
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 54,
-    "gross": 5130,
+    "sold": 55,
+    "gross": 5225,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 119,
-        "sold": 54,
-        "gross": 5130
+        "sold": 55,
+        "gross": 5225
       }
     }
   },
