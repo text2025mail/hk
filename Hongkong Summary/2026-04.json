@@ -68,8 +68,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 343,
-    "gross": 33670,
+    "sold": 347,
+    "gross": 34050,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 16,
+        "gross": 1520
       },
       "2026-04-02": {
         "shows": 1,
@@ -110,8 +110,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 3230
+        "sold": 36,
+        "gross": 3420
       }
     }
   },
