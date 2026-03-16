@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 502,
     "seats": 95935,
-    "sold": 7743,
-    "gross": 692475,
+    "sold": 7745,
+    "gross": 692595,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -20,8 +20,8 @@
       "2026-03-17": {
         "shows": 63,
         "seats": 12490,
-        "sold": 381,
-        "gross": 29945
+        "sold": 383,
+        "gross": 30065
       },
       "2026-03-12": {
         "shows": 2,
@@ -126,8 +126,8 @@
   "Night King": {
     "shows": 948,
     "seats": 144883,
-    "sold": 7742,
-    "gross": 709535,
+    "sold": 7744,
+    "gross": 709755,
     "dates": {
       "2026-03-14": {
         "shows": 143,
@@ -144,8 +144,8 @@
       "2026-03-17": {
         "shows": 127,
         "seats": 19650,
-        "sold": 374,
-        "gross": 27775
+        "sold": 376,
+        "gross": 27995
       },
       "2026-03-12": {
         "shows": 8,
@@ -418,8 +418,8 @@
   "Hoppers(English Version)": {
     "shows": 378,
     "seats": 55251,
-    "sold": 4535,
-    "gross": 460010,
+    "sold": 4537,
+    "gross": 460230,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -448,8 +448,8 @@
       "2026-03-18": {
         "shows": 48,
         "seats": 7321,
-        "sold": 79,
-        "gross": 8145
+        "sold": 81,
+        "gross": 8365
       },
       "2026-03-15": {
         "shows": 67,
@@ -530,8 +530,8 @@
   "HAMNET": {
     "shows": 177,
     "seats": 20229,
-    "sold": 1562,
-    "gross": 148495,
+    "sold": 1564,
+    "gross": 148715,
     "dates": {
       "2026-03-14": {
         "shows": 22,
@@ -560,8 +560,8 @@
       "2026-03-18": {
         "shows": 28,
         "seats": 3246,
-        "sold": 47,
-        "gross": 4140
+        "sold": 49,
+        "gross": 4360
       },
       "2026-03-15": {
         "shows": 22,
@@ -586,8 +586,8 @@
   "IMAX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 56,
     "seats": 19068,
-    "sold": 1137,
-    "gross": 169710,
+    "sold": 1140,
+    "gross": 170190,
     "dates": {
       "2026-03-14": {
         "shows": 10,
@@ -616,8 +616,8 @@
       "2026-03-18": {
         "shows": 10,
         "seats": 3405,
-        "sold": 25,
-        "gross": 3760
+        "sold": 28,
+        "gross": 4240
       },
       "2026-03-15": {
         "shows": 11,
@@ -1428,8 +1428,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 44,
     "seats": 3875,
-    "sold": 711,
-    "gross": 118090,
+    "sold": 717,
+    "gross": 119110,
     "dates": {
       "2026-03-14": {
         "shows": 5,
@@ -1476,8 +1476,8 @@
       "2026-03-19": {
         "shows": 4,
         "seats": 346,
-        "sold": 4,
-        "gross": 640
+        "sold": 10,
+        "gross": 1660
       }
     }
   },
@@ -3028,8 +3028,8 @@
   "Project Hail Mary": {
     "shows": 86,
     "seats": 17828,
-    "sold": 13,
-    "gross": 1630,
+    "sold": 14,
+    "gross": 1710,
     "dates": {
       "2026-03-20": {
         "shows": 43,
@@ -3040,8 +3040,8 @@
       "2026-03-19": {
         "shows": 43,
         "seats": 8990,
-        "sold": 9,
-        "gross": 1150
+        "sold": 10,
+        "gross": 1230
       }
     }
   },
