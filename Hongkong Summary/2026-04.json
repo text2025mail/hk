@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 361,
-    "gross": 35450,
+    "sold": 357,
+    "gross": 35000,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -100,14 +100,14 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 17,
+        "gross": 1615
       },
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 72,
-        "gross": 6840
+        "sold": 71,
+        "gross": 6745
       },
       "2026-04-03": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 33,
-        "gross": 4290
+        "sold": 31,
+        "gross": 4030
       },
       "2026-04-04": {
         "shows": 1,
@@ -216,8 +216,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 201,
-    "gross": 44220,
+    "sold": 199,
+    "gross": 43780,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -234,8 +234,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 103,
-        "gross": 22660
+        "sold": 101,
+        "gross": 22220
       },
       "2026-04-11": {
         "shows": 1,
@@ -330,14 +330,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 798,
-    "gross": 287280,
+    "sold": 797,
+    "gross": 286920,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 798,
-        "gross": 287280
+        "sold": 797,
+        "gross": 286920
       }
     }
   },

@@ -720,12 +720,12 @@
     "date": "2026-03-16",
     "time": "14:20",
     "total": 108,
-    "available": 106,
+    "available": 104,
     "blocked": 0,
-    "sold": 2,
-    "gross": 200,
+    "sold": 4,
+    "gross": 400,
     "price": 100,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69153,
@@ -1159,7 +1159,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68747,
@@ -3945,7 +3945,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68773,
@@ -3954,12 +3954,12 @@
     "date": "2026-03-16",
     "time": "14:30",
     "total": 197,
-    "available": 193,
+    "available": 190,
     "blocked": 0,
-    "sold": 4,
-    "gross": 440,
+    "sold": 7,
+    "gross": 770,
     "price": 110,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69247,
@@ -3968,12 +3968,12 @@
     "date": "2026-03-16",
     "time": "14:30",
     "total": 116,
-    "available": 116,
+    "available": 114,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 200,
     "price": 100,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68887,
@@ -3987,7 +3987,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68899,
@@ -3996,12 +3996,12 @@
     "date": "2026-03-16",
     "time": "14:50",
     "total": 70,
-    "available": 68,
+    "available": 66,
     "blocked": 0,
-    "sold": 2,
-    "gross": 190,
+    "sold": 4,
+    "gross": 380,
     "price": 95,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68890,
@@ -4015,7 +4015,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68757,
@@ -4024,12 +4024,12 @@
     "date": "2026-03-16",
     "time": "15:35",
     "total": 202,
-    "available": 198,
+    "available": 202,
     "blocked": 0,
-    "sold": 4,
-    "gross": 440,
+    "sold": 0,
+    "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68788,
@@ -4038,12 +4038,12 @@
     "date": "2026-03-16",
     "time": "15:40",
     "total": 191,
-    "available": 181,
+    "available": 187,
     "blocked": 0,
-    "sold": 10,
-    "gross": 1100,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68753,
@@ -4057,7 +4057,7 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68877,
@@ -4071,7 +4071,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68781,
@@ -4085,7 +4085,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68767,
@@ -4099,7 +4099,7 @@
     "sold": 2,
     "gross": 220,
     "price": 110,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69629,
@@ -4113,7 +4113,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 68774,
@@ -4127,7 +4127,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69630,
@@ -4141,7 +4141,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69555,
@@ -4682,12 +4682,12 @@
     "date": "2026-03-16",
     "time": "14:20",
     "total": 156,
-    "available": 154,
+    "available": 151,
     "blocked": 0,
-    "sold": 2,
-    "gross": 200,
+    "sold": 5,
+    "gross": 500,
     "price": 100,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69760,
@@ -5522,12 +5522,12 @@
     "date": "2026-03-16",
     "time": "14:20",
     "total": 74,
-    "available": 74,
+    "available": 65,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 9,
+    "gross": 990,
     "price": 110,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69018,
@@ -6320,12 +6320,12 @@
     "date": "2026-03-16",
     "time": "14:20",
     "total": 113,
-    "available": 111,
+    "available": 110,
     "blocked": 0,
-    "sold": 2,
-    "gross": 160,
+    "sold": 3,
+    "gross": 240,
     "price": 80,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69932,
@@ -6334,26 +6334,26 @@
     "date": "2026-03-16",
     "time": "14:30",
     "total": 180,
-    "available": 177,
+    "available": 175,
     "blocked": 0,
-    "sold": 3,
-    "gross": 240,
+    "sold": 5,
+    "gross": 400,
     "price": 80,
-    "last_updated": "2026-03-16 07:49:00 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "Night King",
+    "movie": "Hoppers(Cantonese Version)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-16",
-    "time": "15:30",
-    "total": 57,
-    "available": 56,
+    "time": "14:15",
+    "total": 129,
+    "available": 127,
     "blocked": 0,
-    "sold": 1,
-    "gross": 95,
+    "sold": 2,
+    "gross": 190,
     "price": 95,
-    "last_updated": "2026-03-16 09:07:36 PM IST"
+    "last_updated": "2026-03-16 10:26:03 PM IST"
   },
   {
     "perfIx": 69985,
