@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 2,
-    "gross": 190,
+    "sold": 0,
+    "gross": 0,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,8 +60,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 365,
-    "gross": 35830,
+    "sold": 363,
+    "gross": 35640,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -130,8 +130,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 44,
-        "gross": 4180
+        "sold": 42,
+        "gross": 3990
       }
     }
   },
@@ -164,8 +164,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 384,
-    "gross": 161280,
+    "sold": 382,
+    "gross": 160440,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -182,8 +182,8 @@
       "2026-04-03": {
         "shows": 1,
         "seats": 156,
-        "sold": 98,
-        "gross": 41160
+        "sold": 96,
+        "gross": 40320
       },
       "2026-04-19": {
         "shows": 1,
