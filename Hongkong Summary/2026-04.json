@@ -265,6 +265,20 @@
       }
     }
   },
+  "Two to One(GFF 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-29": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Life is Climbing(bcDocs)": {
     "shows": 1,
     "seats": 119,
@@ -296,14 +310,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1794,
-    "gross": 645840,
+    "sold": 1795,
+    "gross": 646200,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 398,
-        "gross": 143280
+        "sold": 399,
+        "gross": 143640
       },
       "2026-04-11": {
         "shows": 10,
@@ -316,28 +330,28 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 95,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 799,
-    "gross": 287640,
+    "sold": 801,
+    "gross": 288360,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 799,
-        "gross": 287640
+        "sold": 801,
+        "gross": 288360
       }
     }
   },
