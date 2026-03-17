@@ -16,14 +16,14 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 347,
-    "gross": 79810,
+    "sold": 345,
+    "gross": 79350,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 101,
-        "gross": 23230
+        "sold": 99,
+        "gross": 22770
       },
       "2026-04-13": {
         "shows": 1,
@@ -68,14 +68,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 6,
+        "gross": 570
       },
       "2026-04-26": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 370,
-    "gross": 36340,
+    "sold": 368,
+    "gross": 36150,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -130,22 +130,22 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 46,
-        "gross": 4370
+        "sold": 44,
+        "gross": 4180
       }
     }
   },
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 12,
+        "gross": 1140
       },
       "2026-04-15": {
         "shows": 1,
@@ -156,8 +156,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 5,
+        "gross": 475
       }
     }
   },
@@ -216,8 +216,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 205,
-    "gross": 45100,
+    "sold": 203,
+    "gross": 44660,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -234,8 +234,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 105,
-        "gross": 23100
+        "sold": 103,
+        "gross": 22660
       },
       "2026-04-11": {
         "shows": 1,
@@ -296,14 +296,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1794,
-    "gross": 645840,
+    "sold": 1793,
+    "gross": 645480,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 398,
-        "gross": 143280
+        "sold": 397,
+        "gross": 142920
       },
       "2026-04-11": {
         "shows": 10,
@@ -330,14 +330,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 799,
-    "gross": 287640,
+    "sold": 798,
+    "gross": 287280,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 799,
-        "gross": 287640
+        "sold": 798,
+        "gross": 287280
       }
     }
   },
