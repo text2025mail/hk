@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 512,
     "seats": 97465,
-    "sold": 8272,
-    "gross": 738605,
+    "sold": 8274,
+    "gross": 738815,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -50,8 +50,8 @@
       "2026-03-20": {
         "shows": 46,
         "seats": 7416,
-        "sold": 69,
-        "gross": 6695
+        "sold": 71,
+        "gross": 6905
       },
       "2026-03-19": {
         "shows": 45,
@@ -126,8 +126,8 @@
   "Night King": {
     "shows": 961,
     "seats": 146558,
-    "sold": 8502,
-    "gross": 774480,
+    "sold": 8504,
+    "gross": 774600,
     "dates": {
       "2026-03-14": {
         "shows": 143,
@@ -162,8 +162,8 @@
       "2026-03-18": {
         "shows": 125,
         "seats": 19732,
-        "sold": 349,
-        "gross": 27540
+        "sold": 351,
+        "gross": 27660
       },
       "2026-03-15": {
         "shows": 143,
@@ -1440,8 +1440,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 44,
     "seats": 3875,
-    "sold": 794,
-    "gross": 131540,
+    "sold": 795,
+    "gross": 131710,
     "dates": {
       "2026-03-14": {
         "shows": 5,
@@ -1482,8 +1482,8 @@
       "2026-03-20": {
         "shows": 4,
         "seats": 346,
-        "sold": 3,
-        "gross": 450
+        "sold": 4,
+        "gross": 620
       },
       "2026-03-19": {
         "shows": 4,
@@ -1996,14 +1996,14 @@
   "THE PHANTOM OF THE OPERA LIVE": {
     "shows": 2,
     "seats": 162,
-    "sold": 101,
-    "gross": 14540,
+    "sold": 102,
+    "gross": 14700,
     "dates": {
       "2026-03-28": {
         "shows": 1,
         "seats": 88,
-        "sold": 47,
-        "gross": 7520
+        "sold": 48,
+        "gross": 7680
       },
       "2026-03-29": {
         "shows": 1,
@@ -2436,8 +2436,8 @@
   "The Worst Person In The World": {
     "shows": 5,
     "seats": 595,
-    "sold": 215,
-    "gross": 18825,
+    "sold": 217,
+    "gross": 18975,
     "dates": {
       "2026-03-17": {
         "shows": 1,
@@ -2466,8 +2466,8 @@
       "2026-03-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 2400
+        "sold": 34,
+        "gross": 2550
       }
     }
   },
