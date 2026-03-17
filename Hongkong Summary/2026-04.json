@@ -16,14 +16,14 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 347,
-    "gross": 79810,
+    "sold": 348,
+    "gross": 80040,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 101,
-        "gross": 23230
+        "sold": 102,
+        "gross": 23460
       },
       "2026-04-13": {
         "shows": 1,
@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 4,
-    "gross": 380,
+    "sold": 5,
+    "gross": 475,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,16 +60,16 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       }
     }
   },
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,16 +80,16 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 12,
+        "gross": 1140
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 373,
-    "gross": 36625,
+    "sold": 379,
+    "gross": 37195,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -118,8 +118,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 3420
+        "sold": 38,
+        "gross": 3610
       },
       "2026-04-11": {
         "shows": 1,
@@ -130,16 +130,16 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 46,
-        "gross": 4370
+        "sold": 50,
+        "gross": 4750
       }
     }
   },
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 21,
+    "gross": 1995,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -156,22 +156,22 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       }
     }
   },
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 384,
-    "gross": 161280,
+    "sold": 387,
+    "gross": 162540,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 261,
-        "sold": 71,
-        "gross": 29820
+        "sold": 72,
+        "gross": 30240
       },
       "2026-04-05": {
         "shows": 1,
@@ -188,8 +188,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 81,
-        "gross": 34020
+        "sold": 83,
+        "gross": 34860
       }
     }
   },
@@ -216,14 +216,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 205,
-    "gross": 45100,
+    "sold": 208,
+    "gross": 45760,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 81,
-        "sold": 28,
-        "gross": 6160
+        "sold": 30,
+        "gross": 6600
       },
       "2026-04-12": {
         "shows": 1,
@@ -234,8 +234,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 105,
-        "gross": 23100
+        "sold": 106,
+        "gross": 23320
       },
       "2026-04-11": {
         "shows": 1,
@@ -268,14 +268,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -310,20 +310,20 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1795,
-    "gross": 646200,
+    "sold": 1816,
+    "gross": 653760,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 399,
-        "gross": 143640
+        "sold": 403,
+        "gross": 145080
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1396,
-        "gross": 502560
+        "sold": 1413,
+        "gross": 508680
       }
     }
   },
@@ -344,42 +344,42 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 801,
-    "gross": 288360,
+    "sold": 804,
+    "gross": 289440,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 801,
-        "gross": 288360
+        "sold": 804,
+        "gross": 289440
       }
     }
   },
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 55,
-    "gross": 5225,
+    "sold": 56,
+    "gross": 5320,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 119,
-        "sold": 55,
-        "gross": 5225
+        "sold": 56,
+        "gross": 5320
       }
     }
   },
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 13,
-    "gross": 1690,
+    "sold": 15,
+    "gross": 1950,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 13,
-        "gross": 1690
+        "sold": 15,
+        "gross": 1950
       }
     }
   },
