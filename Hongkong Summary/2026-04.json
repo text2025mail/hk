@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 387,
-    "gross": 37990,
+    "sold": 388,
+    "gross": 38120,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 35,
-        "gross": 4550
+        "sold": 36,
+        "gross": 4680
       },
       "2026-04-04": {
         "shows": 1,
@@ -310,8 +310,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1827,
-    "gross": 657720,
+    "sold": 1830,
+    "gross": 658800,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -322,8 +322,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1421,
-        "gross": 511560
+        "sold": 1424,
+        "gross": 512640
       }
     }
   },
@@ -414,14 +414,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 839,
-    "gross": 276870,
+    "sold": 849,
+    "gross": 280170,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 839,
-        "gross": 276870
+        "sold": 849,
+        "gross": 280170
       }
     }
   }
