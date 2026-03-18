@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 512,
     "seats": 97465,
-    "sold": 8856,
-    "gross": 794935,
+    "sold": 8858,
+    "gross": 795145,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -56,8 +56,8 @@
       "2026-03-19": {
         "shows": 45,
         "seats": 7369,
-        "sold": 207,
-        "gross": 19890
+        "sold": 209,
+        "gross": 20100
       }
     }
   },
@@ -424,8 +424,8 @@
   "Hoppers(English Version)": {
     "shows": 392,
     "seats": 56807,
-    "sold": 5231,
-    "gross": 533900,
+    "sold": 5233,
+    "gross": 534120,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -478,8 +478,8 @@
       "2026-03-19": {
         "shows": 23,
         "seats": 2926,
-        "sold": 120,
-        "gross": 13145
+        "sold": 122,
+        "gross": 13365
       }
     }
   },
@@ -890,8 +890,8 @@
   "Girlfriends": {
     "shows": 66,
     "seats": 8510,
-    "sold": 528,
-    "gross": 50205,
+    "sold": 529,
+    "gross": 50315,
     "dates": {
       "2026-03-14": {
         "shows": 9,
@@ -938,8 +938,8 @@
       "2026-03-19": {
         "shows": 5,
         "seats": 679,
-        "sold": 5,
-        "gross": 300
+        "sold": 6,
+        "gross": 410
       }
     }
   },
@@ -2280,8 +2280,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 380,
-    "sold": 36,
-    "gross": 17280,
+    "sold": 37,
+    "gross": 17760,
     "dates": {
       "2026-03-28": {
         "shows": 1,
@@ -2292,8 +2292,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 261,
-        "sold": 20,
-        "gross": 9600
+        "sold": 21,
+        "gross": 10080
       }
     }
   },
@@ -3066,8 +3066,8 @@
   "Project Hail Mary": {
     "shows": 105,
     "seats": 21996,
-    "sold": 412,
-    "gross": 49395,
+    "sold": 413,
+    "gross": 49545,
     "dates": {
       "2026-03-21": {
         "shows": 9,
@@ -3084,16 +3084,16 @@
       "2026-03-19": {
         "shows": 48,
         "seats": 10284,
-        "sold": 197,
-        "gross": 21420
+        "sold": 198,
+        "gross": 21570
       }
     }
   },
   "CIAO UFO": {
     "shows": 108,
     "seats": 14793,
-    "sold": 237,
-    "gross": 19550,
+    "sold": 238,
+    "gross": 19610,
     "dates": {
       "2026-03-20": {
         "shows": 54,
@@ -3104,8 +3104,8 @@
       "2026-03-19": {
         "shows": 54,
         "seats": 7690,
-        "sold": 157,
-        "gross": 12160
+        "sold": 158,
+        "gross": 12220
       }
     }
   },
