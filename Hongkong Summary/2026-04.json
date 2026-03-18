@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 5,
-    "gross": 475,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-04-05": {
         "shows": 1,
@@ -68,8 +68,8 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 22,
+    "gross": 2090,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
@@ -310,8 +310,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1821,
-    "gross": 655560,
+    "sold": 1822,
+    "gross": 655920,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -322,8 +322,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1416,
-        "gross": 509760
+        "sold": 1417,
+        "gross": 510120
       }
     }
   },
@@ -344,14 +344,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 805,
-    "gross": 289800,
+    "sold": 806,
+    "gross": 290160,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 805,
-        "gross": 289800
+        "sold": 806,
+        "gross": 290160
       }
     }
   },
