@@ -68,8 +68,8 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 22,
-    "gross": 2090,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
@@ -248,14 +248,14 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 2,
     "seats": 211,
-    "sold": 5,
-    "gross": 1100,
+    "sold": 3,
+    "gross": 660,
     "dates": {
       "2026-04-05": {
         "shows": 1,
         "seats": 113,
-        "sold": 3,
-        "gross": 660
+        "sold": 1,
+        "gross": 220
       },
       "2026-04-12": {
         "shows": 1,
@@ -296,22 +296,22 @@
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 1,
     "seats": 88,
-    "sold": 51,
-    "gross": 6630,
+    "sold": 50,
+    "gross": 6500,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 88,
-        "sold": 51,
-        "gross": 6630
+        "sold": 50,
+        "gross": 6500
       }
     }
   },
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1822,
-    "gross": 655920,
+    "sold": 1821,
+    "gross": 655560,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -322,8 +322,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1417,
-        "gross": 510120
+        "sold": 1416,
+        "gross": 509760
       }
     }
   },
@@ -344,14 +344,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 807,
-    "gross": 290520,
+    "sold": 805,
+    "gross": 289800,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 807,
-        "gross": 290520
+        "sold": 805,
+        "gross": 289800
       }
     }
   },
