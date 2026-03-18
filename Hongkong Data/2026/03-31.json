@@ -6,11 +6,25 @@
     "date": "2026-03-31",
     "time": "11:40",
     "total": 119,
-    "available": 118,
+    "available": 117,
     "blocked": 0,
-    "sold": 1,
-    "gross": 75,
+    "sold": 2,
+    "gross": 150,
     "price": 75,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
+  },
+  {
+    "perfIx": 70881,
+    "movie": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-31",
+    "time": "11:35",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   }
 ]

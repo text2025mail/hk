@@ -11,7 +11,7 @@
     "sold": 23,
     "gross": 2530,
     "price": 110,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 62460,
@@ -20,12 +20,12 @@
     "date": "2026-03-29",
     "time": "06:10",
     "total": 93,
-    "available": 73,
+    "available": 71,
     "blocked": 0,
-    "sold": 20,
-    "gross": 4400,
+    "sold": 22,
+    "gross": 4840,
     "price": 220,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 59072,
@@ -39,7 +39,7 @@
     "sold": 20,
     "gross": 2600,
     "price": 130,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 62963,
@@ -53,7 +53,7 @@
     "sold": 54,
     "gross": 7020,
     "price": 130,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 27876,
@@ -67,7 +67,7 @@
     "sold": 4,
     "gross": 1160,
     "price": 290,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 63095,
@@ -81,7 +81,7 @@
     "sold": 103,
     "gross": 9785,
     "price": 95,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 61393,
@@ -95,7 +95,7 @@
     "sold": 72,
     "gross": 15840,
     "price": 220,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 30391,
@@ -109,7 +109,7 @@
     "sold": 59,
     "gross": 14750,
     "price": 250,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 56376,
@@ -123,7 +123,7 @@
     "sold": 52,
     "gross": 4940,
     "price": 95,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 67797,
@@ -137,7 +137,7 @@
     "sold": 32,
     "gross": 3040,
     "price": 95,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 69679,
@@ -151,7 +151,7 @@
     "sold": 11,
     "gross": 2420,
     "price": 220,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 70013,
@@ -165,7 +165,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-03-18 02:09:53 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   },
   {
     "perfIx": 70878,
@@ -179,6 +179,20 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-03-18 01:18:26 PM IST"
+    "last_updated": "2026-03-18 03:15:36 PM IST"
+  },
+  {
+    "perfIx": 70880,
+    "movie": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-29",
+    "time": "11:35",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-03-18 03:15:36 PM IST"
   }
 ]
