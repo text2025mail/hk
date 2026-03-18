@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 512,
     "seats": 97465,
-    "sold": 8840,
-    "gross": 793245,
+    "sold": 8843,
+    "gross": 793545,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -56,8 +56,8 @@
       "2026-03-19": {
         "shows": 45,
         "seats": 7369,
-        "sold": 191,
-        "gross": 18200
+        "sold": 194,
+        "gross": 18500
       }
     }
   },
@@ -126,8 +126,8 @@
   "Night King": {
     "shows": 961,
     "seats": 146558,
-    "sold": 9322,
-    "gross": 849655,
+    "sold": 9326,
+    "gross": 850115,
     "dates": {
       "2026-03-14": {
         "shows": 143,
@@ -180,8 +180,8 @@
       "2026-03-19": {
         "shows": 76,
         "seats": 10854,
-        "sold": 212,
-        "gross": 17975
+        "sold": 216,
+        "gross": 18435
       }
     }
   },
@@ -424,8 +424,8 @@
   "Hoppers(English Version)": {
     "shows": 392,
     "seats": 56807,
-    "sold": 5226,
-    "gross": 533410,
+    "sold": 5228,
+    "gross": 533620,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -478,8 +478,8 @@
       "2026-03-19": {
         "shows": 23,
         "seats": 2926,
-        "sold": 118,
-        "gross": 12935
+        "sold": 120,
+        "gross": 13145
       }
     }
   },
@@ -642,8 +642,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 27,
     "seats": 4327,
-    "sold": 600,
-    "gross": 132000,
+    "sold": 602,
+    "gross": 132440,
     "dates": {
       "2026-03-14": {
         "shows": 4,
@@ -654,8 +654,8 @@
       "2026-03-28": {
         "shows": 2,
         "seats": 259,
-        "sold": 52,
-        "gross": 11440
+        "sold": 54,
+        "gross": 11880
       },
       "2026-03-16": {
         "shows": 3,
@@ -1208,8 +1208,8 @@
   "Marty Supreme": {
     "shows": 124,
     "seats": 15386,
-    "sold": 942,
-    "gross": 113520,
+    "sold": 943,
+    "gross": 113670,
     "dates": {
       "2026-03-14": {
         "shows": 3,
@@ -1244,8 +1244,8 @@
       "2026-03-19": {
         "shows": 53,
         "seats": 6624,
-        "sold": 300,
-        "gross": 34925
+        "sold": 301,
+        "gross": 35075
       }
     }
   },
@@ -3066,8 +3066,8 @@
   "Project Hail Mary": {
     "shows": 105,
     "seats": 21996,
-    "sold": 409,
-    "gross": 49025,
+    "sold": 411,
+    "gross": 49245,
     "dates": {
       "2026-03-21": {
         "shows": 9,
@@ -3078,8 +3078,8 @@
       "2026-03-20": {
         "shows": 48,
         "seats": 10203,
-        "sold": 194,
-        "gross": 24995
+        "sold": 196,
+        "gross": 25215
       },
       "2026-03-19": {
         "shows": 48,
@@ -3112,8 +3112,8 @@
   "IMAX Project Hail Mary": {
     "shows": 20,
     "seats": 6810,
-    "sold": 172,
-    "gross": 29700,
+    "sold": 174,
+    "gross": 30060,
     "dates": {
       "2026-03-20": {
         "shows": 10,
@@ -3124,8 +3124,8 @@
       "2026-03-19": {
         "shows": 10,
         "seats": 3405,
-        "sold": 100,
-        "gross": 16980
+        "sold": 102,
+        "gross": 17340
       }
     }
   },
