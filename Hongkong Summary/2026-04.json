@@ -68,8 +68,8 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
@@ -164,8 +164,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 388,
-    "gross": 162960,
+    "sold": 390,
+    "gross": 163800,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -176,8 +176,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 191,
-        "sold": 134,
-        "gross": 56280
+        "sold": 136,
+        "gross": 57120
       },
       "2026-04-03": {
         "shows": 1,
@@ -216,8 +216,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 208,
-    "gross": 45760,
+    "sold": 210,
+    "gross": 46200,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -240,8 +240,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 94,
-        "sold": 22,
-        "gross": 4840
+        "sold": 24,
+        "gross": 5280
       }
     }
   },
@@ -310,20 +310,20 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1816,
-    "gross": 653760,
+    "sold": 1821,
+    "gross": 655560,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 403,
-        "gross": 145080
+        "sold": 405,
+        "gross": 145800
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1413,
-        "gross": 508680
+        "sold": 1416,
+        "gross": 509760
       }
     }
   },
@@ -344,14 +344,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 804,
-    "gross": 289440,
+    "sold": 805,
+    "gross": 289800,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 804,
-        "gross": 289440
+        "sold": 805,
+        "gross": 289800
       }
     }
   },
