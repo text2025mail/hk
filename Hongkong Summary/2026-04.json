@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 393,
-    "gross": 38595,
+    "sold": 395,
+    "gross": 38785,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 23,
-        "gross": 2185
+        "sold": 24,
+        "gross": 2280
       },
       "2026-04-02": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 40,
-        "gross": 3800
+        "sold": 41,
+        "gross": 3895
       },
       "2026-04-18": {
         "shows": 1,
@@ -280,14 +280,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       }
     }
   },
@@ -426,14 +426,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 890,
-    "gross": 293700,
+    "sold": 891,
+    "gross": 294030,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 890,
-        "gross": 293700
+        "sold": 891,
+        "gross": 294030
       }
     }
   }
