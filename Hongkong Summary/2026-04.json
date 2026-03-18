@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 7,
     "seats": 802,
-    "sold": 388,
-    "gross": 38120,
+    "sold": 385,
+    "gross": 37800,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -100,8 +100,8 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 119,
-        "sold": 22,
-        "gross": 2090
+        "sold": 20,
+        "gross": 1900
       },
       "2026-04-02": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 36,
-        "gross": 4680
+        "sold": 35,
+        "gross": 4550
       },
       "2026-04-04": {
         "shows": 1,
@@ -216,26 +216,26 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 217,
-    "gross": 47740,
+    "sold": 210,
+    "gross": 46200,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 81,
-        "sold": 35,
-        "gross": 7700
+        "sold": 30,
+        "gross": 6600
       },
       "2026-04-12": {
         "shows": 1,
         "seats": 74,
-        "sold": 51,
-        "gross": 11220
+        "sold": 50,
+        "gross": 11000
       },
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 107,
-        "gross": 23540
+        "sold": 106,
+        "gross": 23320
       },
       "2026-04-11": {
         "shows": 1,
@@ -310,8 +310,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1830,
-    "gross": 658800,
+    "sold": 1825,
+    "gross": 657000,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -322,8 +322,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1424,
-        "gross": 512640
+        "sold": 1419,
+        "gross": 510840
       }
     }
   },
@@ -414,14 +414,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 849,
-    "gross": 280170,
+    "sold": 807,
+    "gross": 266310,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 849,
-        "gross": 280170
+        "sold": 807,
+        "gross": 266310
       }
     }
   }
