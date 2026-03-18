@@ -11,7 +11,7 @@
     "sold": 23,
     "gross": 2530,
     "price": 110,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 62460,
@@ -25,7 +25,7 @@
     "sold": 22,
     "gross": 4840,
     "price": 220,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 59072,
@@ -39,7 +39,7 @@
     "sold": 20,
     "gross": 2600,
     "price": 130,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 62963,
@@ -53,7 +53,7 @@
     "sold": 54,
     "gross": 7020,
     "price": 130,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 27876,
@@ -67,7 +67,7 @@
     "sold": 4,
     "gross": 1160,
     "price": 290,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 63095,
@@ -81,7 +81,7 @@
     "sold": 103,
     "gross": 9785,
     "price": 95,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 61393,
@@ -95,7 +95,7 @@
     "sold": 72,
     "gross": 15840,
     "price": 220,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 30391,
@@ -109,7 +109,7 @@
     "sold": 59,
     "gross": 14750,
     "price": 250,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 56376,
@@ -118,12 +118,12 @@
     "date": "2026-03-29",
     "time": "13:30",
     "total": 119,
-    "available": 67,
+    "available": 66,
     "blocked": 0,
-    "sold": 52,
-    "gross": 4940,
+    "sold": 53,
+    "gross": 5035,
     "price": 95,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 67797,
@@ -137,7 +137,7 @@
     "sold": 33,
     "gross": 3135,
     "price": 95,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 69679,
@@ -151,7 +151,7 @@
     "sold": 11,
     "gross": 2420,
     "price": 220,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 70013,
@@ -165,7 +165,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 70878,
@@ -179,7 +179,7 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 70880,
@@ -193,7 +193,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-03-18 05:10:42 PM IST"
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   },
   {
     "perfIx": 70874,
@@ -208,5 +208,19 @@
     "gross": 0,
     "price": 420,
     "last_updated": "2026-03-18 05:10:42 PM IST"
+  },
+  {
+    "perfIx": 70902,
+    "movie": "As the Water Flows",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-29",
+    "time": "11:00",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-03-18 06:25:34 PM IST"
   }
 ]
