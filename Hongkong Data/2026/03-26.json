@@ -6,12 +6,12 @@
     "date": "2026-03-26",
     "time": "11:30",
     "total": 119,
-    "available": 75,
+    "available": 74,
     "blocked": 0,
-    "sold": 44,
-    "gross": 4180,
+    "sold": 45,
+    "gross": 4275,
     "price": 95,
-    "last_updated": "2026-03-18 03:15:36 PM IST"
+    "last_updated": "2026-03-18 04:14:07 PM IST"
   },
   {
     "perfIx": 70875,
@@ -25,6 +25,34 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-03-18 03:15:36 PM IST"
+    "last_updated": "2026-03-18 04:14:07 PM IST"
+  },
+  {
+    "perfIx": 70882,
+    "movie": "Dhurandhar: The Revenge",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "07:05",
+    "total": 320,
+    "available": 316,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 1000,
+    "price": 250,
+    "last_updated": "2026-03-18 04:14:07 PM IST"
+  },
+  {
+    "perfIx": 70883,
+    "movie": "Dhurandhar: The Revenge",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "11:40",
+    "total": 320,
+    "available": 320,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 250,
+    "last_updated": "2026-03-18 04:14:07 PM IST"
   }
 ]
