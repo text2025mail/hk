@@ -68,14 +68,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 123,
-    "gross": 11685,
+    "sold": 125,
+    "gross": 11875,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 58,
-        "gross": 5510
+        "sold": 60,
+        "gross": 5700
       },
       "2026-04-26": {
         "shows": 1,
@@ -88,14 +88,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 409,
-    "gross": 40395,
+    "sold": 411,
+    "gross": 40585,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 81,
-        "gross": 7695
+        "sold": 82,
+        "gross": 7790
       },
       "2026-04-20": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 41,
-        "gross": 3895
+        "sold": 42,
+        "gross": 3990
       },
       "2026-04-18": {
         "shows": 1,
@@ -322,14 +322,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1834,
-    "gross": 660240,
+    "sold": 1835,
+    "gross": 660600,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 407,
-        "gross": 146520
+        "sold": 408,
+        "gross": 146880
       },
       "2026-04-11": {
         "shows": 10,
@@ -426,14 +426,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 917,
-    "gross": 302610,
+    "sold": 918,
+    "gross": 302940,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 917,
-        "gross": 302610
+        "sold": 918,
+        "gross": 302940
       }
     }
   }
