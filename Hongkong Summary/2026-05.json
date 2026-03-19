@@ -48,14 +48,20 @@
     }
   },
   "Michelangelo - Love & Death (EOS 2025)": {
-    "shows": 1,
-    "seats": 74,
+    "shows": 2,
+    "seats": 162,
     "sold": 0,
     "gross": 0,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 74,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 88,
         "sold": 0,
         "gross": 0
       }
