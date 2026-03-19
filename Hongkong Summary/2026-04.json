@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 349,
-    "gross": 80270,
+    "sold": 350,
+    "gross": 80500,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -34,8 +34,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 85,
-        "gross": 19550
+        "sold": 86,
+        "gross": 19780
       },
       "2026-04-10": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 395,
-    "gross": 38785,
+    "sold": 397,
+    "gross": 39045,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 24,
-        "gross": 2280
+        "sold": 26,
+        "gross": 2540
       },
       "2026-04-02": {
         "shows": 1,
@@ -176,8 +176,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 394,
-    "gross": 165480,
+    "sold": 396,
+    "gross": 166320,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -200,8 +200,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 83,
-        "gross": 34860
+        "sold": 85,
+        "gross": 35700
       }
     }
   },
@@ -426,14 +426,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 891,
-    "gross": 294030,
+    "sold": 896,
+    "gross": 295680,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 891,
-        "gross": 294030
+        "sold": 896,
+        "gross": 295680
       }
     }
   }
