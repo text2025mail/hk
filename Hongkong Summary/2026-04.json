@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 422,
-    "gross": 41840,
+    "sold": 426,
+    "gross": 42360,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 31,
-        "gross": 3155
+        "sold": 32,
+        "gross": 3285
       },
       "2026-04-02": {
         "shows": 1,
@@ -136,8 +136,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 38,
-        "gross": 4940
+        "sold": 41,
+        "gross": 5330
       },
       "2026-04-04": {
         "shows": 1,
@@ -322,8 +322,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1835,
-    "gross": 660600,
+    "sold": 1837,
+    "gross": 661320,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -334,8 +334,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1427,
-        "gross": 513720
+        "sold": 1429,
+        "gross": 514440
       }
     }
   },
