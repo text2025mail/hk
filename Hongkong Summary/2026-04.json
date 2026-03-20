@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 355,
-    "gross": 81650,
+    "sold": 356,
+    "gross": 81880,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -28,8 +28,8 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 84,
-        "gross": 19320
+        "sold": 85,
+        "gross": 19550
       },
       "2026-04-05": {
         "shows": 1,
@@ -340,8 +340,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1843,
-    "gross": 663480,
+    "sold": 1844,
+    "gross": 663840,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -352,8 +352,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1433,
-        "gross": 515880
+        "sold": 1434,
+        "gross": 516240
       }
     }
   },
