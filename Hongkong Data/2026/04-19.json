@@ -11,7 +11,7 @@
     "sold": 87,
     "gross": 36540,
     "price": 420,
-    "last_updated": "2026-03-20 09:06:54 PM IST"
+    "last_updated": "2026-03-20 10:05:41 PM IST"
   },
   {
     "perfIx": 65360,
@@ -25,7 +25,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-03-20 09:06:54 PM IST"
+    "last_updated": "2026-03-20 10:05:41 PM IST"
   },
   {
     "perfIx": 61377,
@@ -39,7 +39,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-03-20 09:06:54 PM IST"
+    "last_updated": "2026-03-20 10:05:41 PM IST"
   },
   {
     "perfIx": 72662,
@@ -53,6 +53,20 @@
     "sold": 0,
     "gross": 0,
     "price": 220,
-    "last_updated": "2026-03-20 09:06:54 PM IST"
+    "last_updated": "2026-03-20 10:05:41 PM IST"
+  },
+  {
+    "perfIx": 73116,
+    "movie": "Kill Bill: The Whole Bloody Affair",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "06:05",
+    "total": 98,
+    "available": 98,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 220,
+    "last_updated": "2026-03-20 10:05:41 PM IST"
   }
 ]

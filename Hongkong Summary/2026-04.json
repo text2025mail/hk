@@ -258,8 +258,8 @@
     }
   },
   "Kill Bill: The Whole Bloody Affair": {
-    "shows": 6,
-    "seats": 737,
+    "shows": 7,
+    "seats": 835,
     "sold": 9,
     "gross": 1980,
     "dates": {
@@ -282,8 +282,8 @@
         "gross": 660
       },
       "2026-04-19": {
-        "shows": 1,
-        "seats": 191,
+        "shows": 2,
+        "seats": 289,
         "sold": 0,
         "gross": 0
       },
@@ -340,14 +340,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1841,
-    "gross": 662760,
+    "sold": 1843,
+    "gross": 663480,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 408,
-        "gross": 146880
+        "sold": 410,
+        "gross": 147600
       },
       "2026-04-11": {
         "shows": 10,
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 969,
-    "gross": 319770,
+    "sold": 972,
+    "gross": 320760,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 969,
-        "gross": 319770
+        "sold": 972,
+        "gross": 320760
       }
     }
   }
