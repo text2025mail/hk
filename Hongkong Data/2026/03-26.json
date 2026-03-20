@@ -6,12 +6,12 @@
     "date": "2026-03-26",
     "time": "11:30",
     "total": 119,
-    "available": 59,
+    "available": 57,
     "blocked": 0,
-    "sold": 60,
-    "gross": 5700,
+    "sold": 62,
+    "gross": 5890,
     "price": 95,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70875,
@@ -25,7 +25,7 @@
     "sold": 5,
     "gross": 850,
     "price": 170,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70882,
@@ -34,12 +34,12 @@
     "date": "2026-03-26",
     "time": "07:05",
     "total": 320,
-    "available": 296,
+    "available": 291,
     "blocked": 0,
-    "sold": 24,
-    "gross": 6000,
+    "sold": 29,
+    "gross": 7250,
     "price": 250,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70883,
@@ -48,11 +48,81 @@
     "date": "2026-03-26",
     "time": "11:40",
     "total": 320,
-    "available": 267,
+    "available": 249,
     "blocked": 0,
-    "sold": 53,
-    "gross": 13250,
+    "sold": 71,
+    "gross": 17750,
     "price": 250,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 72698,
+    "movie": "The Secret Agent",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "02:30",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 90,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 72699,
+    "movie": "The Secret Agent",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "05:25",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 125,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 72700,
+    "movie": "The Secret Agent",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "08:05",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 125,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 72701,
+    "movie": "The Secret Agent",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "11:00",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 125,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 72802,
+    "movie": "Dhurandhar: The Revenge",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-26",
+    "time": "13:50",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 250,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   }
 ]

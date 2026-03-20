@@ -11,7 +11,7 @@
     "sold": 61,
     "gross": 5795,
     "price": 95,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 66757,
@@ -25,7 +25,7 @@
     "sold": 144,
     "gross": 47520,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 66768,
@@ -39,7 +39,7 @@
     "sold": 134,
     "gross": 44220,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 66769,
@@ -48,12 +48,12 @@
     "date": "2026-04-04",
     "time": "09:00",
     "total": 191,
-    "available": 56,
+    "available": 54,
     "blocked": 0,
-    "sold": 135,
-    "gross": 44550,
+    "sold": 137,
+    "gross": 45210,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 67617,
@@ -67,7 +67,7 @@
     "sold": 186,
     "gross": 61380,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70010,
@@ -76,12 +76,12 @@
     "date": "2026-04-04",
     "time": "09:00",
     "total": 290,
-    "available": 184,
+    "available": 180,
     "blocked": 0,
-    "sold": 106,
-    "gross": 34980,
+    "sold": 110,
+    "gross": 36300,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70032,
@@ -95,7 +95,7 @@
     "sold": 174,
     "gross": 57420,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   },
   {
     "perfIx": 70879,
@@ -104,11 +104,25 @@
     "date": "2026-04-04",
     "time": "09:00",
     "total": 146,
-    "available": 70,
+    "available": 69,
     "blocked": 0,
-    "sold": 76,
-    "gross": 25080,
+    "sold": 77,
+    "gross": 25410,
     "price": 330,
-    "last_updated": "2026-03-20 08:11:24 PM IST"
+    "last_updated": "2026-03-20 09:06:54 PM IST"
+  },
+  {
+    "perfIx": 71928,
+    "movie": "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-04",
+    "time": "09:00",
+    "total": 103,
+    "available": 96,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 2310,
+    "price": 330,
+    "last_updated": "2026-03-20 09:06:54 PM IST"
   }
 ]
