@@ -176,8 +176,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 403,
-    "gross": 169260,
+    "sold": 404,
+    "gross": 169680,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -188,8 +188,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 191,
-        "sold": 140,
-        "gross": 58800
+        "sold": 141,
+        "gross": 59220
       },
       "2026-04-03": {
         "shows": 1,
@@ -402,14 +402,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 16,
-    "gross": 2080,
+    "sold": 17,
+    "gross": 2210,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 16,
-        "gross": 2080
+        "sold": 17,
+        "gross": 2210
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 972,
-    "gross": 320760,
+    "sold": 978,
+    "gross": 322740,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 972,
-        "gross": 320760
+        "sold": 978,
+        "gross": 322740
       }
     }
   }
