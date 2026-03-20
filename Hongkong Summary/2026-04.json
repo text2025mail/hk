@@ -384,14 +384,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 15,
-    "gross": 1950,
+    "sold": 16,
+    "gross": 2080,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 15,
-        "gross": 1950
+        "sold": 16,
+        "gross": 2080
       }
     }
   },
@@ -426,14 +426,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 945,
-    "gross": 311850,
+    "sold": 951,
+    "gross": 313830,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 945,
-        "gross": 311850
+        "sold": 951,
+        "gross": 313830
       }
     }
   }
