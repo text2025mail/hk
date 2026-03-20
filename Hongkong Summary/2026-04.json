@@ -28,14 +28,14 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 85,
-        "gross": 19550
+        "sold": 83,
+        "gross": 19090
       },
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 86,
-        "gross": 19780
+        "sold": 88,
+        "gross": 20240
       },
       "2026-04-10": {
         "shows": 1,
@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 16,
-    "gross": 1520,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 443,
-    "gross": 44150,
+    "sold": 444,
+    "gross": 44245,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -124,8 +124,8 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 51,
-        "gross": 4845
+        "sold": 52,
+        "gross": 4940
       },
       "2026-04-18": {
         "shows": 1,
@@ -228,8 +228,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 218,
-    "gross": 47960,
+    "sold": 222,
+    "gross": 48840,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -240,14 +240,14 @@
       "2026-04-12": {
         "shows": 1,
         "seats": 74,
-        "sold": 51,
-        "gross": 11220
+        "sold": 54,
+        "gross": 11880
       },
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 107,
-        "gross": 23540
+        "sold": 108,
+        "gross": 23760
       },
       "2026-04-11": {
         "shows": 1,
@@ -280,14 +280,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
+    "sold": 11,
+    "gross": 1045,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       }
     }
   },
