@@ -228,8 +228,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 222,
-    "gross": 48840,
+    "sold": 221,
+    "gross": 48620,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -246,8 +246,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 208,
-        "sold": 108,
-        "gross": 23760
+        "sold": 107,
+        "gross": 23540
       },
       "2026-04-11": {
         "shows": 1,
@@ -322,8 +322,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1838,
-    "gross": 661680,
+    "sold": 1837,
+    "gross": 661320,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -334,8 +334,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1430,
-        "gross": 514800
+        "sold": 1429,
+        "gross": 514440
       }
     }
   },
