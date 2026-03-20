@@ -19,6 +19,26 @@
       }
     }
   },
+  "Merrily We Roll Along (2026)": {
+    "shows": 2,
+    "seats": 208,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-16": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,

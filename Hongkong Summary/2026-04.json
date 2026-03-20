@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 7,
+        "gross": 665
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 436,
-    "gross": 43450,
+    "sold": 443,
+    "gross": 44150,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 34,
-        "gross": 3510
+        "sold": 36,
+        "gross": 3700
       },
       "2026-04-02": {
         "shows": 1,
@@ -124,14 +124,14 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 48,
-        "gross": 4560
+        "sold": 51,
+        "gross": 4845
       },
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 7,
-        "gross": 910
+        "sold": 8,
+        "gross": 1040
       },
       "2026-04-11": {
         "shows": 1,
@@ -142,8 +142,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 60,
-        "gross": 5700
+        "sold": 61,
+        "gross": 5795
       }
     }
   },
@@ -176,8 +176,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 401,
-    "gross": 168420,
+    "sold": 403,
+    "gross": 169260,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -194,14 +194,14 @@
       "2026-04-03": {
         "shows": 1,
         "seats": 156,
-        "sold": 101,
-        "gross": 42420
+        "sold": 102,
+        "gross": 42840
       },
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 86,
-        "gross": 36120
+        "sold": 87,
+        "gross": 36540
       }
     }
   },
@@ -280,14 +280,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
@@ -342,28 +342,28 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 1,
     "seats": 119,
-    "sold": 1,
-    "gross": 95,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 3,
+        "gross": 285
       }
     }
   },
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 819,
-    "gross": 294840,
+    "sold": 821,
+    "gross": 295560,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 819,
-        "gross": 294840
+        "sold": 821,
+        "gross": 295560
       }
     }
   },
@@ -426,14 +426,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 7,
     "seats": 1571,
-    "sold": 953,
-    "gross": 314490,
+    "sold": 955,
+    "gross": 315150,
     "dates": {
       "2026-04-04": {
         "shows": 7,
         "seats": 1571,
-        "sold": 953,
-        "gross": 314490
+        "sold": 955,
+        "gross": 315150
       }
     }
   }
