@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,8 +60,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
@@ -228,8 +228,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 225,
-    "gross": 49500,
+    "sold": 226,
+    "gross": 49720,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -252,8 +252,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 94,
-        "sold": 27,
-        "gross": 5940
+        "sold": 28,
+        "gross": 6160
       }
     }
   },
