@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 465,
-    "gross": 46590,
+    "sold": 458,
+    "gross": 45855,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 43,
-        "gross": 4540
+        "sold": 40,
+        "gross": 4185
       },
       "2026-04-02": {
         "shows": 1,
@@ -142,8 +142,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 65,
-        "gross": 6175
+        "sold": 61,
+        "gross": 5795
       }
     }
   },
@@ -260,8 +260,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 11,
-    "gross": 2420,
+    "sold": 9,
+    "gross": 1980,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -290,8 +290,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 129,
-        "sold": 2,
-        "gross": 440
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -340,20 +340,20 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1868,
-    "gross": 672480,
+    "sold": 1852,
+    "gross": 666720,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 415,
-        "gross": 149400
+        "sold": 411,
+        "gross": 147960
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1453,
-        "gross": 523080
+        "sold": 1441,
+        "gross": 518760
       }
     }
   },
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 833,
-    "gross": 299880,
+    "sold": 826,
+    "gross": 297360,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 833,
-        "gross": 299880
+        "sold": 826,
+        "gross": 297360
       }
     }
   },
@@ -416,14 +416,14 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 1,
     "seats": 81,
-    "sold": 28,
-    "gross": 3920,
+    "sold": 26,
+    "gross": 3640,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 28,
-        "gross": 3920
+        "sold": 26,
+        "gross": 3640
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 993,
-    "gross": 327690,
+    "sold": 990,
+    "gross": 326700,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 993,
-        "gross": 327690
+        "sold": 990,
+        "gross": 326700
       }
     }
   }
