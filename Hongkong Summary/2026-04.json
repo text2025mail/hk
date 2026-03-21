@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 25,
-    "gross": 2375,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 8,
+        "gross": 760
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 469,
-    "gross": 46970,
+    "sold": 468,
+    "gross": 46875,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 45,
-        "gross": 4730
+        "sold": 44,
+        "gross": 4635
       },
       "2026-04-02": {
         "shows": 1,
@@ -260,8 +260,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 13,
-    "gross": 2860,
+    "sold": 11,
+    "gross": 2420,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -272,8 +272,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 113,
-        "sold": 8,
-        "gross": 1760
+        "sold": 6,
+        "gross": 1320
       },
       "2026-04-12": {
         "shows": 1,
@@ -340,8 +340,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1874,
-    "gross": 674640,
+    "sold": 1873,
+    "gross": 674280,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -352,8 +352,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1456,
-        "gross": 524160
+        "sold": 1455,
+        "gross": 523800
       }
     }
   },
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 836,
-    "gross": 300960,
+    "sold": 833,
+    "gross": 299880,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 836,
-        "gross": 300960
+        "sold": 833,
+        "gross": 299880
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 999,
-    "gross": 329670,
+    "sold": 998,
+    "gross": 329340,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 999,
-        "gross": 329670
+        "sold": 998,
+        "gross": 329340
       }
     }
   }
