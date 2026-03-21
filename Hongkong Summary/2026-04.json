@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-04-05": {
         "shows": 1,
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 833,
-    "gross": 299880,
+    "sold": 834,
+    "gross": 300240,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 833,
-        "gross": 299880
+        "sold": 834,
+        "gross": 300240
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 998,
-    "gross": 329340,
+    "sold": 999,
+    "gross": 329670,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 998,
-        "gross": 329340
+        "sold": 999,
+        "gross": 329670
       }
     }
   }
