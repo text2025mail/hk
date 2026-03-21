@@ -68,14 +68,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 130,
-    "gross": 12350,
+    "sold": 131,
+    "gross": 12445,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 61,
-        "gross": 5795
+        "sold": 62,
+        "gross": 5890
       },
       "2026-04-26": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 467,
-    "gross": 46780,
+    "sold": 468,
+    "gross": 46875,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 43,
-        "gross": 4540
+        "sold": 44,
+        "gross": 4635
       },
       "2026-04-02": {
         "shows": 1,
@@ -416,14 +416,14 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 1,
     "seats": 81,
-    "sold": 31,
-    "gross": 4340,
+    "sold": 32,
+    "gross": 4480,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 31,
-        "gross": 4340
+        "sold": 32,
+        "gross": 4480
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 995,
-    "gross": 328350,
+    "sold": 996,
+    "gross": 328680,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 995,
-        "gross": 328350
+        "sold": 996,
+        "gross": 328680
       }
     }
   }
