@@ -4925,7 +4925,7 @@
     "sold": 3,
     "gross": 285,
     "price": 95,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71505,
@@ -4934,12 +4934,12 @@
     "date": "2026-03-21",
     "time": "16:15",
     "total": 57,
-    "available": 55,
+    "available": 54,
     "blocked": 0,
-    "sold": 2,
-    "gross": 190,
+    "sold": 3,
+    "gross": 285,
     "price": 95,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71429,
@@ -4953,7 +4953,7 @@
     "sold": 0,
     "gross": 0,
     "price": 125,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71449,
@@ -4967,7 +4967,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71651,
@@ -5676,12 +5676,12 @@
     "date": "2026-03-21",
     "time": "16:05",
     "total": 197,
-    "available": 191,
+    "available": 186,
     "blocked": 0,
-    "sold": 6,
-    "gross": 660,
+    "sold": 11,
+    "gross": 1210,
     "price": 110,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71403,
@@ -5690,12 +5690,12 @@
     "date": "2026-03-21",
     "time": "16:10",
     "total": 191,
-    "available": 189,
+    "available": 187,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71442,
@@ -5709,7 +5709,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   },
   {
     "perfIx": 71710,
@@ -6315,16 +6315,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "Project Hail Mary(Atmos)",
+    "movie": "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-21",
-    "time": "15:35",
-    "total": 191,
-    "available": 176,
+    "time": "16:00",
+    "total": 121,
+    "available": 111,
     "blocked": 0,
-    "sold": 15,
-    "gross": 1950,
-    "price": 130,
-    "last_updated": "2026-03-22 12:30:11 AM IST"
+    "sold": 10,
+    "gross": 1700,
+    "price": 170,
+    "last_updated": "2026-03-22 03:15:15 AM IST"
   }
 ]
