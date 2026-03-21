@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 22,
+    "gross": 2090,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,8 +60,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 14,
+        "gross": 1330
       }
     }
   },
@@ -88,14 +88,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 446,
-    "gross": 44470,
+    "sold": 447,
+    "gross": 44565,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 7885
+        "sold": 84,
+        "gross": 7980
       },
       "2026-04-20": {
         "shows": 1,
@@ -340,8 +340,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1844,
-    "gross": 663840,
+    "sold": 1847,
+    "gross": 664920,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -352,8 +352,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1434,
-        "gross": 516240
+        "sold": 1437,
+        "gross": 517320
       }
     }
   },
@@ -388,14 +388,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 58,
-    "gross": 5510,
+    "sold": 59,
+    "gross": 5605,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 119,
-        "sold": 58,
-        "gross": 5510
+        "sold": 59,
+        "gross": 5605
       }
     }
   },
