@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-04-05": {
         "shows": 1,
@@ -260,8 +260,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 11,
-    "gross": 2420,
+    "sold": 13,
+    "gross": 2860,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -272,8 +272,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 113,
-        "sold": 6,
-        "gross": 1320
+        "sold": 8,
+        "gross": 1760
       },
       "2026-04-12": {
         "shows": 1,
@@ -340,20 +340,20 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1871,
-    "gross": 673560,
+    "sold": 1873,
+    "gross": 674280,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 417,
-        "gross": 150120
+        "sold": 418,
+        "gross": 150480
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1454,
-        "gross": 523440
+        "sold": 1455,
+        "gross": 523800
       }
     }
   },
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 833,
-    "gross": 299880,
+    "sold": 834,
+    "gross": 300240,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 833,
-        "gross": 299880
+        "sold": 834,
+        "gross": 300240
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 995,
-    "gross": 328350,
+    "sold": 999,
+    "gross": 329670,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 995,
-        "gross": 328350
+        "sold": 999,
+        "gross": 329670
       }
     }
   }
