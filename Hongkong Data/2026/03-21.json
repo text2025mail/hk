@@ -4920,12 +4920,12 @@
     "date": "2026-03-21",
     "time": "16:15",
     "total": 70,
-    "available": 69,
+    "available": 67,
     "blocked": 0,
-    "sold": 1,
-    "gross": 95,
+    "sold": 3,
+    "gross": 285,
     "price": 95,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71505,
@@ -4939,7 +4939,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71429,
@@ -4953,7 +4953,7 @@
     "sold": 0,
     "gross": 0,
     "price": 125,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71449,
@@ -4967,7 +4967,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71651,
@@ -5648,12 +5648,12 @@
     "date": "2026-03-21",
     "time": "15:40",
     "total": 202,
-    "available": 200,
+    "available": 192,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 10,
+    "gross": 1100,
     "price": 110,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71398,
@@ -5662,12 +5662,12 @@
     "date": "2026-03-21",
     "time": "16:00",
     "total": 121,
-    "available": 117,
+    "available": 116,
     "blocked": 0,
-    "sold": 4,
-    "gross": 680,
+    "sold": 5,
+    "gross": 850,
     "price": 170,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71412,
@@ -5676,12 +5676,12 @@
     "date": "2026-03-21",
     "time": "16:05",
     "total": 197,
-    "available": 197,
+    "available": 194,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 330,
     "price": 110,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71403,
@@ -5690,12 +5690,12 @@
     "date": "2026-03-21",
     "time": "16:10",
     "total": 191,
-    "available": 190,
+    "available": 189,
     "blocked": 0,
-    "sold": 1,
-    "gross": 110,
+    "sold": 2,
+    "gross": 220,
     "price": 110,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71442,
@@ -5709,7 +5709,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   },
   {
     "perfIx": 71710,
@@ -6315,16 +6315,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "Hoppers(Cantonese Version)",
+    "movie": "Project Hail Mary(Atmos)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-21",
-    "time": "10:10",
-    "total": 58,
-    "available": 40,
+    "time": "15:35",
+    "total": 191,
+    "available": 184,
     "blocked": 0,
-    "sold": 18,
-    "gross": 1980,
-    "price": 110,
-    "last_updated": "2026-03-21 09:16:43 PM IST"
+    "sold": 7,
+    "gross": 910,
+    "price": 130,
+    "last_updated": "2026-03-21 09:51:18 PM IST"
   }
 ]
