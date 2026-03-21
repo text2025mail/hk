@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,8 +60,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
@@ -228,8 +228,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 226,
-    "gross": 49720,
+    "sold": 225,
+    "gross": 49500,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -252,8 +252,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 94,
-        "sold": 28,
-        "gross": 6160
+        "sold": 27,
+        "gross": 5940
       }
     }
   },
@@ -340,8 +340,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1850,
-    "gross": 666000,
+    "sold": 1849,
+    "gross": 665640,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -352,8 +352,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1439,
-        "gross": 518040
+        "sold": 1438,
+        "gross": 517680
       }
     }
   },
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 824,
-    "gross": 296640,
+    "sold": 823,
+    "gross": 296280,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 824,
-        "gross": 296640
+        "sold": 823,
+        "gross": 296280
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 987,
-    "gross": 325710,
+    "sold": 986,
+    "gross": 325380,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 987,
-        "gross": 325710
+        "sold": 986,
+        "gross": 325380
       }
     }
   }
