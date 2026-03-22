@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 473,
-    "gross": 47350,
+    "sold": 472,
+    "gross": 47255,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -112,8 +112,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 76,
-        "gross": 7220
+        "sold": 75,
+        "gross": 7125
       },
       "2026-04-03": {
         "shows": 1,
@@ -260,8 +260,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 16,
-    "gross": 3520,
+    "sold": 14,
+    "gross": 3080,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -272,8 +272,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 113,
-        "sold": 11,
-        "gross": 2420
+        "sold": 9,
+        "gross": 1980
       },
       "2026-04-12": {
         "shows": 1,
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1004,
-    "gross": 331320,
+    "sold": 1003,
+    "gross": 330990,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1004,
-        "gross": 331320
+        "sold": 1003,
+        "gross": 330990
       }
     }
   }
