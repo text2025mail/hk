@@ -150,14 +150,14 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       },
       "2026-04-15": {
         "shows": 1,
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1013,
-    "gross": 334290,
+    "sold": 1015,
+    "gross": 334950,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1013,
-        "gross": 334290
+        "sold": 1015,
+        "gross": 334950
       }
     }
   }
