@@ -42,14 +42,14 @@
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 4,
-    "gross": 520,
+    "sold": 5,
+    "gross": 650,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 4,
-        "gross": 520
+        "sold": 5,
+        "gross": 650
       }
     }
   },
