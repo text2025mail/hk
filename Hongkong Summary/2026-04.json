@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 359,
-    "gross": 82570,
+    "sold": 362,
+    "gross": 83260,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -28,14 +28,14 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 86,
-        "gross": 19780
+        "sold": 87,
+        "gross": 20010
       },
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 90,
-        "gross": 20700
+        "sold": 92,
+        "gross": 21160
       },
       "2026-04-10": {
         "shows": 1,
@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -60,8 +60,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 472,
-    "gross": 47255,
+    "sold": 474,
+    "gross": 47445,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,14 +106,14 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 45,
-        "gross": 4730
+        "sold": 46,
+        "gross": 4825
       },
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 75,
-        "gross": 7125
+        "sold": 76,
+        "gross": 7220
       },
       "2026-04-03": {
         "shows": 1,
@@ -150,14 +150,14 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 15,
+        "gross": 1425
       },
       "2026-04-15": {
         "shows": 1,
@@ -260,8 +260,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 14,
-    "gross": 3080,
+    "sold": 16,
+    "gross": 3520,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -272,8 +272,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 113,
-        "sold": 9,
-        "gross": 1980
+        "sold": 11,
+        "gross": 2420
       },
       "2026-04-12": {
         "shows": 1,
@@ -340,8 +340,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1884,
-    "gross": 678240,
+    "sold": 1885,
+    "gross": 678600,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -352,8 +352,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1461,
-        "gross": 525960
+        "sold": 1462,
+        "gross": 526320
       }
     }
   },
@@ -388,14 +388,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 59,
-    "gross": 5605,
+    "sold": 60,
+    "gross": 5700,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 119,
-        "sold": 59,
-        "gross": 5605
+        "sold": 60,
+        "gross": 5700
       }
     }
   },
@@ -430,28 +430,28 @@
   "OTHELLO (2026)": {
     "shows": 1,
     "seats": 81,
-    "sold": 34,
-    "gross": 8500,
+    "sold": 35,
+    "gross": 8750,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 34,
-        "gross": 8500
+        "sold": 35,
+        "gross": 8750
       }
     }
   },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1004,
-    "gross": 331320,
+    "sold": 1007,
+    "gross": 332310,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1004,
-        "gross": 331320
+        "sold": 1007,
+        "gross": 332310
       }
     }
   }
