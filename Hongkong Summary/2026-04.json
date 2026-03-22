@@ -48,20 +48,20 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 12,
+        "gross": 1140
       },
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
@@ -150,14 +150,14 @@
   "As the Water Flows": {
     "shows": 3,
     "seats": 357,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       },
       "2026-04-15": {
         "shows": 1,
@@ -176,8 +176,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 406,
-    "gross": 170520,
+    "sold": 408,
+    "gross": 171360,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -188,8 +188,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 191,
-        "sold": 142,
-        "gross": 59640
+        "sold": 143,
+        "gross": 60060
       },
       "2026-04-03": {
         "shows": 1,
@@ -200,8 +200,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 87,
-        "gross": 36540
+        "sold": 88,
+        "gross": 36960
       }
     }
   },
@@ -374,14 +374,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 842,
-    "gross": 303120,
+    "sold": 844,
+    "gross": 303840,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 842,
-        "gross": 303120
+        "sold": 844,
+        "gross": 303840
       }
     }
   },
@@ -444,14 +444,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1010,
-    "gross": 333300,
+    "sold": 1015,
+    "gross": 334950,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1010,
-        "gross": 333300
+        "sold": 1015,
+        "gross": 334950
       }
     }
   }
