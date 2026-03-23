@@ -11,7 +11,7 @@
     "sold": 55,
     "gross": 7150,
     "price": 130,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 70016,
@@ -25,7 +25,7 @@
     "sold": 9,
     "gross": 855,
     "price": 95,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 70899,
@@ -39,6 +39,20 @@
     "sold": 6,
     "gross": 780,
     "price": 130,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
+  },
+  {
+    "perfIx": 73118,
+    "movie": "AOT: THE LAST ATTACK Eren\u2019s Birthday Screening",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-30",
+    "time": "11:00",
+    "total": 156,
+    "available": 127,
+    "blocked": 0,
+    "sold": 29,
+    "gross": 5075,
+    "price": 175,
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   }
 ]

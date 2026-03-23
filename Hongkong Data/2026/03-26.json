@@ -11,7 +11,7 @@
     "sold": 69,
     "gross": 6555,
     "price": 95,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 70875,
@@ -25,7 +25,7 @@
     "sold": 5,
     "gross": 850,
     "price": 170,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 70882,
@@ -39,7 +39,7 @@
     "sold": 41,
     "gross": 10250,
     "price": 250,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 70883,
@@ -48,12 +48,12 @@
     "date": "2026-03-26",
     "time": "11:40",
     "total": 320,
-    "available": 203,
+    "available": 197,
     "blocked": 0,
-    "sold": 117,
-    "gross": 29250,
+    "sold": 123,
+    "gross": 30750,
     "price": 250,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 72698,
@@ -67,7 +67,7 @@
     "sold": 2,
     "gross": 180,
     "price": 90,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 72699,
@@ -81,7 +81,7 @@
     "sold": 0,
     "gross": 0,
     "price": 125,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 72700,
@@ -90,12 +90,12 @@
     "date": "2026-03-26",
     "time": "08:05",
     "total": 119,
-    "available": 118,
+    "available": 117,
     "blocked": 0,
-    "sold": 1,
-    "gross": 125,
+    "sold": 2,
+    "gross": 250,
     "price": 125,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 72701,
@@ -109,7 +109,7 @@
     "sold": 3,
     "gross": 375,
     "price": 125,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   },
   {
     "perfIx": 72802,
@@ -123,6 +123,6 @@
     "sold": 2,
     "gross": 500,
     "price": 250,
-    "last_updated": "2026-03-23 09:52:59 AM IST"
+    "last_updated": "2026-03-23 11:23:01 AM IST"
   }
 ]
