@@ -6,12 +6,12 @@
     "date": "2026-03-31",
     "time": "11:40",
     "total": 119,
-    "available": 112,
+    "available": 110,
     "blocked": 0,
-    "sold": 7,
-    "gross": 525,
+    "sold": 9,
+    "gross": 675,
     "price": 75,
-    "last_updated": "2026-03-23 01:41:28 PM IST"
+    "last_updated": "2026-03-23 03:05:04 PM IST"
   },
   {
     "perfIx": 70881,
@@ -25,6 +25,34 @@
     "sold": 4,
     "gross": 520,
     "price": 130,
-    "last_updated": "2026-03-23 01:41:28 PM IST"
+    "last_updated": "2026-03-23 03:05:04 PM IST"
+  },
+  {
+    "perfIx": 73135,
+    "movie": "Kill Bill: The Whole Bloody Affair",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-31",
+    "time": "06:30",
+    "total": 144,
+    "available": 144,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 220,
+    "last_updated": "2026-03-23 03:05:04 PM IST"
+  },
+  {
+    "perfIx": 73136,
+    "movie": "Kill Bill: The Whole Bloody Affair",
+    "venue": "Cinema.com.hk",
+    "date": "2026-03-31",
+    "time": "11:20",
+    "total": 144,
+    "available": 144,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 220,
+    "last_updated": "2026-03-23 03:05:04 PM IST"
   }
 ]

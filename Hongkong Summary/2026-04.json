@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 362,
-    "gross": 83260,
+    "sold": 363,
+    "gross": 83490,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -28,8 +28,8 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 87,
-        "gross": 20010
+        "sold": 88,
+        "gross": 20240
       },
       "2026-04-05": {
         "shows": 1,
@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 32,
-    "gross": 3040,
+    "sold": 34,
+    "gross": 3230,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 14,
+        "gross": 1330
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 488,
-    "gross": 48915,
+    "sold": 498,
+    "gross": 49970,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 49,
-        "gross": 5110
+        "sold": 51,
+        "gross": 5300
       },
       "2026-04-02": {
         "shows": 1,
@@ -124,14 +124,14 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 65,
-        "gross": 6175
+        "sold": 66,
+        "gross": 6270
       },
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 11,
-        "gross": 1430
+        "sold": 14,
+        "gross": 1820
       },
       "2026-04-11": {
         "shows": 1,
@@ -142,8 +142,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 67,
-        "gross": 6365
+        "sold": 71,
+        "gross": 6745
       }
     }
   },
@@ -309,6 +309,20 @@
       }
     }
   },
+  "Power To The People: John & Yoko Live in NYC (2026)": {
+    "shows": 1,
+    "seats": 144,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-29": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Life is Climbing(bcDocs)": {
     "shows": 1,
     "seats": 119,
@@ -340,20 +354,34 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1896,
-    "gross": 682560,
+    "sold": 1900,
+    "gross": 684000,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 428,
-        "gross": 154080
+        "sold": 432,
+        "gross": 155520
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
         "sold": 1468,
         "gross": 528480
+      }
+    }
+  },
+  "Farewell to my Concubine (4K Restored Version)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-12": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -374,14 +402,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 844,
-    "gross": 303840,
+    "sold": 848,
+    "gross": 305280,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 844,
-        "gross": 303840
+        "sold": 848,
+        "gross": 305280
       }
     }
   },
@@ -444,14 +472,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1015,
-    "gross": 334950,
+    "sold": 1020,
+    "gross": 336600,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1015,
-        "gross": 334950
+        "sold": 1020,
+        "gross": 336600
       }
     }
   }

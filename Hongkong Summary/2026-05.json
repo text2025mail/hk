@@ -19,6 +19,20 @@
       }
     }
   },
+  "Power To The People: John & Yoko Live in NYC (2026)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
@@ -42,14 +56,14 @@
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 5,
-    "gross": 650,
+    "sold": 7,
+    "gross": 910,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 5,
-        "gross": 650
+        "sold": 7,
+        "gross": 910
       }
     }
   },
