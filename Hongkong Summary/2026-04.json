@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 34,
-    "gross": 3230,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 12,
+        "gross": 1140
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 498,
-    "gross": 49970,
+    "sold": 496,
+    "gross": 49710,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -130,8 +130,8 @@
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 14,
-        "gross": 1820
+        "sold": 12,
+        "gross": 1560
       },
       "2026-04-11": {
         "shows": 1,
@@ -354,14 +354,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1900,
-    "gross": 684000,
+    "sold": 1897,
+    "gross": 682920,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 432,
-        "gross": 155520
+        "sold": 429,
+        "gross": 154440
       },
       "2026-04-11": {
         "shows": 10,
@@ -472,14 +472,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1020,
-    "gross": 336600,
+    "sold": 1019,
+    "gross": 336270,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1020,
-        "gross": 336600
+        "sold": 1019,
+        "gross": 336270
       }
     }
   }
