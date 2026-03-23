@@ -48,20 +48,20 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 39,
-    "gross": 3705,
+    "sold": 36,
+    "gross": 3420,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 14,
+        "gross": 1330
       },
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 24,
-        "gross": 2280
+        "sold": 22,
+        "gross": 2090
       }
     }
   },
@@ -354,14 +354,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1910,
-    "gross": 687600,
+    "sold": 1909,
+    "gross": 687240,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 435,
-        "gross": 156600
+        "sold": 434,
+        "gross": 156240
       },
       "2026-04-11": {
         "shows": 10,
@@ -402,14 +402,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 851,
-    "gross": 306360,
+    "sold": 849,
+    "gross": 305640,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 851,
-        "gross": 306360
+        "sold": 849,
+        "gross": 305640
       }
     }
   },
@@ -472,28 +472,28 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 321,
-    "gross": 108498,
+    "sold": 302,
+    "gross": 102076,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 321,
-        "gross": 108498
+        "sold": 302,
+        "gross": 102076
       }
     }
   },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1023,
-    "gross": 337590,
+    "sold": 1021,
+    "gross": 336930,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1023,
-        "gross": 337590
+        "sold": 1021,
+        "gross": 336930
       }
     }
   }
