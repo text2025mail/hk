@@ -16,8 +16,8 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 364,
-    "gross": 83720,
+    "sold": 366,
+    "gross": 84180,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -34,8 +34,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 93,
-        "gross": 21390
+        "sold": 95,
+        "gross": 21850
       },
       "2026-04-10": {
         "shows": 1,
@@ -48,20 +48,20 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 34,
-    "gross": 3230,
+    "sold": 37,
+    "gross": 3515,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 15,
+        "gross": 1425
       },
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 22,
+        "gross": 2090
       }
     }
   },
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 505,
-    "gross": 50670,
+    "sold": 509,
+    "gross": 51050,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -112,8 +112,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 77,
-        "gross": 7315
+        "sold": 78,
+        "gross": 7410
       },
       "2026-04-03": {
         "shows": 1,
@@ -142,8 +142,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 6935
+        "sold": 76,
+        "gross": 7220
       }
     }
   },
@@ -354,14 +354,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1909,
-    "gross": 687240,
+    "sold": 1910,
+    "gross": 687600,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 434,
-        "gross": 156240
+        "sold": 435,
+        "gross": 156600
       },
       "2026-04-11": {
         "shows": 10,
@@ -402,14 +402,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 848,
-    "gross": 305280,
+    "sold": 851,
+    "gross": 306360,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 848,
-        "gross": 305280
+        "sold": 851,
+        "gross": 306360
       }
     }
   },
@@ -472,14 +472,14 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 294,
-    "gross": 99372,
+    "sold": 314,
+    "gross": 106132,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 294,
-        "gross": 99372
+        "sold": 314,
+        "gross": 106132
       }
     }
   },
