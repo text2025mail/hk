@@ -11,7 +11,7 @@
     "sold": 89,
     "gross": 37380,
     "price": 420,
-    "last_updated": "2026-03-23 10:21:55 PM IST"
+    "last_updated": "2026-03-23 11:16:02 PM IST"
   },
   {
     "perfIx": 65360,
@@ -25,7 +25,7 @@
     "sold": 58,
     "gross": 12760,
     "price": 220,
-    "last_updated": "2026-03-23 10:21:55 PM IST"
+    "last_updated": "2026-03-23 11:16:02 PM IST"
   },
   {
     "perfIx": 61377,
@@ -39,7 +39,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-03-23 10:21:55 PM IST"
+    "last_updated": "2026-03-23 11:16:02 PM IST"
   },
   {
     "perfIx": 72662,
@@ -53,7 +53,7 @@
     "sold": 0,
     "gross": 0,
     "price": 220,
-    "last_updated": "2026-03-23 10:21:55 PM IST"
+    "last_updated": "2026-03-23 11:16:02 PM IST"
   },
   {
     "perfIx": 73116,
@@ -67,6 +67,20 @@
     "sold": 0,
     "gross": 0,
     "price": 220,
-    "last_updated": "2026-03-23 10:21:55 PM IST"
+    "last_updated": "2026-03-23 11:16:02 PM IST"
+  },
+  {
+    "perfIx": 73930,
+    "movie": "Pulp Fiction (4K Restoration)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "08:45",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 120,
+    "last_updated": "2026-03-23 11:16:02 PM IST"
   }
 ]
