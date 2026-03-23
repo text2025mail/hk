@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 518,
-    "gross": 52045,
+    "sold": 519,
+    "gross": 52140,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -142,8 +142,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 76,
-        "gross": 7220
+        "sold": 77,
+        "gross": 7315
       }
     }
   },
@@ -176,8 +176,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 411,
-    "gross": 172620,
+    "sold": 412,
+    "gross": 173040,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -188,8 +188,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 191,
-        "sold": 143,
-        "gross": 60060
+        "sold": 144,
+        "gross": 60480
       },
       "2026-04-03": {
         "shows": 1,
@@ -326,14 +326,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 130,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 130
       }
     }
   },
@@ -498,28 +498,28 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 360,
-    "gross": 121680,
+    "sold": 375,
+    "gross": 126750,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 360,
-        "gross": 121680
+        "sold": 375,
+        "gross": 126750
       }
     }
   },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1023,
-    "gross": 337590,
+    "sold": 1024,
+    "gross": 337920,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1023,
-        "gross": 337590
+        "sold": 1024,
+        "gross": 337920
       }
     }
   }
