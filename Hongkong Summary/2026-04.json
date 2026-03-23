@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 2,
     "seats": 238,
-    "sold": 32,
-    "gross": 3040,
+    "sold": 34,
+    "gross": 3230,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 14,
+        "gross": 1330
       },
       "2026-04-05": {
         "shows": 1,
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 496,
-    "gross": 49710,
+    "sold": 500,
+    "gross": 50160,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 51,
-        "gross": 5300
+        "sold": 52,
+        "gross": 5395
       },
       "2026-04-02": {
         "shows": 1,
@@ -124,14 +124,14 @@
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 6270
+        "sold": 67,
+        "gross": 6365
       },
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 12,
-        "gross": 1560
+        "sold": 14,
+        "gross": 1820
       },
       "2026-04-11": {
         "shows": 1,
@@ -354,20 +354,20 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1897,
-    "gross": 682920,
+    "sold": 1908,
+    "gross": 686880,
     "dates": {
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 429,
-        "gross": 154440
+        "sold": 434,
+        "gross": 156240
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1468,
-        "gross": 528480
+        "sold": 1474,
+        "gross": 530640
       }
     }
   },
@@ -430,28 +430,28 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 18,
-    "gross": 2340,
+    "sold": 20,
+    "gross": 2600,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 18,
-        "gross": 2340
+        "sold": 20,
+        "gross": 2600
       }
     }
   },
   "Pulp Fiction (4K Restoration)": {
     "shows": 1,
     "seats": 81,
-    "sold": 36,
-    "gross": 5040,
+    "sold": 37,
+    "gross": 5180,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 36,
-        "gross": 5040
+        "sold": 37,
+        "gross": 5180
       }
     }
   },
@@ -469,17 +469,31 @@
       }
     }
   },
+  "SIRAT-DE CLUB": {
+    "shows": 4,
+    "seats": 476,
+    "sold": 241,
+    "gross": 81458,
+    "dates": {
+      "2026-04-11": {
+        "shows": 4,
+        "seats": 476,
+        "sold": 241,
+        "gross": 81458
+      }
+    }
+  },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1019,
-    "gross": 336270,
+    "sold": 1021,
+    "gross": 336930,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1019,
-        "gross": 336270
+        "sold": 1021,
+        "gross": 336930
       }
     }
   }
