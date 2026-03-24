@@ -56,28 +56,28 @@
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 7,
-    "gross": 910,
+    "sold": 10,
+    "gross": 1300,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 7,
-        "gross": 910
+        "sold": 10,
+        "gross": 1300
       }
     }
   },
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 4,
-    "gross": 380,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 6,
+        "gross": 570
       }
     }
   },
