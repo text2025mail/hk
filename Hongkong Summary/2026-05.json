@@ -22,14 +22,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
-    "sold": 2,
-    "gross": 260,
+    "sold": 0,
+    "gross": 0,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 127,
-        "sold": 2,
-        "gross": 260
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -104,14 +104,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 52,
-    "gross": 4940,
+    "sold": 51,
+    "gross": 4845,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 52,
-        "gross": 4940
+        "sold": 51,
+        "gross": 4845
       }
     }
   },
