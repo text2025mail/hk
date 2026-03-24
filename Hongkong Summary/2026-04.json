@@ -286,8 +286,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 528,
-    "gross": 53100,
+    "sold": 529,
+    "gross": 53230,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -304,8 +304,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 94,
-        "sold": 7,
-        "gross": 910
+        "sold": 8,
+        "gross": 1040
       },
       "2026-04-08": {
         "shows": 2,
@@ -740,14 +740,14 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1033,
-    "gross": 340890,
+    "sold": 1034,
+    "gross": 341220,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1033,
-        "gross": 340890
+        "sold": 1034,
+        "gross": 341220
       }
     }
   }
