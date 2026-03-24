@@ -2,14 +2,14 @@
   "Love after Love(bcSunday)": {
     "shows": 1,
     "seats": 127,
-    "sold": 38,
-    "gross": 3610,
+    "sold": 39,
+    "gross": 3705,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 127,
-        "sold": 38,
-        "gross": 3610
+        "sold": 39,
+        "gross": 3705
       }
     }
   },
@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 520,
-    "gross": 52270,
+    "sold": 521,
+    "gross": 52365,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 55,
-        "gross": 5680
+        "sold": 56,
+        "gross": 5775
       },
       "2026-04-02": {
         "shows": 1,
@@ -374,14 +374,14 @@
       "2026-04-12": {
         "shows": 6,
         "seats": 965,
-        "sold": 437,
-        "gross": 157320
+        "sold": 438,
+        "gross": 157680
       },
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1477,
-        "gross": 531720
+        "sold": 1476,
+        "gross": 531360
       }
     }
   },
@@ -498,14 +498,14 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 393,
-    "gross": 132834,
+    "sold": 397,
+    "gross": 134186,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 393,
-        "gross": 132834
+        "sold": 397,
+        "gross": 134186
       }
     }
   },
