@@ -88,8 +88,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 521,
-    "gross": 52365,
+    "sold": 522,
+    "gross": 52495,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -130,8 +130,8 @@
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 14,
-        "gross": 1820
+        "sold": 15,
+        "gross": 1950
       },
       "2026-04-11": {
         "shows": 1,
@@ -176,14 +176,14 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 413,
-    "gross": 173460,
+    "sold": 414,
+    "gross": 173880,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 261,
-        "sold": 78,
-        "gross": 32760
+        "sold": 79,
+        "gross": 33180
       },
       "2026-04-05": {
         "shows": 1,
@@ -326,14 +326,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 2,
-    "gross": 260,
+    "sold": 4,
+    "gross": 520,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 2,
-        "gross": 260
+        "sold": 4,
+        "gross": 520
       }
     }
   },
@@ -498,28 +498,28 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 399,
-    "gross": 134862,
+    "sold": 400,
+    "gross": 135200,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 399,
-        "gross": 134862
+        "sold": 400,
+        "gross": 135200
       }
     }
   },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1029,
-    "gross": 339570,
+    "sold": 1030,
+    "gross": 339900,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1029,
-        "gross": 339570
+        "sold": 1030,
+        "gross": 339900
       }
     }
   }
