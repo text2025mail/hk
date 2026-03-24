@@ -65,6 +65,130 @@
       }
     }
   },
+  "The Super Mario Galaxy Movie(English Version)": {
+    "shows": 14,
+    "seats": 3822,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 4,
+        "seats": 1092,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-02": {
+        "shows": 4,
+        "seats": 1092,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-03": {
+        "shows": 4,
+        "seats": 1092,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-04": {
+        "shows": 2,
+        "seats": 546,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
+  "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
+    "shows": 19,
+    "seats": 5510,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 7,
+        "seats": 2030,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-03": {
+        "shows": 8,
+        "seats": 2320,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-04": {
+        "shows": 4,
+        "seats": 1160,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
+  "The Super Mario Galaxy Movie(Cantonese Version) ": {
+    "shows": 80,
+    "seats": 17236,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 17,
+        "seats": 3675,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-05": {
+        "shows": 8,
+        "seats": 1720,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-02": {
+        "shows": 17,
+        "seats": 3675,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-03": {
+        "shows": 20,
+        "seats": 4356,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-04-04": {
+        "shows": 18,
+        "seats": 3810,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
+  "4DX The Super Mario Galaxy Movie(English Version) ": {
+    "shows": 2,
+    "seats": 104,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 2,
+        "seats": 104,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
+  "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
+    "shows": 3,
+    "seats": 156,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-04-01": {
+        "shows": 3,
+        "seats": 156,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
@@ -88,8 +212,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 10,
     "seats": 1084,
-    "sold": 522,
-    "gross": 52495,
+    "sold": 524,
+    "gross": 52685,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -106,8 +230,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 56,
-        "gross": 5775
+        "sold": 57,
+        "gross": 5870
       },
       "2026-04-02": {
         "shows": 1,
@@ -142,8 +266,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 77,
-        "gross": 7315
+        "sold": 78,
+        "gross": 7410
       }
     }
   },
@@ -176,8 +300,8 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 414,
-    "gross": 173880,
+    "sold": 415,
+    "gross": 174300,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -200,8 +324,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 261,
-        "sold": 89,
-        "gross": 37380
+        "sold": 90,
+        "gross": 37800
       }
     }
   },
@@ -340,14 +464,14 @@
   "Life is Climbing(bcDocs)": {
     "shows": 1,
     "seats": 119,
-    "sold": 1,
-    "gross": 95,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -484,42 +608,42 @@
   "OTHELLO (2026)": {
     "shows": 1,
     "seats": 81,
-    "sold": 37,
-    "gross": 9250,
+    "sold": 38,
+    "gross": 9500,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 37,
-        "gross": 9250
+        "sold": 38,
+        "gross": 9500
       }
     }
   },
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 400,
-    "gross": 135200,
+    "sold": 403,
+    "gross": 136214,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 400,
-        "gross": 135200
+        "sold": 403,
+        "gross": 136214
       }
     }
   },
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1030,
-    "gross": 339900,
+    "sold": 1032,
+    "gross": 340560,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1030,
-        "gross": 339900
+        "sold": 1032,
+        "gross": 340560
       }
     }
   }
