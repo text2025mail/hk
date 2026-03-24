@@ -2716,8 +2716,8 @@
   "Wuthering Heights": {
     "shows": 37,
     "seats": 2688,
-    "sold": 230,
-    "gross": 26240,
+    "sold": 232,
+    "gross": 26460,
     "dates": {
       "2026-03-14": {
         "shows": 4,
@@ -2764,8 +2764,8 @@
       "2026-03-27": {
         "shows": 2,
         "seats": 78,
-        "sold": 2,
-        "gross": 260
+        "sold": 4,
+        "gross": 480
       },
       "2026-03-23": {
         "shows": 2,
@@ -3568,8 +3568,8 @@
   "IMAX Project Hail Mary": {
     "shows": 88,
     "seats": 30109,
-    "sold": 1655,
-    "gross": 286925,
+    "sold": 1657,
+    "gross": 287285,
     "dates": {
       "2026-03-26": {
         "shows": 10,
@@ -3622,22 +3622,22 @@
       "2026-03-25": {
         "shows": 10,
         "seats": 3405,
-        "sold": 80,
-        "gross": 14190
+        "sold": 82,
+        "gross": 14550
       }
     }
   },
   "Project Hail Mary": {
     "shows": 351,
     "seats": 67947,
-    "sold": 2392,
-    "gross": 299945,
+    "sold": 2395,
+    "gross": 300325,
     "dates": {
       "2026-03-26": {
         "shows": 31,
         "seats": 6026,
-        "sold": 30,
-        "gross": 3460
+        "sold": 32,
+        "gross": 3760
       },
       "2026-03-22": {
         "shows": 44,
@@ -3684,8 +3684,8 @@
       "2026-03-25": {
         "shows": 37,
         "seats": 7118,
-        "sold": 110,
-        "gross": 12920
+        "sold": 111,
+        "gross": 13000
       }
     }
   },
@@ -3774,8 +3774,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 77,
     "seats": 19860,
-    "sold": 586,
-    "gross": 59045,
+    "sold": 588,
+    "gross": 59205,
     "dates": {
       "2026-03-26": {
         "shows": 11,
@@ -3798,8 +3798,8 @@
       "2026-03-27": {
         "shows": 11,
         "seats": 2946,
-        "sold": 11,
-        "gross": 1160
+        "sold": 13,
+        "gross": 1320
       },
       "2026-03-23": {
         "shows": 12,
@@ -4436,14 +4436,14 @@
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 75,
-    "gross": 7125,
+    "sold": 76,
+    "gross": 7220,
     "dates": {
       "2026-03-29": {
         "shows": 2,
         "seats": 238,
-        "sold": 75,
-        "gross": 7125
+        "sold": 76,
+        "gross": 7220
       }
     }
   },
@@ -4488,20 +4488,20 @@
   "AOT: THE LAST ATTACK Eren\u2019s Birthday Screening": {
     "shows": 3,
     "seats": 494,
-    "sold": 227,
-    "gross": 39725,
+    "sold": 231,
+    "gross": 40425,
     "dates": {
       "2026-03-29": {
         "shows": 2,
         "seats": 338,
-        "sold": 152,
-        "gross": 26600
+        "sold": 155,
+        "gross": 27125
       },
       "2026-03-30": {
         "shows": 1,
         "seats": 156,
-        "sold": 75,
-        "gross": 13125
+        "sold": 76,
+        "gross": 13300
       }
     }
   },
@@ -4828,14 +4828,14 @@
   "Sentimental Value (CTTA 2026)": {
     "shows": 1,
     "seats": 115,
-    "sold": 17,
-    "gross": 2210,
+    "sold": 19,
+    "gross": 2470,
     "dates": {
       "2026-03-25": {
         "shows": 1,
         "seats": 115,
-        "sold": 17,
-        "gross": 2210
+        "sold": 19,
+        "gross": 2470
       }
     }
   }

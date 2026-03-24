@@ -286,8 +286,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 533,
-    "gross": 53645,
+    "sold": 534,
+    "gross": 53775,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -340,8 +340,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 50,
-        "gross": 6500
+        "sold": 51,
+        "gross": 6630
       },
       "2026-04-04": {
         "shows": 1,
@@ -698,14 +698,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 22,
-    "gross": 2860,
+    "sold": 23,
+    "gross": 2990,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 22,
-        "gross": 2860
+        "sold": 23,
+        "gross": 2990
       }
     }
   },
