@@ -150,8 +150,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 80,
     "seats": 17236,
-    "sold": 8,
-    "gross": 760,
+    "sold": 12,
+    "gross": 1080,
     "dates": {
       "2026-04-01": {
         "shows": 17,
@@ -174,8 +174,8 @@
       "2026-04-03": {
         "shows": 20,
         "seats": 4356,
-        "sold": 2,
-        "gross": 160
+        "sold": 6,
+        "gross": 480
       },
       "2026-04-04": {
         "shows": 18,
@@ -228,14 +228,14 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 4,
-    "gross": 340,
+    "sold": 7,
+    "gross": 670,
     "dates": {
       "2026-04-01": {
         "shows": 6,
         "seats": 1861,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 330
       },
       "2026-04-05": {
         "shows": 7,
@@ -554,14 +554,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },

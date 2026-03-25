@@ -2,8 +2,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 849,
     "seats": 157516,
-    "sold": 12407,
-    "gross": 1106915,
+    "sold": 12408,
+    "gross": 1106975,
     "dates": {
       "2026-03-14": {
         "shows": 84,
@@ -98,8 +98,8 @@
       "2026-03-25": {
         "shows": 43,
         "seats": 7099,
-        "sold": 101,
-        "gross": 8865
+        "sold": 102,
+        "gross": 8925
       }
     }
   },
@@ -700,8 +700,8 @@
   "Hoppers(English Version)": {
     "shows": 579,
     "seats": 81185,
-    "sold": 7645,
-    "gross": 783490,
+    "sold": 7649,
+    "gross": 783930,
     "dates": {
       "2026-03-14": {
         "shows": 68,
@@ -760,8 +760,8 @@
       "2026-03-27": {
         "shows": 22,
         "seats": 2621,
-        "sold": 32,
-        "gross": 3680
+        "sold": 36,
+        "gross": 4120
       },
       "2026-03-23": {
         "shows": 26,
@@ -896,8 +896,8 @@
   "HAMNET": {
     "shows": 285,
     "seats": 29766,
-    "sold": 2594,
-    "gross": 251010,
+    "sold": 2595,
+    "gross": 251070,
     "dates": {
       "2026-03-14": {
         "shows": 22,
@@ -986,8 +986,8 @@
       "2026-03-25": {
         "shows": 16,
         "seats": 1408,
-        "sold": 45,
-        "gross": 4685
+        "sold": 46,
+        "gross": 4745
       }
     }
   },
@@ -3130,8 +3130,8 @@
   "THE PHANTOM OF THE OPERA LIVE": {
     "shows": 2,
     "seats": 162,
-    "sold": 131,
-    "gross": 19250,
+    "sold": 132,
+    "gross": 19380,
     "dates": {
       "2026-03-28": {
         "shows": 1,
@@ -3142,8 +3142,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 74,
-        "sold": 57,
-        "gross": 7410
+        "sold": 58,
+        "gross": 7540
       }
     }
   },
@@ -3486,8 +3486,8 @@
   "Ready Or Not 2: Here I Come": {
     "shows": 85,
     "seats": 13203,
-    "sold": 60,
-    "gross": 5150,
+    "sold": 61,
+    "gross": 5210,
     "dates": {
       "2026-03-26": {
         "shows": 46,
@@ -3498,8 +3498,8 @@
       "2026-03-27": {
         "shows": 39,
         "seats": 6160,
-        "sold": 20,
-        "gross": 1885
+        "sold": 21,
+        "gross": 1945
       }
     }
   },
@@ -3692,8 +3692,8 @@
   "THEY WILL KILL YOU": {
     "shows": 31,
     "seats": 4596,
-    "sold": 9,
-    "gross": 845,
+    "sold": 10,
+    "gross": 905,
     "dates": {
       "2026-03-26": {
         "shows": 16,
@@ -3704,8 +3704,8 @@
       "2026-03-27": {
         "shows": 15,
         "seats": 2240,
-        "sold": 4,
-        "gross": 430
+        "sold": 5,
+        "gross": 490
       }
     }
   },
@@ -4638,8 +4638,8 @@
   "Labyrinth": {
     "shows": 65,
     "seats": 6896,
-    "sold": 25,
-    "gross": 2190,
+    "sold": 27,
+    "gross": 2410,
     "dates": {
       "2026-03-22": {
         "shows": 7,
@@ -4680,8 +4680,8 @@
       "2026-03-25": {
         "shows": 8,
         "seats": 779,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 220
       }
     }
   },
