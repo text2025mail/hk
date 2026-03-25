@@ -48,14 +48,14 @@
   "The Worst Person In The World": {
     "shows": 4,
     "seats": 476,
-    "sold": 42,
-    "gross": 3990,
+    "sold": 43,
+    "gross": 4085,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 16,
+        "gross": 1520
       },
       "2026-04-05": {
         "shows": 1,
@@ -80,8 +80,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 18,
     "seats": 4410,
-    "sold": 7,
-    "gross": 580,
+    "sold": 8,
+    "gross": 640,
     "dates": {
       "2026-04-01": {
         "shows": 4,
@@ -92,8 +92,8 @@
       "2026-04-02": {
         "shows": 4,
         "seats": 1092,
-        "sold": 3,
-        "gross": 180
+        "sold": 4,
+        "gross": 240
       },
       "2026-04-03": {
         "shows": 4,
@@ -112,14 +112,14 @@
   "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
     "shows": 30,
     "seats": 8584,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 240,
     "dates": {
       "2026-04-01": {
         "shows": 7,
         "seats": 2030,
-        "sold": 0,
-        "gross": 0
+        "sold": 4,
+        "gross": 240
       },
       "2026-04-05": {
         "shows": 1,
@@ -150,8 +150,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 113,
     "seats": 25519,
-    "sold": 8,
-    "gross": 760,
+    "sold": 25,
+    "gross": 1860,
     "dates": {
       "2026-04-01": {
         "shows": 23,
@@ -174,8 +174,8 @@
       "2026-04-03": {
         "shows": 27,
         "seats": 6113,
-        "sold": 2,
-        "gross": 160
+        "sold": 19,
+        "gross": 1260
       },
       "2026-04-04": {
         "shows": 25,
@@ -228,14 +228,14 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 4,
-    "gross": 340,
+    "sold": 7,
+    "gross": 670,
     "dates": {
       "2026-04-01": {
         "shows": 6,
         "seats": 1861,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 330
       },
       "2026-04-05": {
         "shows": 7,
@@ -266,14 +266,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 137,
-    "gross": 13015,
+    "sold": 138,
+    "gross": 13110,
     "dates": {
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 65,
-        "gross": 6175
+        "sold": 66,
+        "gross": 6270
       },
       "2026-04-26": {
         "shows": 1,
@@ -286,8 +286,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 533,
-    "gross": 53645,
+    "sold": 534,
+    "gross": 53775,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -340,8 +340,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 50,
-        "gross": 6500
+        "sold": 51,
+        "gross": 6630
       },
       "2026-04-04": {
         "shows": 1,
@@ -386,14 +386,14 @@
   "\u201cKill Bill: The Whole Bloody Affair\u201d Death List Special Screening": {
     "shows": 4,
     "seats": 869,
-    "sold": 420,
-    "gross": 176400,
+    "sold": 421,
+    "gross": 176820,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 261,
-        "sold": 81,
-        "gross": 34020
+        "sold": 82,
+        "gross": 34440
       },
       "2026-04-05": {
         "shows": 1,
@@ -554,14 +554,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
@@ -658,14 +658,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 857,
-    "gross": 308520,
+    "sold": 858,
+    "gross": 308880,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 857,
-        "gross": 308520
+        "sold": 858,
+        "gross": 308880
       }
     }
   },
@@ -712,14 +712,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 22,
-    "gross": 2860,
+    "sold": 23,
+    "gross": 2990,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 22,
-        "gross": 2860
+        "sold": 23,
+        "gross": 2990
       }
     }
   },
