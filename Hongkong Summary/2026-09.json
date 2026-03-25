@@ -2,8 +2,8 @@
   "Tchaikovsky\u2019s Eugene Onegin (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 10,
-    "gross": 3500,
+    "sold": 8,
+    "gross": 2800,
     "dates": {
       "2026-09-27": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-09-06": {
         "shows": 1,
         "seats": 81,
-        "sold": 8,
-        "gross": 2800
+        "sold": 6,
+        "gross": 2100
       }
     }
   }
