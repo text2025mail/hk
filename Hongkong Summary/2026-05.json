@@ -36,14 +36,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 4,
-    "gross": 880,
+    "sold": 6,
+    "gross": 1320,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 4,
-        "gross": 880
+        "sold": 6,
+        "gross": 1320
       },
       "2026-05-16": {
         "shows": 1,
@@ -70,14 +70,14 @@
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       }
     }
   },
@@ -118,14 +118,14 @@
   "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
     "seats": 81,
-    "sold": 6,
-    "gross": 1740,
+    "sold": 7,
+    "gross": 2030,
     "dates": {
       "2026-05-31": {
         "shows": 1,
         "seats": 81,
-        "sold": 6,
-        "gross": 1740
+        "sold": 7,
+        "gross": 2030
       }
     }
   }
