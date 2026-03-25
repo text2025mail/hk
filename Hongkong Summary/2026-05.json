@@ -1,103 +1,35 @@
 {
-  "Bellini\u2019s I Puritani (The Met 2026)": {
-    "shows": 2,
-    "seats": 139,
-    "sold": 18,
-    "gross": 5220,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 10,
-        "gross": 2900
-      },
-      "2026-05-17": {
-        "shows": 1,
-        "seats": 58,
-        "sold": 8,
-        "gross": 2320
-      }
-    }
-  },
-  "Power To The People: John & Yoko Live in NYC (2026)": {
-    "shows": 1,
-    "seats": 127,
-    "sold": 6,
-    "gross": 780,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 6,
-        "gross": 780
-      }
-    }
-  },
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
     "sold": 6,
     "gross": 1320,
     "dates": {
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 6,
-        "gross": 1320
-      },
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
         "sold": 0,
         "gross": 0
-      }
-    }
-  },
-  "The Nutcracker (Paris Opera Ballet 2026) ": {
-    "shows": 1,
-    "seats": 58,
-    "sold": 10,
-    "gross": 1300,
-    "dates": {
-      "2026-05-17": {
+      },
+      "2026-05-30": {
         "shows": 1,
-        "seats": 58,
-        "sold": 10,
-        "gross": 1300
+        "seats": 81,
+        "sold": 6,
+        "gross": 1320
       }
     }
   },
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
-      }
-    }
-  },
-  "Michelangelo - Love & Death (EOS 2025)": {
-    "shows": 2,
-    "seats": 162,
-    "sold": 1,
-    "gross": 130,
-    "dates": {
-      "2026-05-23": {
-        "shows": 1,
-        "seats": 74,
-        "sold": 0,
-        "gross": 0
-      },
-      "2026-05-31": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 1,
-        "gross": 130
+        "sold": 8,
+        "gross": 760
       }
     }
   },
@@ -115,6 +47,40 @@
       }
     }
   },
+  "The Nutcracker (Paris Opera Ballet 2026) ": {
+    "shows": 1,
+    "seats": 58,
+    "sold": 10,
+    "gross": 1300,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 10,
+        "gross": 1300
+      }
+    }
+  },
+  "Bellini\u2019s I Puritani (The Met 2026)": {
+    "shows": 2,
+    "seats": 139,
+    "sold": 18,
+    "gross": 5220,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 8,
+        "gross": 2320
+      },
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 10,
+        "gross": 2900
+      }
+    }
+  },
   "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
     "seats": 81,
@@ -126,6 +92,40 @@
         "seats": 81,
         "sold": 7,
         "gross": 2030
+      }
+    }
+  },
+  "Michelangelo - Love & Death (EOS 2025)": {
+    "shows": 2,
+    "seats": 162,
+    "sold": 1,
+    "gross": 130,
+    "dates": {
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 1,
+        "gross": 130
+      },
+      "2026-05-23": {
+        "shows": 1,
+        "seats": 74,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
+  "Power To The People: John & Yoko Live in NYC (2026)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 6,
+    "gross": 780,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 6,
+        "gross": 780
       }
     }
   }
