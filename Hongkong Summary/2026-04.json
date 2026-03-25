@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 4,
     "seats": 476,
-    "sold": 45,
-    "gross": 4275,
+    "sold": 47,
+    "gross": 4465,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -66,34 +66,34 @@
       "2026-04-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       },
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 60,
     "seats": 11244,
-    "sold": 58,
-    "gross": 4845,
+    "sold": 72,
+    "gross": 6425,
     "dates": {
       "2026-04-01": {
         "shows": 17,
         "seats": 3224,
-        "sold": 22,
-        "gross": 1840
+        "sold": 28,
+        "gross": 2620
       },
       "2026-04-02": {
         "shows": 17,
         "seats": 3224,
-        "sold": 4,
-        "gross": 240
+        "sold": 8,
+        "gross": 640
       },
       "2026-04-03": {
         "shows": 16,
@@ -104,22 +104,22 @@
       "2026-04-04": {
         "shows": 10,
         "seats": 1718,
-        "sold": 7,
-        "gross": 460
+        "sold": 11,
+        "gross": 860
       }
     }
   },
   "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
     "shows": 30,
     "seats": 8584,
-    "sold": 12,
-    "gross": 880,
+    "sold": 14,
+    "gross": 1080,
     "dates": {
       "2026-04-01": {
         "shows": 7,
         "seats": 2030,
-        "sold": 4,
-        "gross": 240
+        "sold": 6,
+        "gross": 440
       },
       "2026-04-05": {
         "shows": 1,
@@ -150,8 +150,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 113,
     "seats": 25519,
-    "sold": 65,
-    "gross": 4715,
+    "sold": 75,
+    "gross": 5315,
     "dates": {
       "2026-04-01": {
         "shows": 23,
@@ -162,8 +162,8 @@
       "2026-04-05": {
         "shows": 15,
         "seats": 3477,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 180
       },
       "2026-04-02": {
         "shows": 23,
@@ -174,14 +174,14 @@
       "2026-04-03": {
         "shows": 27,
         "seats": 6113,
-        "sold": 31,
-        "gross": 2365
+        "sold": 35,
+        "gross": 2605
       },
       "2026-04-04": {
         "shows": 25,
         "seats": 5567,
-        "sold": 4,
-        "gross": 240
+        "sold": 7,
+        "gross": 420
       }
     }
   },
@@ -326,8 +326,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 548,
-    "gross": 55350,
+    "sold": 551,
+    "gross": 55635,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -350,8 +350,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 59,
-        "gross": 6060
+        "sold": 60,
+        "gross": 6155
       },
       "2026-04-02": {
         "shows": 1,
@@ -392,8 +392,8 @@
       "2026-04-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       }
     }
   },
@@ -548,14 +548,14 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 2,
-    "gross": 260,
+    "sold": 3,
+    "gross": 390,
     "dates": {
       "2026-04-24": {
         "shows": 1,
         "seats": 127,
-        "sold": 2,
-        "gross": 260
+        "sold": 3,
+        "gross": 390
       }
     }
   },
@@ -594,14 +594,14 @@
   "Two to One(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 21,
-    "gross": 1995,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 21,
-        "gross": 1995
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
@@ -636,14 +636,14 @@
   "\\": {
     "shows": 1,
     "seats": 202,
-    "sold": 54,
-    "gross": 14040,
+    "sold": 55,
+    "gross": 14300,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 202,
-        "sold": 54,
-        "gross": 14040
+        "sold": 55,
+        "gross": 14300
       }
     }
   },
@@ -664,8 +664,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1943,
-    "gross": 699480,
+    "sold": 1945,
+    "gross": 700200,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -676,8 +676,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1487,
-        "gross": 535320
+        "sold": 1489,
+        "gross": 536040
       }
     }
   },
@@ -698,14 +698,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 866,
-    "gross": 311760,
+    "sold": 869,
+    "gross": 312840,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 866,
-        "gross": 311760
+        "sold": 869,
+        "gross": 312840
       }
     }
   },
@@ -726,8 +726,8 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 3,
     "seats": 296,
-    "sold": 42,
-    "gross": 5860,
+    "sold": 44,
+    "gross": 6140,
     "dates": {
       "2026-04-18": {
         "shows": 1,
@@ -744,8 +744,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 81,
-        "sold": 40,
-        "gross": 5600
+        "sold": 42,
+        "gross": 5880
       }
     }
   },
@@ -780,14 +780,14 @@
   "SIRAT-DE CLUB": {
     "shows": 4,
     "seats": 476,
-    "sold": 413,
-    "gross": 139594,
+    "sold": 414,
+    "gross": 139932,
     "dates": {
       "2026-04-11": {
         "shows": 4,
         "seats": 476,
-        "sold": 413,
-        "gross": 139594
+        "sold": 414,
+        "gross": 139932
       }
     }
   },
