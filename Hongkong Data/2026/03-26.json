@@ -3534,12 +3534,12 @@
     "date": "2026-03-26",
     "time": "15:50",
     "total": 191,
-    "available": 187,
+    "available": 185,
     "blocked": 0,
-    "sold": 4,
-    "gross": 440,
+    "sold": 6,
+    "gross": 660,
     "price": 110,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73470,
@@ -3553,7 +3553,7 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73504,
@@ -3562,12 +3562,12 @@
     "date": "2026-03-26",
     "time": "16:00",
     "total": 202,
-    "available": 196,
+    "available": 192,
     "blocked": 0,
-    "sold": 6,
-    "gross": 660,
+    "sold": 10,
+    "gross": 1100,
     "price": 110,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73518,
@@ -3581,7 +3581,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73524,
@@ -3595,7 +3595,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73832,
@@ -5779,7 +5779,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73582,
@@ -5793,7 +5793,7 @@
     "sold": 0,
     "gross": 0,
     "price": 125,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73596,
@@ -5802,12 +5802,12 @@
     "date": "2026-03-26",
     "time": "16:15",
     "total": 70,
-    "available": 70,
+    "available": 66,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 380,
     "price": 95,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73589,
@@ -5821,7 +5821,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   },
   {
     "perfIx": 73951,
@@ -6161,16 +6161,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "Ready Or Not 2: Here I Come",
+    "movie": "Project Hail Mary(Atmos)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-26",
-    "time": "14:35",
-    "total": 260,
-    "available": 246,
+    "time": "15:35",
+    "total": 191,
+    "available": 188,
     "blocked": 0,
-    "sold": 14,
-    "gross": 1470,
-    "price": 105,
-    "last_updated": "2026-03-27 12:31:28 AM IST"
+    "sold": 3,
+    "gross": 390,
+    "price": 130,
+    "last_updated": "2026-03-27 01:30:42 AM IST"
   }
 ]
