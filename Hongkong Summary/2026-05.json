@@ -22,14 +22,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
-    "sold": 6,
-    "gross": 780,
+    "sold": 8,
+    "gross": 1040,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 127,
-        "sold": 6,
-        "gross": 780
+        "sold": 8,
+        "gross": 1040
       }
     }
   },
@@ -104,42 +104,42 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 8,
-    "gross": 1600,
+    "sold": 29,
+    "gross": 5800,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 1600
+        "sold": 29,
+        "gross": 5800
       }
     }
   },
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 54,
-    "gross": 5130,
+    "sold": 55,
+    "gross": 5225,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 54,
-        "gross": 5130
+        "sold": 55,
+        "gross": 5225
       }
     }
   },
   "Dead Poets Society(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 16,
-    "gross": 3200,
+    "sold": 59,
+    "gross": 11800,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 3200
+        "sold": 59,
+        "gross": 11800
       }
     }
   },
