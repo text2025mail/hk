@@ -84,14 +84,14 @@
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 2,
     "seats": 162,
-    "sold": 1,
-    "gross": 130,
+    "sold": 2,
+    "gross": 240,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 74,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 110
       },
       "2026-05-31": {
         "shows": 1,
@@ -104,42 +104,42 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 13,
+    "gross": 2600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 13,
+        "gross": 2600
       }
     }
   },
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 53,
-    "gross": 5035,
+    "sold": 55,
+    "gross": 5225,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 53,
-        "gross": 5035
+        "sold": 55,
+        "gross": 5225
       }
     }
   },
   "Dead Poets Society(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 4,
-    "gross": 800,
+    "sold": 22,
+    "gross": 4400,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 800
+        "sold": 22,
+        "gross": 4400
       }
     }
   },
