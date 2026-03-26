@@ -48,8 +48,8 @@
   "The Worst Person In The World": {
     "shows": 4,
     "seats": 476,
-    "sold": 47,
-    "gross": 4465,
+    "sold": 49,
+    "gross": 4655,
     "dates": {
       "2026-04-01": {
         "shows": 1,
@@ -72,22 +72,22 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       }
     }
   },
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 60,
     "seats": 11244,
-    "sold": 79,
-    "gross": 7125,
+    "sold": 97,
+    "gross": 9165,
     "dates": {
       "2026-04-01": {
         "shows": 17,
         "seats": 3224,
-        "sold": 28,
-        "gross": 2620
+        "sold": 43,
+        "gross": 4360
       },
       "2026-04-02": {
         "shows": 17,
@@ -98,8 +98,8 @@
       "2026-04-03": {
         "shows": 16,
         "seats": 3078,
-        "sold": 32,
-        "gross": 3005
+        "sold": 35,
+        "gross": 3305
       },
       "2026-04-04": {
         "shows": 10,
@@ -150,14 +150,14 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 113,
     "seats": 25519,
-    "sold": 102,
-    "gross": 7150,
+    "sold": 124,
+    "gross": 8895,
     "dates": {
       "2026-04-01": {
         "shows": 23,
         "seats": 5181,
-        "sold": 22,
-        "gross": 1560
+        "sold": 27,
+        "gross": 1920
       },
       "2026-04-05": {
         "shows": 15,
@@ -174,14 +174,14 @@
       "2026-04-03": {
         "shows": 27,
         "seats": 6113,
-        "sold": 52,
-        "gross": 3800
+        "sold": 65,
+        "gross": 4805
       },
       "2026-04-04": {
         "shows": 25,
         "seats": 5567,
-        "sold": 13,
-        "gross": 780
+        "sold": 17,
+        "gross": 1160
       }
     }
   },
@@ -228,14 +228,14 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 39,
-    "gross": 3740,
+    "sold": 45,
+    "gross": 4400,
     "dates": {
       "2026-04-01": {
         "shows": 6,
         "seats": 1861,
-        "sold": 13,
-        "gross": 1180
+        "sold": 19,
+        "gross": 1840
       },
       "2026-04-05": {
         "shows": 7,
@@ -326,8 +326,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 558,
-    "gross": 56370,
+    "sold": 561,
+    "gross": 56690,
     "dates": {
       "2026-04-07": {
         "shows": 1,
@@ -338,8 +338,8 @@
       "2026-04-15": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       },
       "2026-04-20": {
         "shows": 1,
@@ -350,8 +350,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 63,
-        "gross": 6510
+        "sold": 64,
+        "gross": 6640
       },
       "2026-04-02": {
         "shows": 1,
@@ -392,8 +392,8 @@
       "2026-04-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       }
     }
   },
@@ -478,8 +478,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 236,
-    "gross": 51920,
+    "sold": 238,
+    "gross": 52360,
     "dates": {
       "2026-04-26": {
         "shows": 1,
@@ -502,16 +502,16 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 94,
-        "sold": 29,
-        "gross": 6380
+        "sold": 31,
+        "gross": 6820
       }
     }
   },
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 7,
     "seats": 835,
-    "sold": 19,
-    "gross": 4180,
+    "sold": 20,
+    "gross": 4400,
     "dates": {
       "2026-04-26": {
         "shows": 2,
@@ -540,8 +540,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 129,
-        "sold": 2,
-        "gross": 440
+        "sold": 3,
+        "gross": 660
       }
     }
   },
@@ -608,14 +608,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 19,
-    "gross": 2470,
+    "sold": 20,
+    "gross": 2600,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 19,
-        "gross": 2470
+        "sold": 20,
+        "gross": 2600
       }
     }
   },
@@ -636,14 +636,14 @@
   "\\": {
     "shows": 1,
     "seats": 202,
-    "sold": 62,
-    "gross": 16120,
+    "sold": 63,
+    "gross": 16380,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 202,
-        "sold": 62,
-        "gross": 16120
+        "sold": 63,
+        "gross": 16380
       }
     }
   },
@@ -664,8 +664,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1953,
-    "gross": 703080,
+    "sold": 1954,
+    "gross": 703440,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -676,8 +676,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1492,
-        "gross": 537120
+        "sold": 1493,
+        "gross": 537480
       }
     }
   },
@@ -698,14 +698,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 869,
-    "gross": 312840,
+    "sold": 875,
+    "gross": 315000,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 869,
-        "gross": 312840
+        "sold": 875,
+        "gross": 315000
       }
     }
   },
@@ -726,8 +726,8 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 3,
     "seats": 296,
-    "sold": 44,
-    "gross": 6140,
+    "sold": 45,
+    "gross": 6260,
     "dates": {
       "2026-04-18": {
         "shows": 1,
@@ -738,8 +738,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 127,
-        "sold": 1,
-        "gross": 120
+        "sold": 2,
+        "gross": 240
       },
       "2026-04-11": {
         "shows": 1,
