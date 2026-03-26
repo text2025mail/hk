@@ -53,20 +53,6 @@
       }
     }
   },
-  "The Secret Life of Walter Mitty(bc X WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 84,
-    "gross": 16800,
-    "dates": {
-      "2026-06-06": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 84,
-        "gross": 16800
-      }
-    }
-  },
   "The Farewell(bc X WKF)": {
     "shows": 1,
     "seats": 119,
@@ -78,6 +64,20 @@
         "seats": 119,
         "sold": 50,
         "gross": 10000
+      }
+    }
+  },
+  "The Secret Life of Walter Mitty(bc X WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 84,
+    "gross": 16800,
+    "dates": {
+      "2026-06-06": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 84,
+        "gross": 16800
       }
     }
   },
