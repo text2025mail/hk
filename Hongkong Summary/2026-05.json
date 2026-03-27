@@ -50,14 +50,14 @@
   "Dead Poets Society(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 97,
-    "gross": 19400,
+    "sold": 92,
+    "gross": 18400,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 97,
-        "gross": 19400
+        "sold": 92,
+        "gross": 18400
       }
     }
   },
@@ -98,14 +98,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
-    "sold": 2,
-    "gross": 190,
+    "sold": 0,
+    "gross": 0,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -146,14 +146,14 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 62,
-    "gross": 12400,
+    "sold": 58,
+    "gross": 11600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 62,
-        "gross": 12400
+        "sold": 58,
+        "gross": 11600
       }
     }
   },
