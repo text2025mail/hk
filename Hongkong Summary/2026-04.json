@@ -550,8 +550,8 @@
   "Another Round(bcSunday)": {
     "shows": 2,
     "seats": 246,
-    "sold": 77,
-    "gross": 7315,
+    "sold": 78,
+    "gross": 7410,
     "dates": {
       "2026-04-05": {
         "shows": 1,
@@ -562,8 +562,8 @@
       "2026-04-08": {
         "shows": 1,
         "seats": 127,
-        "sold": 32,
-        "gross": 3040
+        "sold": 33,
+        "gross": 3135
       }
     }
   },
