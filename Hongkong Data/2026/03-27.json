@@ -2610,12 +2610,12 @@
     "date": "2026-03-27",
     "time": "15:35",
     "total": 191,
-    "available": 189,
+    "available": 187,
     "blocked": 0,
-    "sold": 2,
-    "gross": 260,
+    "sold": 4,
+    "gross": 520,
     "price": 130,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73565,
@@ -2624,12 +2624,12 @@
     "date": "2026-03-27",
     "time": "15:50",
     "total": 191,
-    "available": 189,
+    "available": 187,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73538,
@@ -2638,12 +2638,12 @@
     "date": "2026-03-27",
     "time": "16:00",
     "total": 202,
-    "available": 202,
+    "available": 197,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 550,
     "price": 110,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73552,
@@ -2657,7 +2657,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73558,
@@ -2671,7 +2671,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73625,
@@ -4631,7 +4631,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73610,
@@ -4640,12 +4640,12 @@
     "date": "2026-03-27",
     "time": "16:15",
     "total": 260,
-    "available": 260,
+    "available": 257,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 375,
     "price": 125,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73624,
@@ -4659,7 +4659,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73617,
@@ -4673,7 +4673,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   },
   {
     "perfIx": 73973,
@@ -6161,16 +6161,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "Night King",
+    "movie": "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-27",
-    "time": "12:10",
-    "total": 260,
-    "available": 228,
+    "time": "15:30",
+    "total": 121,
+    "available": 114,
     "blocked": 0,
-    "sold": 32,
-    "gross": 3360,
-    "price": 105,
-    "last_updated": "2026-03-27 09:14:59 PM IST"
+    "sold": 7,
+    "gross": 1190,
+    "price": 170,
+    "last_updated": "2026-03-27 10:15:25 PM IST"
   }
 ]
