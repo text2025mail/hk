@@ -2,8 +2,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 568,
-    "gross": 57495,
+    "sold": 569,
+    "gross": 57590,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -62,8 +62,8 @@
       "2026-04-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       },
       "2026-04-20": {
         "shows": 1,
@@ -194,14 +194,14 @@
   "Taste of Cherry(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 92,
-    "gross": 18400,
+    "sold": 94,
+    "gross": 18800,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 119,
-        "sold": 92,
-        "gross": 18400
+        "sold": 94,
+        "gross": 18800
       }
     }
   },
@@ -486,8 +486,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 63,
-    "gross": 5830,
+    "sold": 65,
+    "gross": 5950,
     "dates": {
       "2026-04-05": {
         "shows": 7,
@@ -498,8 +498,8 @@
       "2026-04-04": {
         "shows": 3,
         "seats": 960,
-        "sold": 9,
-        "gross": 890
+        "sold": 11,
+        "gross": 1010
       },
       "2026-04-03": {
         "shows": 7,
@@ -626,60 +626,60 @@
   "SUPER JUNIOR 20th Anniversary TOUR <SUPER SHOW 10> SJ-CORE in CINEMAS": {
     "shows": 8,
     "seats": 1674,
-    "sold": 1046,
-    "gross": 345180,
+    "sold": 1047,
+    "gross": 345510,
     "dates": {
       "2026-04-04": {
         "shows": 8,
         "seats": 1674,
-        "sold": 1046,
-        "gross": 345180
+        "sold": 1047,
+        "gross": 345510
       }
     }
   },
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 60,
     "seats": 11244,
-    "sold": 168,
-    "gross": 15370,
+    "sold": 181,
+    "gross": 16560,
     "dates": {
       "2026-04-04": {
         "shows": 10,
         "seats": 1718,
-        "sold": 21,
-        "gross": 1460
+        "sold": 24,
+        "gross": 1640
       },
       "2026-04-03": {
         "shows": 16,
         "seats": 3078,
-        "sold": 65,
-        "gross": 6245
+        "sold": 67,
+        "gross": 6365
       },
       "2026-04-01": {
         "shows": 17,
         "seats": 3224,
-        "sold": 62,
-        "gross": 5975
+        "sold": 67,
+        "gross": 6475
       },
       "2026-04-02": {
         "shows": 17,
         "seats": 3224,
-        "sold": 20,
-        "gross": 1690
+        "sold": 23,
+        "gross": 2080
       }
     }
   },
   "Eternal Sunshine of the Spotless Mind(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 95,
-    "gross": 19000,
+    "sold": 97,
+    "gross": 19400,
     "dates": {
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 95,
-        "gross": 19000
+        "sold": 97,
+        "gross": 19400
       }
     }
   },

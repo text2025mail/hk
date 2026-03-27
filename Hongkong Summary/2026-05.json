@@ -132,28 +132,28 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 47,
-    "gross": 9400,
+    "sold": 49,
+    "gross": 9800,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 47,
-        "gross": 9400
+        "sold": 49,
+        "gross": 9800
       }
     }
   },
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
-    "sold": 8,
-    "gross": 1040,
+    "sold": 10,
+    "gross": 1300,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 127,
-        "sold": 8,
-        "gross": 1040
+        "sold": 10,
+        "gross": 1300
       }
     }
   }
