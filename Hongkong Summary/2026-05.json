@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 6,
-    "gross": 1320,
+    "sold": 9,
+    "gross": 1980,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 660
       },
       "2026-05-30": {
         "shows": 1,
@@ -50,28 +50,28 @@
   "Dead Poets Society(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 83,
-    "gross": 16600,
+    "sold": 91,
+    "gross": 18200,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 16600
+        "sold": 91,
+        "gross": 18200
       }
     }
   },
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 10,
-    "gross": 1300,
+    "sold": 11,
+    "gross": 1430,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 10,
-        "gross": 1300
+        "sold": 11,
+        "gross": 1430
       }
     }
   },
@@ -146,28 +146,28 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 47,
-    "gross": 9400,
+    "sold": 58,
+    "gross": 11600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 47,
-        "gross": 9400
+        "sold": 58,
+        "gross": 11600
       }
     }
   },
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
-    "sold": 8,
-    "gross": 1040,
+    "sold": 10,
+    "gross": 1300,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 127,
-        "sold": 8,
-        "gross": 1040
+        "sold": 10,
+        "gross": 1300
       }
     }
   }
