@@ -2,8 +2,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 592,
-    "gross": 60020,
+    "sold": 595,
+    "gross": 60375,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 22,
-        "gross": 2860
+        "sold": 24,
+        "gross": 3120
       },
       "2026-04-11": {
         "shows": 1,
@@ -26,8 +26,8 @@
       "2026-04-15": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       },
       "2026-04-08": {
         "shows": 2,
@@ -564,8 +564,8 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 32,
     "seats": 13216,
-    "sold": 43,
-    "gross": 5600,
+    "sold": 46,
+    "gross": 5930,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -582,8 +582,8 @@
       "2026-04-03": {
         "shows": 6,
         "seats": 2478,
-        "sold": 4,
-        "gross": 560
+        "sold": 7,
+        "gross": 890
       },
       "2026-04-01": {
         "shows": 7,
@@ -886,14 +886,14 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 6,
     "seats": 450,
-    "sold": 49,
-    "gross": 8330,
+    "sold": 53,
+    "gross": 9010,
     "dates": {
       "2026-04-01": {
         "shows": 4,
         "seats": 277,
-        "sold": 37,
-        "gross": 6290
+        "sold": 41,
+        "gross": 6970
       },
       "2026-04-02": {
         "shows": 2,
@@ -960,14 +960,14 @@
   "Hoppers(Cantonese Version)": {
     "shows": 18,
     "seats": 2388,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 120,
     "dates": {
       "2026-04-01": {
         "shows": 18,
         "seats": 2388,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 120
       }
     }
   },
