@@ -28,14 +28,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 1,
     "seats": 88,
-    "sold": 2,
-    "gross": 440,
+    "sold": 1,
+    "gross": 220,
     "dates": {
       "2026-06-07": {
         "shows": 1,
         "seats": 88,
-        "sold": 2,
-        "gross": 440
+        "sold": 1,
+        "gross": 220
       }
     }
   },
@@ -53,20 +53,6 @@
       }
     }
   },
-  "The Farewell(bc X WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 51,
-    "gross": 10200,
-    "dates": {
-      "2026-06-20": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 51,
-        "gross": 10200
-      }
-    }
-  },
   "The Secret Life of Walter Mitty(bc X WKF)": {
     "shows": 1,
     "seats": 119,
@@ -78,6 +64,20 @@
         "seats": 119,
         "sold": 86,
         "gross": 17200
+      }
+    }
+  },
+  "The Farewell(bc X WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 51,
+    "gross": 10200,
+    "dates": {
+      "2026-06-20": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 51,
+        "gross": 10200
       }
     }
   },
