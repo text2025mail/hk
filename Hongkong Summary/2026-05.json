@@ -50,14 +50,14 @@
   "Dead Poets Society(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 98,
-    "gross": 19600,
+    "sold": 99,
+    "gross": 19800,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 98,
-        "gross": 19600
+        "sold": 99,
+        "gross": 19800
       }
     }
   },
@@ -146,14 +146,14 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 67,
-    "gross": 13400,
+    "sold": 70,
+    "gross": 14000,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 67,
-        "gross": 13400
+        "sold": 70,
+        "gross": 14000
       }
     }
   },
