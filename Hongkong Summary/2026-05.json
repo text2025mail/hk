@@ -2,8 +2,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 12,
-    "gross": 2640,
+    "sold": 13,
+    "gross": 2860,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 8,
-        "gross": 1760
+        "sold": 9,
+        "gross": 1980
       }
     }
   },
@@ -36,14 +36,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 55,
-    "gross": 5225,
+    "sold": 56,
+    "gross": 5320,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 55,
-        "gross": 5225
+        "sold": 56,
+        "gross": 5320
       }
     }
   },
@@ -98,14 +98,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
-    "sold": 2,
-    "gross": 190,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       }
     }
   },
@@ -146,14 +146,14 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 72,
-    "gross": 14400,
+    "sold": 75,
+    "gross": 15000,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 72,
-        "gross": 14400
+        "sold": 75,
+        "gross": 15000
       }
     }
   },
