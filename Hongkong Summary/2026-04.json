@@ -512,8 +512,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 118,
-    "gross": 10630,
+    "sold": 116,
+    "gross": 10510,
     "dates": {
       "2026-04-05": {
         "shows": 7,
@@ -542,28 +542,28 @@
       "2026-04-02": {
         "shows": 7,
         "seats": 2240,
-        "sold": 10,
-        "gross": 1000
+        "sold": 8,
+        "gross": 880
       }
     }
   },
   "Another Round(bcSunday)": {
     "shows": 2,
     "seats": 246,
-    "sold": 78,
-    "gross": 7410,
+    "sold": 76,
+    "gross": 7220,
     "dates": {
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 45,
-        "gross": 4275
+        "sold": 44,
+        "gross": 4180
       },
       "2026-04-08": {
         "shows": 1,
         "seats": 127,
-        "sold": 33,
-        "gross": 3135
+        "sold": 32,
+        "gross": 3040
       }
     }
   },
