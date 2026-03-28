@@ -2,8 +2,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 600,
-    "gross": 60850,
+    "sold": 601,
+    "gross": 60980,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-04-18": {
         "shows": 1,
         "seats": 94,
-        "sold": 24,
-        "gross": 3120
+        "sold": 25,
+        "gross": 3250
       },
       "2026-04-11": {
         "shows": 1,
@@ -108,14 +108,14 @@
   "Portrait of a Lady on Fire Special Screening": {
     "shows": 4,
     "seats": 476,
-    "sold": 379,
-    "gross": 87170,
+    "sold": 382,
+    "gross": 87860,
     "dates": {
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 90,
-        "gross": 20700
+        "sold": 91,
+        "gross": 20930
       },
       "2026-04-05": {
         "shows": 1,
@@ -132,8 +132,8 @@
       "2026-04-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 107,
-        "gross": 24610
+        "sold": 109,
+        "gross": 25070
       }
     }
   },
@@ -168,8 +168,8 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 3,
     "seats": 296,
-    "sold": 46,
-    "gross": 6400,
+    "sold": 47,
+    "gross": 6520,
     "dates": {
       "2026-04-18": {
         "shows": 1,
@@ -180,8 +180,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 127,
-        "sold": 2,
-        "gross": 240
+        "sold": 3,
+        "gross": 360
       },
       "2026-04-11": {
         "shows": 1,
@@ -274,8 +274,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1972,
-    "gross": 709920,
+    "sold": 1977,
+    "gross": 711720,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -286,8 +286,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1502,
-        "gross": 540720
+        "sold": 1507,
+        "gross": 542520
       }
     }
   },
@@ -338,14 +338,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 20,
-    "gross": 3200,
+    "sold": 21,
+    "gross": 3360,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 127,
-        "sold": 20,
-        "gross": 3200
+        "sold": 21,
+        "gross": 3360
       }
     }
   },
@@ -434,10 +434,10 @@
     }
   },
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
-    "shows": 124,
-    "seats": 27625,
-    "sold": 393,
-    "gross": 28770,
+    "shows": 127,
+    "seats": 28236,
+    "sold": 418,
+    "gross": 30510,
     "dates": {
       "2026-04-05": {
         "shows": 15,
@@ -448,34 +448,34 @@
       "2026-04-04": {
         "shows": 25,
         "seats": 5567,
-        "sold": 59,
-        "gross": 4030
+        "sold": 63,
+        "gross": 4270
       },
       "2026-04-03": {
         "shows": 27,
         "seats": 6113,
-        "sold": 121,
-        "gross": 8725
+        "sold": 136,
+        "gross": 9825
       },
       "2026-04-01": {
-        "shows": 34,
-        "seats": 7287,
-        "sold": 123,
-        "gross": 9095
+        "shows": 37,
+        "seats": 7898,
+        "sold": 127,
+        "gross": 9335
       },
       "2026-04-02": {
         "shows": 23,
         "seats": 5181,
-        "sold": 87,
-        "gross": 6740
+        "sold": 89,
+        "gross": 6900
       }
     }
   },
   "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
     "shows": 31,
     "seats": 8786,
-    "sold": 86,
-    "gross": 7000,
+    "sold": 100,
+    "gross": 8240,
     "dates": {
       "2026-04-05": {
         "shows": 1,
@@ -492,14 +492,14 @@
       "2026-04-03": {
         "shows": 9,
         "seats": 2581,
-        "sold": 31,
-        "gross": 2460
+        "sold": 37,
+        "gross": 2900
       },
       "2026-04-01": {
         "shows": 8,
         "seats": 2232,
-        "sold": 28,
-        "gross": 2360
+        "sold": 36,
+        "gross": 3160
       },
       "2026-04-02": {
         "shows": 8,
@@ -512,8 +512,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 118,
-    "gross": 10630,
+    "sold": 122,
+    "gross": 10870,
     "dates": {
       "2026-04-05": {
         "shows": 7,
@@ -542,22 +542,22 @@
       "2026-04-02": {
         "shows": 7,
         "seats": 2240,
-        "sold": 10,
-        "gross": 1000
+        "sold": 14,
+        "gross": 1240
       }
     }
   },
   "Another Round(bcSunday)": {
     "shows": 2,
     "seats": 246,
-    "sold": 83,
-    "gross": 7885,
+    "sold": 84,
+    "gross": 7980,
     "dates": {
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 48,
-        "gross": 4560
+        "sold": 49,
+        "gross": 4655
       },
       "2026-04-08": {
         "shows": 1,
@@ -570,8 +570,8 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 35,
     "seats": 14020,
-    "sold": 99,
-    "gross": 12420,
+    "sold": 108,
+    "gross": 13470,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -582,20 +582,20 @@
       "2026-04-04": {
         "shows": 6,
         "seats": 2478,
-        "sold": 3,
-        "gross": 420
+        "sold": 5,
+        "gross": 700
       },
       "2026-04-03": {
         "shows": 6,
         "seats": 2478,
-        "sold": 29,
-        "gross": 3370
+        "sold": 33,
+        "gross": 3810
       },
       "2026-04-01": {
         "shows": 10,
         "seats": 3695,
-        "sold": 44,
-        "gross": 5770
+        "sold": 47,
+        "gross": 6100
       },
       "2026-04-02": {
         "shows": 7,
@@ -762,10 +762,10 @@
     }
   },
   "The Super Mario Galaxy Movie(English Version)": {
-    "shows": 75,
-    "seats": 13655,
-    "sold": 340,
-    "gross": 30630,
+    "shows": 77,
+    "seats": 14157,
+    "sold": 355,
+    "gross": 31935,
     "dates": {
       "2026-04-04": {
         "shows": 10,
@@ -776,14 +776,14 @@
       "2026-04-03": {
         "shows": 16,
         "seats": 3078,
-        "sold": 114,
-        "gross": 10220
+        "sold": 121,
+        "gross": 10640
       },
       "2026-04-01": {
-        "shows": 32,
-        "seats": 5635,
-        "sold": 145,
-        "gross": 13505
+        "shows": 34,
+        "seats": 6137,
+        "sold": 153,
+        "gross": 14390
       },
       "2026-04-02": {
         "shows": 17,
@@ -918,14 +918,14 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 6,
     "seats": 450,
-    "sold": 57,
-    "gross": 9690,
+    "sold": 60,
+    "gross": 10200,
     "dates": {
       "2026-04-01": {
         "shows": 4,
         "seats": 277,
-        "sold": 45,
-        "gross": 7650
+        "sold": 48,
+        "gross": 8160
       },
       "2026-04-02": {
         "shows": 2,
@@ -976,42 +976,42 @@
     }
   },
   "CIAO UFO": {
-    "shows": 19,
-    "seats": 1970,
-    "sold": 0,
-    "gross": 0,
+    "shows": 20,
+    "seats": 2221,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-04-01": {
-        "shows": 19,
-        "seats": 1970,
-        "sold": 0,
-        "gross": 0
+        "shows": 20,
+        "seats": 2221,
+        "sold": 2,
+        "gross": 190
       }
     }
   },
   "Hoppers(Cantonese Version)": {
-    "shows": 20,
-    "seats": 2615,
+    "shows": 24,
+    "seats": 3272,
     "sold": 2,
     "gross": 120,
     "dates": {
       "2026-04-01": {
-        "shows": 20,
-        "seats": 2615,
+        "shows": 24,
+        "seats": 3272,
         "sold": 2,
         "gross": 120
       }
     }
   },
   "Marty Supreme": {
-    "shows": 32,
-    "seats": 3318,
+    "shows": 33,
+    "seats": 3414,
     "sold": 1,
     "gross": 130,
     "dates": {
       "2026-04-01": {
-        "shows": 32,
-        "seats": 3318,
+        "shows": 33,
+        "seats": 3414,
         "sold": 1,
         "gross": 130
       }
@@ -1032,42 +1032,42 @@
     }
   },
   "Night King": {
-    "shows": 44,
-    "seats": 5993,
+    "shows": 55,
+    "seats": 7830,
     "sold": 0,
     "gross": 0,
     "dates": {
       "2026-04-01": {
-        "shows": 44,
-        "seats": 5993,
+        "shows": 55,
+        "seats": 7830,
         "sold": 0,
         "gross": 0
       }
     }
   },
   "Project Hail Mary": {
-    "shows": 23,
-    "seats": 2900,
+    "shows": 28,
+    "seats": 3656,
     "sold": 4,
     "gross": 390,
     "dates": {
       "2026-04-01": {
-        "shows": 23,
-        "seats": 2900,
+        "shows": 28,
+        "seats": 3656,
         "sold": 4,
         "gross": 390
       }
     }
   },
   "Ready Or Not 2: Here I Come": {
-    "shows": 21,
-    "seats": 2579,
+    "shows": 25,
+    "seats": 3099,
     "sold": 1,
     "gross": 60,
     "dates": {
       "2026-04-01": {
-        "shows": 21,
-        "seats": 2579,
+        "shows": 25,
+        "seats": 3099,
         "sold": 1,
         "gross": 60
       }
@@ -1116,14 +1116,14 @@
     }
   },
   "THEY WILL KILL YOU": {
-    "shows": 4,
-    "seats": 497,
+    "shows": 6,
+    "seats": 726,
     "sold": 0,
     "gross": 0,
     "dates": {
       "2026-04-01": {
-        "shows": 4,
-        "seats": 497,
+        "shows": 6,
+        "seats": 726,
         "sold": 0,
         "gross": 0
       }
@@ -1334,14 +1334,14 @@
   "IMAX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 2,
     "seats": 536,
-    "sold": 0,
-    "gross": 0,
+    "sold": 6,
+    "gross": 840,
     "dates": {
       "2026-04-01": {
         "shows": 2,
         "seats": 536,
-        "sold": 0,
-        "gross": 0
+        "sold": 6,
+        "gross": 840
       }
     }
   },
