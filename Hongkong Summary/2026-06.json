@@ -2,8 +2,8 @@
   "LE PARC (Paris Opera Ballet 2026)": {
     "shows": 3,
     "seats": 227,
-    "sold": 30,
-    "gross": 4380,
+    "sold": 32,
+    "gross": 4640,
     "dates": {
       "2026-06-07": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-06-21": {
         "shows": 1,
         "seats": 58,
-        "sold": 6,
-        "gross": 780
+        "sold": 8,
+        "gross": 1040
       },
       "2026-06-14": {
         "shows": 1,
@@ -56,28 +56,28 @@
   "The Farewell(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 67,
-    "gross": 13400,
+    "sold": 73,
+    "gross": 14600,
     "dates": {
       "2026-06-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 67,
-        "gross": 13400
+        "sold": 73,
+        "gross": 14600
       }
     }
   },
   "The Secret Life of Walter Mitty(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 99,
-    "gross": 19800,
+    "sold": 102,
+    "gross": 20400,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 99,
-        "gross": 19800
+        "sold": 102,
+        "gross": 20400
       }
     }
   },
