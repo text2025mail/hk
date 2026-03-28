@@ -274,8 +274,8 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN GOYANG: LIVE VIEWING": {
     "shows": 16,
     "seats": 2962,
-    "sold": 1988,
-    "gross": 715680,
+    "sold": 1989,
+    "gross": 716040,
     "dates": {
       "2026-04-12": {
         "shows": 6,
@@ -286,8 +286,8 @@
       "2026-04-11": {
         "shows": 10,
         "seats": 1997,
-        "sold": 1514,
-        "gross": 545040
+        "sold": 1515,
+        "gross": 545400
       }
     }
   },
@@ -570,14 +570,14 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 35,
     "seats": 14020,
-    "sold": 149,
-    "gross": 18610,
+    "sold": 153,
+    "gross": 19170,
     "dates": {
       "2026-04-05": {
         "shows": 6,
         "seats": 2478,
-        "sold": 9,
-        "gross": 1080
+        "sold": 12,
+        "gross": 1500
       },
       "2026-04-04": {
         "shows": 6,
@@ -594,8 +594,8 @@
       "2026-04-01": {
         "shows": 10,
         "seats": 3695,
-        "sold": 63,
-        "gross": 8010
+        "sold": 64,
+        "gross": 8150
       },
       "2026-04-02": {
         "shows": 7,
@@ -838,14 +838,14 @@
   "HAMNET": {
     "shows": 9,
     "seats": 668,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 28,
-        "gross": 2660
+        "sold": 32,
+        "gross": 3040
       },
       "2026-04-01": {
         "shows": 8,
@@ -1048,14 +1048,14 @@
   "Project Hail Mary": {
     "shows": 29,
     "seats": 3853,
-    "sold": 14,
-    "gross": 1610,
+    "sold": 15,
+    "gross": 1690,
     "dates": {
       "2026-04-01": {
         "shows": 29,
         "seats": 3853,
-        "sold": 14,
-        "gross": 1610
+        "sold": 15,
+        "gross": 1690
       }
     }
   },
