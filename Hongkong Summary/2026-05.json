@@ -2,8 +2,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 12,
-    "gross": 2640,
+    "sold": 13,
+    "gross": 2860,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -14,8 +14,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 8,
-        "gross": 1760
+        "sold": 9,
+        "gross": 1980
       }
     }
   },
@@ -146,14 +146,14 @@
   "Life of Pi(bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 72,
-    "gross": 14400,
+    "sold": 73,
+    "gross": 14600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 72,
-        "gross": 14400
+        "sold": 73,
+        "gross": 14600
       }
     }
   },
