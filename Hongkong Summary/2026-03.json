@@ -30,8 +30,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 42,
     "seats": 6493,
-    "sold": 748,
-    "gross": 164560,
+    "sold": 750,
+    "gross": 165000,
     "dates": {
       "2026-03-16": {
         "shows": 3,
@@ -126,8 +126,8 @@
       "2026-03-29": {
         "shows": 2,
         "seats": 191,
-        "sold": 59,
-        "gross": 12980
+        "sold": 61,
+        "gross": 13420
       },
       "2026-03-13": {
         "shows": 3,
@@ -280,10 +280,10 @@
     }
   },
   "Hoppers(Cantonese Version)": {
-    "shows": 1057,
-    "seats": 196041,
-    "sold": 14953,
-    "gross": 1334275,
+    "shows": 1058,
+    "seats": 196256,
+    "sold": 14968,
+    "gross": 1335595,
     "dates": {
       "2026-03-16": {
         "shows": 63,
@@ -388,10 +388,10 @@
         "gross": 19660
       },
       "2026-03-29": {
-        "shows": 60,
-        "seats": 11686,
-        "sold": 684,
-        "gross": 53560
+        "shows": 61,
+        "seats": 11901,
+        "sold": 699,
+        "gross": 54880
       },
       "2026-03-13": {
         "shows": 63,
@@ -532,8 +532,8 @@
   "Night King": {
     "shows": 1760,
     "seats": 267298,
-    "sold": 14014,
-    "gross": 1274285,
+    "sold": 14024,
+    "gross": 1275245,
     "dates": {
       "2026-03-16": {
         "shows": 125,
@@ -640,8 +640,8 @@
       "2026-03-29": {
         "shows": 71,
         "seats": 11126,
-        "sold": 313,
-        "gross": 25430
+        "sold": 323,
+        "gross": 26390
       },
       "2026-03-13": {
         "shows": 138,
@@ -660,8 +660,8 @@
   "HAMNET": {
     "shows": 349,
     "seats": 35498,
-    "sold": 3258,
-    "gross": 317835,
+    "sold": 3272,
+    "gross": 319230,
     "dates": {
       "2026-03-16": {
         "shows": 28,
@@ -738,8 +738,8 @@
       "2026-03-31": {
         "shows": 15,
         "seats": 1461,
-        "sold": 8,
-        "gross": 810
+        "sold": 10,
+        "gross": 1030
       },
       "2026-03-15": {
         "shows": 22,
@@ -762,8 +762,8 @@
       "2026-03-29": {
         "shows": 15,
         "seats": 1342,
-        "sold": 129,
-        "gross": 11745
+        "sold": 141,
+        "gross": 12920
       },
       "2026-03-13": {
         "shows": 24,
@@ -904,8 +904,8 @@
   "Hoppers(English Version)": {
     "shows": 692,
     "seats": 96092,
-    "sold": 9300,
-    "gross": 957635,
+    "sold": 9309,
+    "gross": 958275,
     "dates": {
       "2026-03-16": {
         "shows": 49,
@@ -994,8 +994,8 @@
       "2026-03-30": {
         "shows": 23,
         "seats": 2754,
-        "sold": 22,
-        "gross": 2260
+        "sold": 23,
+        "gross": 2320
       },
       "2026-03-18": {
         "shows": 48,
@@ -1006,8 +1006,8 @@
       "2026-03-29": {
         "shows": 34,
         "seats": 4673,
-        "sold": 468,
-        "gross": 44380
+        "sold": 476,
+        "gross": 44960
       },
       "2026-03-13": {
         "shows": 58,
@@ -1144,8 +1144,8 @@
   "Girlfriends": {
     "shows": 95,
     "seats": 12144,
-    "sold": 569,
-    "gross": 53180,
+    "sold": 571,
+    "gross": 53380,
     "dates": {
       "2026-03-16": {
         "shows": 9,
@@ -1246,8 +1246,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 108,
-        "sold": 2,
-        "gross": 200
+        "sold": 4,
+        "gross": 400
       },
       "2026-03-13": {
         "shows": 13,
@@ -1370,8 +1370,8 @@
   "Rental Family": {
     "shows": 196,
     "seats": 19492,
-    "sold": 1604,
-    "gross": 139825,
+    "sold": 1607,
+    "gross": 140005,
     "dates": {
       "2026-03-16": {
         "shows": 16,
@@ -1472,8 +1472,8 @@
       "2026-03-29": {
         "shows": 5,
         "seats": 530,
-        "sold": 64,
-        "gross": 4130
+        "sold": 67,
+        "gross": 4310
       },
       "2026-03-13": {
         "shows": 14,
@@ -1986,8 +1986,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 92,
     "seats": 8234,
-    "sold": 1338,
-    "gross": 221160,
+    "sold": 1342,
+    "gross": 221760,
     "dates": {
       "2026-03-16": {
         "shows": 7,
@@ -2088,8 +2088,8 @@
       "2026-03-29": {
         "shows": 5,
         "seats": 467,
-        "sold": 46,
-        "gross": 7440
+        "sold": 50,
+        "gross": 8040
       },
       "2026-03-13": {
         "shows": 5,
@@ -2236,8 +2236,8 @@
   "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)": {
     "shows": 81,
     "seats": 6972,
-    "sold": 1600,
-    "gross": 264180,
+    "sold": 1603,
+    "gross": 264690,
     "dates": {
       "2026-03-16": {
         "shows": 6,
@@ -2326,8 +2326,8 @@
       "2026-03-30": {
         "shows": 3,
         "seats": 225,
-        "sold": 9,
-        "gross": 1430
+        "sold": 12,
+        "gross": 1940
       },
       "2026-03-18": {
         "shows": 6,
@@ -2358,8 +2358,8 @@
   "Sentimental Value": {
     "shows": 83,
     "seats": 9108,
-    "sold": 635,
-    "gross": 55960,
+    "sold": 637,
+    "gross": 56150,
     "dates": {
       "2026-03-16": {
         "shows": 7,
@@ -2460,8 +2460,8 @@
       "2026-03-29": {
         "shows": 3,
         "seats": 357,
-        "sold": 27,
-        "gross": 2320
+        "sold": 29,
+        "gross": 2510
       },
       "2026-03-13": {
         "shows": 3,
@@ -2480,8 +2480,8 @@
   "Wuthering Heights": {
     "shows": 45,
     "seats": 3058,
-    "sold": 280,
-    "gross": 32020,
+    "sold": 284,
+    "gross": 32460,
     "dates": {
       "2026-03-16": {
         "shows": 3,
@@ -2570,8 +2570,8 @@
       "2026-03-29": {
         "shows": 2,
         "seats": 136,
-        "sold": 14,
-        "gross": 1680
+        "sold": 18,
+        "gross": 2120
       },
       "2026-03-13": {
         "shows": 5,
@@ -2712,8 +2712,8 @@
   "The World Of Love": {
     "shows": 42,
     "seats": 4998,
-    "sold": 617,
-    "gross": 48755,
+    "sold": 619,
+    "gross": 48875,
     "dates": {
       "2026-03-16": {
         "shows": 3,
@@ -2790,8 +2790,8 @@
       "2026-03-31": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 60
       },
       "2026-03-15": {
         "shows": 3,
@@ -2814,8 +2814,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 119,
-        "sold": 69,
-        "gross": 4140
+        "sold": 70,
+        "gross": 4200
       },
       "2026-03-13": {
         "shows": 3,
@@ -2982,8 +2982,8 @@
   "Kokuho": {
     "shows": 26,
     "seats": 2038,
-    "sold": 139,
-    "gross": 20560,
+    "sold": 141,
+    "gross": 20870,
     "dates": {
       "2026-03-16": {
         "shows": 2,
@@ -3078,8 +3078,8 @@
       "2026-03-29": {
         "shows": 1,
         "seats": 23,
-        "sold": 13,
-        "gross": 2015
+        "sold": 15,
+        "gross": 2325
       },
       "2026-03-13": {
         "shows": 1,
@@ -3148,8 +3148,8 @@
   "CGS Hoppers(English Version)": {
     "shows": 68,
     "seats": 20875,
-    "sold": 430,
-    "gross": 39150,
+    "sold": 432,
+    "gross": 39370,
     "dates": {
       "2026-03-16": {
         "shows": 6,
@@ -3250,8 +3250,8 @@
       "2026-03-29": {
         "shows": 3,
         "seats": 960,
-        "sold": 9,
-        "gross": 990
+        "sold": 11,
+        "gross": 1210
       },
       "2026-03-13": {
         "shows": 1,
@@ -3506,8 +3506,8 @@
   "Dhurandhar: The Revenge": {
     "shows": 35,
     "seats": 9418,
-    "sold": 4419,
-    "gross": 1104750,
+    "sold": 4437,
+    "gross": 1109250,
     "dates": {
       "2026-03-24": {
         "shows": 3,
@@ -3572,8 +3572,8 @@
       "2026-03-29": {
         "shows": 5,
         "seats": 1186,
-        "sold": 520,
-        "gross": 130000
+        "sold": 538,
+        "gross": 134500
       },
       "2026-03-23": {
         "shows": 2,
@@ -3624,8 +3624,8 @@
   "CIAO UFO": {
     "shows": 520,
     "seats": 64989,
-    "sold": 2904,
-    "gross": 253215,
+    "sold": 2918,
+    "gross": 254605,
     "dates": {
       "2026-03-24": {
         "shows": 48,
@@ -3696,8 +3696,8 @@
       "2026-03-29": {
         "shows": 28,
         "seats": 3166,
-        "sold": 288,
-        "gross": 23800
+        "sold": 302,
+        "gross": 25190
       },
       "2026-03-23": {
         "shows": 48,
@@ -3710,8 +3710,8 @@
   "IMAX Project Hail Mary": {
     "shows": 126,
     "seats": 43193,
-    "sold": 3033,
-    "gross": 530890,
+    "sold": 3040,
+    "gross": 532120,
     "dates": {
       "2026-03-24": {
         "shows": 10,
@@ -3776,14 +3776,14 @@
       "2026-03-30": {
         "shows": 10,
         "seats": 3405,
-        "sold": 16,
-        "gross": 2640
+        "sold": 18,
+        "gross": 3000
       },
       "2026-03-29": {
         "shows": 9,
         "seats": 3137,
-        "sold": 296,
-        "gross": 51030
+        "sold": 301,
+        "gross": 51900
       },
       "2026-03-23": {
         "shows": 10,
@@ -3796,8 +3796,8 @@
   "Marty Supreme": {
     "shows": 640,
     "seats": 76440,
-    "sold": 4394,
-    "gross": 525090,
+    "sold": 4405,
+    "gross": 526410,
     "dates": {
       "2026-03-24": {
         "shows": 51,
@@ -3862,8 +3862,8 @@
       "2026-03-31": {
         "shows": 48,
         "seats": 5586,
-        "sold": 9,
-        "gross": 1010
+        "sold": 11,
+        "gross": 1250
       },
       "2026-03-15": {
         "shows": 2,
@@ -3880,8 +3880,8 @@
       "2026-03-29": {
         "shows": 46,
         "seats": 5173,
-        "sold": 329,
-        "gross": 36915
+        "sold": 338,
+        "gross": 37995
       },
       "2026-03-23": {
         "shows": 51,
@@ -4030,8 +4030,8 @@
   "Project Hail Mary": {
     "shows": 507,
     "seats": 94632,
-    "sold": 4920,
-    "gross": 624760,
+    "sold": 4955,
+    "gross": 629435,
     "dates": {
       "2026-03-24": {
         "shows": 37,
@@ -4102,8 +4102,8 @@
       "2026-03-29": {
         "shows": 40,
         "seats": 6115,
-        "sold": 480,
-        "gross": 56615
+        "sold": 515,
+        "gross": 61290
       },
       "2026-03-23": {
         "shows": 37,
@@ -4116,8 +4116,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 112,
     "seats": 28551,
-    "sold": 1138,
-    "gross": 123350,
+    "sold": 1140,
+    "gross": 123610,
     "dates": {
       "2026-03-24": {
         "shows": 12,
@@ -4188,8 +4188,8 @@
       "2026-03-29": {
         "shows": 11,
         "seats": 2521,
-        "sold": 215,
-        "gross": 22820
+        "sold": 217,
+        "gross": 23080
       },
       "2026-03-23": {
         "shows": 12,
@@ -4202,8 +4202,8 @@
   "4DX Project Hail Mary": {
     "shows": 29,
     "seats": 2819,
-    "sold": 163,
-    "gross": 30370,
+    "sold": 164,
+    "gross": 30560,
     "dates": {
       "2026-03-24": {
         "shows": 2,
@@ -4268,8 +4268,8 @@
       "2026-03-30": {
         "shows": 3,
         "seats": 294,
-        "sold": 1,
-        "gross": 170
+        "sold": 2,
+        "gross": 360
       },
       "2026-03-29": {
         "shows": 2,
@@ -5312,8 +5312,8 @@
   "Ready Or Not 2: Here I Come": {
     "shows": 246,
     "seats": 37637,
-    "sold": 767,
-    "gross": 71070,
+    "sold": 772,
+    "gross": 71560,
     "dates": {
       "2026-03-27": {
         "shows": 42,
@@ -5348,16 +5348,16 @@
       "2026-03-29": {
         "shows": 36,
         "seats": 5315,
-        "sold": 80,
-        "gross": 6755
+        "sold": 85,
+        "gross": 7245
       }
     }
   },
   "THEY WILL KILL YOU": {
     "shows": 82,
     "seats": 12311,
-    "sold": 118,
-    "gross": 10860,
+    "sold": 119,
+    "gross": 10955,
     "dates": {
       "2026-03-27": {
         "shows": 15,
@@ -5386,8 +5386,8 @@
       "2026-03-30": {
         "shows": 15,
         "seats": 2243,
-        "sold": 4,
-        "gross": 240
+        "sold": 5,
+        "gross": 335
       },
       "2026-03-29": {
         "shows": 11,
@@ -5600,8 +5600,8 @@
   "AOT: THE LAST ATTACK Eren\u2019s Birthday Screening": {
     "shows": 3,
     "seats": 494,
-    "sold": 320,
-    "gross": 56000,
+    "sold": 322,
+    "gross": 56350,
     "dates": {
       "2026-03-30": {
         "shows": 1,
@@ -5612,8 +5612,8 @@
       "2026-03-29": {
         "shows": 2,
         "seats": 338,
-        "sold": 221,
-        "gross": 38675
+        "sold": 223,
+        "gross": 39025
       }
     }
   },
