@@ -564,28 +564,28 @@
   "Another Round(bcSunday)": {
     "shows": 2,
     "seats": 246,
-    "sold": 109,
-    "gross": 10355,
+    "sold": 107,
+    "gross": 10165,
     "dates": {
       "2026-04-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 68,
-        "gross": 6460
+        "sold": 67,
+        "gross": 6365
       },
       "2026-04-08": {
         "shows": 1,
         "seats": 127,
-        "sold": 41,
-        "gross": 3895
+        "sold": 40,
+        "gross": 3800
       }
     }
   },
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 35,
     "seats": 14020,
-    "sold": 332,
-    "gross": 42040,
+    "sold": 329,
+    "gross": 41620,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -614,8 +614,8 @@
       "2026-04-02": {
         "shows": 7,
         "seats": 2891,
-        "sold": 33,
-        "gross": 4320
+        "sold": 30,
+        "gross": 3900
       }
     }
   },
@@ -778,26 +778,26 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 78,
     "seats": 14348,
-    "sold": 674,
-    "gross": 61935,
+    "sold": 667,
+    "gross": 61435,
     "dates": {
       "2026-04-04": {
         "shows": 10,
         "seats": 1718,
-        "sold": 64,
-        "gross": 5175
+        "sold": 63,
+        "gross": 5115
       },
       "2026-04-03": {
         "shows": 16,
         "seats": 3078,
-        "sold": 206,
-        "gross": 18615
+        "sold": 202,
+        "gross": 18375
       },
       "2026-04-01": {
         "shows": 35,
         "seats": 6328,
-        "sold": 302,
-        "gross": 27875
+        "sold": 300,
+        "gross": 27675
       },
       "2026-04-02": {
         "shows": 17,
@@ -838,14 +838,14 @@
   "\\": {
     "shows": 1,
     "seats": 202,
-    "sold": 85,
-    "gross": 22100,
+    "sold": 84,
+    "gross": 21840,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 202,
-        "sold": 85,
-        "gross": 22100
+        "sold": 84,
+        "gross": 21840
       }
     }
   },
@@ -1104,14 +1104,14 @@
   "Hoppers(English Version)": {
     "shows": 22,
     "seats": 2564,
-    "sold": 14,
-    "gross": 1020,
+    "sold": 6,
+    "gross": 540,
     "dates": {
       "2026-04-01": {
         "shows": 22,
         "seats": 2564,
-        "sold": 14,
-        "gross": 1020
+        "sold": 6,
+        "gross": 540
       }
     }
   },
@@ -1362,14 +1362,14 @@
   "IMAX Project Hail Mary": {
     "shows": 1,
     "seats": 268,
-    "sold": 12,
-    "gross": 2160,
+    "sold": 10,
+    "gross": 1800,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 268,
-        "sold": 12,
-        "gross": 2160
+        "sold": 10,
+        "gross": 1800
       }
     }
   },
