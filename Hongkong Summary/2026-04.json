@@ -584,8 +584,8 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 35,
     "seats": 14020,
-    "sold": 316,
-    "gross": 39800,
+    "sold": 318,
+    "gross": 40080,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -608,8 +608,8 @@
       "2026-04-01": {
         "shows": 10,
         "seats": 3695,
-        "sold": 132,
-        "gross": 16710
+        "sold": 134,
+        "gross": 16990
       },
       "2026-04-02": {
         "shows": 7,
@@ -912,8 +912,8 @@
   "4DX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 5,
     "seats": 398,
-    "sold": 34,
-    "gross": 5500,
+    "sold": 37,
+    "gross": 6010,
     "dates": {
       "2026-04-01": {
         "shows": 4,
@@ -924,8 +924,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 52,
-        "sold": 4,
-        "gross": 680
+        "sold": 7,
+        "gross": 1190
       }
     }
   },
