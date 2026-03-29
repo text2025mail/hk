@@ -2,14 +2,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 629,
-    "gross": 63815,
+    "sold": 627,
+    "gross": 63625,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 75,
-        "gross": 7125
+        "sold": 74,
+        "gross": 7030
       },
       "2026-04-18": {
         "shows": 1,
@@ -32,8 +32,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 213,
-        "sold": 71,
-        "gross": 7305
+        "sold": 70,
+        "gross": 7210
       },
       "2026-04-04": {
         "shows": 1,
@@ -372,14 +372,14 @@
   "The Secret Agent w/ Lo Chun Yip (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 3,
-    "gross": 315,
+    "sold": 2,
+    "gross": 210,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 315
+        "sold": 2,
+        "gross": 210
       }
     }
   },
@@ -450,14 +450,14 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 127,
     "seats": 28236,
-    "sold": 830,
-    "gross": 59410,
+    "sold": 821,
+    "gross": 58810,
     "dates": {
       "2026-04-05": {
         "shows": 15,
         "seats": 3477,
-        "sold": 19,
-        "gross": 1140
+        "sold": 13,
+        "gross": 780
       },
       "2026-04-04": {
         "shows": 25,
@@ -474,8 +474,8 @@
       "2026-04-01": {
         "shows": 37,
         "seats": 7898,
-        "sold": 217,
-        "gross": 16015
+        "sold": 214,
+        "gross": 15775
       },
       "2026-04-02": {
         "shows": 23,
@@ -526,8 +526,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 30,
     "seats": 9541,
-    "sold": 176,
-    "gross": 14810,
+    "sold": 175,
+    "gross": 14750,
     "dates": {
       "2026-04-05": {
         "shows": 7,
@@ -556,8 +556,8 @@
       "2026-04-02": {
         "shows": 7,
         "seats": 2240,
-        "sold": 27,
-        "gross": 2120
+        "sold": 26,
+        "gross": 2060
       }
     }
   },
@@ -838,28 +838,28 @@
   "\\": {
     "shows": 1,
     "seats": 202,
-    "sold": 84,
-    "gross": 21840,
+    "sold": 82,
+    "gross": 21320,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 202,
-        "sold": 84,
-        "gross": 21840
+        "sold": 82,
+        "gross": 21320
       }
     }
   },
   "HAMNET": {
     "shows": 12,
     "seats": 1025,
-    "sold": 62,
-    "gross": 5890,
+    "sold": 61,
+    "gross": 5795,
     "dates": {
       "2026-04-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 62,
-        "gross": 5890
+        "sold": 61,
+        "gross": 5795
       },
       "2026-04-01": {
         "shows": 11,
