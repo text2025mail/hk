@@ -11,7 +11,7 @@
     "sold": 51,
     "gross": 6630,
     "price": 130,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 61430,
@@ -25,7 +25,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 24699,
@@ -39,7 +39,7 @@
     "sold": 19,
     "gross": 6650,
     "price": 350,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60386,
@@ -53,7 +53,7 @@
     "sold": 41,
     "gross": 14760,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60393,
@@ -62,12 +62,12 @@
     "date": "2026-04-12",
     "time": "09:45",
     "total": 146,
-    "available": 56,
+    "available": 54,
     "blocked": 0,
-    "sold": 90,
-    "gross": 32400,
+    "sold": 92,
+    "gross": 33120,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60395,
@@ -81,7 +81,7 @@
     "sold": 48,
     "gross": 17280,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60399,
@@ -95,7 +95,7 @@
     "sold": 138,
     "gross": 49680,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60405,
@@ -109,7 +109,7 @@
     "sold": 72,
     "gross": 25920,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 60407,
@@ -123,7 +123,7 @@
     "sold": 103,
     "gross": 37080,
     "price": 360,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 69680,
@@ -137,7 +137,7 @@
     "sold": 3,
     "gross": 660,
     "price": 220,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 73128,
@@ -151,7 +151,7 @@
     "sold": 25,
     "gross": 4000,
     "price": 160,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   },
   {
     "perfIx": 74330,
@@ -165,6 +165,20 @@
     "sold": 6,
     "gross": 570,
     "price": 95,
-    "last_updated": "2026-03-29 05:03:57 PM IST"
+    "last_updated": "2026-03-29 06:09:04 PM IST"
+  },
+  {
+    "perfIx": 76543,
+    "movie": "The Secret Agent w/ Lo Chun Yip (Student Screening)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-12",
+    "time": "06:10",
+    "total": 119,
+    "available": 117,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 210,
+    "price": 105,
+    "last_updated": "2026-03-29 06:09:04 PM IST"
   }
 ]
