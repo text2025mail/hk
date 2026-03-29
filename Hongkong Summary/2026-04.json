@@ -2,14 +2,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 12,
     "seats": 1322,
-    "sold": 625,
-    "gross": 63435,
+    "sold": 626,
+    "gross": 63530,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 6935
+        "sold": 74,
+        "gross": 7030
       },
       "2026-04-18": {
         "shows": 1,
@@ -450,8 +450,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 127,
     "seats": 28236,
-    "sold": 776,
-    "gross": 55475,
+    "sold": 794,
+    "gross": 56880,
     "dates": {
       "2026-04-05": {
         "shows": 15,
@@ -462,34 +462,34 @@
       "2026-04-04": {
         "shows": 25,
         "seats": 5567,
-        "sold": 140,
-        "gross": 9355
+        "sold": 147,
+        "gross": 10020
       },
       "2026-04-03": {
         "shows": 27,
         "seats": 6113,
-        "sold": 266,
-        "gross": 18355
+        "sold": 272,
+        "gross": 18715
       },
       "2026-04-01": {
         "shows": 37,
         "seats": 7898,
-        "sold": 208,
-        "gross": 15415
+        "sold": 211,
+        "gross": 15595
       },
       "2026-04-02": {
         "shows": 23,
         "seats": 5181,
-        "sold": 153,
-        "gross": 11810
+        "sold": 155,
+        "gross": 12010
       }
     }
   },
   "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
     "shows": 31,
     "seats": 8786,
-    "sold": 173,
-    "gross": 13220,
+    "sold": 175,
+    "gross": 13340,
     "dates": {
       "2026-04-05": {
         "shows": 1,
@@ -500,8 +500,8 @@
       "2026-04-04": {
         "shows": 5,
         "seats": 1421,
-        "sold": 26,
-        "gross": 1840
+        "sold": 28,
+        "gross": 1960
       },
       "2026-04-03": {
         "shows": 9,
@@ -584,8 +584,8 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 35,
     "seats": 14020,
-    "sold": 304,
-    "gross": 38420,
+    "sold": 306,
+    "gross": 38640,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -602,8 +602,8 @@
       "2026-04-03": {
         "shows": 6,
         "seats": 2478,
-        "sold": 92,
-        "gross": 11410
+        "sold": 94,
+        "gross": 11630
       },
       "2026-04-01": {
         "shows": 10,
@@ -778,8 +778,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 78,
     "seats": 14348,
-    "sold": 639,
-    "gross": 58780,
+    "sold": 645,
+    "gross": 59335,
     "dates": {
       "2026-04-04": {
         "shows": 10,
@@ -796,8 +796,8 @@
       "2026-04-01": {
         "shows": 35,
         "seats": 6328,
-        "sold": 284,
-        "gross": 26260
+        "sold": 290,
+        "gross": 26815
       },
       "2026-04-02": {
         "shows": 17,
@@ -872,8 +872,8 @@
   "Dhurandhar: The Revenge": {
     "shows": 4,
     "seats": 537,
-    "sold": 75,
-    "gross": 18750,
+    "sold": 79,
+    "gross": 19750,
     "dates": {
       "2026-04-03": {
         "shows": 1,
@@ -884,8 +884,8 @@
       "2026-04-01": {
         "shows": 2,
         "seats": 283,
-        "sold": 21,
-        "gross": 5250
+        "sold": 25,
+        "gross": 6250
       },
       "2026-04-02": {
         "shows": 1,
@@ -932,8 +932,8 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 9,
     "seats": 813,
-    "sold": 82,
-    "gross": 13940,
+    "sold": 85,
+    "gross": 14450,
     "dates": {
       "2026-04-01": {
         "shows": 7,
@@ -944,8 +944,8 @@
       "2026-04-02": {
         "shows": 2,
         "seats": 173,
-        "sold": 26,
-        "gross": 4420
+        "sold": 29,
+        "gross": 4930
       }
     }
   },
@@ -1146,14 +1146,14 @@
   "Project Hail Mary(Atmos)": {
     "shows": 16,
     "seats": 2904,
-    "sold": 7,
-    "gross": 880,
+    "sold": 8,
+    "gross": 960,
     "dates": {
       "2026-04-01": {
         "shows": 16,
         "seats": 2904,
-        "sold": 7,
-        "gross": 880
+        "sold": 8,
+        "gross": 960
       }
     }
   },
@@ -1362,14 +1362,14 @@
   "IMAX Project Hail Mary": {
     "shows": 1,
     "seats": 268,
-    "sold": 6,
-    "gross": 1080,
+    "sold": 8,
+    "gross": 1440,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 268,
-        "sold": 6,
-        "gross": 1080
+        "sold": 8,
+        "gross": 1440
       }
     }
   },
