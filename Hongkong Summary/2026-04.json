@@ -450,8 +450,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 127,
     "seats": 28236,
-    "sold": 841,
-    "gross": 60270,
+    "sold": 844,
+    "gross": 60450,
     "dates": {
       "2026-04-05": {
         "shows": 15,
@@ -474,8 +474,8 @@
       "2026-04-01": {
         "shows": 37,
         "seats": 7898,
-        "sold": 221,
-        "gross": 16415
+        "sold": 224,
+        "gross": 16595
       },
       "2026-04-02": {
         "shows": 23,
@@ -872,8 +872,8 @@
   "Dhurandhar: The Revenge": {
     "shows": 4,
     "seats": 537,
-    "sold": 92,
-    "gross": 23000,
+    "sold": 93,
+    "gross": 23250,
     "dates": {
       "2026-04-03": {
         "shows": 1,
@@ -884,8 +884,8 @@
       "2026-04-01": {
         "shows": 2,
         "seats": 283,
-        "sold": 37,
-        "gross": 9250
+        "sold": 38,
+        "gross": 9500
       },
       "2026-04-02": {
         "shows": 1,
@@ -1278,14 +1278,14 @@
   "Yi Yi: A One and a Two (4K Restoration)": {
     "shows": 1,
     "seats": 23,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 150,
     "dates": {
       "2026-04-01": {
         "shows": 1,
         "seats": 23,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 150
       }
     }
   },
@@ -1418,14 +1418,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 28,
-    "gross": 3640,
+    "sold": 31,
+    "gross": 4030,
     "dates": {
       "2026-04-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 28,
-        "gross": 3640
+        "sold": 31,
+        "gross": 4030
       }
     }
   }
