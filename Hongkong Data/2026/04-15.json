@@ -11,7 +11,7 @@
     "sold": 6,
     "gross": 570,
     "price": 95,
-    "last_updated": "2026-03-31 03:05:53 AM IST"
+    "last_updated": "2026-03-31 03:58:28 AM IST"
   },
   {
     "perfIx": 74129,
@@ -20,16 +20,16 @@
     "date": "2026-04-15",
     "time": "07:15",
     "total": 119,
-    "available": 101,
+    "available": 106,
     "blocked": 0,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 13,
+    "gross": 1235,
     "price": 95,
-    "last_updated": "2026-03-31 03:05:53 AM IST"
+    "last_updated": "2026-03-31 03:58:28 AM IST"
   },
   {
     "perfIx": 74325,
-    "movie": "Don't Worry, He won't Get Far on Foot (bcSunday)",
+    "movie": "Don't Worry, He won't Get Far on Foot(bcSunday)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-15",
     "time": "11:30",
@@ -39,6 +39,6 @@
     "sold": 7,
     "gross": 665,
     "price": 95,
-    "last_updated": "2026-03-31 03:05:53 AM IST"
+    "last_updated": "2026-03-31 03:58:28 AM IST"
   }
 ]
