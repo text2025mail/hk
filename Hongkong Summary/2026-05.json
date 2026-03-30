@@ -78,14 +78,14 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 19,
-    "gross": 5510,
+    "sold": 20,
+    "gross": 5800,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 8,
-        "gross": 2320
+        "sold": 9,
+        "gross": 2610
       },
       "2026-05-02": {
         "shows": 1,
@@ -216,14 +216,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       }
     }
   },
@@ -244,14 +244,14 @@
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 79,
-    "gross": 15800,
+    "sold": 80,
+    "gross": 16000,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 79,
-        "gross": 15800
+        "sold": 80,
+        "gross": 16000
       }
     }
   },
@@ -300,14 +300,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 20,
-    "gross": 2500,
+    "sold": 22,
+    "gross": 2750,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 2500
+        "sold": 22,
+        "gross": 2750
       }
     }
   }
