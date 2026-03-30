@@ -50,14 +50,14 @@
   "Dead Poets Society (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 107,
-    "gross": 21400,
+    "sold": 108,
+    "gross": 21600,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 107,
-        "gross": 21400
+        "sold": 108,
+        "gross": 21600
       }
     }
   },
@@ -230,14 +230,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 19,
+        "gross": 1805
       }
     }
   },
