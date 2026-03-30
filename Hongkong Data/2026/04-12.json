@@ -11,7 +11,7 @@
     "sold": 51,
     "gross": 6630,
     "price": 130,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 61430,
@@ -25,7 +25,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 24699,
@@ -39,7 +39,7 @@
     "sold": 19,
     "gross": 6650,
     "price": 350,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60386,
@@ -53,7 +53,7 @@
     "sold": 41,
     "gross": 14760,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60393,
@@ -67,7 +67,7 @@
     "sold": 92,
     "gross": 33120,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60395,
@@ -81,7 +81,7 @@
     "sold": 48,
     "gross": 17280,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60399,
@@ -95,7 +95,7 @@
     "sold": 141,
     "gross": 50760,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60405,
@@ -109,7 +109,7 @@
     "sold": 74,
     "gross": 26640,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 60407,
@@ -123,7 +123,7 @@
     "sold": 103,
     "gross": 37080,
     "price": 360,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 69680,
@@ -137,7 +137,7 @@
     "sold": 8,
     "gross": 1760,
     "price": 220,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 73128,
@@ -151,7 +151,7 @@
     "sold": 30,
     "gross": 4800,
     "price": 160,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 74330,
@@ -160,12 +160,12 @@
     "date": "2026-04-12",
     "time": "13:30",
     "total": 119,
-    "available": 112,
+    "available": 111,
     "blocked": 0,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "price": 95,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   },
   {
     "perfIx": 76543,
@@ -179,6 +179,20 @@
     "sold": 4,
     "gross": 420,
     "price": 105,
-    "last_updated": "2026-03-30 05:23:32 PM IST"
+    "last_updated": "2026-03-30 06:33:09 PM IST"
+  },
+  {
+    "perfIx": 76565,
+    "movie": "Dhurandhar 1+ 2 Marathon",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-12",
+    "time": "08:05",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 460,
+    "last_updated": "2026-03-30 06:33:09 PM IST"
   }
 ]
