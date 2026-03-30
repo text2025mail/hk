@@ -109,6 +109,62 @@
       }
     }
   },
+  "Some Birds (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 7,
+    "gross": 665,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 7,
+        "gross": 665
+      }
+    }
+  },
+  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 4,
+    "gross": 380,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 4,
+        "gross": 380
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 6,
+    "gross": 570,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 6,
+        "gross": 570
+      }
+    }
+  },
+  "U Are the Universe (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 17,
+    "gross": 1615,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 17,
+        "gross": 1615
+      }
+    }
+  },
   "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
     "seats": 81,
@@ -143,6 +199,48 @@
       }
     }
   },
+  "Greice (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 8,
+    "gross": 760,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 8,
+        "gross": 760
+      }
+    }
+  },
+  "Our Girls (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 3,
+    "gross": 285,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 3,
+        "gross": 285
+      }
+    }
+  },
+  "The Dinner (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 12,
+    "gross": 1140,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 12,
+        "gross": 1140
+      }
+    }
+  },
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
@@ -168,6 +266,48 @@
         "seats": 127,
         "sold": 13,
         "gross": 1690
+      }
+    }
+  },
+  "Broken Voices (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 4,
+    "gross": 380,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 4,
+        "gross": 380
+      }
+    }
+  },
+  "Heads or Tails? (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 6,
+    "gross": 570,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 6,
+        "gross": 570
+      }
+    }
+  },
+  "Stormskerry Maja (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 18,
+    "gross": 2250,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 18,
+        "gross": 2250
       }
     }
   }

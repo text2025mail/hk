@@ -11,6 +11,48 @@
     "sold": 13,
     "gross": 1690,
     "price": 130,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76491,
+    "movie": "Broken Voices (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-03",
+    "time": "05:00",
+    "total": 119,
+    "available": 115,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 380,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76492,
+    "movie": "Heads or Tails? (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-03",
+    "time": "07:05",
+    "total": 119,
+    "available": 113,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 570,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76493,
+    "movie": "Stormskerry Maja (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-03",
+    "time": "09:15",
+    "total": 119,
+    "available": 101,
+    "blocked": 0,
+    "sold": 18,
+    "gross": 2250,
+    "price": 125,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   }
 ]

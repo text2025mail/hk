@@ -11,7 +11,7 @@
     "sold": 76,
     "gross": 7220,
     "price": 95,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 61218,
@@ -20,12 +20,12 @@
     "date": "2026-04-26",
     "time": "06:00",
     "total": 261,
-    "available": 175,
+    "available": 174,
     "blocked": 0,
-    "sold": 86,
-    "gross": 36120,
+    "sold": 87,
+    "gross": 36540,
     "price": 420,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 27877,
@@ -39,7 +39,7 @@
     "sold": 2,
     "gross": 700,
     "price": 350,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 66532,
@@ -53,7 +53,7 @@
     "sold": 42,
     "gross": 9240,
     "price": 220,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 73114,
@@ -67,7 +67,7 @@
     "sold": 0,
     "gross": 0,
     "price": 220,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 72663,
@@ -81,7 +81,7 @@
     "sold": 0,
     "gross": 0,
     "price": 220,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   },
   {
     "perfIx": 74332,
@@ -95,6 +95,76 @@
     "sold": 10,
     "gross": 950,
     "price": 95,
-    "last_updated": "2026-03-30 01:37:47 PM IST"
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76476,
+    "movie": "King Frankie (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-26",
+    "time": "07:25",
+    "total": 119,
+    "available": 116,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 285,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76498,
+    "movie": "Punching the World (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-26",
+    "time": "08:30",
+    "total": 99,
+    "available": 98,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 95,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76477,
+    "movie": "Chopin, Chopin! (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-26",
+    "time": "09:15",
+    "total": 119,
+    "available": 116,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 285,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76499,
+    "movie": "Stormskerry Maja (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-26",
+    "time": "10:40",
+    "total": 99,
+    "available": 96,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 375,
+    "price": 125,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
+  },
+  {
+    "perfIx": 76478,
+    "movie": "Late Shift (EUFF2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-26",
+    "time": "11:45",
+    "total": 119,
+    "available": 102,
+    "blocked": 0,
+    "sold": 17,
+    "gross": 1615,
+    "price": 95,
+    "last_updated": "2026-03-30 03:23:21 PM IST"
   }
 ]
