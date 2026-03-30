@@ -42,42 +42,42 @@
   "The Legend of Paul and Paula(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 4,
-    "gross": 380,
+    "sold": 5,
+    "gross": 475,
     "dates": {
       "2026-06-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 5,
+        "gross": 475
       }
     }
   },
-  "The Farewell(bc X WKF)": {
+  "The Farewell (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 77,
-    "gross": 15400,
+    "sold": 78,
+    "gross": 15600,
     "dates": {
       "2026-06-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 77,
-        "gross": 15400
+        "sold": 78,
+        "gross": 15600
       }
     }
   },
-  "The Secret Life of Walter Mitty(bc X WKF)": {
+  "The Secret Life of Walter Mitty (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 105,
-    "gross": 21000,
+    "sold": 106,
+    "gross": 21200,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 105,
-        "gross": 21000
+        "sold": 106,
+        "gross": 21200
       }
     }
   },

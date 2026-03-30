@@ -6,12 +6,12 @@
     "date": "2026-04-29",
     "time": "11:40",
     "total": 119,
-    "available": 90,
+    "available": 88,
     "blocked": 0,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 31,
+    "gross": 2945,
     "price": 95,
-    "last_updated": "2026-03-31 03:58:28 AM IST"
+    "last_updated": "2026-03-31 04:34:05 AM IST"
   },
   {
     "perfIx": 73126,
@@ -20,26 +20,26 @@
     "date": "2026-04-29",
     "time": "12:00",
     "total": 144,
-    "available": 116,
+    "available": 110,
     "blocked": 0,
-    "sold": 28,
-    "gross": 3640,
+    "sold": 34,
+    "gross": 4420,
     "price": 130,
-    "last_updated": "2026-03-31 03:58:28 AM IST"
+    "last_updated": "2026-03-31 04:34:05 AM IST"
   },
   {
     "perfIx": 74327,
-    "movie": "Komada- A Whisky Family(bcSunday)",
+    "movie": "Komada- A Whisky Family (bcSunday)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-29",
     "time": "11:30",
     "total": 127,
-    "available": 122,
+    "available": 121,
     "blocked": 0,
-    "sold": 5,
-    "gross": 475,
+    "sold": 6,
+    "gross": 570,
     "price": 95,
-    "last_updated": "2026-03-31 03:58:28 AM IST"
+    "last_updated": "2026-03-31 04:34:05 AM IST"
   },
   {
     "perfIx": 76502,
@@ -53,7 +53,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-31 03:05:53 AM IST"
+    "last_updated": "2026-03-31 04:34:05 AM IST"
   },
   {
     "perfIx": 76548,
@@ -67,6 +67,6 @@
     "sold": 8,
     "gross": 760,
     "price": 95,
-    "last_updated": "2026-03-31 03:05:53 AM IST"
+    "last_updated": "2026-03-31 04:34:05 AM IST"
   }
 ]
