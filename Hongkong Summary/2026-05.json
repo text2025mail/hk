@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 15,
-    "gross": 3300,
+    "sold": 16,
+    "gross": 3520,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 6,
-        "gross": 1320
+        "sold": 7,
+        "gross": 1540
       },
       "2026-05-30": {
         "shows": 1,
@@ -126,14 +126,14 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       }
     }
   },
@@ -154,14 +154,14 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
@@ -216,28 +216,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 7,
+        "gross": 665
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
