@@ -3926,12 +3926,12 @@
     "date": "2026-03-31",
     "time": "16:05",
     "total": 57,
-    "available": 55,
+    "available": 50,
     "blocked": 0,
-    "sold": 2,
-    "gross": 170,
+    "sold": 7,
+    "gross": 595,
     "price": 85,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 76027,
@@ -3940,12 +3940,12 @@
     "date": "2026-03-31",
     "time": "16:10",
     "total": 197,
-    "available": 197,
+    "available": 193,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 400,
     "price": 100,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 75790,
@@ -3954,12 +3954,12 @@
     "date": "2026-03-31",
     "time": "16:15",
     "total": 260,
-    "available": 260,
+    "available": 255,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 475,
     "price": 95,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 75804,
@@ -3968,12 +3968,12 @@
     "date": "2026-03-31",
     "time": "16:15",
     "total": 70,
-    "available": 70,
+    "available": 64,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 6,
+    "gross": 510,
     "price": 85,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 75797,
@@ -3982,12 +3982,12 @@
     "date": "2026-03-31",
     "time": "16:30",
     "total": 260,
-    "available": 260,
+    "available": 256,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 380,
     "price": 95,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 76033,
@@ -4001,7 +4001,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   },
   {
     "perfIx": 76239,
@@ -6161,16 +6161,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)",
+    "movie": "Hoppers(Cantonese Version)",
     "venue": "Cinema.com.hk",
     "date": "2026-03-31",
-    "time": "11:35",
-    "total": 127,
-    "available": 105,
+    "time": "16:00",
+    "total": 202,
+    "available": 187,
     "blocked": 0,
-    "sold": 22,
-    "gross": 2860,
-    "price": 130,
-    "last_updated": "2026-03-31 10:59:43 PM IST"
+    "sold": 15,
+    "gross": 1500,
+    "price": 100,
+    "last_updated": "2026-03-31 11:42:29 PM IST"
   }
 ]
