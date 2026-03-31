@@ -3912,12 +3912,12 @@
     "date": "2026-03-31",
     "time": "16:00",
     "total": 202,
-    "available": 202,
+    "available": 187,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 15,
+    "gross": 1500,
     "price": 100,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 75811,
@@ -3926,12 +3926,12 @@
     "date": "2026-03-31",
     "time": "16:05",
     "total": 57,
-    "available": 55,
+    "available": 50,
     "blocked": 0,
-    "sold": 2,
-    "gross": 170,
+    "sold": 7,
+    "gross": 595,
     "price": 85,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 76027,
@@ -3940,12 +3940,12 @@
     "date": "2026-03-31",
     "time": "16:10",
     "total": 197,
-    "available": 197,
+    "available": 193,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 400,
     "price": 100,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 75790,
@@ -3954,12 +3954,12 @@
     "date": "2026-03-31",
     "time": "16:15",
     "total": 260,
-    "available": 260,
+    "available": 255,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 475,
     "price": 95,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 75804,
@@ -3968,12 +3968,12 @@
     "date": "2026-03-31",
     "time": "16:15",
     "total": 70,
-    "available": 70,
+    "available": 66,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 340,
     "price": 85,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 75797,
@@ -3987,7 +3987,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 76033,
@@ -4001,7 +4001,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   },
   {
     "perfIx": 76239,
@@ -6161,16 +6161,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "IMAX Project Hail Mary",
+    "movie": "Project Hail Mary",
     "venue": "Cinema.com.hk",
     "date": "2026-03-31",
-    "time": "11:00",
-    "total": 413,
-    "available": 359,
+    "time": "15:55",
+    "total": 260,
+    "available": 260,
     "blocked": 0,
-    "sold": 54,
-    "gross": 8370,
-    "price": 155,
-    "last_updated": "2026-04-01 01:02:32 AM IST"
+    "sold": 0,
+    "gross": 0,
+    "price": 115,
+    "last_updated": "2026-04-01 03:58:10 AM IST"
   }
 ]
