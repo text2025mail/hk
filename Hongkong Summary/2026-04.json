@@ -658,8 +658,8 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 41,
     "seats": 15628,
-    "sold": 570,
-    "gross": 72450,
+    "sold": 568,
+    "gross": 72170,
     "dates": {
       "2026-04-05": {
         "shows": 6,
@@ -676,8 +676,8 @@
       "2026-04-03": {
         "shows": 9,
         "seats": 3282,
-        "sold": 178,
-        "gross": 22640
+        "sold": 176,
+        "gross": 22360
       },
       "2026-04-01": {
         "shows": 10,
@@ -982,8 +982,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 120,
     "seats": 20347,
-    "sold": 1021,
-    "gross": 93260,
+    "sold": 1018,
+    "gross": 93080,
     "dates": {
       "2026-04-04": {
         "shows": 10,
@@ -994,8 +994,8 @@
       "2026-04-03": {
         "shows": 37,
         "seats": 5796,
-        "sold": 310,
-        "gross": 27065
+        "sold": 307,
+        "gross": 26885
       },
       "2026-04-01": {
         "shows": 38,
@@ -1128,14 +1128,14 @@
   "We're Nothing at All": {
     "shows": 24,
     "seats": 3335,
-    "sold": 76,
-    "gross": 7910,
+    "sold": 75,
+    "gross": 7805,
     "dates": {
       "2026-04-03": {
         "shows": 24,
         "seats": 3335,
-        "sold": 76,
-        "gross": 7910
+        "sold": 75,
+        "gross": 7805
       }
     }
   },
@@ -1272,14 +1272,14 @@
   "4DX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 14,
     "seats": 1142,
-    "sold": 64,
-    "gross": 10380,
+    "sold": 59,
+    "gross": 9630,
     "dates": {
       "2026-04-03": {
         "shows": 5,
         "seats": 398,
-        "sold": 5,
-        "gross": 750
+        "sold": 0,
+        "gross": 0
       },
       "2026-04-01": {
         "shows": 4,
