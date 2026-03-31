@@ -3870,12 +3870,12 @@
     "date": "2026-03-31",
     "time": "15:35",
     "total": 191,
-    "available": 181,
+    "available": 177,
     "blocked": 0,
-    "sold": 10,
-    "gross": 1200,
+    "sold": 14,
+    "gross": 1680,
     "price": 120,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 76040,
@@ -3884,12 +3884,12 @@
     "date": "2026-03-31",
     "time": "15:50",
     "total": 191,
-    "available": 191,
+    "available": 190,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 100,
     "price": 100,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 75783,
@@ -3903,7 +3903,7 @@
     "sold": 0,
     "gross": 0,
     "price": 115,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 76013,
@@ -3912,12 +3912,12 @@
     "date": "2026-03-31",
     "time": "16:00",
     "total": 202,
-    "available": 200,
+    "available": 198,
     "blocked": 0,
-    "sold": 2,
-    "gross": 200,
+    "sold": 4,
+    "gross": 400,
     "price": 100,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 75811,
@@ -3926,12 +3926,12 @@
     "date": "2026-03-31",
     "time": "16:05",
     "total": 57,
-    "available": 55,
+    "available": 52,
     "blocked": 0,
-    "sold": 2,
-    "gross": 170,
+    "sold": 5,
+    "gross": 425,
     "price": 85,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 76027,
@@ -3940,12 +3940,12 @@
     "date": "2026-03-31",
     "time": "16:10",
     "total": 197,
-    "available": 197,
+    "available": 195,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 200,
     "price": 100,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 75790,
@@ -3959,7 +3959,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 75804,
@@ -3973,7 +3973,7 @@
     "sold": 2,
     "gross": 170,
     "price": 85,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 75797,
@@ -3987,7 +3987,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 76033,
@@ -4001,7 +4001,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   },
   {
     "perfIx": 76239,
@@ -6161,16 +6161,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "THEY WILL KILL YOU",
+    "movie": "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
     "venue": "Cinema.com.hk",
     "date": "2026-03-31",
-    "time": "14:10",
-    "total": 160,
-    "available": 158,
+    "time": "15:25",
+    "total": 121,
+    "available": 121,
     "blocked": 0,
-    "sold": 2,
-    "gross": 170,
-    "price": 85,
-    "last_updated": "2026-03-31 08:15:55 PM IST"
+    "sold": 0,
+    "gross": 0,
+    "price": 150,
+    "last_updated": "2026-03-31 09:31:51 PM IST"
   }
 ]
