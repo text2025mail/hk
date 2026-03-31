@@ -11,7 +11,7 @@
     "sold": 76,
     "gross": 7220,
     "price": 95,
-    "last_updated": "2026-03-31 04:26:35 PM IST"
+    "last_updated": "2026-03-31 05:15:47 PM IST"
   },
   {
     "perfIx": 70015,
@@ -20,11 +20,53 @@
     "date": "2026-04-06",
     "time": "05:45",
     "total": 119,
-    "available": 111,
+    "available": 110,
     "blocked": 0,
-    "sold": 8,
-    "gross": 760,
+    "sold": 9,
+    "gross": 855,
     "price": 95,
-    "last_updated": "2026-03-31 04:26:35 PM IST"
+    "last_updated": "2026-03-31 05:15:47 PM IST"
+  },
+  {
+    "perfIx": 77318,
+    "movie": "We're Nothing at All",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-06",
+    "time": "06:00",
+    "total": 116,
+    "available": 114,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 200,
+    "price": 100,
+    "last_updated": "2026-03-31 05:15:47 PM IST"
+  },
+  {
+    "perfIx": 77314,
+    "movie": "We're Nothing at All",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-06",
+    "time": "08:35",
+    "total": 116,
+    "available": 113,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 300,
+    "price": 100,
+    "last_updated": "2026-03-31 05:15:47 PM IST"
+  },
+  {
+    "perfIx": 77320,
+    "movie": "Dhurandhar: The Revenge",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-06",
+    "time": "12:00",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 250,
+    "last_updated": "2026-03-31 05:15:47 PM IST"
   }
 ]
