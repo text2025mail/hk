@@ -22,14 +22,14 @@
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
@@ -106,6 +106,20 @@
         "seats": 119,
         "sold": 14,
         "gross": 1330
+      }
+    }
+  },
+  "Plainclothes (InDPanda)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 1,
+    "gross": 95,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 1,
+        "gross": 95
       }
     }
   },
@@ -216,42 +230,42 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 14,
+    "gross": 1330,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 14,
+        "gross": 1330
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 23,
-        "gross": 2185
+        "sold": 24,
+        "gross": 2280
       }
     }
   },
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 82,
-    "gross": 16400,
+    "sold": 83,
+    "gross": 16600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 16400
+        "sold": 83,
+        "gross": 16600
       }
     }
   },
@@ -272,20 +286,6 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Heads or Tails? (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
     "sold": 11,
     "gross": 1045,
     "dates": {
@@ -297,17 +297,31 @@
       }
     }
   },
-  "Stormskerry Maja (EUFF2026)": {
+  "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 27,
-    "gross": 3375,
+    "sold": 12,
+    "gross": 1140,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 27,
-        "gross": 3375
+        "sold": 12,
+        "gross": 1140
+      }
+    }
+  },
+  "Stormskerry Maja (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 28,
+    "gross": 3500,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 28,
+        "gross": 3500
       }
     }
   }
