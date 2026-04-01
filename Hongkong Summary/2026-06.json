@@ -84,14 +84,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 95,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
