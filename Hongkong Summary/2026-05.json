@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 17,
-    "gross": 3740,
+    "sold": 18,
+    "gross": 3960,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 7,
-        "gross": 1540
+        "sold": 8,
+        "gross": 1760
       },
       "2026-05-30": {
         "shows": 1,
@@ -50,14 +50,14 @@
   "Dead Poets Society (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 109,
-    "gross": 21800,
+    "sold": 110,
+    "gross": 22000,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 109,
-        "gross": 21800
+        "sold": 110,
+        "gross": 22000
       }
     }
   },
@@ -140,14 +140,14 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 14,
+    "gross": 1330,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 14,
+        "gross": 1330
       }
     }
   },
@@ -230,28 +230,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 24,
-        "gross": 2280
+        "sold": 25,
+        "gross": 2375
       }
     }
   },
@@ -314,14 +314,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 28,
-    "gross": 3500,
+    "sold": 29,
+    "gross": 3625,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 28,
-        "gross": 3500
+        "sold": 29,
+        "gross": 3625
       }
     }
   }
