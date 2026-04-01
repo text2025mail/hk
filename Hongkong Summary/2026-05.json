@@ -258,14 +258,14 @@
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 83,
-    "gross": 16600,
+    "sold": 82,
+    "gross": 16400,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 16600
+        "sold": 82,
+        "gross": 16400
       }
     }
   },
@@ -286,6 +286,20 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
+    "sold": 10,
+    "gross": 950,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 10,
+        "gross": 950
+      }
+    }
+  },
+  "Heads or Tails? (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
     "sold": 11,
     "gross": 1045,
     "dates": {
@@ -294,20 +308,6 @@
         "seats": 119,
         "sold": 11,
         "gross": 1045
-      }
-    }
-  },
-  "Heads or Tails? (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 12,
-    "gross": 1140,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 12,
-        "gross": 1140
       }
     }
   },
