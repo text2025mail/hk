@@ -196,8 +196,8 @@
   "4DX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 32,
     "seats": 2216,
-    "sold": 239,
-    "gross": 39430,
+    "sold": 241,
+    "gross": 39770,
     "dates": {
       "2026-04-06": {
         "shows": 4,
@@ -232,8 +232,8 @@
       "2026-04-02": {
         "shows": 5,
         "seats": 398,
-        "sold": 54,
-        "gross": 9100
+        "sold": 56,
+        "gross": 9440
       },
       "2026-04-07": {
         "shows": 4,
@@ -352,8 +352,8 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 38,
     "seats": 3011,
-    "sold": 419,
-    "gross": 70110,
+    "sold": 423,
+    "gross": 70750,
     "dates": {
       "2026-04-06": {
         "shows": 3,
@@ -370,8 +370,8 @@
       "2026-04-04": {
         "shows": 6,
         "seats": 519,
-        "sold": 32,
-        "gross": 5120
+        "sold": 34,
+        "gross": 5420
       },
       "2026-04-03": {
         "shows": 6,
@@ -388,8 +388,8 @@
       "2026-04-02": {
         "shows": 6,
         "seats": 519,
-        "sold": 88,
-        "gross": 14960
+        "sold": 90,
+        "gross": 15300
       },
       "2026-04-07": {
         "shows": 3,
@@ -514,8 +514,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 232,
     "seats": 48725,
-    "sold": 2992,
-    "gross": 218755,
+    "sold": 2994,
+    "gross": 218965,
     "dates": {
       "2026-04-06": {
         "shows": 15,
@@ -556,8 +556,8 @@
       "2026-04-02": {
         "shows": 53,
         "seats": 11134,
-        "sold": 732,
-        "gross": 56205
+        "sold": 734,
+        "gross": 56415
       },
       "2026-04-07": {
         "shows": 11,
@@ -570,8 +570,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 219,
     "seats": 36348,
-    "sold": 2591,
-    "gross": 233495,
+    "sold": 2593,
+    "gross": 233685,
     "dates": {
       "2026-04-06": {
         "shows": 18,
@@ -612,8 +612,8 @@
       "2026-04-02": {
         "shows": 38,
         "seats": 6381,
-        "sold": 573,
-        "gross": 52895
+        "sold": 575,
+        "gross": 53085
       },
       "2026-04-07": {
         "shows": 14,
@@ -1280,8 +1280,8 @@
   "ELVIS": {
     "shows": 5,
     "seats": 520,
-    "sold": 2,
-    "gross": 260,
+    "sold": 3,
+    "gross": 360,
     "dates": {
       "2026-04-18": {
         "shows": 1,
@@ -1292,8 +1292,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 200,
-        "sold": 1,
-        "gross": 130
+        "sold": 2,
+        "gross": 230
       },
       "2026-04-17": {
         "shows": 1,
@@ -2272,14 +2272,14 @@
   "HAMNET": {
     "shows": 33,
     "seats": 2742,
-    "sold": 183,
-    "gross": 18430,
+    "sold": 184,
+    "gross": 18490,
     "dates": {
       "2026-04-03": {
         "shows": 10,
         "seats": 829,
-        "sold": 118,
-        "gross": 11745
+        "sold": 119,
+        "gross": 11805
       },
       "2026-04-01": {
         "shows": 12,
@@ -2526,8 +2526,8 @@
   "The World Of Love": {
     "shows": 4,
     "seats": 476,
-    "sold": 37,
-    "gross": 3130,
+    "sold": 38,
+    "gross": 3225,
     "dates": {
       "2026-04-03": {
         "shows": 2,
@@ -2544,8 +2544,8 @@
       "2026-04-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
