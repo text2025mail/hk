@@ -4480,5 +4480,14 @@
     "total_gross_hkd": 126500,
     "avg_occupancy": 3.98,
     "unique_movies": 15
+  },
+  {
+    "time": "2026-04-01 11:39:10 PM IST",
+    "date": "2026-04-05",
+    "total_shows": 85,
+    "tickets_sold": 800,
+    "total_gross_hkd": 146655,
+    "avg_occupancy": 4.2,
+    "unique_movies": 16
   }
 ]

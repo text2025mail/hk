@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 17,
-    "gross": 3740,
+    "sold": 18,
+    "gross": 3960,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 7,
-        "gross": 1540
+        "sold": 8,
+        "gross": 1760
       },
       "2026-05-30": {
         "shows": 1,
@@ -22,14 +22,14 @@
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
@@ -50,14 +50,14 @@
   "Dead Poets Society (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 109,
-    "gross": 21800,
+    "sold": 111,
+    "gross": 22200,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 109,
-        "gross": 21800
+        "sold": 111,
+        "gross": 22200
       }
     }
   },
@@ -112,14 +112,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -140,14 +140,14 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
@@ -168,14 +168,14 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
@@ -230,42 +230,42 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 23,
-        "gross": 2185
+        "sold": 25,
+        "gross": 2375
       }
     }
   },
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 82,
-    "gross": 16400,
+    "sold": 83,
+    "gross": 16600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 16400
+        "sold": 83,
+        "gross": 16600
       }
     }
   },
@@ -286,20 +286,6 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Heads or Tails? (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
     "sold": 11,
     "gross": 1045,
     "dates": {
@@ -311,17 +297,31 @@
       }
     }
   },
-  "Stormskerry Maja (EUFF2026)": {
+  "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 3250,
+    "sold": 12,
+    "gross": 1140,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 3250
+        "sold": 12,
+        "gross": 1140
+      }
+    }
+  },
+  "Stormskerry Maja (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 30,
+    "gross": 3750,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 30,
+        "gross": 3750
       }
     }
   }
