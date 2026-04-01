@@ -11,6 +11,20 @@
     "sold": 0,
     "gross": 0,
     "price": 90,
-    "last_updated": "2026-04-01 10:16:54 AM IST"
+    "last_updated": "2026-04-01 11:53:51 AM IST"
+  },
+  {
+    "perfIx": 77462,
+    "movie": "Eternal Sunshine of the Spotless Mind (bc X WKF)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-14",
+    "time": "12:00",
+    "total": 119,
+    "available": 118,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 200,
+    "price": 200,
+    "last_updated": "2026-04-01 11:53:51 AM IST"
   }
 ]

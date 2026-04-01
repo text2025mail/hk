@@ -78,14 +78,14 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 20,
-    "gross": 5800,
+    "sold": 21,
+    "gross": 6090,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 9,
-        "gross": 2610
+        "sold": 10,
+        "gross": 2900
       },
       "2026-05-02": {
         "shows": 1,
@@ -230,28 +230,28 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 22,
-    "gross": 2090,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 22,
-        "gross": 2090
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 81,
-    "gross": 16200,
+    "sold": 82,
+    "gross": 16400,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 81,
-        "gross": 16200
+        "sold": 82,
+        "gross": 16400
       }
     }
   },
@@ -300,14 +300,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 3250,
+    "sold": 27,
+    "gross": 3375,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 3250
+        "sold": 27,
+        "gross": 3375
       }
     }
   }
