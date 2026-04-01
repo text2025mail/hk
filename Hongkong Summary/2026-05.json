@@ -168,14 +168,14 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
@@ -230,14 +230,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
@@ -258,14 +258,14 @@
   "Life of Pi (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 82,
-    "gross": 16400,
+    "sold": 83,
+    "gross": 16600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 16400
+        "sold": 83,
+        "gross": 16600
       }
     }
   },
@@ -286,20 +286,6 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Heads or Tails? (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
     "sold": 11,
     "gross": 1045,
     "dates": {
@@ -308,6 +294,20 @@
         "seats": 119,
         "sold": 11,
         "gross": 1045
+      }
+    }
+  },
+  "Heads or Tails? (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 12,
+    "gross": 1140,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 12,
+        "gross": 1140
       }
     }
   },
