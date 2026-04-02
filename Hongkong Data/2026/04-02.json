@@ -5499,7 +5499,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77080,
@@ -5513,7 +5513,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77013,
@@ -5522,12 +5522,12 @@
     "date": "2026-04-02",
     "time": "16:10",
     "total": 260,
-    "available": 260,
+    "available": 257,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 315,
     "price": 105,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77050,
@@ -5536,12 +5536,12 @@
     "date": "2026-04-02",
     "time": "16:20",
     "total": 70,
-    "available": 67,
+    "available": 65,
     "blocked": 0,
-    "sold": 3,
-    "gross": 285,
+    "sold": 5,
+    "gross": 475,
     "price": 95,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77038,
@@ -5555,7 +5555,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77003,
@@ -5914,12 +5914,12 @@
     "date": "2026-04-02",
     "time": "16:00",
     "total": 191,
-    "available": 189,
+    "available": 181,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 10,
+    "gross": 1100,
     "price": 110,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77006,
@@ -5933,7 +5933,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77032,
@@ -5947,7 +5947,7 @@
     "sold": 2,
     "gross": 220,
     "price": 110,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 76639,
@@ -6441,17 +6441,17 @@
   },
   {
     "perfIx": 6,
-    "movie": "The Super Mario Galaxy Movie(Cantonese Version) ",
+    "movie": "Project Hail Mary",
     "venue": "Cinema.com.hk",
     "date": "2026-04-02",
-    "time": "14:25",
-    "total": 171,
-    "available": 159,
+    "time": "15:55",
+    "total": 197,
+    "available": 179,
     "blocked": 0,
-    "sold": 12,
-    "gross": 1200,
-    "price": 100,
-    "last_updated": "2026-04-02 10:20:56 PM IST"
+    "sold": 18,
+    "gross": 2340,
+    "price": 130,
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 77929,

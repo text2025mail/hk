@@ -6,12 +6,12 @@
     "date": "2026-04-27",
     "time": "11:10",
     "total": 119,
-    "available": 93,
+    "available": 95,
     "blocked": 0,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 24,
+    "gross": 2280,
     "price": 95,
-    "last_updated": "2026-04-02 11:13:59 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 76500,
@@ -25,7 +25,7 @@
     "sold": 8,
     "gross": 760,
     "price": 95,
-    "last_updated": "2026-04-02 11:13:59 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   },
   {
     "perfIx": 76480,
@@ -39,6 +39,6 @@
     "sold": 9,
     "gross": 855,
     "price": 95,
-    "last_updated": "2026-04-02 11:13:59 PM IST"
+    "last_updated": "2026-04-03 12:16:15 AM IST"
   }
 ]
