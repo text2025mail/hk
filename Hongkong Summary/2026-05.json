@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 18,
-    "gross": 3960,
+    "sold": 19,
+    "gross": 4180,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 8,
-        "gross": 1760
+        "sold": 9,
+        "gross": 1980
       },
       "2026-05-30": {
         "shows": 1,
@@ -132,14 +132,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 24,
+        "gross": 2280
       }
     }
   },
@@ -174,28 +174,28 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 30,
+    "gross": 2850,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 29,
-        "gross": 2755
+        "sold": 30,
+        "gross": 2850
       }
     }
   },
@@ -236,28 +236,28 @@
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
@@ -306,14 +306,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
@@ -334,14 +334,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 33,
-    "gross": 4125,
+    "sold": 36,
+    "gross": 4500,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 33,
-        "gross": 4125
+        "sold": 36,
+        "gross": 4500
       }
     }
   }
