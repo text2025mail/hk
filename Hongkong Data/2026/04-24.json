@@ -6,12 +6,12 @@
     "date": "2026-04-24",
     "time": "12:00",
     "total": 127,
-    "available": 109,
+    "available": 107,
     "blocked": 0,
-    "sold": 18,
-    "gross": 2340,
+    "sold": 20,
+    "gross": 2600,
     "price": 130,
-    "last_updated": "2026-04-02 12:34:03 PM IST"
+    "last_updated": "2026-04-02 02:03:24 PM IST"
   },
   {
     "perfIx": 76547,
@@ -25,7 +25,7 @@
     "sold": 4,
     "gross": 380,
     "price": 95,
-    "last_updated": "2026-04-02 12:34:03 PM IST"
+    "last_updated": "2026-04-02 02:03:24 PM IST"
   },
   {
     "perfIx": 76475,
@@ -39,7 +39,7 @@
     "sold": 18,
     "gross": 1710,
     "price": 95,
-    "last_updated": "2026-04-02 12:34:03 PM IST"
+    "last_updated": "2026-04-02 02:03:24 PM IST"
   },
   {
     "perfIx": 76497,
@@ -53,6 +53,104 @@
     "sold": 3,
     "gross": 285,
     "price": 95,
-    "last_updated": "2026-04-02 12:34:03 PM IST"
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77972,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "07:05",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77695,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:25",
+    "total": 129,
+    "available": 129,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77945,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:25",
+    "total": 118,
+    "available": 118,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77694,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:30",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77817,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:30",
+    "total": 113,
+    "available": 113,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77590,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:40",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
+  },
+  {
+    "perfIx": 77973,
+    "movie": "COLD WAR 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-24",
+    "time": "11:45",
+    "total": 116,
+    "available": 116,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 30,
+    "last_updated": "2026-04-02 02:03:24 PM IST"
   }
 ]
