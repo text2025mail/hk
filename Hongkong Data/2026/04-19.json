@@ -11,7 +11,7 @@
     "sold": 99,
     "gross": 41580,
     "price": 420,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 65360,
@@ -25,7 +25,7 @@
     "sold": 61,
     "gross": 13420,
     "price": 220,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 61377,
@@ -39,7 +39,7 @@
     "sold": 54,
     "gross": 11880,
     "price": 220,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 72662,
@@ -53,7 +53,7 @@
     "sold": 3,
     "gross": 660,
     "price": 220,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 73116,
@@ -67,7 +67,7 @@
     "sold": 3,
     "gross": 660,
     "price": 220,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 73930,
@@ -81,7 +81,7 @@
     "sold": 12,
     "gross": 1440,
     "price": 120,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 74331,
@@ -95,7 +95,7 @@
     "sold": 17,
     "gross": 1615,
     "price": 95,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77460,
@@ -104,12 +104,12 @@
     "date": "2026-04-19",
     "time": "06:30",
     "total": 119,
-    "available": 111,
+    "available": 107,
     "blocked": 0,
-    "sold": 8,
-    "gross": 760,
+    "sold": 12,
+    "gross": 1140,
     "price": 95,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 76558,
@@ -123,7 +123,7 @@
     "sold": 12,
     "gross": 3600,
     "price": 300,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77472,
@@ -137,7 +137,7 @@
     "sold": 1,
     "gross": 100,
     "price": 100,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77481,
@@ -151,7 +151,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77482,
@@ -165,7 +165,7 @@
     "sold": 1,
     "gross": 130,
     "price": 130,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77941,
@@ -179,7 +179,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77488,
@@ -193,6 +193,34 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
+  },
+  {
+    "perfIx": 77311,
+    "movie": "Ryuichi Sakamoto | Playing the Orchestra 2014 (HKAF 2026 - PLUS Film)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "05:55",
+    "total": 81,
+    "available": 81,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-04-02 12:34:03 PM IST"
+  },
+  {
+    "perfIx": 77963,
+    "movie": "IMAX EPiC: Elvis Presley in Concert",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-19",
+    "time": "11:35",
+    "total": 268,
+    "available": 268,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 160,
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   }
 ]

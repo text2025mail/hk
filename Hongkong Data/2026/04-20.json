@@ -11,7 +11,7 @@
     "sold": 21,
     "gross": 2730,
     "price": 130,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   },
   {
     "perfIx": 77461,
@@ -20,11 +20,25 @@
     "date": "2026-04-20",
     "time": "11:20",
     "total": 119,
-    "available": 117,
+    "available": 115,
     "blocked": 0,
-    "sold": 2,
-    "gross": 190,
+    "sold": 4,
+    "gross": 380,
     "price": 95,
-    "last_updated": "2026-04-02 11:25:02 AM IST"
+    "last_updated": "2026-04-02 12:34:03 PM IST"
+  },
+  {
+    "perfIx": 77964,
+    "movie": "IMAX EPiC: Elvis Presley in Concert",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-20",
+    "time": "11:35",
+    "total": 268,
+    "available": 268,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 160,
+    "last_updated": "2026-04-02 12:34:03 PM IST"
   }
 ]
