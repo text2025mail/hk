@@ -56,14 +56,14 @@
   "The Farewell (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 83,
-    "gross": 16600,
+    "sold": 82,
+    "gross": 16400,
     "dates": {
       "2026-06-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 16600
+        "sold": 82,
+        "gross": 16400
       }
     }
   },
@@ -84,14 +84,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 7,
+        "gross": 665
       }
     }
   },
