@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 18,
-    "gross": 3960,
+    "sold": 19,
+    "gross": 4180,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 8,
-        "gross": 1760
+        "sold": 9,
+        "gross": 1980
       },
       "2026-05-30": {
         "shows": 1,
@@ -132,14 +132,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 21,
-    "gross": 1995,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 21,
-        "gross": 1995
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
@@ -174,14 +174,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
@@ -306,14 +306,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
