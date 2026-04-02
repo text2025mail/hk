@@ -949,7 +949,7 @@
     "sold": 2,
     "gross": 240,
     "price": 120,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 75235,
@@ -3716,12 +3716,12 @@
     "date": "2026-04-02",
     "time": "14:40",
     "total": 180,
-    "available": 172,
+    "available": 170,
     "blocked": 0,
-    "sold": 8,
-    "gross": 640,
+    "sold": 10,
+    "gross": 800,
     "price": 80,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77085,
@@ -5480,12 +5480,12 @@
     "date": "2026-04-02",
     "time": "14:25",
     "total": 260,
-    "available": 258,
+    "available": 241,
     "blocked": 0,
-    "sold": 2,
-    "gross": 210,
+    "sold": 19,
+    "gross": 1995,
     "price": 105,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 76996,
@@ -5499,7 +5499,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77080,
@@ -5513,7 +5513,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77013,
@@ -5527,7 +5527,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77050,
@@ -5536,12 +5536,12 @@
     "date": "2026-04-02",
     "time": "16:20",
     "total": 70,
-    "available": 70,
+    "available": 67,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 3,
+    "gross": 285,
     "price": 95,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77038,
@@ -5555,7 +5555,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77003,
@@ -5886,12 +5886,12 @@
     "date": "2026-04-02",
     "time": "15:10",
     "total": 121,
-    "available": 106,
+    "available": 96,
     "blocked": 0,
-    "sold": 15,
-    "gross": 2550,
+    "sold": 25,
+    "gross": 4250,
     "price": 170,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77025,
@@ -5905,7 +5905,7 @@
     "sold": 9,
     "gross": 1170,
     "price": 130,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77019,
@@ -5914,12 +5914,12 @@
     "date": "2026-04-02",
     "time": "16:00",
     "total": 191,
-    "available": 191,
+    "available": 189,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 220,
     "price": 110,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77006,
@@ -5933,7 +5933,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77032,
@@ -5947,7 +5947,7 @@
     "sold": 2,
     "gross": 220,
     "price": 110,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 76639,
@@ -6441,17 +6441,17 @@
   },
   {
     "perfIx": 6,
-    "movie": "CGS The Super Mario Galaxy Movie(English Version) ",
+    "movie": "The Super Mario Galaxy Movie(Cantonese Version) ",
     "venue": "Cinema.com.hk",
     "date": "2026-04-02",
-    "time": "11:55",
-    "total": 320,
-    "available": 293,
+    "time": "14:25",
+    "total": 171,
+    "available": 159,
     "blocked": 0,
-    "sold": 27,
-    "gross": 2970,
-    "price": 110,
-    "last_updated": "2026-04-02 09:03:13 PM IST"
+    "sold": 12,
+    "gross": 1200,
+    "price": 100,
+    "last_updated": "2026-04-02 10:20:56 PM IST"
   },
   {
     "perfIx": 77929,
