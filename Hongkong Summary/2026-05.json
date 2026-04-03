@@ -36,14 +36,14 @@
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 75,
     "dates": {
       "2026-05-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 75
       },
       "2026-05-04": {
         "shows": 1,
@@ -70,14 +70,14 @@
   "Dead Poets Society (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 111,
-    "gross": 22200,
+    "sold": 112,
+    "gross": 22400,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 111,
-        "gross": 22200
+        "sold": 112,
+        "gross": 22400
       }
     }
   },
@@ -132,56 +132,56 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 28,
+    "gross": 2660,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 24,
-        "gross": 2280
+        "sold": 28,
+        "gross": 2660
       }
     }
   },
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 11,
-    "gross": 1045,
+    "sold": 12,
+    "gross": 1140,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 12,
+        "gross": 1140
       }
     }
   },
@@ -236,24 +236,80 @@
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 16,
+        "gross": 1520
       }
     }
   },
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
+    "sold": 24,
+    "gross": 2280,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 24,
+        "gross": 2280
+      }
+    }
+  },
+  "The Dinner (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 30,
+    "gross": 2850,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 30,
+        "gross": 2850
+      }
+    }
+  },
+  "Life of Pi  (bc X WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 84,
+    "gross": 16800,
+    "dates": {
+      "2026-05-23": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 84,
+        "gross": 16800
+      }
+    }
+  },
+  "Power To The People: John & Yoko Live in NYC (2026)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 23,
+    "gross": 2990,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 23,
+        "gross": 2990
+      }
+    }
+  },
+  "Broken Voices (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
     "sold": 22,
     "gross": 2090,
     "dates": {
-      "2026-05-02": {
+      "2026-05-03": {
         "shows": 1,
         "seats": 119,
         "sold": 22,
@@ -261,87 +317,31 @@
       }
     }
   },
-  "The Dinner (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 25,
-    "gross": 2375,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 25,
-        "gross": 2375
-      }
-    }
-  },
-  "Life of Pi (bc X WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 83,
-    "gross": 16600,
-    "dates": {
-      "2026-05-23": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 83,
-        "gross": 16600
-      }
-    }
-  },
-  "Power To The People: John & Yoko Live in NYC (2026)": {
-    "shows": 1,
-    "seats": 127,
-    "sold": 21,
-    "gross": 2730,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 21,
-        "gross": 2730
-      }
-    }
-  },
-  "Broken Voices (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 20,
-    "gross": 1900,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 20,
-        "gross": 1900
-      }
-    }
-  },
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 36,
-    "gross": 4500,
+    "sold": 38,
+    "gross": 4750,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 4500
+        "sold": 38,
+        "gross": 4750
       }
     }
   }
