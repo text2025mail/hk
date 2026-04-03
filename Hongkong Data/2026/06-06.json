@@ -1,17 +1,17 @@
 [
   {
     "perfIx": 74337,
-    "movie": "The Secret Life of Walter Mitty  (bc X WKF)",
+    "movie": "The Secret Life of Walter Mitty (bc X WKF)",
     "venue": "Cinema.com.hk",
     "date": "2026-06-06",
     "time": "05:30",
     "total": 119,
-    "available": 9,
+    "available": 10,
     "blocked": 0,
-    "sold": 110,
-    "gross": 22000,
+    "sold": 109,
+    "gross": 21800,
     "price": 200,
-    "last_updated": "2026-04-03 02:14:30 PM IST"
+    "last_updated": "2026-04-03 03:17:04 PM IST"
   },
   {
     "perfIx": 77467,
@@ -20,11 +20,11 @@
     "date": "2026-06-06",
     "time": "11:30",
     "total": 119,
-    "available": 103,
+    "available": 105,
     "blocked": 0,
-    "sold": 16,
-    "gross": 1520,
+    "sold": 14,
+    "gross": 1330,
     "price": 95,
-    "last_updated": "2026-04-03 02:14:30 PM IST"
+    "last_updated": "2026-04-03 03:17:04 PM IST"
   }
 ]
