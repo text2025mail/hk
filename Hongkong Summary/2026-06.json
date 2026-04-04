@@ -70,28 +70,28 @@
   "The Secret Life of Walter Mitty  (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 111,
-    "gross": 22200,
+    "sold": 110,
+    "gross": 22000,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 111,
-        "gross": 22200
+        "sold": 110,
+        "gross": 22000
       }
     }
   },
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 21,
-    "gross": 1995,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 21,
-        "gross": 1995
+        "sold": 19,
+        "gross": 1805
       }
     }
   },
