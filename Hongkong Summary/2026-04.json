@@ -126,14 +126,14 @@
   "We're Nothing at All": {
     "shows": 172,
     "seats": 21679,
-    "sold": 1628,
-    "gross": 153335,
+    "sold": 1629,
+    "gross": 153430,
     "dates": {
       "2026-04-06": {
         "shows": 29,
         "seats": 3504,
-        "sold": 289,
-        "gross": 29010
+        "sold": 290,
+        "gross": 29105
       },
       "2026-04-05": {
         "shows": 28,
@@ -618,8 +618,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 386,
     "seats": 60306,
-    "sold": 6414,
-    "gross": 594505,
+    "sold": 6416,
+    "gross": 594695,
     "dates": {
       "2026-04-06": {
         "shows": 51,
@@ -630,8 +630,8 @@
       "2026-04-05": {
         "shows": 49,
         "seats": 7475,
-        "sold": 755,
-        "gross": 65165
+        "sold": 757,
+        "gross": 65355
       },
       "2026-04-08": {
         "shows": 52,
@@ -730,8 +730,8 @@
   "Project Hail Mary": {
     "shows": 284,
     "seats": 39004,
-    "sold": 3732,
-    "gross": 463115,
+    "sold": 3736,
+    "gross": 463665,
     "dates": {
       "2026-04-06": {
         "shows": 32,
@@ -742,8 +742,8 @@
       "2026-04-05": {
         "shows": 36,
         "seats": 5016,
-        "sold": 564,
-        "gross": 67735
+        "sold": 568,
+        "gross": 68285
       },
       "2026-04-08": {
         "shows": 37,
@@ -786,8 +786,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 97,
     "seats": 16593,
-    "sold": 1284,
-    "gross": 144665,
+    "sold": 1285,
+    "gross": 144745,
     "dates": {
       "2026-04-06": {
         "shows": 15,
@@ -798,8 +798,8 @@
       "2026-04-05": {
         "shows": 11,
         "seats": 1873,
-        "sold": 232,
-        "gross": 24785
+        "sold": 233,
+        "gross": 24865
       },
       "2026-04-08": {
         "shows": 10,
@@ -954,8 +954,8 @@
   "IMAX Project Hail Mary": {
     "shows": 15,
     "seats": 5035,
-    "sold": 804,
-    "gross": 144720,
+    "sold": 806,
+    "gross": 145080,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -966,8 +966,8 @@
       "2026-04-05": {
         "shows": 2,
         "seats": 681,
-        "sold": 109,
-        "gross": 19620
+        "sold": 111,
+        "gross": 19980
       },
       "2026-04-08": {
         "shows": 2,
@@ -1416,8 +1416,8 @@
   "HAMNET": {
     "shows": 85,
     "seats": 6619,
-    "sold": 663,
-    "gross": 67585,
+    "sold": 665,
+    "gross": 67775,
     "dates": {
       "2026-04-06": {
         "shows": 11,
@@ -1428,8 +1428,8 @@
       "2026-04-05": {
         "shows": 11,
         "seats": 825,
-        "sold": 109,
-        "gross": 10845
+        "sold": 111,
+        "gross": 11035
       },
       "2026-04-08": {
         "shows": 9,
