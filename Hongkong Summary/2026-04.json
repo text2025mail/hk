@@ -2,8 +2,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 16,
     "seats": 1798,
-    "sold": 792,
-    "gross": 80140,
+    "sold": 793,
+    "gross": 80235,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 55,
-        "gross": 5225
+        "sold": 56,
+        "gross": 5320
       },
       "2026-04-20": {
         "shows": 1,
@@ -94,8 +94,8 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 4,
     "seats": 476,
-    "sold": 57,
-    "gross": 5415,
+    "sold": 58,
+    "gross": 5510,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -106,8 +106,8 @@
       "2026-04-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-04-08": {
         "shows": 1,
@@ -126,14 +126,14 @@
   "We're Nothing at All": {
     "shows": 172,
     "seats": 21679,
-    "sold": 1632,
-    "gross": 153715,
+    "sold": 1634,
+    "gross": 153935,
     "dates": {
       "2026-04-06": {
         "shows": 29,
         "seats": 3504,
-        "sold": 290,
-        "gross": 29105
+        "sold": 292,
+        "gross": 29325
       },
       "2026-04-05": {
         "shows": 28,
@@ -394,20 +394,20 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 52,
     "seats": 4498,
-    "sold": 1296,
-    "gross": 215380,
+    "sold": 1302,
+    "gross": 216400,
     "dates": {
       "2026-04-06": {
         "shows": 5,
         "seats": 398,
-        "sold": 101,
-        "gross": 16750
+        "sold": 105,
+        "gross": 17430
       },
       "2026-04-05": {
         "shows": 7,
         "seats": 640,
-        "sold": 274,
-        "gross": 45000
+        "sold": 276,
+        "gross": 45340
       },
       "2026-04-08": {
         "shows": 6,
@@ -562,8 +562,8 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 438,
     "seats": 89702,
-    "sold": 7573,
-    "gross": 561295,
+    "sold": 7574,
+    "gross": 561355,
     "dates": {
       "2026-04-06": {
         "shows": 58,
@@ -580,8 +580,8 @@
       "2026-04-08": {
         "shows": 53,
         "seats": 10520,
-        "sold": 4,
-        "gross": 240
+        "sold": 5,
+        "gross": 300
       },
       "2026-04-04": {
         "shows": 61,
@@ -730,8 +730,8 @@
   "Project Hail Mary": {
     "shows": 284,
     "seats": 39004,
-    "sold": 3740,
-    "gross": 464205,
+    "sold": 3744,
+    "gross": 464605,
     "dates": {
       "2026-04-06": {
         "shows": 32,
@@ -742,14 +742,14 @@
       "2026-04-05": {
         "shows": 36,
         "seats": 5016,
-        "sold": 572,
-        "gross": 68825
+        "sold": 574,
+        "gross": 69065
       },
       "2026-04-08": {
         "shows": 37,
         "seats": 5129,
-        "sold": 2,
-        "gross": 240
+        "sold": 4,
+        "gross": 400
       },
       "2026-04-04": {
         "shows": 33,
@@ -842,8 +842,8 @@
   "Hoppers(English Version)": {
     "shows": 186,
     "seats": 19615,
-    "sold": 2015,
-    "gross": 197575,
+    "sold": 2025,
+    "gross": 198515,
     "dates": {
       "2026-04-06": {
         "shows": 22,
@@ -854,14 +854,14 @@
       "2026-04-05": {
         "shows": 23,
         "seats": 2397,
-        "sold": 258,
-        "gross": 23660
+        "sold": 266,
+        "gross": 24430
       },
       "2026-04-08": {
         "shows": 23,
         "seats": 2368,
-        "sold": 6,
-        "gross": 585
+        "sold": 8,
+        "gross": 755
       },
       "2026-04-04": {
         "shows": 24,
@@ -898,8 +898,8 @@
   "Marty Supreme": {
     "shows": 285,
     "seats": 30211,
-    "sold": 1354,
-    "gross": 158915,
+    "sold": 1355,
+    "gross": 159030,
     "dates": {
       "2026-04-06": {
         "shows": 34,
@@ -946,16 +946,16 @@
       "2026-04-07": {
         "shows": 34,
         "seats": 3565,
-        "sold": 21,
-        "gross": 2285
+        "sold": 22,
+        "gross": 2400
       }
     }
   },
   "IMAX Project Hail Mary": {
     "shows": 15,
     "seats": 5035,
-    "sold": 806,
-    "gross": 145080,
+    "sold": 809,
+    "gross": 145620,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -966,14 +966,14 @@
       "2026-04-05": {
         "shows": 2,
         "seats": 681,
-        "sold": 111,
-        "gross": 19980
+        "sold": 113,
+        "gross": 20340
       },
       "2026-04-08": {
         "shows": 2,
         "seats": 681,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 180
       },
       "2026-04-04": {
         "shows": 2,
@@ -1122,8 +1122,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 233,
     "seats": 34429,
-    "sold": 2640,
-    "gross": 208400,
+    "sold": 2642,
+    "gross": 208600,
     "dates": {
       "2026-04-06": {
         "shows": 29,
@@ -1134,8 +1134,8 @@
       "2026-04-05": {
         "shows": 29,
         "seats": 4433,
-        "sold": 341,
-        "gross": 26335
+        "sold": 343,
+        "gross": 26535
       },
       "2026-04-08": {
         "shows": 29,
@@ -1858,8 +1858,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 9,
     "seats": 1020,
-    "sold": 176,
-    "gross": 29920,
+    "sold": 177,
+    "gross": 30090,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -1870,8 +1870,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 121,
-        "sold": 56,
-        "gross": 9520
+        "sold": 57,
+        "gross": 9690
       },
       "2026-04-08": {
         "shows": 1,
@@ -2548,8 +2548,8 @@
   "IMAX EPiC: Elvis Presley in Concert": {
     "shows": 9,
     "seats": 2847,
-    "sold": 109,
-    "gross": 17260,
+    "sold": 110,
+    "gross": 17420,
     "dates": {
       "2026-04-18": {
         "shows": 2,
@@ -2566,8 +2566,8 @@
       "2026-04-17": {
         "shows": 2,
         "seats": 681,
-        "sold": 41,
-        "gross": 6560
+        "sold": 42,
+        "gross": 6720
       },
       "2026-04-21": {
         "shows": 1,
@@ -2638,8 +2638,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 5,
     "seats": 457,
-    "sold": 251,
-    "gross": 55220,
+    "sold": 252,
+    "gross": 55440,
     "dates": {
       "2026-04-12": {
         "shows": 1,
@@ -2662,8 +2662,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 94,
-        "sold": 39,
-        "gross": 8580
+        "sold": 40,
+        "gross": 8800
       }
     }
   },
@@ -2772,14 +2772,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 65,
-    "gross": 10400,
+    "sold": 66,
+    "gross": 10560,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 127,
-        "sold": 65,
-        "gross": 10400
+        "sold": 66,
+        "gross": 10560
       }
     }
   },
@@ -3200,8 +3200,8 @@
   "A Pale View of Hills": {
     "shows": 4,
     "seats": 476,
-    "sold": 126,
-    "gross": 11970,
+    "sold": 127,
+    "gross": 12065,
     "dates": {
       "2026-04-19": {
         "shows": 1,
@@ -3212,8 +3212,8 @@
       "2026-04-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 3230
+        "sold": 35,
+        "gross": 3325
       },
       "2026-04-16": {
         "shows": 1,
@@ -3298,14 +3298,14 @@
   "The Grand Budapest Hotel": {
     "shows": 1,
     "seats": 88,
-    "sold": 57,
-    "gross": 7410,
+    "sold": 58,
+    "gross": 7540,
     "dates": {
       "2026-04-11": {
         "shows": 1,
         "seats": 88,
-        "sold": 57,
-        "gross": 7410
+        "sold": 58,
+        "gross": 7540
       }
     }
   },
