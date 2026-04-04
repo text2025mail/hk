@@ -954,8 +954,8 @@
   "IMAX Project Hail Mary": {
     "shows": 15,
     "seats": 5035,
-    "sold": 809,
-    "gross": 145620,
+    "sold": 808,
+    "gross": 145440,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -972,8 +972,8 @@
       "2026-04-08": {
         "shows": 2,
         "seats": 681,
-        "sold": 1,
-        "gross": 180
+        "sold": 0,
+        "gross": 0
       },
       "2026-04-04": {
         "shows": 2,
@@ -1858,8 +1858,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 9,
     "seats": 1020,
-    "sold": 177,
-    "gross": 30090,
+    "sold": 176,
+    "gross": 29920,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -1870,8 +1870,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 121,
-        "sold": 57,
-        "gross": 9690
+        "sold": 56,
+        "gross": 9520
       },
       "2026-04-08": {
         "shows": 1,
