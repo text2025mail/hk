@@ -2,8 +2,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 16,
     "seats": 1798,
-    "sold": 792,
-    "gross": 80140,
+    "sold": 793,
+    "gross": 80235,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -80,8 +80,8 @@
       "2026-04-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 55,
-        "gross": 5225
+        "sold": 56,
+        "gross": 5320
       },
       "2026-04-20": {
         "shows": 1,
@@ -394,20 +394,20 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 53,
     "seats": 4619,
-    "sold": 1343,
-    "gross": 223370,
+    "sold": 1349,
+    "gross": 224390,
     "dates": {
       "2026-04-06": {
         "shows": 5,
         "seats": 398,
-        "sold": 101,
-        "gross": 16750
+        "sold": 105,
+        "gross": 17430
       },
       "2026-04-05": {
         "shows": 7,
         "seats": 640,
-        "sold": 274,
-        "gross": 45000
+        "sold": 276,
+        "gross": 45340
       },
       "2026-04-08": {
         "shows": 6,
@@ -730,8 +730,8 @@
   "Project Hail Mary": {
     "shows": 284,
     "seats": 39004,
-    "sold": 3740,
-    "gross": 464205,
+    "sold": 3744,
+    "gross": 464605,
     "dates": {
       "2026-04-06": {
         "shows": 32,
@@ -742,14 +742,14 @@
       "2026-04-05": {
         "shows": 36,
         "seats": 5016,
-        "sold": 572,
-        "gross": 68825
+        "sold": 574,
+        "gross": 69065
       },
       "2026-04-08": {
         "shows": 37,
         "seats": 5129,
-        "sold": 2,
-        "gross": 240
+        "sold": 4,
+        "gross": 400
       },
       "2026-04-04": {
         "shows": 33,
@@ -842,8 +842,8 @@
   "Hoppers(English Version)": {
     "shows": 186,
     "seats": 19615,
-    "sold": 2023,
-    "gross": 198345,
+    "sold": 2025,
+    "gross": 198515,
     "dates": {
       "2026-04-06": {
         "shows": 22,
@@ -854,8 +854,8 @@
       "2026-04-05": {
         "shows": 23,
         "seats": 2397,
-        "sold": 264,
-        "gross": 24260
+        "sold": 266,
+        "gross": 24430
       },
       "2026-04-08": {
         "shows": 23,
@@ -954,8 +954,8 @@
   "IMAX Project Hail Mary": {
     "shows": 15,
     "seats": 5035,
-    "sold": 806,
-    "gross": 145080,
+    "sold": 808,
+    "gross": 145440,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -966,8 +966,8 @@
       "2026-04-05": {
         "shows": 2,
         "seats": 681,
-        "sold": 111,
-        "gross": 19980
+        "sold": 113,
+        "gross": 20340
       },
       "2026-04-08": {
         "shows": 2,
@@ -1122,8 +1122,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 233,
     "seats": 34429,
-    "sold": 2640,
-    "gross": 208400,
+    "sold": 2642,
+    "gross": 208600,
     "dates": {
       "2026-04-06": {
         "shows": 29,
@@ -1134,8 +1134,8 @@
       "2026-04-05": {
         "shows": 29,
         "seats": 4433,
-        "sold": 341,
-        "gross": 26335
+        "sold": 343,
+        "gross": 26535
       },
       "2026-04-08": {
         "shows": 29,
@@ -2772,14 +2772,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 65,
-    "gross": 10400,
+    "sold": 66,
+    "gross": 10560,
     "dates": {
       "2026-04-12": {
         "shows": 1,
         "seats": 127,
-        "sold": 65,
-        "gross": 10400
+        "sold": 66,
+        "gross": 10560
       }
     }
   },
