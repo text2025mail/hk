@@ -2,14 +2,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 16,
     "seats": 1798,
-    "sold": 761,
-    "gross": 77055,
+    "sold": 763,
+    "gross": 77245,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 7790
+        "sold": 84,
+        "gross": 7980
       },
       "2026-04-18": {
         "shows": 2,
@@ -126,20 +126,20 @@
   "We're Nothing at All": {
     "shows": 172,
     "seats": 21679,
-    "sold": 1224,
-    "gross": 114635,
+    "sold": 1240,
+    "gross": 115945,
     "dates": {
       "2026-04-06": {
         "shows": 29,
         "seats": 3504,
-        "sold": 59,
-        "gross": 5420
+        "sold": 60,
+        "gross": 5520
       },
       "2026-04-05": {
         "shows": 28,
         "seats": 3374,
-        "sold": 281,
-        "gross": 29590
+        "sold": 288,
+        "gross": 30160
       },
       "2026-04-08": {
         "shows": 28,
@@ -150,8 +150,8 @@
       "2026-04-04": {
         "shows": 28,
         "seats": 3335,
-        "sold": 205,
-        "gross": 16260
+        "sold": 209,
+        "gross": 16540
       },
       "2026-04-03": {
         "shows": 31,
@@ -162,22 +162,22 @@
       "2026-04-07": {
         "shows": 28,
         "seats": 3463,
-        "sold": 21,
-        "gross": 1650
+        "sold": 25,
+        "gross": 2010
       }
     }
   },
   "Dhurandhar: The Revenge": {
     "shows": 15,
     "seats": 1552,
-    "sold": 479,
-    "gross": 119750,
+    "sold": 480,
+    "gross": 120000,
     "dates": {
       "2026-04-06": {
         "shows": 3,
         "seats": 277,
-        "sold": 45,
-        "gross": 11250
+        "sold": 46,
+        "gross": 11500
       },
       "2026-04-05": {
         "shows": 2,
@@ -226,8 +226,8 @@
   "4DX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 41,
     "seats": 2960,
-    "sold": 680,
-    "gross": 112920,
+    "sold": 686,
+    "gross": 113940,
     "dates": {
       "2026-04-06": {
         "shows": 6,
@@ -250,8 +250,8 @@
       "2026-04-04": {
         "shows": 6,
         "seats": 450,
-        "sold": 151,
-        "gross": 24770
+        "sold": 157,
+        "gross": 25790
       },
       "2026-04-03": {
         "shows": 5,
@@ -282,20 +282,20 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 71,
     "seats": 25843,
-    "sold": 2551,
-    "gross": 329090,
+    "sold": 2571,
+    "gross": 331890,
     "dates": {
       "2026-04-06": {
         "shows": 8,
         "seats": 2869,
-        "sold": 101,
-        "gross": 12580
+        "sold": 103,
+        "gross": 12860
       },
       "2026-04-05": {
         "shows": 9,
         "seats": 3282,
-        "sold": 236,
-        "gross": 30430
+        "sold": 240,
+        "gross": 30990
       },
       "2026-04-08": {
         "shows": 8,
@@ -306,8 +306,8 @@
       "2026-04-04": {
         "shows": 9,
         "seats": 3282,
-        "sold": 441,
-        "gross": 56400
+        "sold": 455,
+        "gross": 58360
       },
       "2026-04-03": {
         "shows": 9,
@@ -336,10 +336,10 @@
     }
   },
   "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)": {
-    "shows": 88,
-    "seats": 22878,
-    "sold": 1897,
-    "gross": 144620,
+    "shows": 89,
+    "seats": 23139,
+    "sold": 1956,
+    "gross": 148600,
     "dates": {
       "2026-04-06": {
         "shows": 11,
@@ -350,8 +350,8 @@
       "2026-04-05": {
         "shows": 11,
         "seats": 2897,
-        "sold": 125,
-        "gross": 10100
+        "sold": 127,
+        "gross": 10300
       },
       "2026-04-08": {
         "shows": 15,
@@ -360,10 +360,10 @@
         "gross": 580
       },
       "2026-04-04": {
-        "shows": 11,
-        "seats": 2629,
-        "sold": 443,
-        "gross": 32900
+        "shows": 12,
+        "seats": 2890,
+        "sold": 500,
+        "gross": 36680
       },
       "2026-04-03": {
         "shows": 11,
@@ -394,8 +394,8 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 52,
     "seats": 4498,
-    "sold": 1073,
-    "gross": 178290,
+    "sold": 1078,
+    "gross": 179060,
     "dates": {
       "2026-04-06": {
         "shows": 5,
@@ -406,8 +406,8 @@
       "2026-04-05": {
         "shows": 7,
         "seats": 640,
-        "sold": 152,
-        "gross": 24920
+        "sold": 154,
+        "gross": 25220
       },
       "2026-04-08": {
         "shows": 6,
@@ -418,8 +418,8 @@
       "2026-04-04": {
         "shows": 7,
         "seats": 640,
-        "sold": 265,
-        "gross": 43190
+        "sold": 268,
+        "gross": 43660
       },
       "2026-04-03": {
         "shows": 7,
@@ -450,20 +450,20 @@
   "Night King": {
     "shows": 504,
     "seats": 66394,
-    "sold": 1961,
-    "gross": 167735,
+    "sold": 1998,
+    "gross": 170520,
     "dates": {
       "2026-04-06": {
         "shows": 66,
         "seats": 8729,
-        "sold": 106,
-        "gross": 10460
+        "sold": 109,
+        "gross": 10675
       },
       "2026-04-05": {
         "shows": 62,
         "seats": 8091,
-        "sold": 83,
-        "gross": 7040
+        "sold": 89,
+        "gross": 7505
       },
       "2026-04-08": {
         "shows": 62,
@@ -474,8 +474,8 @@
       "2026-04-04": {
         "shows": 60,
         "seats": 7828,
-        "sold": 294,
-        "gross": 22985
+        "sold": 322,
+        "gross": 25090
       },
       "2026-04-03": {
         "shows": 64,
@@ -506,14 +506,14 @@
   "IMAX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 25,
     "seats": 7135,
-    "sold": 410,
-    "gross": 54280,
+    "sold": 415,
+    "gross": 54980,
     "dates": {
       "2026-04-06": {
         "shows": 4,
         "seats": 1217,
-        "sold": 38,
-        "gross": 5110
+        "sold": 40,
+        "gross": 5390
       },
       "2026-04-05": {
         "shows": 3,
@@ -530,8 +530,8 @@
       "2026-04-04": {
         "shows": 3,
         "seats": 804,
-        "sold": 59,
-        "gross": 7750
+        "sold": 62,
+        "gross": 8170
       },
       "2026-04-03": {
         "shows": 3,
@@ -562,20 +562,20 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 437,
     "seats": 89429,
-    "sold": 6548,
-    "gross": 487085,
+    "sold": 6663,
+    "gross": 494880,
     "dates": {
       "2026-04-06": {
         "shows": 58,
         "seats": 11718,
-        "sold": 227,
-        "gross": 15950
+        "sold": 233,
+        "gross": 16520
       },
       "2026-04-05": {
         "shows": 59,
         "seats": 12268,
-        "sold": 434,
-        "gross": 29605
+        "sold": 451,
+        "gross": 30665
       },
       "2026-04-08": {
         "shows": 53,
@@ -586,8 +586,8 @@
       "2026-04-04": {
         "shows": 61,
         "seats": 12044,
-        "sold": 1387,
-        "gross": 97550
+        "sold": 1479,
+        "gross": 103715
       },
       "2026-04-03": {
         "shows": 56,
@@ -618,20 +618,20 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 386,
     "seats": 60306,
-    "sold": 5445,
-    "gross": 499690,
+    "sold": 5555,
+    "gross": 510010,
     "dates": {
       "2026-04-06": {
         "shows": 51,
         "seats": 7796,
-        "sold": 140,
-        "gross": 11165
+        "sold": 146,
+        "gross": 11810
       },
       "2026-04-05": {
         "shows": 49,
         "seats": 7475,
-        "sold": 360,
-        "gross": 31210
+        "sold": 369,
+        "gross": 31965
       },
       "2026-04-08": {
         "shows": 52,
@@ -642,8 +642,8 @@
       "2026-04-04": {
         "shows": 59,
         "seats": 8352,
-        "sold": 955,
-        "gross": 84025
+        "sold": 1050,
+        "gross": 92945
       },
       "2026-04-03": {
         "shows": 48,
@@ -674,8 +674,8 @@
   "Rental Family": {
     "shows": 38,
     "seats": 3838,
-    "sold": 185,
-    "gross": 11845,
+    "sold": 196,
+    "gross": 12505,
     "dates": {
       "2026-04-06": {
         "shows": 6,
@@ -686,8 +686,8 @@
       "2026-04-05": {
         "shows": 5,
         "seats": 538,
-        "sold": 13,
-        "gross": 780
+        "sold": 14,
+        "gross": 840
       },
       "2026-04-08": {
         "shows": 3,
@@ -698,8 +698,8 @@
       "2026-04-04": {
         "shows": 5,
         "seats": 580,
-        "sold": 56,
-        "gross": 3510
+        "sold": 66,
+        "gross": 4110
       },
       "2026-04-03": {
         "shows": 6,
@@ -730,20 +730,20 @@
   "Project Hail Mary": {
     "shows": 284,
     "seats": 39004,
-    "sold": 2919,
-    "gross": 360775,
+    "sold": 2959,
+    "gross": 365960,
     "dates": {
       "2026-04-06": {
         "shows": 32,
         "seats": 4439,
-        "sold": 49,
-        "gross": 6015
+        "sold": 53,
+        "gross": 6335
       },
       "2026-04-05": {
         "shows": 36,
         "seats": 5016,
-        "sold": 165,
-        "gross": 20465
+        "sold": 173,
+        "gross": 21605
       },
       "2026-04-08": {
         "shows": 37,
@@ -754,8 +754,8 @@
       "2026-04-04": {
         "shows": 33,
         "seats": 4517,
-        "sold": 492,
-        "gross": 63065
+        "sold": 520,
+        "gross": 66790
       },
       "2026-04-03": {
         "shows": 40,
@@ -786,8 +786,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 97,
     "seats": 16593,
-    "sold": 776,
-    "gross": 86170,
+    "sold": 785,
+    "gross": 87280,
     "dates": {
       "2026-04-06": {
         "shows": 15,
@@ -810,8 +810,8 @@
       "2026-04-04": {
         "shows": 16,
         "seats": 2698,
-        "sold": 334,
-        "gross": 35910
+        "sold": 343,
+        "gross": 37020
       },
       "2026-04-03": {
         "shows": 6,
@@ -842,8 +842,8 @@
   "Hoppers(English Version)": {
     "shows": 186,
     "seats": 19615,
-    "sold": 1518,
-    "gross": 146480,
+    "sold": 1576,
+    "gross": 152305,
     "dates": {
       "2026-04-06": {
         "shows": 22,
@@ -854,8 +854,8 @@
       "2026-04-05": {
         "shows": 23,
         "seats": 2397,
-        "sold": 67,
-        "gross": 5755
+        "sold": 77,
+        "gross": 6770
       },
       "2026-04-08": {
         "shows": 23,
@@ -866,8 +866,8 @@
       "2026-04-04": {
         "shows": 24,
         "seats": 2549,
-        "sold": 354,
-        "gross": 29935
+        "sold": 402,
+        "gross": 34745
       },
       "2026-04-03": {
         "shows": 23,
@@ -898,20 +898,20 @@
   "Marty Supreme": {
     "shows": 280,
     "seats": 29616,
-    "sold": 985,
-    "gross": 113670,
+    "sold": 1006,
+    "gross": 115635,
     "dates": {
       "2026-04-06": {
         "shows": 34,
         "seats": 3617,
-        "sold": 21,
-        "gross": 2125
+        "sold": 23,
+        "gross": 2375
       },
       "2026-04-05": {
         "shows": 34,
         "seats": 3401,
-        "sold": 81,
-        "gross": 9450
+        "sold": 84,
+        "gross": 9725
       },
       "2026-04-08": {
         "shows": 28,
@@ -922,8 +922,8 @@
       "2026-04-04": {
         "shows": 34,
         "seats": 3470,
-        "sold": 199,
-        "gross": 22365
+        "sold": 215,
+        "gross": 23805
       },
       "2026-04-03": {
         "shows": 38,
@@ -954,8 +954,8 @@
   "IMAX Project Hail Mary": {
     "shows": 15,
     "seats": 5035,
-    "sold": 729,
-    "gross": 131220,
+    "sold": 734,
+    "gross": 132120,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -966,8 +966,8 @@
       "2026-04-05": {
         "shows": 2,
         "seats": 681,
-        "sold": 53,
-        "gross": 9540
+        "sold": 56,
+        "gross": 10080
       },
       "2026-04-08": {
         "shows": 2,
@@ -978,8 +978,8 @@
       "2026-04-04": {
         "shows": 2,
         "seats": 681,
-        "sold": 124,
-        "gross": 22320
+        "sold": 126,
+        "gross": 22680
       },
       "2026-04-03": {
         "shows": 2,
@@ -1010,20 +1010,20 @@
   "Sunshine Women\u2019s Choir": {
     "shows": 55,
     "seats": 4810,
-    "sold": 317,
-    "gross": 28025,
+    "sold": 326,
+    "gross": 28915,
     "dates": {
       "2026-04-06": {
         "shows": 7,
         "seats": 635,
-        "sold": 14,
-        "gross": 920
+        "sold": 17,
+        "gross": 1220
       },
       "2026-04-05": {
         "shows": 8,
         "seats": 677,
-        "sold": 15,
-        "gross": 1130
+        "sold": 17,
+        "gross": 1320
       },
       "2026-04-08": {
         "shows": 8,
@@ -1034,8 +1034,8 @@
       "2026-04-04": {
         "shows": 6,
         "seats": 610,
-        "sold": 81,
-        "gross": 6425
+        "sold": 85,
+        "gross": 6825
       },
       "2026-04-03": {
         "shows": 6,
@@ -1066,8 +1066,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 50,
     "seats": 15882,
-    "sold": 929,
-    "gross": 77790,
+    "sold": 937,
+    "gross": 78270,
     "dates": {
       "2026-04-06": {
         "shows": 7,
@@ -1090,8 +1090,8 @@
       "2026-04-04": {
         "shows": 3,
         "seats": 960,
-        "sold": 161,
-        "gross": 11260
+        "sold": 169,
+        "gross": 11740
       },
       "2026-04-03": {
         "shows": 7,
@@ -1122,8 +1122,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 233,
     "seats": 34429,
-    "sold": 2230,
-    "gross": 176515,
+    "sold": 2274,
+    "gross": 179505,
     "dates": {
       "2026-04-06": {
         "shows": 29,
@@ -1134,8 +1134,8 @@
       "2026-04-05": {
         "shows": 29,
         "seats": 4433,
-        "sold": 104,
-        "gross": 8270
+        "sold": 109,
+        "gross": 8570
       },
       "2026-04-08": {
         "shows": 29,
@@ -1146,8 +1146,8 @@
       "2026-04-04": {
         "shows": 24,
         "seats": 3587,
-        "sold": 442,
-        "gross": 32180
+        "sold": 479,
+        "gross": 34670
       },
       "2026-04-03": {
         "shows": 33,
@@ -1170,8 +1170,8 @@
       "2026-04-07": {
         "shows": 30,
         "seats": 4541,
-        "sold": 29,
-        "gross": 2440
+        "sold": 31,
+        "gross": 2640
       }
     }
   },
@@ -1198,8 +1198,8 @@
   "Tokyo Taxi": {
     "shows": 33,
     "seats": 4000,
-    "sold": 69,
-    "gross": 5045,
+    "sold": 83,
+    "gross": 5885,
     "dates": {
       "2026-04-06": {
         "shows": 4,
@@ -1222,8 +1222,8 @@
       "2026-04-04": {
         "shows": 4,
         "seats": 487,
-        "sold": 34,
-        "gross": 2435
+        "sold": 48,
+        "gross": 3275
       },
       "2026-04-03": {
         "shows": 3,
@@ -1252,22 +1252,22 @@
     }
   },
   "CIAO UFO": {
-    "shows": 192,
-    "seats": 21045,
-    "sold": 1171,
-    "gross": 96355,
+    "shows": 191,
+    "seats": 20929,
+    "sold": 1193,
+    "gross": 98065,
     "dates": {
       "2026-04-06": {
         "shows": 26,
         "seats": 2777,
-        "sold": 12,
-        "gross": 1050
+        "sold": 17,
+        "gross": 1500
       },
       "2026-04-05": {
         "shows": 25,
         "seats": 2706,
-        "sold": 89,
-        "gross": 6605
+        "sold": 92,
+        "gross": 6835
       },
       "2026-04-08": {
         "shows": 21,
@@ -1276,10 +1276,10 @@
         "gross": 100
       },
       "2026-04-04": {
-        "shows": 22,
-        "seats": 2146,
-        "sold": 210,
-        "gross": 15465
+        "shows": 21,
+        "seats": 2030,
+        "sold": 224,
+        "gross": 16495
       },
       "2026-04-03": {
         "shows": 22,
@@ -1310,8 +1310,8 @@
   "Kyojo Requiem": {
     "shows": 43,
     "seats": 4367,
-    "sold": 146,
-    "gross": 13880,
+    "sold": 157,
+    "gross": 14855,
     "dates": {
       "2026-04-06": {
         "shows": 6,
@@ -1334,8 +1334,8 @@
       "2026-04-04": {
         "shows": 5,
         "seats": 375,
-        "sold": 28,
-        "gross": 2430
+        "sold": 39,
+        "gross": 3405
       },
       "2026-04-03": {
         "shows": 6,
@@ -1416,20 +1416,20 @@
   "HAMNET": {
     "shows": 83,
     "seats": 6381,
-    "sold": 523,
-    "gross": 53980,
+    "sold": 579,
+    "gross": 57505,
     "dates": {
       "2026-04-06": {
         "shows": 11,
         "seats": 792,
-        "sold": 5,
-        "gross": 630
+        "sold": 7,
+        "gross": 750
       },
       "2026-04-05": {
         "shows": 11,
         "seats": 825,
-        "sold": 40,
-        "gross": 4035
+        "sold": 41,
+        "gross": 4095
       },
       "2026-04-08": {
         "shows": 9,
@@ -1440,8 +1440,8 @@
       "2026-04-04": {
         "shows": 10,
         "seats": 711,
-        "sold": 99,
-        "gross": 9185
+        "sold": 152,
+        "gross": 12530
       },
       "2026-04-03": {
         "shows": 10,
@@ -1522,14 +1522,14 @@
   "The Secret Agent": {
     "shows": 52,
     "seats": 5288,
-    "sold": 176,
-    "gross": 20095,
+    "sold": 197,
+    "gross": 22230,
     "dates": {
       "2026-04-06": {
         "shows": 7,
         "seats": 741,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 280
       },
       "2026-04-05": {
         "shows": 7,
@@ -1546,8 +1546,8 @@
       "2026-04-04": {
         "shows": 7,
         "seats": 741,
-        "sold": 52,
-        "gross": 5815
+        "sold": 71,
+        "gross": 7670
       },
       "2026-04-03": {
         "shows": 7,
@@ -1578,8 +1578,8 @@
   "Ready Or Not 2: Here I Come": {
     "shows": 82,
     "seats": 12777,
-    "sold": 128,
-    "gross": 11045,
+    "sold": 130,
+    "gross": 11205,
     "dates": {
       "2026-04-06": {
         "shows": 6,
@@ -1602,8 +1602,8 @@
       "2026-04-04": {
         "shows": 6,
         "seats": 1056,
-        "sold": 28,
-        "gross": 2090
+        "sold": 30,
+        "gross": 2250
       },
       "2026-04-03": {
         "shows": 7,
@@ -1634,8 +1634,8 @@
   "Ultimate Revenge": {
     "shows": 26,
     "seats": 2323,
-    "sold": 47,
-    "gross": 2990,
+    "sold": 48,
+    "gross": 3050,
     "dates": {
       "2026-04-06": {
         "shows": 3,
@@ -1658,8 +1658,8 @@
       "2026-04-04": {
         "shows": 3,
         "seats": 185,
-        "sold": 14,
-        "gross": 840
+        "sold": 15,
+        "gross": 900
       },
       "2026-04-03": {
         "shows": 3,
@@ -1746,8 +1746,8 @@
   "CINITY LED The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 41,
     "seats": 8282,
-    "sold": 326,
-    "gross": 33020,
+    "sold": 332,
+    "gross": 33540,
     "dates": {
       "2026-04-06": {
         "shows": 5,
@@ -1770,8 +1770,8 @@
       "2026-04-04": {
         "shows": 5,
         "seats": 1010,
-        "sold": 38,
-        "gross": 3810
+        "sold": 44,
+        "gross": 4330
       },
       "2026-04-03": {
         "shows": 6,
@@ -1858,8 +1858,8 @@
   "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe": {
     "shows": 9,
     "seats": 1020,
-    "sold": 129,
-    "gross": 21930,
+    "sold": 136,
+    "gross": 23120,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -1870,8 +1870,8 @@
       "2026-04-05": {
         "shows": 1,
         "seats": 121,
-        "sold": 30,
-        "gross": 5100
+        "sold": 31,
+        "gross": 5270
       },
       "2026-04-08": {
         "shows": 1,
@@ -1882,8 +1882,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 121,
-        "sold": 40,
-        "gross": 6800
+        "sold": 46,
+        "gross": 7820
       },
       "2026-04-03": {
         "shows": 1,
@@ -1996,8 +1996,8 @@
   "Kokuho": {
     "shows": 8,
     "seats": 184,
-    "sold": 47,
-    "gross": 7285,
+    "sold": 49,
+    "gross": 7595,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -2020,8 +2020,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 23,
-        "sold": 12,
-        "gross": 1860
+        "sold": 14,
+        "gross": 2170
       },
       "2026-04-03": {
         "shows": 1,
@@ -2052,14 +2052,14 @@
   "Kyojo Reunion": {
     "shows": 4,
     "seats": 280,
-    "sold": 8,
-    "gross": 600,
+    "sold": 11,
+    "gross": 825,
     "dates": {
       "2026-04-06": {
         "shows": 1,
         "seats": 74,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 75
       },
       "2026-04-05": {
         "shows": 1,
@@ -2076,8 +2076,8 @@
       "2026-04-07": {
         "shows": 1,
         "seats": 74,
-        "sold": 3,
-        "gross": 225
+        "sold": 5,
+        "gross": 375
       }
     }
   },
@@ -2154,8 +2154,8 @@
   "SINNERS": {
     "shows": 14,
     "seats": 911,
-    "sold": 63,
-    "gross": 7110,
+    "sold": 68,
+    "gross": 7700,
     "dates": {
       "2026-04-06": {
         "shows": 1,
@@ -2172,14 +2172,14 @@
       "2026-04-08": {
         "shows": 3,
         "seats": 172,
-        "sold": 2,
-        "gross": 260
+        "sold": 4,
+        "gross": 520
       },
       "2026-04-04": {
         "shows": 1,
         "seats": 74,
-        "sold": 13,
-        "gross": 1430
+        "sold": 16,
+        "gross": 1760
       },
       "2026-04-03": {
         "shows": 1,
@@ -2210,14 +2210,14 @@
   "The World Of Love": {
     "shows": 11,
     "seats": 1309,
-    "sold": 147,
-    "gross": 11725,
+    "sold": 175,
+    "gross": 13475,
     "dates": {
       "2026-04-06": {
         "shows": 3,
         "seats": 357,
-        "sold": 4,
-        "gross": 345
+        "sold": 8,
+        "gross": 655
       },
       "2026-04-05": {
         "shows": 1,
@@ -2228,8 +2228,8 @@
       "2026-04-04": {
         "shows": 3,
         "seats": 357,
-        "sold": 61,
-        "gross": 4675
+        "sold": 85,
+        "gross": 6115
       },
       "2026-04-03": {
         "shows": 2,
@@ -2254,8 +2254,8 @@
   "Sentimental Value": {
     "shows": 13,
     "seats": 1547,
-    "sold": 88,
-    "gross": 8220,
+    "sold": 89,
+    "gross": 8315,
     "dates": {
       "2026-04-06": {
         "shows": 2,
@@ -2272,8 +2272,8 @@
       "2026-04-04": {
         "shows": 2,
         "seats": 238,
-        "sold": 23,
-        "gross": 2185
+        "sold": 24,
+        "gross": 2280
       },
       "2026-04-03": {
         "shows": 2,
@@ -2472,8 +2472,8 @@
   "ELVIS": {
     "shows": 5,
     "seats": 520,
-    "sold": 10,
-    "gross": 1080,
+    "sold": 12,
+    "gross": 1280,
     "dates": {
       "2026-04-18": {
         "shows": 1,
@@ -2484,8 +2484,8 @@
       "2026-04-19": {
         "shows": 2,
         "seats": 200,
-        "sold": 7,
-        "gross": 730
+        "sold": 9,
+        "gross": 930
       },
       "2026-04-17": {
         "shows": 1,
@@ -2580,26 +2580,26 @@
   "COLD WAR 1": {
     "shows": 38,
     "seats": 4913,
-    "sold": 98,
-    "gross": 2940,
+    "sold": 101,
+    "gross": 3030,
     "dates": {
       "2026-04-18": {
         "shows": 8,
         "seats": 943,
-        "sold": 26,
-        "gross": 780
+        "sold": 27,
+        "gross": 810
       },
       "2026-04-19": {
         "shows": 7,
         "seats": 883,
-        "sold": 12,
-        "gross": 360
+        "sold": 13,
+        "gross": 390
       },
       "2026-04-17": {
         "shows": 11,
         "seats": 1487,
-        "sold": 18,
-        "gross": 540
+        "sold": 19,
+        "gross": 570
       },
       "2026-04-16": {
         "shows": 12,
@@ -2888,8 +2888,8 @@
   "The Worst Person In The World": {
     "shows": 6,
     "seats": 714,
-    "sold": 168,
-    "gross": 15900,
+    "sold": 169,
+    "gross": 15995,
     "dates": {
       "2026-04-05": {
         "shows": 1,
@@ -2912,8 +2912,8 @@
       "2026-04-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 58,
-        "gross": 5510
+        "sold": 59,
+        "gross": 5605
       },
       "2026-04-10": {
         "shows": 1,
@@ -3008,20 +3008,20 @@
   "COLD WAR 2": {
     "shows": 28,
     "seats": 3752,
-    "sold": 100,
-    "gross": 3000,
+    "sold": 105,
+    "gross": 3150,
     "dates": {
       "2026-04-24": {
         "shows": 11,
         "seats": 1458,
-        "sold": 35,
-        "gross": 1050
+        "sold": 38,
+        "gross": 1140
       },
       "2026-04-26": {
         "shows": 7,
         "seats": 963,
-        "sold": 30,
-        "gross": 900
+        "sold": 32,
+        "gross": 960
       },
       "2026-04-23": {
         "shows": 10,
@@ -3034,14 +3034,14 @@
   "SIRAT-DE CLUB": {
     "shows": 8,
     "seats": 952,
-    "sold": 626,
-    "gross": 211588,
+    "sold": 627,
+    "gross": 211926,
     "dates": {
       "2026-04-24": {
         "shows": 4,
         "seats": 476,
-        "sold": 203,
-        "gross": 68614
+        "sold": 204,
+        "gross": 68952
       },
       "2026-04-11": {
         "shows": 4,
@@ -3188,20 +3188,20 @@
   "A Pale View of Hills": {
     "shows": 4,
     "seats": 476,
-    "sold": 97,
-    "gross": 9215,
+    "sold": 101,
+    "gross": 9595,
     "dates": {
       "2026-04-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 3420
+        "sold": 37,
+        "gross": 3515
       },
       "2026-04-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 27,
+        "gross": 2565
       },
       "2026-04-16": {
         "shows": 1,
@@ -3212,8 +3212,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
@@ -3248,8 +3248,8 @@
   "As the Water Flows": {
     "shows": 5,
     "seats": 595,
-    "sold": 81,
-    "gross": 7555,
+    "sold": 83,
+    "gross": 7745,
     "dates": {
       "2026-04-19": {
         "shows": 1,
@@ -3278,8 +3278,8 @@
       "2026-04-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 33,
-        "gross": 3135
+        "sold": 35,
+        "gross": 3325
       }
     }
   },
@@ -3368,14 +3368,14 @@
   "Yi Yi: A One and a Two (4K Restoration)": {
     "shows": 2,
     "seats": 46,
-    "sold": 2,
-    "gross": 300,
+    "sold": 3,
+    "gross": 450,
     "dates": {
       "2026-04-08": {
         "shows": 1,
         "seats": 23,
-        "sold": 1,
-        "gross": 150
+        "sold": 2,
+        "gross": 300
       },
       "2026-04-01": {
         "shows": 1,
