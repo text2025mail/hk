@@ -456,8 +456,8 @@
   "Night King": {
     "shows": 505,
     "seats": 66512,
-    "sold": 2999,
-    "gross": 259800,
+    "sold": 2998,
+    "gross": 259740,
     "dates": {
       "2026-04-06": {
         "shows": 66,
@@ -504,8 +504,8 @@
       "2026-04-07": {
         "shows": 63,
         "seats": 8071,
-        "sold": 62,
-        "gross": 5060
+        "sold": 61,
+        "gross": 5000
       }
     }
   },
@@ -792,14 +792,14 @@
   "Project Hail Mary(Atmos)": {
     "shows": 98,
     "seats": 16784,
-    "sold": 1560,
-    "gross": 175110,
+    "sold": 1558,
+    "gross": 174870,
     "dates": {
       "2026-04-06": {
         "shows": 15,
         "seats": 2461,
-        "sold": 273,
-        "gross": 29485
+        "sold": 271,
+        "gross": 29245
       },
       "2026-04-05": {
         "shows": 11,
@@ -904,8 +904,8 @@
   "Marty Supreme": {
     "shows": 290,
     "seats": 30806,
-    "sold": 1562,
-    "gross": 182270,
+    "sold": 1560,
+    "gross": 182110,
     "dates": {
       "2026-04-06": {
         "shows": 34,
@@ -952,8 +952,8 @@
       "2026-04-07": {
         "shows": 34,
         "seats": 3565,
-        "sold": 54,
-        "gross": 5750
+        "sold": 52,
+        "gross": 5590
       }
     }
   },
@@ -3176,14 +3176,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 18,
-    "gross": 2250,
+    "sold": 17,
+    "gross": 2125,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 18,
-        "gross": 2250
+        "sold": 17,
+        "gross": 2125
       }
     }
   },
@@ -3628,14 +3628,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 10,
-    "gross": 950,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-04-27": {
         "shows": 1,
         "seats": 99,
-        "sold": 10,
-        "gross": 950
+        "sold": 9,
+        "gross": 855
       }
     }
   },
