@@ -2,14 +2,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 19,
-    "gross": 4180,
+    "sold": 20,
+    "gross": 4400,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 9,
-        "gross": 1980
+        "sold": 10,
+        "gross": 2200
       },
       "2026-05-30": {
         "shows": 1,
@@ -250,14 +250,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 27,
-    "gross": 2565,
+    "sold": 28,
+    "gross": 2660,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 27,
-        "gross": 2565
+        "sold": 28,
+        "gross": 2660
       }
     }
   },
@@ -278,14 +278,14 @@
   "Life of Pi  (bc X WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 89,
-    "gross": 17800,
+    "sold": 90,
+    "gross": 18000,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 89,
-        "gross": 17800
+        "sold": 90,
+        "gross": 18000
       }
     }
   },
@@ -306,14 +306,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 27,
+        "gross": 2565
       }
     }
   },
