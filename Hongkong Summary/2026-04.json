@@ -288,14 +288,14 @@
   "IMAX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 71,
     "seats": 25843,
-    "sold": 3234,
-    "gross": 419070,
+    "sold": 3236,
+    "gross": 419350,
     "dates": {
       "2026-04-06": {
         "shows": 8,
         "seats": 2869,
-        "sold": 302,
-        "gross": 38230
+        "sold": 304,
+        "gross": 38510
       },
       "2026-04-05": {
         "shows": 9,
@@ -456,8 +456,8 @@
   "Night King": {
     "shows": 505,
     "seats": 66512,
-    "sold": 2998,
-    "gross": 259740,
+    "sold": 2999,
+    "gross": 259800,
     "dates": {
       "2026-04-06": {
         "shows": 66,
@@ -504,8 +504,8 @@
       "2026-04-07": {
         "shows": 63,
         "seats": 8071,
-        "sold": 61,
-        "gross": 5000
+        "sold": 62,
+        "gross": 5060
       }
     }
   },
@@ -792,14 +792,14 @@
   "Project Hail Mary(Atmos)": {
     "shows": 98,
     "seats": 16784,
-    "sold": 1558,
-    "gross": 174870,
+    "sold": 1560,
+    "gross": 175110,
     "dates": {
       "2026-04-06": {
         "shows": 15,
         "seats": 2461,
-        "sold": 271,
-        "gross": 29245
+        "sold": 273,
+        "gross": 29485
       },
       "2026-04-05": {
         "shows": 11,
@@ -904,8 +904,8 @@
   "Marty Supreme": {
     "shows": 290,
     "seats": 30806,
-    "sold": 1560,
-    "gross": 182110,
+    "sold": 1562,
+    "gross": 182270,
     "dates": {
       "2026-04-06": {
         "shows": 34,
@@ -952,8 +952,8 @@
       "2026-04-07": {
         "shows": 34,
         "seats": 3565,
-        "sold": 52,
-        "gross": 5590
+        "sold": 54,
+        "gross": 5750
       }
     }
   },
@@ -2508,14 +2508,14 @@
   "ELVIS": {
     "shows": 5,
     "seats": 520,
-    "sold": 12,
-    "gross": 1280,
+    "sold": 13,
+    "gross": 1410,
     "dates": {
       "2026-04-18": {
         "shows": 1,
         "seats": 88,
-        "sold": 1,
-        "gross": 130
+        "sold": 2,
+        "gross": 260
       },
       "2026-04-19": {
         "shows": 2,
@@ -3176,14 +3176,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 17,
-    "gross": 2125,
+    "sold": 18,
+    "gross": 2250,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 17,
-        "gross": 2125
+        "sold": 18,
+        "gross": 2250
       }
     }
   },
@@ -3230,8 +3230,8 @@
   "A Pale View of Hills": {
     "shows": 4,
     "seats": 476,
-    "sold": 166,
-    "gross": 15770,
+    "sold": 168,
+    "gross": 15960,
     "dates": {
       "2026-04-19": {
         "shows": 1,
@@ -3254,8 +3254,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 27,
-        "gross": 2565
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
@@ -3628,14 +3628,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-04-27": {
         "shows": 1,
         "seats": 99,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
