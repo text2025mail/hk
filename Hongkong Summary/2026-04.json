@@ -456,8 +456,8 @@
   "Night King": {
     "shows": 505,
     "seats": 66512,
-    "sold": 2998,
-    "gross": 259740,
+    "sold": 2999,
+    "gross": 259800,
     "dates": {
       "2026-04-06": {
         "shows": 66,
@@ -504,8 +504,8 @@
       "2026-04-07": {
         "shows": 63,
         "seats": 8071,
-        "sold": 61,
-        "gross": 5000
+        "sold": 62,
+        "gross": 5060
       }
     }
   },
@@ -568,14 +568,14 @@
   "The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 441,
     "seats": 90455,
-    "sold": 8431,
-    "gross": 621455,
+    "sold": 8434,
+    "gross": 621715,
     "dates": {
       "2026-04-06": {
         "shows": 60,
         "seats": 12242,
-        "sold": 1011,
-        "gross": 71260
+        "sold": 1014,
+        "gross": 71520
       },
       "2026-04-05": {
         "shows": 59,
@@ -792,14 +792,14 @@
   "Project Hail Mary(Atmos)": {
     "shows": 98,
     "seats": 16784,
-    "sold": 1558,
-    "gross": 174870,
+    "sold": 1560,
+    "gross": 175110,
     "dates": {
       "2026-04-06": {
         "shows": 15,
         "seats": 2461,
-        "sold": 271,
-        "gross": 29245
+        "sold": 273,
+        "gross": 29485
       },
       "2026-04-05": {
         "shows": 11,
@@ -848,14 +848,14 @@
   "Hoppers(English Version)": {
     "shows": 186,
     "seats": 19615,
-    "sold": 2240,
-    "gross": 217985,
+    "sold": 2242,
+    "gross": 218155,
     "dates": {
       "2026-04-06": {
         "shows": 22,
         "seats": 2262,
-        "sold": 174,
-        "gross": 15930
+        "sold": 176,
+        "gross": 16100
       },
       "2026-04-05": {
         "shows": 23,
@@ -904,8 +904,8 @@
   "Marty Supreme": {
     "shows": 290,
     "seats": 30806,
-    "sold": 1560,
-    "gross": 182110,
+    "sold": 1562,
+    "gross": 182270,
     "dates": {
       "2026-04-06": {
         "shows": 34,
@@ -952,8 +952,8 @@
       "2026-04-07": {
         "shows": 34,
         "seats": 3565,
-        "sold": 52,
-        "gross": 5590
+        "sold": 54,
+        "gross": 5750
       }
     }
   },
@@ -1016,14 +1016,14 @@
   "Sunshine Women\u2019s Choir": {
     "shows": 55,
     "seats": 4810,
-    "sold": 493,
-    "gross": 42335,
+    "sold": 495,
+    "gross": 42535,
     "dates": {
       "2026-04-06": {
         "shows": 7,
         "seats": 635,
-        "sold": 105,
-        "gross": 8010
+        "sold": 107,
+        "gross": 8210
       },
       "2026-04-05": {
         "shows": 8,
@@ -1072,8 +1072,8 @@
   "CGS The Super Mario Galaxy Movie(English Version) ": {
     "shows": 57,
     "seats": 18122,
-    "sold": 1112,
-    "gross": 91920,
+    "sold": 1118,
+    "gross": 92580,
     "dates": {
       "2026-04-06": {
         "shows": 7,
@@ -1120,8 +1120,8 @@
       "2026-04-07": {
         "shows": 7,
         "seats": 2240,
-        "sold": 16,
-        "gross": 960
+        "sold": 22,
+        "gross": 1620
       },
       "2026-04-09": {
         "shows": 7,
@@ -1134,14 +1134,14 @@
   "Hoppers(Cantonese Version)": {
     "shows": 234,
     "seats": 34547,
-    "sold": 3157,
-    "gross": 245990,
+    "sold": 3161,
+    "gross": 246380,
     "dates": {
       "2026-04-06": {
         "shows": 29,
         "seats": 4386,
-        "sold": 416,
-        "gross": 31560
+        "sold": 420,
+        "gross": 31950
       },
       "2026-04-05": {
         "shows": 30,
@@ -2734,8 +2734,8 @@
   "Kill Bill: The Whole Bloody Affair": {
     "shows": 12,
     "seats": 1538,
-    "sold": 139,
-    "gross": 30580,
+    "sold": 140,
+    "gross": 30800,
     "dates": {
       "2026-04-12": {
         "shows": 1,
@@ -2764,8 +2764,8 @@
       "2026-04-11": {
         "shows": 1,
         "seats": 129,
-        "sold": 15,
-        "gross": 3300
+        "sold": 16,
+        "gross": 3520
       },
       "2026-04-08": {
         "shows": 1,
@@ -3176,14 +3176,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 17,
-    "gross": 2125,
+    "sold": 18,
+    "gross": 2250,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 17,
-        "gross": 2125
+        "sold": 18,
+        "gross": 2250
       }
     }
   },
@@ -3628,14 +3628,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-04-27": {
         "shows": 1,
         "seats": 99,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
