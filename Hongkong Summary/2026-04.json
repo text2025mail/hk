@@ -126,8 +126,8 @@
   "We're Nothing at All": {
     "shows": 232,
     "seats": 30200,
-    "sold": 2429,
-    "gross": 222825,
+    "sold": 2430,
+    "gross": 222925,
     "dates": {
       "2026-04-06": {
         "shows": 30,
@@ -162,8 +162,8 @@
       "2026-04-10": {
         "shows": 28,
         "seats": 3852,
-        "sold": 14,
-        "gross": 1290
+        "sold": 15,
+        "gross": 1390
       },
       "2026-04-07": {
         "shows": 30,
@@ -998,8 +998,8 @@
   "Hoppers(English Version)": {
     "shows": 224,
     "seats": 23658,
-    "sold": 2597,
-    "gross": 254655,
+    "sold": 2598,
+    "gross": 254740,
     "dates": {
       "2026-04-06": {
         "shows": 22,
@@ -1016,8 +1016,8 @@
       "2026-04-08": {
         "shows": 23,
         "seats": 2368,
-        "sold": 55,
-        "gross": 5000
+        "sold": 56,
+        "gross": 5085
       },
       "2026-04-04": {
         "shows": 24,
@@ -1066,8 +1066,8 @@
   "Marty Supreme": {
     "shows": 348,
     "seats": 37236,
-    "sold": 1818,
-    "gross": 213260,
+    "sold": 1820,
+    "gross": 213500,
     "dates": {
       "2026-04-06": {
         "shows": 34,
@@ -1084,8 +1084,8 @@
       "2026-04-08": {
         "shows": 33,
         "seats": 3553,
-        "sold": 32,
-        "gross": 4085
+        "sold": 34,
+        "gross": 4325
       },
       "2026-04-04": {
         "shows": 34,
@@ -3958,8 +3958,8 @@
   "The Drama": {
     "shows": 73,
     "seats": 9388,
-    "sold": 100,
-    "gross": 10485,
+    "sold": 101,
+    "gross": 10585,
     "dates": {
       "2026-04-10": {
         "shows": 36,
@@ -3970,8 +3970,8 @@
       "2026-04-09": {
         "shows": 37,
         "seats": 4683,
-        "sold": 62,
-        "gross": 6280
+        "sold": 63,
+        "gross": 6380
       }
     }
   },
