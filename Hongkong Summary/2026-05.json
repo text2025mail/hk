@@ -36,8 +36,8 @@
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 1,
-    "gross": 75,
+    "sold": 2,
+    "gross": 170,
     "dates": {
       "2026-05-05": {
         "shows": 1,
@@ -48,8 +48,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
@@ -84,14 +84,14 @@
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 12,
-    "gross": 1560,
+    "sold": 14,
+    "gross": 1820,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 12,
-        "gross": 1560
+        "sold": 14,
+        "gross": 1820
       }
     }
   },
@@ -264,14 +264,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 44,
-    "gross": 4180,
+    "sold": 45,
+    "gross": 4275,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 44,
-        "gross": 4180
+        "sold": 45,
+        "gross": 4275
       }
     }
   },
