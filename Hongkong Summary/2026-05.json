@@ -1,35 +1,57 @@
 {
-  "Merrily We Roll Along (2026)": {
-    "shows": 2,
-    "seats": 208,
-    "sold": 20,
-    "gross": 4400,
+  "Some Birds (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
-      "2026-05-16": {
+      "2026-05-01": {
         "shows": 1,
-        "seats": 127,
-        "sold": 10,
-        "gross": 2200
-      },
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 10,
-        "gross": 2200
+        "seats": 119,
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
-  "We Are Young. We Are Strong.(GFF 2026)": {
+  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 34,
+    "gross": 3230,
     "dates": {
-      "2026-05-27": {
+      "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 34,
+        "gross": 3230
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 28,
+    "gross": 2660,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 28,
+        "gross": 2660
+      }
+    }
+  },
+  "U Are the Universe (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 42,
+    "gross": 3990,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 42,
+        "gross": 3990
       }
     }
   },
@@ -56,14 +78,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 62,
-    "gross": 5890,
+    "sold": 63,
+    "gross": 5985,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 62,
-        "gross": 5890
+        "sold": 63,
+        "gross": 5985
       }
     }
   },
@@ -78,6 +100,88 @@
         "seats": 119,
         "sold": 113,
         "gross": 22600
+      }
+    }
+  },
+  "Merrily We Roll Along (2026)": {
+    "shows": 2,
+    "seats": 208,
+    "sold": 20,
+    "gross": 4400,
+    "dates": {
+      "2026-05-16": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 10,
+        "gross": 2200
+      },
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 10,
+        "gross": 2200
+      }
+    }
+  },
+  "Michelangelo - Love & Death (EOS 2025)": {
+    "shows": 2,
+    "seats": 162,
+    "sold": 6,
+    "gross": 740,
+    "dates": {
+      "2026-05-23": {
+        "shows": 1,
+        "seats": 74,
+        "sold": 2,
+        "gross": 220
+      },
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 4,
+        "gross": 520
+      }
+    }
+  },
+  "Life of Pi  (bc X WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 96,
+    "gross": 19200,
+    "dates": {
+      "2026-05-23": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 96,
+        "gross": 19200
+      }
+    }
+  },
+  "We Are Young. We Are Strong.(GFF 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 14,
+    "gross": 1330,
+    "dates": {
+      "2026-05-27": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 14,
+        "gross": 1330
+      }
+    }
+  },
+  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
+    "shows": 1,
+    "seats": 81,
+    "sold": 9,
+    "gross": 2610,
+    "dates": {
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 9,
+        "gross": 2610
       }
     }
   },
@@ -143,152 +247,6 @@
       }
     }
   },
-  "Some Birds (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 22,
-    "gross": 2090,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 22,
-        "gross": 2090
-      }
-    }
-  },
-  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 28,
-    "gross": 2660,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 28,
-        "gross": 2660
-      }
-    }
-  },
-  "That Summer in Paris (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 22,
-    "gross": 2090,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 22,
-        "gross": 2090
-      }
-    }
-  },
-  "U Are the Universe (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 41,
-    "gross": 3895,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 41,
-        "gross": 3895
-      }
-    }
-  },
-  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
-    "shows": 1,
-    "seats": 81,
-    "sold": 9,
-    "gross": 2610,
-    "dates": {
-      "2026-05-31": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 9,
-        "gross": 2610
-      }
-    }
-  },
-  "Michelangelo - Love & Death (EOS 2025)": {
-    "shows": 2,
-    "seats": 162,
-    "sold": 6,
-    "gross": 740,
-    "dates": {
-      "2026-05-31": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 4,
-        "gross": 520
-      },
-      "2026-05-23": {
-        "shows": 1,
-        "seats": 74,
-        "sold": 2,
-        "gross": 220
-      }
-    }
-  },
-  "Greice (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 21,
-    "gross": 1995,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 21,
-        "gross": 1995
-      }
-    }
-  },
-  "Our Girls (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 36,
-    "gross": 3420,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 36,
-        "gross": 3420
-      }
-    }
-  },
-  "The Dinner (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 45,
-    "gross": 4275,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 45,
-        "gross": 4275
-      }
-    }
-  },
-  "Life of Pi  (bc X WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 95,
-    "gross": 19000,
-    "dates": {
-      "2026-05-23": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 95,
-        "gross": 19000
-      }
-    }
-  },
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
@@ -306,42 +264,84 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 32,
-    "gross": 3040,
+    "sold": 39,
+    "gross": 3705,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 3040
+        "sold": 39,
+        "gross": 3705
       }
     }
   },
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 26,
+        "gross": 2470
       }
     }
   },
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 51,
-    "gross": 6375,
+    "sold": 58,
+    "gross": 7250,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
+        "sold": 58,
+        "gross": 7250
+      }
+    }
+  },
+  "Greice (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 27,
+    "gross": 2565,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 27,
+        "gross": 2565
+      }
+    }
+  },
+  "Our Girls (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 43,
+    "gross": 4085,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 43,
+        "gross": 4085
+      }
+    }
+  },
+  "The Dinner (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 51,
+    "gross": 4845,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
         "sold": 51,
-        "gross": 6375
+        "gross": 4845
       }
     }
   }
