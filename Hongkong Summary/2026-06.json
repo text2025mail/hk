@@ -1,24 +1,16 @@
 {
-  "The Farewell  (bc X WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 86,
-    "gross": 17200,
-    "dates": {
-      "2026-06-20": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 86,
-        "gross": 17200
-      }
-    }
-  },
   "LE PARC (Paris Opera Ballet 2026)": {
     "shows": 3,
     "seats": 227,
     "sold": 34,
     "gross": 4940,
     "dates": {
+      "2026-06-07": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 18,
+        "gross": 2700
+      },
       "2026-06-21": {
         "shows": 1,
         "seats": 58,
@@ -30,26 +22,48 @@
         "seats": 88,
         "sold": 8,
         "gross": 1200
-      },
-      "2026-06-07": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 18,
-        "gross": 2700
       }
     }
   },
-  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
+  "Merrily We Roll Along (2026)": {
     "shows": 1,
-    "seats": 58,
-    "sold": 2,
-    "gross": 580,
+    "seats": 88,
+    "sold": 5,
+    "gross": 1100,
     "dates": {
-      "2026-06-14": {
+      "2026-06-07": {
         "shows": 1,
-        "seats": 58,
-        "sold": 2,
-        "gross": 580
+        "seats": 88,
+        "sold": 5,
+        "gross": 1100
+      }
+    }
+  },
+  "The Legend of Paul and Paula(GFF 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 5,
+    "gross": 475,
+    "dates": {
+      "2026-06-24": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 5,
+        "gross": 475
+      }
+    }
+  },
+  "The Farewell  (bc X WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 85,
+    "gross": 17000,
+    "dates": {
+      "2026-06-20": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 85,
+        "gross": 17000
       }
     }
   },
@@ -81,31 +95,17 @@
       }
     }
   },
-  "The Legend of Paul and Paula(GFF 2026)": {
+  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
-    "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "seats": 58,
+    "sold": 2,
+    "gross": 580,
     "dates": {
-      "2026-06-24": {
+      "2026-06-14": {
         "shows": 1,
-        "seats": 119,
-        "sold": 5,
-        "gross": 475
-      }
-    }
-  },
-  "Merrily We Roll Along (2026)": {
-    "shows": 1,
-    "seats": 88,
-    "sold": 5,
-    "gross": 1100,
-    "dates": {
-      "2026-06-07": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 5,
-        "gross": 1100
+        "seats": 58,
+        "sold": 2,
+        "gross": 580
       }
     }
   }
