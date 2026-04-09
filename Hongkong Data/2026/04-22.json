@@ -11,7 +11,7 @@
     "sold": 15,
     "gross": 1425,
     "price": 95,
-    "last_updated": "2026-04-09 04:08:29 PM IST"
+    "last_updated": "2026-04-09 05:19:50 PM IST"
   },
   {
     "perfIx": 76495,
@@ -25,7 +25,7 @@
     "sold": 22,
     "gross": 2090,
     "price": 95,
-    "last_updated": "2026-04-09 04:08:29 PM IST"
+    "last_updated": "2026-04-09 05:19:50 PM IST"
   },
   {
     "perfIx": 80938,
@@ -39,6 +39,20 @@
     "sold": 1,
     "gross": 95,
     "price": 95,
-    "last_updated": "2026-04-09 04:08:29 PM IST"
+    "last_updated": "2026-04-09 05:19:50 PM IST"
+  },
+  {
+    "perfIx": 81086,
+    "movie": "Portrait of a Lady on Fire",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-22",
+    "time": "13:40",
+    "total": 99,
+    "available": 99,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-04-09 05:19:50 PM IST"
   }
 ]
