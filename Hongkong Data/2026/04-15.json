@@ -6,12 +6,12 @@
     "date": "2026-04-15",
     "time": "09:30",
     "total": 119,
-    "available": 107,
+    "available": 106,
     "blocked": 0,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   },
   {
     "perfIx": 74129,
@@ -20,12 +20,12 @@
     "date": "2026-04-15",
     "time": "07:15",
     "total": 119,
-    "available": 91,
+    "available": 89,
     "blocked": 0,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 30,
+    "gross": 2850,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   },
   {
     "perfIx": 74325,
@@ -39,6 +39,20 @@
     "sold": 14,
     "gross": 1330,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
+  },
+  {
+    "perfIx": 80935,
+    "movie": "Picnic at Hanging Rock (50th Anniversary 4K Restoration)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-15",
+    "time": "11:45",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   }
 ]

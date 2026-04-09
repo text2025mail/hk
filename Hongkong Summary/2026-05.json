@@ -22,22 +22,22 @@
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 14,
-    "gross": 1330,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 1330
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 2,
-    "gross": 170,
+    "sold": 3,
+    "gross": 265,
     "dates": {
       "2026-05-05": {
         "shows": 1,
@@ -48,8 +48,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -188,14 +188,14 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 43,
-    "gross": 4085,
+    "sold": 46,
+    "gross": 4370,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 43,
-        "gross": 4085
+        "sold": 46,
+        "gross": 4370
       }
     }
   },

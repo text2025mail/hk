@@ -6,12 +6,12 @@
     "date": "2026-04-28",
     "time": "11:30",
     "total": 119,
-    "available": 78,
+    "available": 77,
     "blocked": 0,
-    "sold": 41,
-    "gross": 3895,
+    "sold": 42,
+    "gross": 3990,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   },
   {
     "perfIx": 76501,
@@ -25,7 +25,7 @@
     "sold": 16,
     "gross": 1520,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   },
   {
     "perfIx": 76482,
@@ -39,6 +39,20 @@
     "sold": 24,
     "gross": 2280,
     "price": 95,
-    "last_updated": "2026-04-09 02:45:31 PM IST"
+    "last_updated": "2026-04-09 04:08:29 PM IST"
+  },
+  {
+    "perfIx": 80941,
+    "movie": "A Pale View of Hills",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-28",
+    "time": "07:00",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 75,
+    "last_updated": "2026-04-09 04:08:29 PM IST"
   }
 ]
