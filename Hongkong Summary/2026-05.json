@@ -2,14 +2,14 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 30,
-    "gross": 2850,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 30,
-        "gross": 2850
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
@@ -44,22 +44,22 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 46,
-    "gross": 4370,
+    "sold": 43,
+    "gross": 4085,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 46,
-        "gross": 4370
+        "sold": 43,
+        "gross": 4085
       }
     }
   },
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 3,
-    "gross": 265,
+    "sold": 2,
+    "gross": 170,
     "dates": {
       "2026-05-05": {
         "shows": 1,
@@ -70,8 +70,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 1,
+        "gross": 95
       }
     }
   },
@@ -160,14 +160,14 @@
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 14,
+    "gross": 1330,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 14,
+        "gross": 1330
       }
     }
   },
@@ -264,14 +264,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 41,
-    "gross": 3895,
+    "sold": 39,
+    "gross": 3705,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 41,
-        "gross": 3895
+        "sold": 39,
+        "gross": 3705
       }
     }
   },
@@ -292,28 +292,28 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 59,
-    "gross": 7375,
+    "sold": 58,
+    "gross": 7250,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 59,
-        "gross": 7375
+        "sold": 58,
+        "gross": 7250
       }
     }
   },
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 28,
-        "gross": 2660
+        "sold": 27,
+        "gross": 2565
       }
     }
   },
