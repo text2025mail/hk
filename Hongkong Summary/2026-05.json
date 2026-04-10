@@ -2,14 +2,14 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 31,
-    "gross": 2945,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 31,
-        "gross": 2945
+        "sold": 32,
+        "gross": 3040
       }
     }
   },
@@ -30,14 +30,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 28,
-        "gross": 2660
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
@@ -78,14 +78,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 63,
-    "gross": 5985,
+    "sold": 64,
+    "gross": 6080,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 64,
+        "gross": 6080
       }
     }
   },
@@ -202,14 +202,14 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 24,
-    "gross": 6960,
+    "sold": 26,
+    "gross": 7540,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 10,
-        "gross": 2900
+        "sold": 12,
+        "gross": 3480
       },
       "2026-05-02": {
         "shows": 1,
@@ -320,28 +320,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 43,
-    "gross": 4085,
+    "sold": 44,
+    "gross": 4180,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 43,
-        "gross": 4085
+        "sold": 44,
+        "gross": 4180
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 51,
-    "gross": 4845,
+    "sold": 52,
+    "gross": 4940,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 51,
-        "gross": 4845
+        "sold": 52,
+        "gross": 4940
       }
     }
   }
