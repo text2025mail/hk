@@ -2526,12 +2526,12 @@
     "date": "2026-04-10",
     "time": "14:15",
     "total": 160,
-    "available": 152,
+    "available": 141,
     "blocked": 0,
-    "sold": 8,
-    "gross": 800,
+    "sold": 19,
+    "gross": 1900,
     "price": 100,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80611,
@@ -4206,12 +4206,12 @@
     "date": "2026-04-10",
     "time": "15:40",
     "total": 121,
-    "available": 114,
+    "available": 112,
     "blocked": 0,
-    "sold": 7,
-    "gross": 1190,
+    "sold": 9,
+    "gross": 1530,
     "price": 170,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80668,
@@ -4225,7 +4225,7 @@
     "sold": 0,
     "gross": 0,
     "price": 140,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80540,
@@ -4239,7 +4239,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80512,
@@ -4253,7 +4253,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80660,
@@ -4262,12 +4262,12 @@
     "date": "2026-04-10",
     "time": "16:00",
     "total": 197,
-    "available": 197,
+    "available": 196,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 110,
     "price": 110,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80675,
@@ -4276,12 +4276,12 @@
     "date": "2026-04-10",
     "time": "16:00",
     "total": 191,
-    "available": 183,
+    "available": 180,
     "blocked": 0,
-    "sold": 8,
-    "gross": 880,
+    "sold": 11,
+    "gross": 1210,
     "price": 110,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80526,
@@ -4295,7 +4295,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80652,
@@ -4309,7 +4309,7 @@
     "sold": 2,
     "gross": 220,
     "price": 110,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80533,
@@ -4323,7 +4323,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80658,
@@ -4337,7 +4337,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80519,
@@ -4351,7 +4351,7 @@
     "sold": 4,
     "gross": 420,
     "price": 105,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80766,
@@ -6250,12 +6250,12 @@
     "date": "2026-04-10",
     "time": "14:15",
     "total": 202,
-    "available": 178,
+    "available": 140,
     "blocked": 0,
-    "sold": 24,
-    "gross": 2400,
+    "sold": 62,
+    "gross": 6200,
     "price": 100,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 80098,
@@ -6623,17 +6623,17 @@
   },
   {
     "perfIx": 6,
-    "movie": "The Secret Agent",
+    "movie": "We're Nothing at All",
     "venue": "Cinema.com.hk",
     "date": "2026-04-10",
-    "time": "13:00",
-    "total": 119,
-    "available": 104,
+    "time": "14:15",
+    "total": 171,
+    "available": 153,
     "blocked": 0,
-    "sold": 15,
-    "gross": 1875,
-    "price": 125,
-    "last_updated": "2026-04-10 06:25:03 PM IST"
+    "sold": 18,
+    "gross": 1800,
+    "price": 100,
+    "last_updated": "2026-04-10 07:43:54 PM IST"
   },
   {
     "perfIx": 81833,

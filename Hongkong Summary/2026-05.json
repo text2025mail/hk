@@ -2,14 +2,14 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 32,
-    "gross": 3040,
+    "sold": 33,
+    "gross": 3135,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 3040
+        "sold": 33,
+        "gross": 3135
       }
     }
   },
@@ -106,14 +106,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 20,
-    "gross": 4400,
+    "sold": 21,
+    "gross": 4620,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 10,
-        "gross": 2200
+        "sold": 11,
+        "gross": 2420
       },
       "2026-05-30": {
         "shows": 1,
@@ -320,28 +320,28 @@
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 31,
+    "gross": 2945,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 29,
-        "gross": 2755
+        "sold": 31,
+        "gross": 2945
       }
     }
   },
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 45,
-    "gross": 4275,
+    "sold": 46,
+    "gross": 4370,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 45,
-        "gross": 4275
+        "sold": 46,
+        "gross": 4370
       }
     }
   },
