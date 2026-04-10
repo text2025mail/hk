@@ -4220,12 +4220,12 @@
     "date": "2026-04-10",
     "time": "15:40",
     "total": 202,
-    "available": 202,
+    "available": 194,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 8,
+    "gross": 1120,
     "price": 140,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80540,
@@ -4234,12 +4234,12 @@
     "date": "2026-04-10",
     "time": "15:55",
     "total": 57,
-    "available": 57,
+    "available": 55,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 190,
     "price": 95,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80512,
@@ -4253,7 +4253,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80660,
@@ -4262,12 +4262,12 @@
     "date": "2026-04-10",
     "time": "16:00",
     "total": 197,
-    "available": 196,
+    "available": 194,
     "blocked": 0,
-    "sold": 1,
-    "gross": 110,
+    "sold": 3,
+    "gross": 330,
     "price": 110,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80675,
@@ -4276,12 +4276,12 @@
     "date": "2026-04-10",
     "time": "16:00",
     "total": 191,
-    "available": 180,
+    "available": 178,
     "blocked": 0,
-    "sold": 11,
-    "gross": 1210,
+    "sold": 13,
+    "gross": 1430,
     "price": 110,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80526,
@@ -4295,7 +4295,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80652,
@@ -4304,12 +4304,12 @@
     "date": "2026-04-10",
     "time": "16:10",
     "total": 202,
-    "available": 200,
+    "available": 199,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 3,
+    "gross": 330,
     "price": 110,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80533,
@@ -4323,7 +4323,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80658,
@@ -4337,7 +4337,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80519,
@@ -4351,7 +4351,7 @@
     "sold": 4,
     "gross": 420,
     "price": 105,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 80766,
@@ -6623,17 +6623,17 @@
   },
   {
     "perfIx": 6,
-    "movie": "We're Nothing at All",
+    "movie": "4DX The Super Mario Galaxy Movie(Cantonese Version) ",
     "venue": "Cinema.com.hk",
     "date": "2026-04-10",
-    "time": "14:15",
-    "total": 171,
-    "available": 153,
+    "time": "15:40",
+    "total": 121,
+    "available": 106,
     "blocked": 0,
-    "sold": 18,
-    "gross": 1800,
-    "price": 100,
-    "last_updated": "2026-04-10 07:43:54 PM IST"
+    "sold": 15,
+    "gross": 2550,
+    "price": 170,
+    "last_updated": "2026-04-10 08:41:57 PM IST"
   },
   {
     "perfIx": 81833,
