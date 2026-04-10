@@ -78,14 +78,14 @@
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 66,
-    "gross": 6270,
+    "sold": 67,
+    "gross": 6365,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 6270
+        "sold": 67,
+        "gross": 6365
       }
     }
   },
@@ -244,6 +244,20 @@
         "seats": 119,
         "sold": 44,
         "gross": 4180
+      }
+    }
+  },
+  "Farewell to my Concubine (4K Restored Version)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
