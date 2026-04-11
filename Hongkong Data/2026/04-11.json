@@ -6376,12 +6376,12 @@
     "date": "2026-04-11",
     "time": "15:45",
     "total": 191,
-    "available": 189,
+    "available": 187,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81375,
@@ -6395,7 +6395,7 @@
     "sold": 0,
     "gross": 0,
     "price": 140,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81362,
@@ -6404,12 +6404,12 @@
     "date": "2026-04-11",
     "time": "15:55",
     "total": 191,
-    "available": 191,
+    "available": 190,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 110,
     "price": 110,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81357,
@@ -6423,7 +6423,7 @@
     "sold": 3,
     "gross": 330,
     "price": 110,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81601,
@@ -6437,7 +6437,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81615,
@@ -6451,7 +6451,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81367,
@@ -6465,7 +6465,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81622,
@@ -6479,7 +6479,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81629,
@@ -6493,7 +6493,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 81608,
@@ -6502,25 +6502,25 @@
     "date": "2026-04-11",
     "time": "16:25",
     "total": 260,
-    "available": 258,
+    "available": 256,
     "blocked": 0,
-    "sold": 2,
-    "gross": 210,
+    "sold": 4,
+    "gross": 420,
     "price": 105,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "The Super Mario Galaxy Movie(Cantonese Version)(Atmos)",
+    "movie": "4DX The Super Mario Galaxy Movie(Cantonese Version) ",
     "venue": "Cinema.com.hk",
     "date": "2026-04-11",
-    "time": "13:55",
-    "total": 158,
-    "available": 112,
+    "time": "15:25",
+    "total": 121,
+    "available": 98,
     "blocked": 0,
-    "sold": 46,
-    "gross": 4830,
-    "price": 105,
-    "last_updated": "2026-04-11 07:21:02 PM IST"
+    "sold": 23,
+    "gross": 3910,
+    "price": 170,
+    "last_updated": "2026-04-11 08:01:07 PM IST"
   }
 ]
