@@ -6432,12 +6432,12 @@
     "date": "2026-04-11",
     "time": "16:00",
     "total": 260,
-    "available": 256,
+    "available": 255,
     "blocked": 0,
-    "sold": 4,
-    "gross": 420,
+    "sold": 5,
+    "gross": 525,
     "price": 105,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 81615,
@@ -6446,12 +6446,12 @@
     "date": "2026-04-11",
     "time": "16:05",
     "total": 260,
-    "available": 257,
+    "available": 255,
     "blocked": 0,
-    "sold": 3,
-    "gross": 315,
+    "sold": 5,
+    "gross": 525,
     "price": 105,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 81367,
@@ -6460,12 +6460,12 @@
     "date": "2026-04-11",
     "time": "16:10",
     "total": 197,
-    "available": 195,
+    "available": 190,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 7,
+    "gross": 770,
     "price": 110,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 81622,
@@ -6479,7 +6479,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 81629,
@@ -6493,7 +6493,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 81608,
@@ -6502,25 +6502,25 @@
     "date": "2026-04-11",
     "time": "16:25",
     "total": 260,
-    "available": 254,
+    "available": 251,
     "blocked": 0,
-    "sold": 6,
-    "gross": 630,
+    "sold": 9,
+    "gross": 945,
     "price": 105,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "Night King",
+    "movie": "The Drama",
     "venue": "Cinema.com.hk",
     "date": "2026-04-11",
-    "time": "15:45",
-    "total": 191,
-    "available": 181,
+    "time": "16:00",
+    "total": 202,
+    "available": 184,
     "blocked": 0,
-    "sold": 10,
-    "gross": 1100,
+    "sold": 18,
+    "gross": 1980,
     "price": 110,
-    "last_updated": "2026-04-11 08:57:16 PM IST"
+    "last_updated": "2026-04-11 09:25:15 PM IST"
   }
 ]
