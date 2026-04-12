@@ -106,20 +106,20 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 21,
-    "gross": 4620,
+    "sold": 24,
+    "gross": 5280,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 11,
-        "gross": 2420
+        "sold": 13,
+        "gross": 2860
       },
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 10,
-        "gross": 2200
+        "sold": 11,
+        "gross": 2420
       }
     }
   },
