@@ -516,8 +516,8 @@
   "Night King": {
     "shows": 915,
     "seats": 118649,
-    "sold": 5149,
-    "gross": 468170,
+    "sold": 5152,
+    "gross": 468500,
     "dates": {
       "2026-04-14": {
         "shows": 57,
@@ -606,8 +606,8 @@
       "2026-04-15": {
         "shows": 56,
         "seats": 7192,
-        "sold": 2,
-        "gross": 120
+        "sold": 5,
+        "gross": 450
       }
     }
   },
@@ -3038,8 +3038,8 @@
   "IMAX Project Hail Mary": {
     "shows": 41,
     "seats": 13018,
-    "sold": 1743,
-    "gross": 313570,
+    "sold": 1744,
+    "gross": 313750,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -3104,8 +3104,8 @@
       "2026-04-13": {
         "shows": 2,
         "seats": 681,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 180
       },
       "2026-04-06": {
         "shows": 2,
@@ -3558,8 +3558,8 @@
   "IMAX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 48,
     "seats": 13589,
-    "sold": 894,
-    "gross": 118890,
+    "sold": 896,
+    "gross": 119170,
     "dates": {
       "2026-04-14": {
         "shows": 3,
@@ -3618,8 +3618,8 @@
       "2026-04-13": {
         "shows": 3,
         "seats": 804,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 280
       },
       "2026-04-06": {
         "shows": 4,
@@ -3656,8 +3656,8 @@
   "The Super Mario Galaxy Movie(English Version)(Atmos)": {
     "shows": 67,
     "seats": 12081,
-    "sold": 1280,
-    "gross": 113900,
+    "sold": 1282,
+    "gross": 114110,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -3716,8 +3716,8 @@
       "2026-04-13": {
         "shows": 2,
         "seats": 360,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 210
       },
       "2026-04-06": {
         "shows": 5,
@@ -4848,20 +4848,20 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 205,
     "seats": 43322,
-    "sold": 1293,
-    "gross": 125440,
+    "sold": 1298,
+    "gross": 125925,
     "dates": {
       "2026-04-17": {
         "shows": 58,
         "seats": 12242,
-        "sold": 410,
-        "gross": 43150
+        "sold": 413,
+        "gross": 43515
       },
       "2026-04-18": {
         "shows": 43,
         "seats": 8799,
-        "sold": 300,
-        "gross": 28390
+        "sold": 302,
+        "gross": 28510
       },
       "2026-04-16": {
         "shows": 57,
