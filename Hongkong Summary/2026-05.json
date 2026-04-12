@@ -306,14 +306,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 60,
-    "gross": 7500,
+    "sold": 61,
+    "gross": 7625,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 60,
-        "gross": 7500
+        "sold": 61,
+        "gross": 7625
       }
     }
   },
@@ -334,28 +334,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 54,
-    "gross": 5130,
+    "sold": 56,
+    "gross": 5320,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 54,
-        "gross": 5130
+        "sold": 56,
+        "gross": 5320
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 58,
-    "gross": 5510,
+    "sold": 59,
+    "gross": 5605,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 58,
-        "gross": 5510
+        "sold": 59,
+        "gross": 5605
       }
     }
   }
