@@ -250,14 +250,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 10,
-    "gross": 1600,
+    "sold": 11,
+    "gross": 1760,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 127,
-        "sold": 10,
-        "gross": 1600
+        "sold": 11,
+        "gross": 1760
       }
     }
   },
@@ -334,28 +334,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 57,
-    "gross": 5415,
+    "sold": 59,
+    "gross": 5605,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 57,
-        "gross": 5415
+        "sold": 59,
+        "gross": 5605
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 63,
-    "gross": 5985,
+    "sold": 65,
+    "gross": 6175,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 65,
+        "gross": 6175
       }
     }
   }
