@@ -1678,8 +1678,8 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 582,
     "seats": 89150,
-    "sold": 8582,
-    "gross": 805020,
+    "sold": 8583,
+    "gross": 805105,
     "dates": {
       "2026-04-14": {
         "shows": 19,
@@ -1714,8 +1714,8 @@
       "2026-04-17": {
         "shows": 14,
         "seats": 1491,
-        "sold": 2,
-        "gross": 200
+        "sold": 3,
+        "gross": 285
       },
       "2026-04-12": {
         "shows": 28,
@@ -2620,14 +2620,14 @@
   "4DX Project Hail Mary": {
     "shows": 11,
     "seats": 986,
-    "sold": 84,
-    "gross": 15640,
+    "sold": 85,
+    "gross": 15810,
     "dates": {
       "2026-04-14": {
         "shows": 2,
         "seats": 173,
-        "sold": 12,
-        "gross": 2040
+        "sold": 13,
+        "gross": 2210
       },
       "2026-04-17": {
         "shows": 1,
@@ -3356,8 +3356,8 @@
   "IMAX Project Hail Mary": {
     "shows": 49,
     "seats": 16322,
-    "sold": 1792,
-    "gross": 322095,
+    "sold": 1793,
+    "gross": 322275,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -3458,8 +3458,8 @@
       "2026-04-16": {
         "shows": 7,
         "seats": 2456,
-        "sold": 16,
-        "gross": 2730
+        "sold": 17,
+        "gross": 2910
       },
       "2026-04-19": {
         "shows": 2,
@@ -5266,8 +5266,8 @@
   "A Foggy Tale": {
     "shows": 25,
     "seats": 3183,
-    "sold": 5,
-    "gross": 470,
+    "sold": 7,
+    "gross": 690,
     "dates": {
       "2026-04-17": {
         "shows": 9,
@@ -5278,8 +5278,8 @@
       "2026-04-16": {
         "shows": 16,
         "seats": 2060,
-        "sold": 5,
-        "gross": 470
+        "sold": 7,
+        "gross": 690
       }
     }
   },
@@ -5580,14 +5580,14 @@
   "Chopin, Chopin! (EUFF2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 135,
-    "gross": 12825,
+    "sold": 136,
+    "gross": 12920,
     "dates": {
       "2026-04-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 6270
+        "sold": 67,
+        "gross": 6365
       },
       "2026-04-26": {
         "shows": 1,
@@ -5672,8 +5672,8 @@
   "Pulp Fiction (4K Restoration)": {
     "shows": 3,
     "seats": 296,
-    "sold": 123,
-    "gross": 16460,
+    "sold": 124,
+    "gross": 16580,
     "dates": {
       "2026-04-11": {
         "shows": 1,
@@ -5690,8 +5690,8 @@
       "2026-04-19": {
         "shows": 1,
         "seats": 127,
-        "sold": 38,
-        "gross": 4560
+        "sold": 39,
+        "gross": 4680
       }
     }
   },
@@ -5892,14 +5892,14 @@
   "Punching the World (EUFF2026)": {
     "shows": 2,
     "seats": 218,
-    "sold": 65,
-    "gross": 6175,
+    "sold": 66,
+    "gross": 6270,
     "dates": {
       "2026-04-28": {
         "shows": 1,
         "seats": 119,
-        "sold": 49,
-        "gross": 4655
+        "sold": 50,
+        "gross": 4750
       },
       "2026-04-26": {
         "shows": 1,
