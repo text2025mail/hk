@@ -2,14 +2,14 @@
   "KING OF PRISM-Your Endless Call-Everyone Sparkle! Prism Tours   ": {
     "shows": 2,
     "seats": 148,
-    "sold": 57,
-    "gross": 5130,
+    "sold": 58,
+    "gross": 5220,
     "dates": {
       "2026-04-14": {
         "shows": 1,
         "seats": 74,
-        "sold": 33,
-        "gross": 2970
+        "sold": 34,
+        "gross": 3060
       },
       "2026-04-21": {
         "shows": 1,
@@ -748,14 +748,14 @@
   "We're Nothing at All": {
     "shows": 484,
     "seats": 66711,
-    "sold": 6143,
-    "gross": 557160,
+    "sold": 6144,
+    "gross": 557220,
     "dates": {
       "2026-04-14": {
         "shows": 39,
         "seats": 5780,
-        "sold": 252,
-        "gross": 17425
+        "sold": 253,
+        "gross": 17485
       },
       "2026-04-10": {
         "shows": 28,
@@ -3356,14 +3356,14 @@
   "IMAX Project Hail Mary": {
     "shows": 49,
     "seats": 16322,
-    "sold": 1793,
-    "gross": 322275,
+    "sold": 1794,
+    "gross": 322425,
     "dates": {
       "2026-04-14": {
         "shows": 2,
         "seats": 681,
-        "sold": 10,
-        "gross": 1515
+        "sold": 11,
+        "gross": 1665
       },
       "2026-04-10": {
         "shows": 2,
@@ -5766,14 +5766,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 27,
-    "gross": 2565,
+    "sold": 28,
+    "gross": 2660,
     "dates": {
       "2026-04-27": {
         "shows": 1,
         "seats": 99,
-        "sold": 27,
-        "gross": 2565
+        "sold": 28,
+        "gross": 2660
       }
     }
   },
