@@ -576,8 +576,8 @@
   "Night King": {
     "shows": 950,
     "seats": 122280,
-    "sold": 5467,
-    "gross": 498025,
+    "sold": 5469,
+    "gross": 498245,
     "dates": {
       "2026-04-14": {
         "shows": 57,
@@ -612,8 +612,8 @@
       "2026-04-17": {
         "shows": 17,
         "seats": 1764,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 220
       },
       "2026-04-12": {
         "shows": 60,
@@ -846,8 +846,8 @@
   "Marty Supreme": {
     "shows": 512,
     "seats": 54123,
-    "sold": 2652,
-    "gross": 315255,
+    "sold": 2653,
+    "gross": 315385,
     "dates": {
       "2026-04-14": {
         "shows": 29,
@@ -942,8 +942,8 @@
       "2026-04-16": {
         "shows": 12,
         "seats": 997,
-        "sold": 6,
-        "gross": 700
+        "sold": 7,
+        "gross": 830
       },
       "2026-04-15": {
         "shows": 28,
@@ -1384,8 +1384,8 @@
   "HAMNET": {
     "shows": 154,
     "seats": 13523,
-    "sold": 1329,
-    "gross": 134070,
+    "sold": 1330,
+    "gross": 134165,
     "dates": {
       "2026-04-14": {
         "shows": 10,
@@ -1420,8 +1420,8 @@
       "2026-04-17": {
         "shows": 4,
         "seats": 459,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       },
       "2026-04-12": {
         "shows": 7,
@@ -5226,8 +5226,8 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 308,
     "seats": 59543,
-    "sold": 2081,
-    "gross": 200910,
+    "sold": 2087,
+    "gross": 201490,
     "dates": {
       "2026-04-17": {
         "shows": 110,
@@ -5238,14 +5238,14 @@
       "2026-04-18": {
         "shows": 43,
         "seats": 8799,
-        "sold": 479,
-        "gross": 45620
+        "sold": 483,
+        "gross": 46030
       },
       "2026-04-16": {
         "shows": 108,
         "seats": 20242,
-        "sold": 651,
-        "gross": 60395
+        "sold": 653,
+        "gross": 60565
       },
       "2026-04-19": {
         "shows": 47,
@@ -5278,14 +5278,14 @@
   "A Foggy Tale": {
     "shows": 29,
     "seats": 3742,
-    "sold": 93,
-    "gross": 8635,
+    "sold": 96,
+    "gross": 8965,
     "dates": {
       "2026-04-17": {
         "shows": 13,
         "seats": 1682,
-        "sold": 46,
-        "gross": 4560
+        "sold": 49,
+        "gross": 4890
       },
       "2026-04-16": {
         "shows": 16,
@@ -6134,14 +6134,14 @@
   "Project Hail Mary IMAX Special Screening": {
     "shows": 1,
     "seats": 268,
-    "sold": 66,
-    "gross": 11880,
+    "sold": 67,
+    "gross": 12060,
     "dates": {
       "2026-04-19": {
         "shows": 1,
         "seats": 268,
-        "sold": 66,
-        "gross": 11880
+        "sold": 67,
+        "gross": 12060
       }
     }
   },
