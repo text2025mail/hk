@@ -80,8 +80,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 195,
     "seats": 36740,
-    "sold": 2626,
-    "gross": 302500,
+    "sold": 2629,
+    "gross": 302860,
     "dates": {
       "2026-04-14": {
         "shows": 14,
@@ -182,8 +182,8 @@
       "2026-04-15": {
         "shows": 14,
         "seats": 3023,
-        "sold": 2,
-        "gross": 240
+        "sold": 5,
+        "gross": 600
       }
     }
   },
@@ -686,14 +686,14 @@
   "The Drama": {
     "shows": 322,
     "seats": 40591,
-    "sold": 3054,
-    "gross": 319255,
+    "sold": 3055,
+    "gross": 319365,
     "dates": {
       "2026-04-14": {
         "shows": 41,
         "seats": 5266,
-        "sold": 82,
-        "gross": 7240
+        "sold": 83,
+        "gross": 7350
       },
       "2026-04-10": {
         "shows": 36,
@@ -748,14 +748,14 @@
   "We're Nothing at All": {
     "shows": 484,
     "seats": 66711,
-    "sold": 6144,
-    "gross": 557220,
+    "sold": 6147,
+    "gross": 557425,
     "dates": {
       "2026-04-14": {
         "shows": 39,
         "seats": 5780,
-        "sold": 253,
-        "gross": 17485
+        "sold": 256,
+        "gross": 17690
       },
       "2026-04-10": {
         "shows": 28,
@@ -1678,14 +1678,14 @@
   "The Super Mario Galaxy Movie(English Version)": {
     "shows": 582,
     "seats": 89150,
-    "sold": 8583,
-    "gross": 805105,
+    "sold": 8588,
+    "gross": 805405,
     "dates": {
       "2026-04-14": {
         "shows": 19,
         "seats": 2583,
-        "sold": 21,
-        "gross": 1770
+        "sold": 26,
+        "gross": 2070
       },
       "2026-04-10": {
         "shows": 29,
@@ -5214,14 +5214,14 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 308,
     "seats": 59543,
-    "sold": 1684,
-    "gross": 164110,
+    "sold": 1687,
+    "gross": 164425,
     "dates": {
       "2026-04-17": {
         "shows": 110,
         "seats": 20203,
-        "sold": 575,
-        "gross": 60760
+        "sold": 578,
+        "gross": 61075
       },
       "2026-04-18": {
         "shows": 43,
@@ -6040,14 +6040,14 @@
   "BTS WORLD TOUR \u2018ARIRANG\u2019 IN JAPAN: LIVE VIEWING": {
     "shows": 12,
     "seats": 2654,
-    "sold": 1207,
-    "gross": 434520,
+    "sold": 1209,
+    "gross": 435240,
     "dates": {
       "2026-04-18": {
         "shows": 12,
         "seats": 2654,
-        "sold": 1207,
-        "gross": 434520
+        "sold": 1209,
+        "gross": 435240
       }
     }
   },
