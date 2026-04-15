@@ -4911,7 +4911,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 82974,
@@ -4920,12 +4920,12 @@
     "date": "2026-04-15",
     "time": "16:10",
     "total": 121,
-    "available": 121,
+    "available": 119,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 340,
     "price": 170,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 82981,
@@ -4939,7 +4939,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 82993,
@@ -4948,12 +4948,12 @@
     "date": "2026-04-15",
     "time": "16:10",
     "total": 197,
-    "available": 197,
+    "available": 196,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 110,
     "price": 110,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 82987,
@@ -4967,7 +4967,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 83104,
@@ -5410,12 +5410,12 @@
     "date": "2026-04-15",
     "time": "16:00",
     "total": 260,
-    "available": 258,
+    "available": 257,
     "blocked": 0,
-    "sold": 2,
-    "gross": 210,
+    "sold": 3,
+    "gross": 315,
     "price": 105,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 83117,
@@ -5429,7 +5429,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 83103,
@@ -5443,7 +5443,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 83110,
@@ -5457,7 +5457,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 83096,
@@ -5471,7 +5471,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   },
   {
     "perfIx": 82455,
@@ -6301,16 +6301,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "4DX Project Hail Mary",
+    "movie": "CINITY LED Project Hail Mary",
     "venue": "Cinema.com.hk",
     "date": "2026-04-15",
-    "time": "13:15",
-    "total": 121,
-    "available": 103,
+    "time": "15:40",
+    "total": 202,
+    "available": 202,
     "blocked": 0,
-    "sold": 18,
-    "gross": 3420,
-    "price": 190,
-    "last_updated": "2026-04-15 06:39:18 PM IST"
+    "sold": 0,
+    "gross": 0,
+    "price": 140,
+    "last_updated": "2026-04-15 08:21:50 PM IST"
   }
 ]
