@@ -2688,8 +2688,8 @@
   "Hoppers(Cantonese Version)": {
     "shows": 383,
     "seats": 56080,
-    "sold": 4755,
-    "gross": 388280,
+    "sold": 4758,
+    "gross": 388520,
     "dates": {
       "2026-04-14": {
         "shows": 16,
@@ -2784,8 +2784,8 @@
       "2026-04-16": {
         "shows": 2,
         "seats": 229,
-        "sold": 2,
-        "gross": 160
+        "sold": 5,
+        "gross": 400
       },
       "2026-04-15": {
         "shows": 16,
@@ -3600,8 +3600,8 @@
   "The Secret Agent": {
     "shows": 99,
     "seats": 10707,
-    "sold": 532,
-    "gross": 62455,
+    "sold": 533,
+    "gross": 62570,
     "dates": {
       "2026-04-14": {
         "shows": 4,
@@ -3696,8 +3696,8 @@
       "2026-04-16": {
         "shows": 4,
         "seats": 455,
-        "sold": 3,
-        "gross": 375
+        "sold": 4,
+        "gross": 490
       },
       "2026-04-19": {
         "shows": 1,
@@ -5238,14 +5238,14 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 312,
     "seats": 60143,
-    "sold": 2757,
-    "gross": 260945,
+    "sold": 2760,
+    "gross": 261225,
     "dates": {
       "2026-04-17": {
         "shows": 110,
         "seats": 20203,
-        "sold": 947,
-        "gross": 98340
+        "sold": 949,
+        "gross": 98560
       },
       "2026-04-18": {
         "shows": 46,
@@ -5256,8 +5256,8 @@
       "2026-04-16": {
         "shows": 109,
         "seats": 20400,
-        "sold": 955,
-        "gross": 84600
+        "sold": 956,
+        "gross": 84660
       },
       "2026-04-19": {
         "shows": 47,
@@ -6188,14 +6188,14 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 44,
-    "gross": 5720,
+    "sold": 45,
+    "gross": 5850,
     "dates": {
       "2026-04-24": {
         "shows": 1,
         "seats": 127,
-        "sold": 44,
-        "gross": 5720
+        "sold": 45,
+        "gross": 5850
       }
     }
   },
