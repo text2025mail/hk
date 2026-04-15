@@ -576,8 +576,8 @@
   "Night King": {
     "shows": 950,
     "seats": 122280,
-    "sold": 5469,
-    "gross": 498245,
+    "sold": 5471,
+    "gross": 498365,
     "dates": {
       "2026-04-14": {
         "shows": 57,
@@ -678,16 +678,16 @@
       "2026-04-15": {
         "shows": 56,
         "seats": 7192,
-        "sold": 34,
-        "gross": 2425
+        "sold": 36,
+        "gross": 2545
       }
     }
   },
   "The Drama": {
     "shows": 325,
     "seats": 40948,
-    "sold": 3322,
-    "gross": 344975,
+    "sold": 3323,
+    "gross": 345105,
     "dates": {
       "2026-04-14": {
         "shows": 41,
@@ -740,8 +740,8 @@
       "2026-04-15": {
         "shows": 40,
         "seats": 5344,
-        "sold": 109,
-        "gross": 10905
+        "sold": 110,
+        "gross": 11035
       }
     }
   },
@@ -846,8 +846,8 @@
   "Marty Supreme": {
     "shows": 512,
     "seats": 54123,
-    "sold": 2654,
-    "gross": 315465,
+    "sold": 2655,
+    "gross": 315580,
     "dates": {
       "2026-04-14": {
         "shows": 29,
@@ -882,8 +882,8 @@
       "2026-04-17": {
         "shows": 9,
         "seats": 798,
-        "sold": 6,
-        "gross": 760
+        "sold": 7,
+        "gross": 875
       },
       "2026-04-12": {
         "shows": 29,
@@ -2412,8 +2412,8 @@
   "Project Hail Mary": {
     "shows": 548,
     "seats": 78726,
-    "sold": 7332,
-    "gross": 928750,
+    "sold": 7334,
+    "gross": 929050,
     "dates": {
       "2026-04-14": {
         "shows": 30,
@@ -2448,8 +2448,8 @@
       "2026-04-17": {
         "shows": 16,
         "seats": 1783,
-        "sold": 4,
-        "gross": 500
+        "sold": 6,
+        "gross": 800
       },
       "2026-04-12": {
         "shows": 37,
@@ -3802,8 +3802,8 @@
   "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)": {
     "shows": 24,
     "seats": 2145,
-    "sold": 264,
-    "gross": 42300,
+    "sold": 266,
+    "gross": 42620,
     "dates": {
       "2026-04-14": {
         "shows": 1,
@@ -3904,8 +3904,8 @@
       "2026-04-15": {
         "shows": 2,
         "seats": 173,
-        "sold": 12,
-        "gross": 1920
+        "sold": 14,
+        "gross": 2240
       }
     }
   },
@@ -5168,8 +5168,8 @@
   "COLD WAR": {
     "shows": 85,
     "seats": 11395,
-    "sold": 438,
-    "gross": 13140,
+    "sold": 439,
+    "gross": 13170,
     "dates": {
       "2026-04-17": {
         "shows": 34,
@@ -5186,8 +5186,8 @@
       "2026-04-16": {
         "shows": 36,
         "seats": 4856,
-        "sold": 190,
-        "gross": 5700
+        "sold": 191,
+        "gross": 5730
       },
       "2026-04-19": {
         "shows": 7,
@@ -5226,8 +5226,8 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 308,
     "seats": 59543,
-    "sold": 2088,
-    "gross": 201610,
+    "sold": 2090,
+    "gross": 201820,
     "dates": {
       "2026-04-17": {
         "shows": 110,
@@ -5244,8 +5244,8 @@
       "2026-04-16": {
         "shows": 108,
         "seats": 20242,
-        "sold": 654,
-        "gross": 60685
+        "sold": 656,
+        "gross": 60895
       },
       "2026-04-19": {
         "shows": 47,
@@ -5278,14 +5278,14 @@
   "A Foggy Tale": {
     "shows": 29,
     "seats": 3742,
-    "sold": 96,
-    "gross": 8965,
+    "sold": 97,
+    "gross": 9075,
     "dates": {
       "2026-04-17": {
         "shows": 13,
         "seats": 1682,
-        "sold": 49,
-        "gross": 4890
+        "sold": 50,
+        "gross": 5000
       },
       "2026-04-16": {
         "shows": 16,
@@ -5778,14 +5778,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-04-27": {
         "shows": 1,
         "seats": 99,
-        "sold": 28,
-        "gross": 2660
+        "sold": 29,
+        "gross": 2755
       }
     }
   },
