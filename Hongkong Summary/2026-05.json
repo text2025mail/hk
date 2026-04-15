@@ -89,7 +89,7 @@
       }
     }
   },
-  "Dead Poets Society (bc X WKF)": {
+  "Dead Poets Society (WKF)": {
     "shows": 1,
     "seats": 119,
     "sold": 113,
@@ -143,7 +143,7 @@
       }
     }
   },
-  "Life of Pi  (bc X WKF)": {
+  "Life of Pi  (WKF)": {
     "shows": 1,
     "seats": 119,
     "sold": 98,
@@ -202,8 +202,8 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 26,
-    "gross": 7540,
+    "sold": 27,
+    "gross": 7830,
     "dates": {
       "2026-05-17": {
         "shows": 1,
@@ -214,8 +214,8 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 81,
-        "sold": 14,
-        "gross": 4060
+        "sold": 15,
+        "gross": 4350
       }
     }
   },
@@ -278,14 +278,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 48,
-    "gross": 4560,
+    "sold": 50,
+    "gross": 4750,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 48,
-        "gross": 4560
+        "sold": 50,
+        "gross": 4750
       }
     }
   },
