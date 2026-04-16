@@ -4656,8 +4656,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 20,
     "seats": 2192,
-    "sold": 1014,
-    "gross": 102420,
+    "sold": 1015,
+    "gross": 102530,
     "dates": {
       "2026-04-04": {
         "shows": 1,
@@ -4710,8 +4710,8 @@
       "2026-04-21": {
         "shows": 1,
         "seats": 98,
-        "sold": 7,
-        "gross": 770
+        "sold": 8,
+        "gross": 880
       },
       "2026-04-06": {
         "shows": 1,
@@ -4978,8 +4978,8 @@
   "A Pale View of Hills": {
     "shows": 10,
     "seats": 1190,
-    "sold": 424,
-    "gross": 39400,
+    "sold": 425,
+    "gross": 39495,
     "dates": {
       "2026-04-29": {
         "shows": 1,
@@ -4990,8 +4990,8 @@
       "2026-04-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 91,
-        "gross": 8645
+        "sold": 92,
+        "gross": 8740
       },
       "2026-04-22": {
         "shows": 1,
@@ -5092,8 +5092,8 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 6,
     "seats": 714,
-    "sold": 68,
-    "gross": 6460,
+    "sold": 69,
+    "gross": 6555,
     "dates": {
       "2026-04-03": {
         "shows": 1,
@@ -5122,8 +5122,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       },
       "2026-04-15": {
         "shows": 1,
@@ -5316,20 +5316,20 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 334,
     "seats": 63318,
-    "sold": 3923,
-    "gross": 374770,
+    "sold": 3925,
+    "gross": 374890,
     "dates": {
       "2026-04-17": {
         "shows": 116,
         "seats": 20987,
-        "sold": 1288,
-        "gross": 130020
+        "sold": 1289,
+        "gross": 130080
       },
       "2026-04-18": {
         "shows": 58,
         "seats": 11146,
-        "sold": 759,
-        "gross": 71625
+        "sold": 760,
+        "gross": 71685
       },
       "2026-04-16": {
         "shows": 108,
@@ -6262,14 +6262,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 99,
-    "sold": 34,
-    "gross": 4250,
+    "sold": 35,
+    "gross": 4375,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 34,
-        "gross": 4250
+        "sold": 35,
+        "gross": 4375
       }
     }
   },
