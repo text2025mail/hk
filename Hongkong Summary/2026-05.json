@@ -188,14 +188,14 @@
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
-    "sold": 15,
-    "gross": 1950,
+    "sold": 16,
+    "gross": 2080,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 58,
-        "sold": 15,
-        "gross": 1950
+        "sold": 16,
+        "gross": 2080
       }
     }
   },
@@ -278,28 +278,28 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 50,
-    "gross": 4750,
+    "sold": 51,
+    "gross": 4845,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 50,
-        "gross": 4750
+        "sold": 51,
+        "gross": 4845
       }
     }
   },
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 30,
-    "gross": 2850,
+    "sold": 31,
+    "gross": 2945,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 30,
-        "gross": 2850
+        "sold": 31,
+        "gross": 2945
       }
     }
   },
