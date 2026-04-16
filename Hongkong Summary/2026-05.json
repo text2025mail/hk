@@ -292,14 +292,14 @@
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 30,
+    "gross": 2850,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 29,
-        "gross": 2755
+        "sold": 30,
+        "gross": 2850
       }
     }
   },
@@ -334,28 +334,28 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 63,
-    "gross": 5985,
+    "sold": 64,
+    "gross": 6080,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 64,
+        "gross": 6080
       }
     }
   },
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 75,
-    "gross": 7125,
+    "sold": 76,
+    "gross": 7220,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 75,
-        "gross": 7125
+        "sold": 76,
+        "gross": 7220
       }
     }
   }
