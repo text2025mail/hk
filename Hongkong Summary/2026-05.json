@@ -160,14 +160,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 95,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
