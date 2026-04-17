@@ -75,6 +75,26 @@
       }
     }
   },
+  "The Grand Budapest Hotel": {
+    "shows": 2,
+    "seats": 215,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "The History Of Sound (InDPanda)": {
     "shows": 1,
     "seats": 119,
@@ -284,20 +304,6 @@
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
-      }
-    }
-  },
-  "The Grand Budapest Hotel": {
-    "shows": 1,
-    "seats": 88,
-    "sold": 0,
-    "gross": 0,
-    "dates": {
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 88,
         "sold": 0,
         "gross": 0
       }
