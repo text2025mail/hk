@@ -157,17 +157,31 @@
       }
     }
   },
+  "Portrait of a Lady on Fire": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-04": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "We Are Young. We Are Strong.(GFF 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 21,
+    "gross": 1995,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 21,
+        "gross": 1995
       }
     }
   },
@@ -258,6 +272,20 @@
         "seats": 127,
         "sold": 18,
         "gross": 2880
+      }
+    }
+  },
+  "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-06": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
