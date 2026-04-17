@@ -126,8 +126,8 @@
   "Michelangelo - Love & Death (EOS 2025)": {
     "shows": 2,
     "seats": 162,
-    "sold": 8,
-    "gross": 980,
+    "sold": 10,
+    "gross": 1240,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -138,8 +138,8 @@
       "2026-05-31": {
         "shows": 1,
         "seats": 88,
-        "sold": 5,
-        "gross": 650
+        "sold": 7,
+        "gross": 910
       }
     }
   },
@@ -376,14 +376,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 65,
-    "gross": 6175,
+    "sold": 66,
+    "gross": 6270,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 65,
-        "gross": 6175
+        "sold": 66,
+        "gross": 6270
       }
     }
   },
