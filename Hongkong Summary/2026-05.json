@@ -166,28 +166,28 @@
   "Life of Pi  (WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 99,
-    "gross": 19800,
+    "sold": 100,
+    "gross": 20000,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 99,
-        "gross": 19800
+        "sold": 100,
+        "gross": 20000
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 2,
-    "gross": 190,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       }
     }
   },
