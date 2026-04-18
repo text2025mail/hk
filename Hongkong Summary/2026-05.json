@@ -180,14 +180,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 1,
-    "gross": 95,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -236,8 +236,8 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 29,
-    "gross": 8410,
+    "sold": 32,
+    "gross": 9280,
     "dates": {
       "2026-05-17": {
         "shows": 1,
@@ -248,22 +248,22 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 81,
-        "sold": 17,
-        "gross": 4930
+        "sold": 20,
+        "gross": 5800
       }
     }
   },
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
-    "sold": 39,
-    "gross": 3705,
+    "sold": 40,
+    "gross": 3800,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 39,
-        "gross": 3705
+        "sold": 40,
+        "gross": 3800
       }
     }
   },
@@ -284,28 +284,28 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 20,
-    "gross": 3200,
+    "sold": 22,
+    "gross": 3520,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 127,
-        "sold": 20,
-        "gross": 3200
+        "sold": 22,
+        "gross": 3520
       }
     }
   },
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 1,
     "seats": 119,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 95,
     "dates": {
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
