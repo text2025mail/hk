@@ -6038,8 +6038,8 @@
   "COLD WAR": {
     "shows": 224,
     "seats": 28336,
-    "sold": 1614,
-    "gross": 48420,
+    "sold": 1617,
+    "gross": 48510,
     "dates": {
       "2026-04-17": {
         "shows": 34,
@@ -6080,8 +6080,8 @@
       "2026-04-19": {
         "shows": 28,
         "seats": 3330,
-        "sold": 255,
-        "gross": 7650
+        "sold": 258,
+        "gross": 7740
       }
     }
   },
@@ -6630,14 +6630,14 @@
   "IMAX Michael ": {
     "shows": 30,
     "seats": 10215,
-    "sold": 79,
-    "gross": 12340,
+    "sold": 81,
+    "gross": 12630,
     "dates": {
       "2026-04-22": {
         "shows": 10,
         "seats": 3405,
-        "sold": 54,
-        "gross": 8370
+        "sold": 56,
+        "gross": 8660
       },
       "2026-04-23": {
         "shows": 10,
@@ -7282,14 +7282,14 @@
   "Project Hail Mary IMAX Special Screening": {
     "shows": 1,
     "seats": 268,
-    "sold": 120,
-    "gross": 21600,
+    "sold": 121,
+    "gross": 21780,
     "dates": {
       "2026-04-19": {
         "shows": 1,
         "seats": 268,
-        "sold": 120,
-        "gross": 21600
+        "sold": 121,
+        "gross": 21780
       }
     }
   },
