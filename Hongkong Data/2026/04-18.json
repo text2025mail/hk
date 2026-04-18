@@ -6054,12 +6054,12 @@
     "date": "2026-04-18",
     "time": "15:45",
     "total": 202,
-    "available": 202,
+    "available": 194,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 8,
+    "gross": 880,
     "price": 110,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   },
   {
     "perfIx": 84727,
@@ -6068,12 +6068,12 @@
     "date": "2026-04-18",
     "time": "16:00",
     "total": 197,
-    "available": 191,
+    "available": 179,
     "blocked": 0,
-    "sold": 6,
-    "gross": 660,
+    "sold": 18,
+    "gross": 1980,
     "price": 110,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   },
   {
     "perfIx": 84837,
@@ -6087,7 +6087,7 @@
     "sold": 8,
     "gross": 760,
     "price": 95,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   },
   {
     "perfIx": 84829,
@@ -6101,7 +6101,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   },
   {
     "perfIx": 84816,
@@ -6110,25 +6110,25 @@
     "date": "2026-04-18",
     "time": "16:30",
     "total": 260,
-    "available": 260,
+    "available": 256,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 420,
     "price": 105,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   },
   {
     "perfIx": 6,
     "movie": "Night King  (Director\u2019s Cut)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-18",
-    "time": "14:45",
+    "time": "15:40",
     "total": 260,
-    "available": 220,
+    "available": 253,
     "blocked": 0,
-    "sold": 40,
-    "gross": 4200,
+    "sold": 7,
+    "gross": 735,
     "price": 105,
-    "last_updated": "2026-04-18 08:10:09 PM IST"
+    "last_updated": "2026-04-18 09:01:48 PM IST"
   }
 ]
