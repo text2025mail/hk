@@ -180,14 +180,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 6,
-    "gross": 570,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       }
     }
   },
@@ -340,28 +340,28 @@
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 31,
-    "gross": 2945,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 31,
-        "gross": 2945
+        "sold": 32,
+        "gross": 3040
       }
     }
   },
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 66,
-    "gross": 8250,
+    "sold": 67,
+    "gross": 8375,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 8250
+        "sold": 67,
+        "gross": 8375
       }
     }
   },
