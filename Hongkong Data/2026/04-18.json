@@ -6017,7 +6017,7 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84724,
@@ -6026,12 +6026,12 @@
     "date": "2026-04-18",
     "time": "15:20",
     "total": 191,
-    "available": 191,
+    "available": 187,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84822,
@@ -6045,7 +6045,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84716,
@@ -6059,7 +6059,7 @@
     "sold": 0,
     "gross": 0,
     "price": 110,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84727,
@@ -6068,12 +6068,12 @@
     "date": "2026-04-18",
     "time": "16:00",
     "total": 197,
-    "available": 195,
+    "available": 191,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 6,
+    "gross": 660,
     "price": 110,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84837,
@@ -6082,12 +6082,12 @@
     "date": "2026-04-18",
     "time": "16:10",
     "total": 57,
-    "available": 52,
+    "available": 49,
     "blocked": 0,
-    "sold": 5,
-    "gross": 475,
+    "sold": 8,
+    "gross": 760,
     "price": 95,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84829,
@@ -6101,7 +6101,7 @@
     "sold": 2,
     "gross": 190,
     "price": 95,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 84816,
@@ -6115,20 +6115,20 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   },
   {
     "perfIx": 6,
-    "movie": "The Drama",
+    "movie": "Night King  (Director\u2019s Cut)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-18",
-    "time": "14:00",
-    "total": 185,
-    "available": 160,
+    "time": "14:45",
+    "total": 260,
+    "available": 220,
     "blocked": 0,
-    "sold": 25,
-    "gross": 3250,
-    "price": 130,
-    "last_updated": "2026-04-18 07:27:51 PM IST"
+    "sold": 40,
+    "gross": 4200,
+    "price": 105,
+    "last_updated": "2026-04-18 08:10:09 PM IST"
   }
 ]
