@@ -78,8 +78,8 @@
   "The Grand Budapest Hotel": {
     "shows": 2,
     "seats": 215,
-    "sold": 2,
-    "gross": 260,
+    "sold": 4,
+    "gross": 520,
     "dates": {
       "2026-05-24": {
         "shows": 1,
@@ -90,8 +90,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 88,
-        "sold": 2,
-        "gross": 260
+        "sold": 4,
+        "gross": 520
       }
     }
   },
@@ -180,14 +180,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 5,
-    "gross": 475,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       }
     }
   },
@@ -312,14 +312,14 @@
   "Power To The People: John & Yoko Live in NYC (2026)": {
     "shows": 1,
     "seats": 127,
-    "sold": 34,
-    "gross": 4420,
+    "sold": 35,
+    "gross": 4550,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 127,
-        "sold": 34,
-        "gross": 4420
+        "sold": 35,
+        "gross": 4550
       }
     }
   },
