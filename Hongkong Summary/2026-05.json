@@ -166,14 +166,14 @@
   "Life of Pi  (WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 100,
-    "gross": 20000,
+    "sold": 101,
+    "gross": 20200,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 100,
-        "gross": 20000
+        "sold": 101,
+        "gross": 20200
       }
     }
   },
@@ -396,14 +396,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 76,
-    "gross": 7220,
+    "sold": 77,
+    "gross": 7315,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 76,
-        "gross": 7220
+        "sold": 77,
+        "gross": 7315
       }
     }
   }
