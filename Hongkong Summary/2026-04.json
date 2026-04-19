@@ -6642,8 +6642,8 @@
   "IMAX Michael ": {
     "shows": 30,
     "seats": 10215,
-    "sold": 128,
-    "gross": 19910,
+    "sold": 130,
+    "gross": 20230,
     "dates": {
       "2026-04-22": {
         "shows": 10,
@@ -6660,8 +6660,8 @@
       "2026-04-24": {
         "shows": 10,
         "seats": 3405,
-        "sold": 28,
-        "gross": 4480
+        "sold": 30,
+        "gross": 4800
       }
     }
   },
