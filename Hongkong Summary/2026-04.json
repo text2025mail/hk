@@ -80,8 +80,8 @@
   "Project Hail Mary(Atmos)": {
     "shows": 215,
     "seats": 40614,
-    "sold": 2877,
-    "gross": 332525,
+    "sold": 2879,
+    "gross": 332685,
     "dates": {
       "2026-04-14": {
         "shows": 14,
@@ -170,8 +170,8 @@
       "2026-04-20": {
         "shows": 5,
         "seats": 893,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 160
       },
       "2026-04-02": {
         "shows": 7,
@@ -2696,8 +2696,8 @@
   "Dhurandhar: The Revenge": {
     "shows": 33,
     "seats": 2910,
-    "sold": 941,
-    "gross": 235250,
+    "sold": 942,
+    "gross": 235500,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -2798,8 +2798,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 58,
-        "sold": 14,
-        "gross": 3500
+        "sold": 15,
+        "gross": 3750
       },
       "2026-04-15": {
         "shows": 2,
@@ -2916,8 +2916,8 @@
   "Project Hail Mary": {
     "shows": 646,
     "seats": 89234,
-    "sold": 8875,
-    "gross": 1142685,
+    "sold": 8877,
+    "gross": 1142915,
     "dates": {
       "2026-04-14": {
         "shows": 30,
@@ -3006,8 +3006,8 @@
       "2026-04-20": {
         "shows": 20,
         "seats": 1896,
-        "sold": 8,
-        "gross": 950
+        "sold": 10,
+        "gross": 1180
       },
       "2026-04-02": {
         "shows": 42,
@@ -6138,8 +6138,8 @@
   "Night King  (Director\u2019s Cut)": {
     "shows": 750,
     "seats": 135185,
-    "sold": 8388,
-    "gross": 802045,
+    "sold": 8390,
+    "gross": 802235,
     "dates": {
       "2026-04-17": {
         "shows": 115,
@@ -6162,8 +6162,8 @@
       "2026-04-20": {
         "shows": 105,
         "seats": 19550,
-        "sold": 197,
-        "gross": 16560
+        "sold": 199,
+        "gross": 16750
       },
       "2026-04-18": {
         "shows": 111,
@@ -6188,8 +6188,8 @@
   "LEE CRONIN\u2019S THE MUMMY": {
     "shows": 214,
     "seats": 32623,
-    "sold": 1888,
-    "gross": 187905,
+    "sold": 1890,
+    "gross": 188105,
     "dates": {
       "2026-04-17": {
         "shows": 29,
@@ -6212,8 +6212,8 @@
       "2026-04-20": {
         "shows": 32,
         "seats": 5239,
-        "sold": 38,
-        "gross": 3270
+        "sold": 40,
+        "gross": 3470
       },
       "2026-04-18": {
         "shows": 29,
@@ -7180,8 +7180,8 @@
   "COLD WAR 2": {
     "shows": 29,
     "seats": 3881,
-    "sold": 625,
-    "gross": 18750,
+    "sold": 626,
+    "gross": 18780,
     "dates": {
       "2026-04-23": {
         "shows": 10,
@@ -7204,8 +7204,8 @@
       "2026-04-24": {
         "shows": 11,
         "seats": 1458,
-        "sold": 154,
-        "gross": 4620
+        "sold": 155,
+        "gross": 4650
       }
     }
   },
