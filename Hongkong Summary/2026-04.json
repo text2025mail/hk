@@ -904,8 +904,8 @@
   "We're Nothing at All": {
     "shows": 702,
     "seats": 97776,
-    "sold": 9840,
-    "gross": 894820,
+    "sold": 9842,
+    "gross": 895010,
     "dates": {
       "2026-04-14": {
         "shows": 38,
@@ -988,8 +988,8 @@
       "2026-04-20": {
         "shows": 47,
         "seats": 6554,
-        "sold": 88,
-        "gross": 6520
+        "sold": 90,
+        "gross": 6710
       },
       "2026-04-05": {
         "shows": 29,
@@ -3380,8 +3380,8 @@
   "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
     "shows": 143,
     "seats": 12611,
-    "sold": 3324,
-    "gross": 554980,
+    "sold": 3326,
+    "gross": 555320,
     "dates": {
       "2026-04-14": {
         "shows": 5,
@@ -3470,8 +3470,8 @@
       "2026-04-20": {
         "shows": 5,
         "seats": 467,
-        "sold": 20,
-        "gross": 3400
+        "sold": 22,
+        "gross": 3740
       },
       "2026-04-02": {
         "shows": 6,
@@ -3520,8 +3520,8 @@
   "4DX The Super Mario Galaxy Movie(English Version) ": {
     "shows": 90,
     "seats": 7026,
-    "sold": 1757,
-    "gross": 291990,
+    "sold": 1760,
+    "gross": 292500,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -3568,8 +3568,8 @@
       "2026-04-22": {
         "shows": 2,
         "seats": 173,
-        "sold": 5,
-        "gross": 850
+        "sold": 8,
+        "gross": 1360
       },
       "2026-04-11": {
         "shows": 6,
@@ -5406,8 +5406,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 21,
     "seats": 2311,
-    "sold": 1128,
-    "gross": 114510,
+    "sold": 1131,
+    "gross": 114865,
     "dates": {
       "2026-04-04": {
         "shows": 1,
@@ -5472,8 +5472,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 94,
-        "sold": 40,
-        "gross": 5200
+        "sold": 42,
+        "gross": 5460
       },
       "2026-04-02": {
         "shows": 1,
@@ -5484,8 +5484,8 @@
       "2026-04-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-04-09": {
         "shows": 1,
@@ -5734,8 +5734,8 @@
   "A Pale View of Hills": {
     "shows": 10,
     "seats": 1190,
-    "sold": 552,
-    "gross": 50920,
+    "sold": 554,
+    "gross": 51110,
     "dates": {
       "2026-04-29": {
         "shows": 1,
@@ -5758,8 +5758,8 @@
       "2026-04-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 22,
-        "gross": 2090
+        "sold": 23,
+        "gross": 2185
       },
       "2026-04-28": {
         "shows": 1,
@@ -5776,8 +5776,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 90,
-        "gross": 8550
+        "sold": 91,
+        "gross": 8645
       },
       "2026-04-23": {
         "shows": 1,
@@ -6238,8 +6238,8 @@
   "A Foggy Tale": {
     "shows": 100,
     "seats": 12747,
-    "sold": 1225,
-    "gross": 106310,
+    "sold": 1227,
+    "gross": 106500,
     "dates": {
       "2026-04-17": {
         "shows": 14,
@@ -6250,8 +6250,8 @@
       "2026-04-22": {
         "shows": 13,
         "seats": 1563,
-        "sold": 7,
-        "gross": 620
+        "sold": 9,
+        "gross": 810
       },
       "2026-04-21": {
         "shows": 15,
@@ -6746,14 +6746,14 @@
   "Chopin, Chopin! (EUFF2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 169,
-    "gross": 16055,
+    "sold": 171,
+    "gross": 16245,
     "dates": {
       "2026-04-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 81,
-        "gross": 7695
+        "sold": 83,
+        "gross": 7885
       },
       "2026-04-26": {
         "shows": 1,
@@ -7146,8 +7146,8 @@
   "Baby Assassins (bc X HKU Film Club)": {
     "shows": 2,
     "seats": 238,
-    "sold": 88,
-    "gross": 8360,
+    "sold": 89,
+    "gross": 8455,
     "dates": {
       "2026-04-25": {
         "shows": 1,
@@ -7158,8 +7158,8 @@
       "2026-04-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 45,
-        "gross": 4275
+        "sold": 46,
+        "gross": 4370
       }
     }
   },
@@ -7322,14 +7322,14 @@
   "Amadeus  (4K Restoration) (HKAF 2026 - PLUS Film)": {
     "shows": 1,
     "seats": 99,
-    "sold": 68,
-    "gross": 10880,
+    "sold": 70,
+    "gross": 11200,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 68,
-        "gross": 10880
+        "sold": 70,
+        "gross": 11200
       }
     }
   },
