@@ -812,8 +812,8 @@
   "The Drama": {
     "shows": 478,
     "seats": 59139,
-    "sold": 5492,
-    "gross": 576405,
+    "sold": 5493,
+    "gross": 576500,
     "dates": {
       "2026-04-14": {
         "shows": 41,
@@ -866,8 +866,8 @@
       "2026-04-20": {
         "shows": 31,
         "seats": 3876,
-        "sold": 50,
-        "gross": 5015
+        "sold": 51,
+        "gross": 5110
       },
       "2026-04-09": {
         "shows": 37,
@@ -904,8 +904,8 @@
   "We're Nothing at All": {
     "shows": 702,
     "seats": 97776,
-    "sold": 9835,
-    "gross": 894380,
+    "sold": 9840,
+    "gross": 894820,
     "dates": {
       "2026-04-14": {
         "shows": 38,
@@ -988,8 +988,8 @@
       "2026-04-20": {
         "shows": 47,
         "seats": 6554,
-        "sold": 83,
-        "gross": 6080
+        "sold": 88,
+        "gross": 6520
       },
       "2026-04-05": {
         "shows": 29,
@@ -1172,8 +1172,8 @@
   "CIAO UFO": {
     "shows": 395,
     "seats": 44288,
-    "sold": 3011,
-    "gross": 255965,
+    "sold": 3012,
+    "gross": 256025,
     "dates": {
       "2026-04-14": {
         "shows": 22,
@@ -1262,8 +1262,8 @@
       "2026-04-20": {
         "shows": 9,
         "seats": 1130,
-        "sold": 19,
-        "gross": 1420
+        "sold": 20,
+        "gross": 1480
       },
       "2026-04-02": {
         "shows": 27,
@@ -2916,8 +2916,8 @@
   "Project Hail Mary": {
     "shows": 646,
     "seats": 89234,
-    "sold": 8873,
-    "gross": 1142415,
+    "sold": 8875,
+    "gross": 1142685,
     "dates": {
       "2026-04-14": {
         "shows": 30,
@@ -2964,8 +2964,8 @@
       "2026-04-22": {
         "shows": 20,
         "seats": 2019,
-        "sold": 13,
-        "gross": 1505
+        "sold": 15,
+        "gross": 1775
       },
       "2026-04-11": {
         "shows": 37,
@@ -4314,8 +4314,8 @@
   "The Secret Agent": {
     "shows": 114,
     "seats": 12440,
-    "sold": 658,
-    "gross": 77895,
+    "sold": 659,
+    "gross": 78020,
     "dates": {
       "2026-04-14": {
         "shows": 4,
@@ -4404,8 +4404,8 @@
       "2026-04-20": {
         "shows": 4,
         "seats": 445,
-        "sold": 4,
-        "gross": 465
+        "sold": 5,
+        "gross": 590
       },
       "2026-04-02": {
         "shows": 9,
@@ -5092,8 +5092,8 @@
   "The World Of Love": {
     "shows": 47,
     "seats": 5593,
-    "sold": 919,
-    "gross": 74885,
+    "sold": 921,
+    "gross": 75035,
     "dates": {
       "2026-04-14": {
         "shows": 3,
@@ -5164,8 +5164,8 @@
       "2026-04-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 225
+        "sold": 5,
+        "gross": 375
       },
       "2026-04-13": {
         "shows": 3,
@@ -5232,8 +5232,8 @@
   "Sentimental Value": {
     "shows": 38,
     "seats": 4522,
-    "sold": 334,
-    "gross": 31480,
+    "sold": 335,
+    "gross": 31575,
     "dates": {
       "2026-04-14": {
         "shows": 1,
@@ -5310,8 +5310,8 @@
       "2026-04-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       },
       "2026-04-02": {
         "shows": 2,
@@ -5904,10 +5904,10 @@
     }
   },
   "EPiC: Elvis Presley in Concert": {
-    "shows": 52,
-    "seats": 5696,
-    "sold": 277,
-    "gross": 24890,
+    "shows": 53,
+    "seats": 5815,
+    "sold": 286,
+    "gross": 25430,
     "dates": {
       "2026-04-17": {
         "shows": 11,
@@ -5928,10 +5928,10 @@
         "gross": 265
       },
       "2026-04-20": {
-        "shows": 8,
-        "seats": 908,
-        "sold": 22,
-        "gross": 1410
+        "shows": 9,
+        "seats": 1027,
+        "sold": 31,
+        "gross": 1950
       },
       "2026-04-18": {
         "shows": 5,
@@ -6746,14 +6746,14 @@
   "Chopin, Chopin! (EUFF2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 167,
-    "gross": 15865,
+    "sold": 169,
+    "gross": 16055,
     "dates": {
       "2026-04-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 79,
-        "gross": 7505
+        "sold": 81,
+        "gross": 7695
       },
       "2026-04-26": {
         "shows": 1,
@@ -7180,14 +7180,14 @@
   "COLD WAR 2": {
     "shows": 29,
     "seats": 3881,
-    "sold": 623,
-    "gross": 18690,
+    "sold": 625,
+    "gross": 18750,
     "dates": {
       "2026-04-23": {
         "shows": 10,
         "seats": 1331,
-        "sold": 177,
-        "gross": 5310
+        "sold": 179,
+        "gross": 5370
       },
       "2026-04-18": {
         "shows": 1,
@@ -7212,14 +7212,14 @@
   "Sir\u0101t": {
     "shows": 4,
     "seats": 760,
-    "sold": 266,
-    "gross": 29005,
+    "sold": 272,
+    "gross": 29605,
     "dates": {
       "2026-04-23": {
         "shows": 2,
         "seats": 238,
-        "sold": 17,
-        "gross": 1615
+        "sold": 21,
+        "gross": 1995
       },
       "2026-04-19": {
         "shows": 1,
@@ -7230,8 +7230,8 @@
       "2026-04-26": {
         "shows": 1,
         "seats": 261,
-        "sold": 101,
-        "gross": 11110
+        "sold": 103,
+        "gross": 11330
       }
     }
   },
