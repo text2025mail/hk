@@ -220,8 +220,8 @@
   "Hoppers(English Version)": {
     "shows": 325,
     "seats": 32889,
-    "sold": 3973,
-    "gross": 401920,
+    "sold": 3976,
+    "gross": 402220,
     "dates": {
       "2026-04-14": {
         "shows": 12,
@@ -310,8 +310,8 @@
       "2026-04-20": {
         "shows": 5,
         "seats": 314,
-        "sold": 2,
-        "gross": 200
+        "sold": 5,
+        "gross": 500
       },
       "2026-04-02": {
         "shows": 24,
@@ -4040,8 +4040,8 @@
   "IMAX Project Hail Mary": {
     "shows": 74,
     "seats": 25487,
-    "sold": 2383,
-    "gross": 426110,
+    "sold": 2384,
+    "gross": 426260,
     "dates": {
       "2026-04-14": {
         "shows": 2,
@@ -4124,8 +4124,8 @@
       "2026-04-20": {
         "shows": 7,
         "seats": 2456,
-        "sold": 9,
-        "gross": 1440
+        "sold": 10,
+        "gross": 1590
       },
       "2026-04-02": {
         "shows": 2,
@@ -6668,14 +6668,14 @@
   "Michael": {
     "shows": 76,
     "seats": 14216,
-    "sold": 127,
-    "gross": 12710,
+    "sold": 128,
+    "gross": 12810,
     "dates": {
       "2026-04-22": {
         "shows": 48,
         "seats": 8468,
-        "sold": 94,
-        "gross": 9155
+        "sold": 95,
+        "gross": 9255
       },
       "2026-04-23": {
         "shows": 14,
@@ -7322,14 +7322,14 @@
   "Amadeus  (4K Restoration) (HKAF 2026 - PLUS Film)": {
     "shows": 1,
     "seats": 99,
-    "sold": 70,
-    "gross": 11200,
+    "sold": 71,
+    "gross": 11360,
     "dates": {
       "2026-04-26": {
         "shows": 1,
         "seats": 99,
-        "sold": 70,
-        "gross": 11200
+        "sold": 71,
+        "gross": 11360
       }
     }
   },
