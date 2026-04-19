@@ -360,8 +360,8 @@
   "Kyojo Requiem": {
     "shows": 54,
     "seats": 5085,
-    "sold": 289,
-    "gross": 28040,
+    "sold": 290,
+    "gross": 28115,
     "dates": {
       "2026-04-14": {
         "shows": 1,
@@ -420,8 +420,8 @@
       "2026-04-21": {
         "shows": 1,
         "seats": 58,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 75
       },
       "2026-04-13": {
         "shows": 1,
@@ -904,8 +904,8 @@
   "We're Nothing at All": {
     "shows": 702,
     "seats": 97776,
-    "sold": 9843,
-    "gross": 895095,
+    "sold": 9847,
+    "gross": 895335,
     "dates": {
       "2026-04-14": {
         "shows": 38,
@@ -988,8 +988,8 @@
       "2026-04-20": {
         "shows": 47,
         "seats": 6554,
-        "sold": 90,
-        "gross": 6710
+        "sold": 94,
+        "gross": 6950
       },
       "2026-04-05": {
         "shows": 29,
@@ -1172,8 +1172,8 @@
   "CIAO UFO": {
     "shows": 395,
     "seats": 44288,
-    "sold": 3012,
-    "gross": 256025,
+    "sold": 3014,
+    "gross": 256145,
     "dates": {
       "2026-04-14": {
         "shows": 22,
@@ -1244,8 +1244,8 @@
       "2026-04-21": {
         "shows": 9,
         "seats": 1130,
-        "sold": 5,
-        "gross": 360
+        "sold": 7,
+        "gross": 480
       },
       "2026-04-13": {
         "shows": 22,
@@ -2916,8 +2916,8 @@
   "Project Hail Mary": {
     "shows": 646,
     "seats": 89234,
-    "sold": 8878,
-    "gross": 1143065,
+    "sold": 8880,
+    "gross": 1143365,
     "dates": {
       "2026-04-14": {
         "shows": 30,
@@ -3006,8 +3006,8 @@
       "2026-04-20": {
         "shows": 20,
         "seats": 1896,
-        "sold": 11,
-        "gross": 1330
+        "sold": 13,
+        "gross": 1630
       },
       "2026-04-02": {
         "shows": 42,
@@ -6188,8 +6188,8 @@
   "LEE CRONIN\u2019S THE MUMMY": {
     "shows": 214,
     "seats": 32623,
-    "sold": 1890,
-    "gross": 188105,
+    "sold": 1891,
+    "gross": 188165,
     "dates": {
       "2026-04-17": {
         "shows": 29,
@@ -6200,8 +6200,8 @@
       "2026-04-22": {
         "shows": 34,
         "seats": 5481,
-        "sold": 4,
-        "gross": 310
+        "sold": 5,
+        "gross": 370
       },
       "2026-04-21": {
         "shows": 32,
@@ -6238,8 +6238,8 @@
   "A Foggy Tale": {
     "shows": 100,
     "seats": 12747,
-    "sold": 1227,
-    "gross": 106500,
+    "sold": 1232,
+    "gross": 106880,
     "dates": {
       "2026-04-17": {
         "shows": 14,
@@ -6262,8 +6262,8 @@
       "2026-04-20": {
         "shows": 15,
         "seats": 1938,
-        "sold": 61,
-        "gross": 4665
+        "sold": 66,
+        "gross": 5045
       },
       "2026-04-18": {
         "shows": 13,
@@ -6668,14 +6668,14 @@
   "Michael": {
     "shows": 76,
     "seats": 14216,
-    "sold": 128,
-    "gross": 12810,
+    "sold": 129,
+    "gross": 12940,
     "dates": {
       "2026-04-22": {
         "shows": 48,
         "seats": 8468,
-        "sold": 95,
-        "gross": 9255
+        "sold": 96,
+        "gross": 9385
       },
       "2026-04-23": {
         "shows": 14,
@@ -6878,8 +6878,8 @@
   "SIRAT-DE CLUB": {
     "shows": 8,
     "seats": 952,
-    "sold": 865,
-    "gross": 292370,
+    "sold": 866,
+    "gross": 292708,
     "dates": {
       "2026-04-11": {
         "shows": 4,
@@ -6890,8 +6890,8 @@
       "2026-04-24": {
         "shows": 4,
         "seats": 476,
-        "sold": 405,
-        "gross": 136890
+        "sold": 406,
+        "gross": 137228
       }
     }
   },
