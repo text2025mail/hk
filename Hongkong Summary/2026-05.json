@@ -180,14 +180,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 11,
+    "gross": 1045,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 11,
+        "gross": 1045
       }
     }
   },
@@ -396,14 +396,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 78,
-    "gross": 7410,
+    "sold": 79,
+    "gross": 7505,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 78,
-        "gross": 7410
+        "sold": 79,
+        "gross": 7505
       }
     }
   }
