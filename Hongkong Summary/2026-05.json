@@ -98,14 +98,14 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 4,
-    "gross": 380,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-30": {
         "shows": 1,
@@ -302,20 +302,20 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 1,
-    "gross": 110,
+    "sold": 6,
+    "gross": 630,
     "dates": {
       "2026-05-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 1,
-        "gross": 110
+        "sold": 4,
+        "gross": 440
       }
     }
   },
@@ -336,8 +336,8 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 1,
-    "gross": 95,
+    "sold": 4,
+    "gross": 425,
     "dates": {
       "2026-05-27": {
         "shows": 1,
@@ -348,8 +348,8 @@
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 330
       }
     }
   },
@@ -376,8 +376,8 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 5,
-    "gross": 475,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -388,8 +388,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 5,
+        "gross": 475
       }
     }
   },
@@ -534,14 +534,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 3,
-    "gross": 285,
+    "sold": 5,
+    "gross": 475,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 5,
+        "gross": 475
       }
     }
   },
