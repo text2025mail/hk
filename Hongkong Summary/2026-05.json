@@ -98,14 +98,14 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-30": {
         "shows": 1,
@@ -160,20 +160,20 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 2,
-    "gross": 190,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
@@ -376,8 +376,8 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 1,
-    "gross": 95,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -388,8 +388,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -410,8 +410,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 1,
-    "gross": 95,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -422,8 +422,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -534,14 +534,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 1,
-    "gross": 95,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -618,14 +618,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 66,
-    "gross": 6270,
+    "sold": 67,
+    "gross": 6365,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 6270
+        "sold": 67,
+        "gross": 6365
       }
     }
   },
