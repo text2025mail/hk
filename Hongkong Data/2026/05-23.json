@@ -11,7 +11,7 @@
     "sold": 4,
     "gross": 440,
     "price": 110,
-    "last_updated": "2026-04-20 11:40:10 AM IST"
+    "last_updated": "2026-04-20 02:01:38 PM IST"
   },
   {
     "perfIx": 74336,
@@ -25,6 +25,34 @@
     "sold": 101,
     "gross": 20200,
     "price": 200,
-    "last_updated": "2026-04-20 11:40:10 AM IST"
+    "last_updated": "2026-04-20 02:01:38 PM IST"
+  },
+  {
+    "perfIx": 86216,
+    "movie": "La Musica (FMCP 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-23",
+    "time": "08:55",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-04-20 02:01:38 PM IST"
+  },
+  {
+    "perfIx": 86246,
+    "movie": "Marsupilami (FMCP 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-23",
+    "time": "11:30",
+    "total": 261,
+    "available": 261,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-04-20 02:01:38 PM IST"
   }
 ]

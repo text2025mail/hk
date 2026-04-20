@@ -1,0 +1,30 @@
+[
+  {
+    "perfIx": 86223,
+    "movie": "The Night Boat (FMCP 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-22",
+    "time": "11:50",
+    "total": 119,
+    "available": 117,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 190,
+    "price": 95,
+    "last_updated": "2026-04-20 02:01:38 PM IST"
+  },
+  {
+    "perfIx": 86245,
+    "movie": "Police Flash 80 (FMCP 2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-22",
+    "time": "11:50",
+    "total": 144,
+    "available": 144,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-04-20 02:01:38 PM IST"
+  }
+]
