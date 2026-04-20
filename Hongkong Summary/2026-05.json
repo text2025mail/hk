@@ -30,14 +30,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 45,
-    "gross": 4275,
+    "sold": 46,
+    "gross": 4370,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 45,
-        "gross": 4275
+        "sold": 46,
+        "gross": 4370
       }
     }
   },
@@ -58,8 +58,8 @@
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 3,
-    "gross": 265,
+    "sold": 4,
+    "gross": 360,
     "dates": {
       "2026-05-05": {
         "shows": 1,
@@ -70,8 +70,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -180,14 +180,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 16,
-    "gross": 1520,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
