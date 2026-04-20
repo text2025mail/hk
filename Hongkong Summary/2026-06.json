@@ -90,14 +90,14 @@
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 95,
     "dates": {
       "2026-06-03": {
         "shows": 1,
         "seats": 144,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 95
       }
     }
   },
