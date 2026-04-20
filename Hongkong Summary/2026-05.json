@@ -356,14 +356,14 @@
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 1,
-    "gross": 95,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 144,
-        "sold": 1,
-        "gross": 95
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-20": {
         "shows": 1,
@@ -520,14 +520,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       }
     }
   },
