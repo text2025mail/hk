@@ -126,8 +126,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 26,
-    "gross": 5720,
+    "sold": 27,
+    "gross": 5940,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -138,8 +138,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 11,
-        "gross": 2420
+        "sold": 12,
+        "gross": 2640
       }
     }
   },
@@ -326,14 +326,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 55,
-    "gross": 5225,
+    "sold": 57,
+    "gross": 5415,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 55,
-        "gross": 5225
+        "sold": 57,
+        "gross": 5415
       }
     }
   },
