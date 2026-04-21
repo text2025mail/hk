@@ -6,11 +6,25 @@
     "date": "2026-05-16",
     "time": "05:00",
     "total": 127,
-    "available": 109,
+    "available": 108,
     "blocked": 0,
-    "sold": 18,
-    "gross": 3960,
+    "sold": 19,
+    "gross": 4180,
     "price": 220,
-    "last_updated": "2026-04-21 08:26:24 PM IST"
+    "last_updated": "2026-04-21 09:38:27 PM IST"
+  },
+  {
+    "perfIx": 87518,
+    "movie": "HEAT (4K Restoration)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-16",
+    "time": "07:45",
+    "total": 127,
+    "available": 127,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-04-21 09:38:27 PM IST"
   }
 ]
