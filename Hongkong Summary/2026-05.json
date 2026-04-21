@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 165,
-    "gross": 33000,
+    "sold": 170,
+    "gross": 34000,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 52,
-        "gross": 10400
+        "sold": 57,
+        "gross": 11400
       },
       "2026-05-09": {
         "shows": 1,
@@ -138,14 +138,14 @@
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 115,
-    "sold": 5,
-    "gross": 550,
+    "sold": 7,
+    "gross": 770,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 115,
-        "sold": 5,
-        "gross": 550
+        "sold": 7,
+        "gross": 770
       }
     }
   },
@@ -246,8 +246,8 @@
   "Life of Pi  (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 122,
-    "gross": 24400,
+    "sold": 131,
+    "gross": 26200,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -258,8 +258,8 @@
       "2026-05-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 21,
-        "gross": 4200
+        "sold": 30,
+        "gross": 6000
       }
     }
   },
@@ -280,14 +280,14 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 5,
-    "gross": 550,
+    "sold": 13,
+    "gross": 1310,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 261,
-        "sold": 0,
-        "gross": 0
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-29": {
         "shows": 1,
@@ -300,22 +300,22 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 27,
+        "gross": 2565
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 23,
-    "gross": 2440,
+    "sold": 25,
+    "gross": 2660,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -326,8 +326,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 17,
-        "gross": 1870
+        "sold": 19,
+        "gross": 2090
       }
     }
   },
@@ -368,8 +368,8 @@
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 9,
-    "gross": 915,
+    "sold": 13,
+    "gross": 1355,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -380,8 +380,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 115,
-        "sold": 4,
-        "gross": 440
+        "sold": 8,
+        "gross": 880
       }
     }
   },
@@ -532,28 +532,28 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 7,
-    "gross": 665,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 7,
-        "gross": 665
+        "sold": 9,
+        "gross": 855
       }
     }
   },
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 4,
-    "gross": 300,
+    "sold": 6,
+    "gross": 450,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 300
+        "sold": 6,
+        "gross": 450
       }
     }
   },
