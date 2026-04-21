@@ -90,14 +90,14 @@
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 2,
-    "gross": 190,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-06-03": {
         "shows": 1,
         "seats": 144,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -160,14 +160,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 1,
     "seats": 88,
-    "sold": 13,
-    "gross": 2860,
+    "sold": 16,
+    "gross": 3520,
     "dates": {
       "2026-06-07": {
         "shows": 1,
         "seats": 88,
-        "sold": 13,
-        "gross": 2860
+        "sold": 16,
+        "gross": 3520
       }
     }
   }
