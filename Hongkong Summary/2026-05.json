@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 181,
-    "gross": 36200,
+    "sold": 182,
+    "gross": 36400,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 68,
-        "gross": 13600
+        "sold": 69,
+        "gross": 13800
       },
       "2026-05-09": {
         "shows": 1,
@@ -206,14 +206,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 31,
-    "gross": 6820,
+    "sold": 32,
+    "gross": 7040,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 19,
-        "gross": 4180
+        "sold": 20,
+        "gross": 4400
       },
       "2026-05-30": {
         "shows": 1,
@@ -436,8 +436,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 25,
-    "gross": 2375,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -448,8 +448,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
@@ -560,14 +560,14 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 900,
+    "sold": 13,
+    "gross": 975,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 900
+        "sold": 13,
+        "gross": 975
       }
     }
   },
