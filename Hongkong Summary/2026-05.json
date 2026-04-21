@@ -98,8 +98,8 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 6,
-    "gross": 570,
+    "sold": 7,
+    "gross": 665,
     "dates": {
       "2026-05-24": {
         "shows": 1,
@@ -110,8 +110,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 4,
+        "gross": 380
       }
     }
   },
@@ -160,8 +160,8 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "dates": {
       "2026-05-22": {
         "shows": 1,
@@ -172,8 +172,8 @@
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 5,
+        "gross": 475
       }
     }
   },
@@ -288,34 +288,34 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 11,
-    "gross": 1180,
+    "sold": 14,
+    "gross": 1480,
     "dates": {
       "2026-05-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       },
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 9,
-        "gross": 990
+        "sold": 10,
+        "gross": 1100
       }
     }
   },
@@ -376,14 +376,14 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 7,
-    "gross": 665,
+    "sold": 8,
+    "gross": 760,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-20": {
         "shows": 1,
@@ -410,8 +410,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 16,
+    "gross": 1520,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -422,8 +422,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 9,
+        "gross": 855
       }
     }
   },
@@ -590,14 +590,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 70,
-    "gross": 8750,
+    "sold": 72,
+    "gross": 9000,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 70,
-        "gross": 8750
+        "sold": 72,
+        "gross": 9000
       }
     }
   },
