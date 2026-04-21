@@ -1,4 +1,24 @@
 {
+  "Dead Poets Society (WKF)": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 119,
+    "gross": 23800,
+    "dates": {
+      "2026-05-12": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 6,
+        "gross": 1200
+      },
+      "2026-05-09": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 113,
+        "gross": 22600
+      }
+    }
+  },
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
@@ -16,14 +36,14 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 48,
-    "gross": 4560,
+    "sold": 49,
+    "gross": 4655,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 48,
-        "gross": 4560
+        "sold": 49,
+        "gross": 4655
       }
     }
   },
@@ -143,20 +163,6 @@
       }
     }
   },
-  "Dead Poets Society (WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 113,
-    "gross": 22600,
-    "dates": {
-      "2026-05-09": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 113,
-        "gross": 22600
-      }
-    }
-  },
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
@@ -238,16 +244,22 @@
     }
   },
   "Life of Pi  (WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 101,
-    "gross": 20200,
+    "shows": 2,
+    "seats": 238,
+    "sold": 103,
+    "gross": 20600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
         "sold": 101,
         "gross": 20200
+      },
+      "2026-05-26": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 2,
+        "gross": 400
       }
     }
   },
@@ -288,22 +300,22 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 23,
-        "gross": 2185
+        "sold": 25,
+        "gross": 2375
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 14,
-    "gross": 1480,
+    "sold": 17,
+    "gross": 1810,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -314,8 +326,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 10,
-        "gross": 1100
+        "sold": 13,
+        "gross": 1430
       }
     }
   },
@@ -356,8 +368,8 @@
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 3,
-    "gross": 285,
+    "sold": 6,
+    "gross": 615,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -368,8 +380,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 115,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 330
       }
     }
   },
@@ -410,20 +422,20 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-05-31": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },

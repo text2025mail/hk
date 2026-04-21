@@ -104,14 +104,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 1,
-    "gross": 110,
+    "sold": 2,
+    "gross": 220,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 1,
-        "gross": 110
+        "sold": 2,
+        "gross": 220
       }
     }
   },
@@ -132,14 +132,14 @@
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 1,
-    "gross": 95,
+    "sold": 2,
+    "gross": 190,
     "dates": {
       "2026-06-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       }
     }
   },
@@ -160,14 +160,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 1,
     "seats": 88,
-    "sold": 11,
-    "gross": 2420,
+    "sold": 13,
+    "gross": 2860,
     "dates": {
       "2026-06-07": {
         "shows": 1,
         "seats": 88,
-        "sold": 11,
-        "gross": 2420
+        "sold": 13,
+        "gross": 2860
       }
     }
   }
