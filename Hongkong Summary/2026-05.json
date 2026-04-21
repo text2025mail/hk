@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 119,
-    "gross": 23800,
+    "sold": 148,
+    "gross": 29600,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 1200
+        "sold": 35,
+        "gross": 7000
       },
       "2026-05-09": {
         "shows": 1,
@@ -246,8 +246,8 @@
   "Life of Pi  (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 103,
-    "gross": 20600,
+    "sold": 112,
+    "gross": 22400,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -258,8 +258,8 @@
       "2026-05-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 400
+        "sold": 11,
+        "gross": 2200
       }
     }
   },
@@ -280,8 +280,8 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 550,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -292,8 +292,8 @@
       "2026-05-29": {
         "shows": 1,
         "seats": 146,
-        "sold": 0,
-        "gross": 0
+        "sold": 5,
+        "gross": 550
       }
     }
   },
@@ -314,8 +314,8 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 17,
-    "gross": 1810,
+    "sold": 18,
+    "gross": 1920,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -326,8 +326,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 13,
-        "gross": 1430
+        "sold": 14,
+        "gross": 1540
       }
     }
   },
@@ -348,20 +348,20 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 6,
-    "gross": 645,
+    "sold": 8,
+    "gross": 850,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 144,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 5,
-        "gross": 550
+        "sold": 6,
+        "gross": 660
       }
     }
   },
@@ -422,8 +422,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -434,8 +434,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       }
     }
   },
@@ -518,28 +518,42 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 1,
     "seats": 119,
-    "sold": 2,
-    "gross": 190,
+    "sold": 3,
+    "gross": 285,
     "dates": {
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       }
     }
   },
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 2,
-    "gross": 190,
+    "sold": 5,
+    "gross": 475,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 2,
-        "gross": 190
+        "sold": 5,
+        "gross": 475
+      }
+    }
+  },
+  "Sirat with Chung Suet Ying (Student Screening)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-10": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
