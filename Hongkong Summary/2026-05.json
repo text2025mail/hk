@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 182,
-    "gross": 36400,
+    "sold": 184,
+    "gross": 36800,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 69,
-        "gross": 13800
+        "sold": 71,
+        "gross": 14200
       },
       "2026-05-09": {
         "shows": 1,
@@ -328,8 +328,8 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 26,
-    "gross": 2755,
+    "sold": 27,
+    "gross": 2865,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -340,8 +340,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 19,
-        "gross": 2090
+        "sold": 20,
+        "gross": 2200
       }
     }
   },
