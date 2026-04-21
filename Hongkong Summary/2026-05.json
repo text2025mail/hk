@@ -288,22 +288,22 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 19,
+        "gross": 1805
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 6,
-    "gross": 630,
+    "sold": 11,
+    "gross": 1180,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -314,8 +314,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 4,
-        "gross": 440
+        "sold": 9,
+        "gross": 990
       }
     }
   },
@@ -410,8 +410,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -422,8 +422,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       }
     }
   },
