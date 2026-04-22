@@ -11,7 +11,7 @@
     "sold": 1,
     "gross": 110,
     "price": 110,
-    "last_updated": "2026-04-22 02:33:22 PM IST"
+    "last_updated": "2026-04-22 04:15:28 PM IST"
   },
   {
     "perfIx": 86217,
@@ -25,7 +25,7 @@
     "sold": 6,
     "gross": 570,
     "price": 95,
-    "last_updated": "2026-04-22 02:33:22 PM IST"
+    "last_updated": "2026-04-22 04:15:28 PM IST"
   },
   {
     "perfIx": 86240,
@@ -39,6 +39,20 @@
     "sold": 8,
     "gross": 880,
     "price": 110,
-    "last_updated": "2026-04-22 02:33:22 PM IST"
+    "last_updated": "2026-04-22 04:15:28 PM IST"
+  },
+  {
+    "perfIx": 87597,
+    "movie": "Power To The People: John & Yoko Live in NYC (2026)",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-24",
+    "time": "05:00",
+    "total": 74,
+    "available": 74,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 130,
+    "last_updated": "2026-04-22 04:15:28 PM IST"
   }
 ]
