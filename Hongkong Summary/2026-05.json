@@ -118,8 +118,8 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 10,
-    "gross": 950,
+    "sold": 12,
+    "gross": 1140,
     "dates": {
       "2026-05-24": {
         "shows": 1,
@@ -130,8 +130,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 8,
+        "gross": 760
       }
     }
   },
@@ -166,14 +166,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 10,
+        "gross": 950
       },
       "2026-05-27": {
         "shows": 1,
@@ -260,8 +260,8 @@
   "Life of Pi  (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 141,
-    "gross": 28200,
+    "sold": 143,
+    "gross": 28600,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -272,8 +272,8 @@
       "2026-05-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 40,
-        "gross": 8000
+        "sold": 42,
+        "gross": 8400
       }
     }
   },
