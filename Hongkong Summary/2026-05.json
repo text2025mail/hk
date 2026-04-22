@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 184,
-    "gross": 36800,
+    "sold": 188,
+    "gross": 37600,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 71,
-        "gross": 14200
+        "sold": 75,
+        "gross": 15000
       },
       "2026-05-09": {
         "shows": 1,
@@ -22,28 +22,28 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 40,
-    "gross": 3800,
+    "sold": 43,
+    "gross": 4085,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 40,
-        "gross": 3800
+        "sold": 43,
+        "gross": 4085
       }
     }
   },
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 49,
-    "gross": 4655,
+    "sold": 50,
+    "gross": 4750,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 49,
-        "gross": 4655
+        "sold": 50,
+        "gross": 4750
       }
     }
   },
@@ -118,14 +118,14 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 5,
+        "gross": 475
       },
       "2026-05-30": {
         "shows": 1,
@@ -166,14 +166,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       },
       "2026-05-27": {
         "shows": 1,
@@ -206,8 +206,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 32,
-    "gross": 7040,
+    "sold": 33,
+    "gross": 7260,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -218,8 +218,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 12,
-        "gross": 2640
+        "sold": 13,
+        "gross": 2860
       }
     }
   },
@@ -260,8 +260,8 @@
   "Life of Pi  (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 143,
-    "gross": 28600,
+    "sold": 144,
+    "gross": 28800,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -272,8 +272,8 @@
       "2026-05-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 42,
-        "gross": 8400
+        "sold": 43,
+        "gross": 8600
       }
     }
   },
@@ -328,8 +328,8 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 27,
-    "gross": 2865,
+    "sold": 28,
+    "gross": 2975,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -340,8 +340,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 20,
-        "gross": 2200
+        "sold": 21,
+        "gross": 2310
       }
     }
   },
@@ -382,14 +382,14 @@
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 14,
-    "gross": 1450,
+    "sold": 15,
+    "gross": 1545,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 144,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       },
       "2026-05-20": {
         "shows": 1,
@@ -436,14 +436,14 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 27,
-    "gross": 2565,
+    "sold": 29,
+    "gross": 2755,
     "dates": {
       "2026-05-31": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 11,
+        "gross": 1045
       },
       "2026-05-19": {
         "shows": 1,
@@ -560,28 +560,28 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 13,
-    "gross": 975,
+    "sold": 16,
+    "gross": 1200,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 975
+        "sold": 16,
+        "gross": 1200
       }
     }
   },
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       }
     }
   },
@@ -658,14 +658,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 67,
-    "gross": 6365,
+    "sold": 68,
+    "gross": 6460,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 67,
-        "gross": 6365
+        "sold": 68,
+        "gross": 6460
       }
     }
   },
