@@ -5,17 +5,17 @@
     "sold": 11,
     "gross": 3850,
     "dates": {
-      "2026-09-06": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 8,
-        "gross": 2800
-      },
       "2026-09-27": {
         "shows": 1,
         "seats": 58,
         "sold": 3,
         "gross": 1050
+      },
+      "2026-09-06": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 8,
+        "gross": 2800
       }
     }
   }
