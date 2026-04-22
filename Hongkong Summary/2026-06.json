@@ -118,28 +118,28 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 6,
-    "gross": 570,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 9,
+        "gross": 855
       }
     }
   },
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 8,
-    "gross": 760,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-06-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       }
     }
   },
