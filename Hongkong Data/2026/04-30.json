@@ -11,7 +11,7 @@
     "sold": 90,
     "gross": 8550,
     "price": 95,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 76549,
@@ -25,7 +25,7 @@
     "sold": 91,
     "gross": 8645,
     "price": 95,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 78077,
@@ -39,7 +39,7 @@
     "sold": 8,
     "gross": 760,
     "price": 95,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87607,
@@ -53,7 +53,7 @@
     "sold": 0,
     "gross": 0,
     "price": 60,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87619,
@@ -62,12 +62,12 @@
     "date": "2026-04-30",
     "time": "02:45",
     "total": 146,
-    "available": 146,
+    "available": 144,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 170,
     "price": 85,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87608,
@@ -81,7 +81,7 @@
     "sold": 0,
     "gross": 0,
     "price": 60,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87620,
@@ -95,7 +95,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87609,
@@ -109,7 +109,7 @@
     "sold": 0,
     "gross": 0,
     "price": 100,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87621,
@@ -123,7 +123,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87610,
@@ -137,7 +137,7 @@
     "sold": 0,
     "gross": 0,
     "price": 100,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87622,
@@ -151,7 +151,7 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87611,
@@ -165,7 +165,7 @@
     "sold": 0,
     "gross": 0,
     "price": 100,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87623,
@@ -174,12 +174,12 @@
     "date": "2026-04-30",
     "time": "11:45",
     "total": 146,
-    "available": 146,
+    "available": 139,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 7,
+    "gross": 910,
     "price": 130,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87612,
@@ -188,12 +188,12 @@
     "date": "2026-04-30",
     "time": "13:15",
     "total": 273,
-    "available": 273,
+    "available": 269,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 4,
+    "gross": 400,
     "price": 100,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   },
   {
     "perfIx": 87624,
@@ -207,6 +207,342 @@
     "sold": 0,
     "gross": 0,
     "price": 130,
-    "last_updated": "2026-04-22 05:25:31 PM IST"
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87646,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "02:20",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 70,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87632,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "02:45",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 60,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87659,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "02:45",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 60,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87647,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "04:35",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 70,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87633,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "05:00",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87660,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "05:00",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87672,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "06:30",
+    "total": 160,
+    "available": 160,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87648,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "06:50",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 120,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87634,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "07:10",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87661,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "07:10",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87673,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "08:45",
+    "total": 160,
+    "available": 160,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87649,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "09:05",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 120,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87635,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "09:25",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87662,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "09:25",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87674,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "11:00",
+    "total": 160,
+    "available": 160,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87650,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "11:20",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 120,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87636,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "11:40",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87663,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "11:40",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87675,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "13:15",
+    "total": 160,
+    "available": 158,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 200,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87651,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "13:35",
+    "total": 202,
+    "available": 201,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 120,
+    "price": 120,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87637,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "13:55",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87664,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "13:55",
+    "total": 290,
+    "available": 290,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 100,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87652,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "15:50",
+    "total": 202,
+    "available": 202,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 120,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
+  },
+  {
+    "perfIx": 87638,
+    "movie": "The Devil Wears Prada 2",
+    "venue": "Cinema.com.hk",
+    "date": "2026-04-30",
+    "time": "16:10",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 105,
+    "last_updated": "2026-04-22 06:44:39 PM IST"
   }
 ]
