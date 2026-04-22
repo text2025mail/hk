@@ -36,6 +36,20 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
+    "sold": 52,
+    "gross": 4940,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 52,
+        "gross": 4940
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
     "sold": 50,
     "gross": 4750,
     "dates": {
@@ -44,20 +58,6 @@
         "seats": 119,
         "sold": 50,
         "gross": 4750
-      }
-    }
-  },
-  "That Summer in Paris (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 48,
-    "gross": 4560,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 48,
-        "gross": 4560
       }
     }
   },
@@ -118,20 +118,20 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 13,
-    "gross": 1235,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       },
       "2026-05-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       }
     }
   },
@@ -166,20 +166,20 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 12,
+        "gross": 1140
       },
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 14,
+        "gross": 1330
       }
     }
   },
@@ -328,14 +328,14 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 28,
-    "gross": 2975,
+    "sold": 29,
+    "gross": 3070,
     "dates": {
       "2026-05-29": {
         "shows": 1,
         "seats": 144,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-19": {
         "shows": 1,
@@ -362,20 +362,20 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 13,
-    "gross": 1355,
+    "sold": 16,
+    "gross": 1670,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 144,
-        "sold": 5,
-        "gross": 475
+        "sold": 6,
+        "gross": 570
       },
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 8,
-        "gross": 880
+        "sold": 10,
+        "gross": 1100
       }
     }
   },
@@ -402,8 +402,8 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 11,
-    "gross": 1045,
+    "sold": 15,
+    "gross": 1425,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -414,8 +414,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 11,
+        "gross": 1045
       }
     }
   },
@@ -436,8 +436,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 34,
+    "gross": 3230,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -448,8 +448,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
@@ -546,14 +546,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 10,
-    "gross": 950,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 10,
-        "gross": 950
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
@@ -574,14 +574,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
@@ -602,14 +602,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 57,
-    "gross": 5415,
+    "sold": 58,
+    "gross": 5510,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 57,
-        "gross": 5415
+        "sold": 58,
+        "gross": 5510
       }
     }
   },
@@ -630,28 +630,28 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 73,
-    "gross": 9125,
+    "sold": 74,
+    "gross": 9250,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 9125
+        "sold": 74,
+        "gross": 9250
       }
     }
   },
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 34,
-    "gross": 3230,
+    "sold": 35,
+    "gross": 3325,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 3230
+        "sold": 35,
+        "gross": 3325
       }
     }
   },
@@ -672,14 +672,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 79,
-    "gross": 7505,
+    "sold": 80,
+    "gross": 7600,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 79,
-        "gross": 7505
+        "sold": 80,
+        "gross": 7600
       }
     }
   }
