@@ -118,34 +118,34 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-05-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       }
     }
   },
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 115,
-    "sold": 10,
-    "gross": 1100,
+    "sold": 11,
+    "gross": 1210,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 115,
-        "sold": 10,
-        "gross": 1100
+        "sold": 11,
+        "gross": 1210
       }
     }
   },
@@ -186,20 +186,20 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 29,
-    "gross": 2755,
+    "sold": 32,
+    "gross": 3040,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 15,
+        "gross": 1425
       },
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
@@ -334,14 +334,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 45,
-    "gross": 4275,
+    "sold": 47,
+    "gross": 4465,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 45,
-        "gross": 4275
+        "sold": 47,
+        "gross": 4465
       }
     }
   },
@@ -382,48 +382,48 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 23,
-    "gross": 2410,
+    "sold": 26,
+    "gross": 2725,
     "dates": {
       "2026-05-27": {
         "shows": 1,
         "seats": 144,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 15,
-        "gross": 1650
+        "sold": 17,
+        "gross": 1870
       }
     }
   },
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 24,
-    "gross": 2505,
+    "sold": 26,
+    "gross": 2710,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 144,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       },
       "2026-05-20": {
         "shows": 1,
         "seats": 115,
-        "sold": 15,
-        "gross": 1650
+        "sold": 16,
+        "gross": 1760
       }
     }
   },
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 21,
+    "gross": 1995,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -434,8 +434,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
@@ -456,20 +456,20 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 40,
-    "gross": 3800,
+    "sold": 42,
+    "gross": 3990,
     "dates": {
       "2026-05-31": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       },
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 30,
-        "gross": 2850
+        "sold": 31,
+        "gross": 2945
       }
     }
   },
@@ -566,14 +566,14 @@
   "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
     "shows": 1,
     "seats": 52,
-    "sold": 12,
-    "gross": 2040,
+    "sold": 14,
+    "gross": 2380,
     "dates": {
       "2026-05-06": {
         "shows": 1,
         "seats": 52,
-        "sold": 12,
-        "gross": 2040
+        "sold": 14,
+        "gross": 2380
       }
     }
   },
@@ -608,14 +608,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 15,
-    "gross": 1425,
+    "sold": 17,
+    "gross": 1615,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
@@ -650,14 +650,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 75,
-    "gross": 9375,
+    "sold": 77,
+    "gross": 9625,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 75,
-        "gross": 9375
+        "sold": 77,
+        "gross": 9625
       }
     }
   },
