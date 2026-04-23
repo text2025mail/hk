@@ -1,10 +1,30 @@
 {
+  "The Farewell  (WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 90,
+    "gross": 18000,
+    "dates": {
+      "2026-06-20": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 90,
+        "gross": 18000
+      }
+    }
+  },
   "LE PARC (Paris Opera Ballet 2026)": {
     "shows": 3,
     "seats": 227,
     "sold": 36,
     "gross": 5240,
     "dates": {
+      "2026-06-21": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 8,
+        "gross": 1040
+      },
       "2026-06-14": {
         "shows": 1,
         "seats": 88,
@@ -16,12 +36,6 @@
         "seats": 81,
         "sold": 19,
         "gross": 2850
-      },
-      "2026-06-21": {
-        "shows": 1,
-        "seats": 58,
-        "sold": 8,
-        "gross": 1040
       }
     }
   },
@@ -39,107 +53,37 @@
       }
     }
   },
-  "Santiago: The Camino Therapy (FMCP 2026)": {
-    "shows": 1,
-    "seats": 130,
-    "sold": 21,
-    "gross": 2310,
-    "dates": {
-      "2026-06-02": {
-        "shows": 1,
-        "seats": 130,
-        "sold": 21,
-        "gross": 2310
-      }
-    }
-  },
-  "Yellow the Sun (FMCP 2026)": {
+  "The Secret Life of Walter Mitty  (WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 10,
-    "gross": 950,
+    "sold": 113,
+    "gross": 22600,
     "dates": {
-      "2026-06-02": {
+      "2026-06-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Merrily We Roll Along (2026)": {
-    "shows": 1,
-    "seats": 88,
-    "sold": 16,
-    "gross": 3520,
-    "dates": {
-      "2026-06-07": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 16,
-        "gross": 3520
-      }
-    }
-  },
-  "The Legend of Paul and Paula(GFF 2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 8,
-    "gross": 760,
-    "dates": {
-      "2026-06-24": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 113,
+        "gross": 22600
       }
     }
   },
   "Plainclothes (InDPanda)": {
     "shows": 2,
     "seats": 238,
-    "sold": 62,
-    "gross": 5890,
+    "sold": 65,
+    "gross": 6175,
     "dates": {
-      "2026-06-26": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 20,
-        "gross": 1900
-      },
       "2026-06-06": {
         "shows": 1,
         "seats": 119,
         "sold": 42,
         "gross": 3990
-      }
-    }
-  },
-  "The Farewell  (WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 90,
-    "gross": 18000,
-    "dates": {
-      "2026-06-20": {
+      },
+      "2026-06-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 90,
-        "gross": 18000
-      }
-    }
-  },
-  "La Musica (FMCP 2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 10,
-    "gross": 950,
-    "dates": {
-      "2026-06-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
@@ -157,17 +101,73 @@
       }
     }
   },
-  "The Secret Life of Walter Mitty  (WKF)": {
+  "Santiago: The Camino Therapy (FMCP 2026)": {
+    "shows": 1,
+    "seats": 130,
+    "sold": 26,
+    "gross": 2860,
+    "dates": {
+      "2026-06-02": {
+        "shows": 1,
+        "seats": 130,
+        "sold": 26,
+        "gross": 2860
+      }
+    }
+  },
+  "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 113,
-    "gross": 22600,
+    "sold": 10,
+    "gross": 950,
     "dates": {
-      "2026-06-06": {
+      "2026-06-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 113,
-        "gross": 22600
+        "sold": 10,
+        "gross": 950
+      }
+    }
+  },
+  "La Musica (FMCP 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 10,
+    "gross": 950,
+    "dates": {
+      "2026-06-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 10,
+        "gross": 950
+      }
+    }
+  },
+  "The Legend of Paul and Paula(GFF 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 8,
+    "gross": 760,
+    "dates": {
+      "2026-06-24": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 8,
+        "gross": 760
+      }
+    }
+  },
+  "Merrily We Roll Along (2026)": {
+    "shows": 1,
+    "seats": 88,
+    "sold": 16,
+    "gross": 3520,
+    "dates": {
+      "2026-06-07": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 16,
+        "gross": 3520
       }
     }
   }
