@@ -42,14 +42,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 20,
-    "gross": 2200,
+    "sold": 21,
+    "gross": 2310,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 20,
-        "gross": 2200
+        "sold": 21,
+        "gross": 2310
       }
     }
   },
@@ -98,14 +98,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 2,
     "seats": 238,
-    "sold": 58,
-    "gross": 5510,
+    "sold": 62,
+    "gross": 5890,
     "dates": {
       "2026-06-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 20,
+        "gross": 1900
       },
       "2026-06-06": {
         "shows": 1,
