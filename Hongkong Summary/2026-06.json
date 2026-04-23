@@ -2,14 +2,14 @@
   "The Farewell  (WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 92,
-    "gross": 18400,
+    "sold": 90,
+    "gross": 18000,
     "dates": {
       "2026-06-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 92,
-        "gross": 18400
+        "sold": 90,
+        "gross": 18000
       }
     }
   },
@@ -70,8 +70,8 @@
   "Plainclothes (InDPanda)": {
     "shows": 2,
     "seats": 238,
-    "sold": 65,
-    "gross": 6175,
+    "sold": 57,
+    "gross": 5415,
     "dates": {
       "2026-06-06": {
         "shows": 1,
@@ -82,64 +82,64 @@
       "2026-06-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 23,
-        "gross": 2185
+        "sold": 15,
+        "gross": 1425
       }
     }
   },
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 8,
-    "gross": 760,
+    "sold": 6,
+    "gross": 570,
     "dates": {
       "2026-06-03": {
         "shows": 1,
         "seats": 144,
-        "sold": 8,
-        "gross": 760
+        "sold": 6,
+        "gross": 570
       }
     }
   },
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 27,
-    "gross": 2970,
+    "sold": 18,
+    "gross": 1980,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 27,
-        "gross": 2970
+        "sold": 18,
+        "gross": 1980
       }
     }
   },
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 11,
-    "gross": 1045,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 10,
+        "gross": 950
       }
     }
   },
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-06-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 10,
+        "gross": 950
       }
     }
   },
