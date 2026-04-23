@@ -1,126 +1,4 @@
 {
-  "The Better Me (FMCP 2026)": {
-    "shows": 2,
-    "seats": 259,
-    "sold": 28,
-    "gross": 2930,
-    "dates": {
-      "2026-05-20": {
-        "shows": 1,
-        "seats": 115,
-        "sold": 18,
-        "gross": 1980
-      },
-      "2026-05-28": {
-        "shows": 1,
-        "seats": 144,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Destroy She Said (FMCP 2026)": {
-    "shows": 2,
-    "seats": 238,
-    "sold": 21,
-    "gross": 1995,
-    "dates": {
-      "2026-05-20": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 15,
-        "gross": 1425
-      },
-      "2026-05-28": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 6,
-        "gross": 570
-      }
-    }
-  },
-  "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 6,
-    "gross": 570,
-    "dates": {
-      "2026-05-06": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 6,
-        "gross": 570
-      }
-    }
-  },
-  "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
-    "shows": 1,
-    "seats": 52,
-    "sold": 18,
-    "gross": 3060,
-    "dates": {
-      "2026-05-06": {
-        "shows": 1,
-        "seats": 52,
-        "sold": 18,
-        "gross": 3060
-      }
-    }
-  },
-  "We Are Young. We Are Strong.(GFF 2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 22,
-    "gross": 2090,
-    "dates": {
-      "2026-05-27": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 22,
-        "gross": 2090
-      }
-    }
-  },
-  "Murder in the Building (FMCP 2026)": {
-    "shows": 2,
-    "seats": 259,
-    "sold": 26,
-    "gross": 2725,
-    "dates": {
-      "2026-05-27": {
-        "shows": 1,
-        "seats": 144,
-        "sold": 9,
-        "gross": 855
-      },
-      "2026-05-21": {
-        "shows": 1,
-        "seats": 115,
-        "sold": 17,
-        "gross": 1870
-      }
-    }
-  },
-  "The Night Boat (FMCP 2026)": {
-    "shows": 2,
-    "seats": 238,
-    "sold": 33,
-    "gross": 3135,
-    "dates": {
-      "2026-05-27": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 17,
-        "gross": 1615
-      },
-      "2026-05-22": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 16,
-        "gross": 1520
-      }
-    }
-  },
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
@@ -138,6 +16,244 @@
         "seats": 119,
         "sold": 113,
         "gross": 22600
+      }
+    }
+  },
+  "Some Birds (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 46,
+    "gross": 4370,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 46,
+        "gross": 4370
+      }
+    }
+  },
+  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 54,
+    "gross": 5130,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 54,
+        "gross": 5130
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 52,
+    "gross": 4940,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 52,
+        "gross": 4940
+      }
+    }
+  },
+  "U Are the Universe (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 63,
+    "gross": 5985,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 63,
+        "gross": 5985
+      }
+    }
+  },
+  "As the Water Flows": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 9,
+    "gross": 795,
+    "dates": {
+      "2026-05-05": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 3,
+        "gross": 225
+      },
+      "2026-05-04": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 6,
+        "gross": 570
+      }
+    }
+  },
+  "The Grand Budapest Hotel": {
+    "shows": 2,
+    "seats": 215,
+    "sold": 7,
+    "gross": 870,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 2,
+        "gross": 220
+      },
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 5,
+        "gross": 650
+      }
+    }
+  },
+  "Nathalie Granger (FMCP 2026)": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 21,
+    "gross": 1995,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 10,
+        "gross": 950
+      },
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 11,
+        "gross": 1045
+      }
+    }
+  },
+  "Tough Luck (FMCP 2026)": {
+    "shows": 1,
+    "seats": 115,
+    "sold": 20,
+    "gross": 2200,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 115,
+        "sold": 20,
+        "gross": 2200
+      }
+    }
+  },
+  "Power To The People: John & Yoko Live in NYC (2026)": {
+    "shows": 2,
+    "seats": 201,
+    "sold": 35,
+    "gross": 4550,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 74,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 35,
+        "gross": 4550
+      }
+    }
+  },
+  "The History Of Sound (InDPanda)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 67,
+    "gross": 6365,
+    "dates": {
+      "2026-05-09": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 67,
+        "gross": 6365
+      }
+    }
+  },
+  "The Night Boat (FMCP 2026)": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 33,
+    "gross": 3135,
+    "dates": {
+      "2026-05-22": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 16,
+        "gross": 1520
+      },
+      "2026-05-27": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 17,
+        "gross": 1615
+      }
+    }
+  },
+  "Police Flash 80 (FMCP 2026)": {
+    "shows": 2,
+    "seats": 259,
+    "sold": 4,
+    "gross": 425,
+    "dates": {
+      "2026-05-22": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 1,
+        "gross": 95
+      },
+      "2026-05-26": {
+        "shows": 1,
+        "seats": 115,
+        "sold": 3,
+        "gross": 330
+      }
+    }
+  },
+  "Merrily We Roll Along (2026)": {
+    "shows": 2,
+    "seats": 208,
+    "sold": 37,
+    "gross": 8140,
+    "dates": {
+      "2026-05-16": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 22,
+        "gross": 4840
+      },
+      "2026-05-30": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 15,
+        "gross": 3300
+      }
+    }
+  },
+  "HEAT (4K Restoration)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 4,
+    "gross": 520,
+    "dates": {
+      "2026-05-16": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 4,
+        "gross": 520
       }
     }
   },
@@ -215,6 +331,114 @@
       }
     }
   },
+  "Portrait of a Lady on Fire": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 53,
+    "gross": 5035,
+    "dates": {
+      "2026-05-04": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 53,
+        "gross": 5035
+      }
+    }
+  },
+  "Family Price (FMCP 2026)": {
+    "shows": 2,
+    "seats": 290,
+    "sold": 38,
+    "gross": 4015,
+    "dates": {
+      "2026-05-29": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 11,
+        "gross": 1045
+      },
+      "2026-05-19": {
+        "shows": 1,
+        "seats": 146,
+        "sold": 27,
+        "gross": 2970
+      }
+    }
+  },
+  "We Are Young. We Are Strong.(GFF 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 22,
+    "gross": 2090,
+    "dates": {
+      "2026-05-27": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 22,
+        "gross": 2090
+      }
+    }
+  },
+  "Murder in the Building (FMCP 2026)": {
+    "shows": 2,
+    "seats": 259,
+    "sold": 26,
+    "gross": 2725,
+    "dates": {
+      "2026-05-27": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 9,
+        "gross": 855
+      },
+      "2026-05-21": {
+        "shows": 1,
+        "seats": 115,
+        "sold": 17,
+        "gross": 1870
+      }
+    }
+  },
+  "The Better Me (FMCP 2026)": {
+    "shows": 2,
+    "seats": 259,
+    "sold": 28,
+    "gross": 2930,
+    "dates": {
+      "2026-05-28": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 10,
+        "gross": 950
+      },
+      "2026-05-20": {
+        "shows": 1,
+        "seats": 115,
+        "sold": 18,
+        "gross": 1980
+      }
+    }
+  },
+  "Destroy She Said (FMCP 2026)": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 21,
+    "gross": 1995,
+    "dates": {
+      "2026-05-28": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 6,
+        "gross": 570
+      },
+      "2026-05-20": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 15,
+        "gross": 1425
+      }
+    }
+  },
   "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
     "seats": 81,
@@ -249,212 +473,6 @@
       }
     }
   },
-  "Police Flash 80 (FMCP 2026)": {
-    "shows": 2,
-    "seats": 259,
-    "sold": 4,
-    "gross": 425,
-    "dates": {
-      "2026-05-26": {
-        "shows": 1,
-        "seats": 115,
-        "sold": 3,
-        "gross": 330
-      },
-      "2026-05-22": {
-        "shows": 1,
-        "seats": 144,
-        "sold": 1,
-        "gross": 95
-      }
-    }
-  },
-  "Power To The People: John & Yoko Live in NYC (2026)": {
-    "shows": 2,
-    "seats": 201,
-    "sold": 35,
-    "gross": 4550,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 35,
-        "gross": 4550
-      },
-      "2026-05-24": {
-        "shows": 1,
-        "seats": 74,
-        "sold": 0,
-        "gross": 0
-      }
-    }
-  },
-  "Broken Voices (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 58,
-    "gross": 5510,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 58,
-        "gross": 5510
-      }
-    }
-  },
-  "Heads or Tails? (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 34,
-    "gross": 3230,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 34,
-        "gross": 3230
-      }
-    }
-  },
-  "Stormskerry Maja (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 79,
-    "gross": 9875,
-    "dates": {
-      "2026-05-03": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 79,
-        "gross": 9875
-      }
-    }
-  },
-  "Sirat with Chung Suet Ying (Student Screening)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 27,
-    "gross": 2025,
-    "dates": {
-      "2026-05-10": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 27,
-        "gross": 2025
-      }
-    }
-  },
-  "Family Price (FMCP 2026)": {
-    "shows": 2,
-    "seats": 290,
-    "sold": 38,
-    "gross": 4015,
-    "dates": {
-      "2026-05-29": {
-        "shows": 1,
-        "seats": 144,
-        "sold": 11,
-        "gross": 1045
-      },
-      "2026-05-19": {
-        "shows": 1,
-        "seats": 146,
-        "sold": 27,
-        "gross": 2970
-      }
-    }
-  },
-  "Yellow the Sun (FMCP 2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 18,
-    "gross": 1710,
-    "dates": {
-      "2026-05-21": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 18,
-        "gross": 1710
-      }
-    }
-  },
-  "The History Of Sound (InDPanda)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 67,
-    "gross": 6365,
-    "dates": {
-      "2026-05-09": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 67,
-        "gross": 6365
-      }
-    }
-  },
-  "Bellini\u2019s I Puritani (The Met 2026)": {
-    "shows": 2,
-    "seats": 139,
-    "sold": 32,
-    "gross": 9280,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 20,
-        "gross": 5800
-      },
-      "2026-05-17": {
-        "shows": 1,
-        "seats": 58,
-        "sold": 12,
-        "gross": 3480
-      }
-    }
-  },
-  "Greice (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 39,
-    "gross": 3705,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 39,
-        "gross": 3705
-      }
-    }
-  },
-  "Our Girls (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 71,
-    "gross": 6745,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 71,
-        "gross": 6745
-      }
-    }
-  },
-  "The Dinner (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 80,
-    "gross": 7600,
-    "dates": {
-      "2026-05-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 80,
-        "gross": 7600
-      }
-    }
-  },
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
@@ -466,6 +484,26 @@
         "seats": 58,
         "sold": 18,
         "gross": 2340
+      }
+    }
+  },
+  "Bellini\u2019s I Puritani (The Met 2026)": {
+    "shows": 2,
+    "seats": 139,
+    "sold": 32,
+    "gross": 9280,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 12,
+        "gross": 3480
+      },
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 81,
+        "sold": 20,
+        "gross": 5800
       }
     }
   },
@@ -511,167 +549,31 @@
       }
     }
   },
-  "As the Water Flows": {
-    "shows": 2,
-    "seats": 238,
-    "sold": 9,
-    "gross": 795,
+  "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 6,
+    "gross": 570,
     "dates": {
-      "2026-05-04": {
+      "2026-05-06": {
         "shows": 1,
         "seats": 119,
         "sold": 6,
         "gross": 570
-      },
-      "2026-05-05": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 3,
-        "gross": 225
       }
     }
   },
-  "Portrait of a Lady on Fire": {
+  "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
     "shows": 1,
-    "seats": 119,
-    "sold": 53,
-    "gross": 5035,
+    "seats": 52,
+    "sold": 18,
+    "gross": 3060,
     "dates": {
-      "2026-05-04": {
+      "2026-05-06": {
         "shows": 1,
-        "seats": 119,
-        "sold": 53,
-        "gross": 5035
-      }
-    }
-  },
-  "The Grand Budapest Hotel": {
-    "shows": 2,
-    "seats": 215,
-    "sold": 7,
-    "gross": 870,
-    "dates": {
-      "2026-05-24": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 2,
-        "gross": 220
-      },
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 5,
-        "gross": 650
-      }
-    }
-  },
-  "Nathalie Granger (FMCP 2026)": {
-    "shows": 2,
-    "seats": 238,
-    "sold": 21,
-    "gross": 1995,
-    "dates": {
-      "2026-05-24": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
-      },
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 11,
-        "gross": 1045
-      }
-    }
-  },
-  "Tough Luck (FMCP 2026)": {
-    "shows": 1,
-    "seats": 115,
-    "sold": 20,
-    "gross": 2200,
-    "dates": {
-      "2026-05-24": {
-        "shows": 1,
-        "seats": 115,
-        "sold": 20,
-        "gross": 2200
-      }
-    }
-  },
-  "Some Birds (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 46,
-    "gross": 4370,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 46,
-        "gross": 4370
-      }
-    }
-  },
-  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 54,
-    "gross": 5130,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 54,
-        "gross": 5130
-      }
-    }
-  },
-  "That Summer in Paris (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 52,
-    "gross": 4940,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 52,
-        "gross": 4940
-      }
-    }
-  },
-  "U Are the Universe (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 63,
-    "gross": 5985,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 63,
-        "gross": 5985
-      }
-    }
-  },
-  "Merrily We Roll Along (2026)": {
-    "shows": 2,
-    "seats": 208,
-    "sold": 37,
-    "gross": 8140,
-    "dates": {
-      "2026-05-30": {
-        "shows": 1,
-        "seats": 81,
-        "sold": 15,
-        "gross": 3300
-      },
-      "2026-05-16": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 22,
-        "gross": 4840
+        "seats": 52,
+        "sold": 18,
+        "gross": 3060
       }
     }
   },
@@ -689,17 +591,115 @@
       }
     }
   },
-  "HEAT (4K Restoration)": {
+  "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
-    "seats": 127,
-    "sold": 4,
-    "gross": 520,
+    "seats": 119,
+    "sold": 27,
+    "gross": 2025,
     "dates": {
-      "2026-05-16": {
+      "2026-05-10": {
         "shows": 1,
-        "seats": 127,
-        "sold": 4,
-        "gross": 520
+        "seats": 119,
+        "sold": 27,
+        "gross": 2025
+      }
+    }
+  },
+  "Yellow the Sun (FMCP 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 18,
+    "gross": 1710,
+    "dates": {
+      "2026-05-21": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 18,
+        "gross": 1710
+      }
+    }
+  },
+  "Broken Voices (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 58,
+    "gross": 5510,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 58,
+        "gross": 5510
+      }
+    }
+  },
+  "Heads or Tails? (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 34,
+    "gross": 3230,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 34,
+        "gross": 3230
+      }
+    }
+  },
+  "Stormskerry Maja (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 79,
+    "gross": 9875,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 79,
+        "gross": 9875
+      }
+    }
+  },
+  "Greice (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 39,
+    "gross": 3705,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 39,
+        "gross": 3705
+      }
+    }
+  },
+  "Our Girls (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 71,
+    "gross": 6745,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 71,
+        "gross": 6745
+      }
+    }
+  },
+  "The Dinner (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 80,
+    "gross": 7600,
+    "dates": {
+      "2026-05-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 80,
+        "gross": 7600
       }
     }
   }
