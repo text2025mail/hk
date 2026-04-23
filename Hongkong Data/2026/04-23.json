@@ -454,12 +454,12 @@
     "date": "2026-04-23",
     "time": "16:05",
     "total": 202,
-    "available": 198,
+    "available": 196,
     "blocked": 0,
-    "sold": 4,
-    "gross": 480,
+    "sold": 6,
+    "gross": 720,
     "price": 120,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 85920,
@@ -5289,7 +5289,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 86765,
@@ -5303,7 +5303,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 86739,
@@ -5317,7 +5317,7 @@
     "sold": 2,
     "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 86751,
@@ -5331,7 +5331,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 86752,
@@ -5998,12 +5998,12 @@
     "date": "2026-04-23",
     "time": "16:05",
     "total": 191,
-    "available": 191,
+    "available": 183,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 8,
+    "gross": 880,
     "price": 110,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 86714,
@@ -6017,20 +6017,20 @@
     "sold": 9,
     "gross": 990,
     "price": 110,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   },
   {
     "perfIx": 6,
     "movie": "Night King  (Director\u2019s Cut)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-23",
-    "time": "13:15",
-    "total": 98,
-    "available": 86,
+    "time": "15:30",
+    "total": 191,
+    "available": 178,
     "blocked": 0,
-    "sold": 12,
-    "gross": 1560,
-    "price": 130,
-    "last_updated": "2026-04-23 06:40:16 PM IST"
+    "sold": 13,
+    "gross": 1430,
+    "price": 110,
+    "last_updated": "2026-04-23 08:54:28 PM IST"
   }
 ]

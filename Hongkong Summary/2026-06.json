@@ -42,14 +42,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 26,
-    "gross": 2860,
+    "sold": 27,
+    "gross": 2970,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 26,
-        "gross": 2860
+        "sold": 27,
+        "gross": 2970
       }
     }
   },
@@ -118,14 +118,14 @@
   "The Farewell  (WKF)": {
     "shows": 1,
     "seats": 119,
-    "sold": 90,
-    "gross": 18000,
+    "sold": 92,
+    "gross": 18400,
     "dates": {
       "2026-06-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 90,
-        "gross": 18000
+        "sold": 92,
+        "gross": 18400
       }
     }
   },
