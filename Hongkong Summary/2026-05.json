@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 209,
-    "gross": 41800,
+    "sold": 210,
+    "gross": 42000,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 96,
-        "gross": 19200
+        "sold": 97,
+        "gross": 19400
       },
       "2026-05-09": {
         "shows": 1,
@@ -76,60 +76,60 @@
     }
   },
   "Cold War 1994": {
-    "shows": 411,
-    "seats": 79335,
-    "sold": 127,
-    "gross": 11235,
+    "shows": 579,
+    "seats": 116794,
+    "sold": 161,
+    "gross": 14190,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 102,
-        "gross": 9045
+        "sold": 130,
+        "gross": 11440
       },
       "2026-05-05": {
-        "shows": 30,
-        "seats": 5814,
+        "shows": 61,
+        "seats": 13046,
         "sold": 0,
         "gross": 0
       },
       "2026-05-04": {
-        "shows": 30,
-        "seats": 5814,
+        "shows": 61,
+        "seats": 13046,
         "sold": 2,
         "gross": 200
       },
       "2026-05-06": {
-        "shows": 30,
-        "seats": 5814,
+        "shows": 61,
+        "seats": 13046,
         "sold": 0,
         "gross": 0
       },
       "2026-05-03": {
-        "shows": 46,
-        "seats": 8234,
+        "shows": 121,
+        "seats": 23997,
         "sold": 5,
         "gross": 300
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 18,
-        "gross": 1690
+        "sold": 24,
+        "gross": 2250
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 20,
-    "gross": 2600,
+    "sold": 22,
+    "gross": 2880,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 20,
-        "gross": 2600
+        "sold": 22,
+        "gross": 2880
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 24,
     "seats": 6972,
-    "sold": 20,
-    "gross": 1650,
+    "sold": 30,
+    "gross": 2450,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 20,
-        "gross": 1650
+        "sold": 30,
+        "gross": 2450
       },
       "2026-05-02": {
         "shows": 12,
@@ -184,12 +184,18 @@
     }
   },
   "4DX Cold War 1994": {
-    "shows": 26,
-    "seats": 2318,
-    "sold": 1,
-    "gross": 120,
+    "shows": 39,
+    "seats": 3477,
+    "sold": 3,
+    "gross": 360,
     "dates": {
       "2026-05-01": {
+        "shows": 13,
+        "seats": 1159,
+        "sold": 2,
+        "gross": 240
+      },
+      "2026-05-03": {
         "shows": 13,
         "seats": 1159,
         "sold": 0,
@@ -204,16 +210,40 @@
     }
   },
   "CINITY LED COLD WAR 1994": {
-    "shows": 14,
-    "seats": 2828,
-    "sold": 3,
-    "gross": 360,
+    "shows": 41,
+    "seats": 8282,
+    "sold": 4,
+    "gross": 480,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 3,
-        "gross": 360
+        "sold": 4,
+        "gross": 480
+      },
+      "2026-05-05": {
+        "shows": 7,
+        "seats": 1414,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-04": {
+        "shows": 7,
+        "seats": 1414,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-06": {
+        "shows": 7,
+        "seats": 1414,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-03": {
+        "shows": 6,
+        "seats": 1212,
+        "sold": 0,
+        "gross": 0
       },
       "2026-05-02": {
         "shows": 7,
@@ -392,8 +422,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 60,
-    "gross": 5700,
+    "sold": 62,
+    "gross": 5890,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -404,8 +434,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 60,
-        "gross": 5700
+        "sold": 62,
+        "gross": 5890
       },
       "2026-05-13": {
         "shows": 1,
