@@ -12,5 +12,19 @@
         "gross": 2470
       }
     }
+  },
+  "Let's have a cup of doodh patti chai": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-07-05": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
+      }
+    }
   }
 }

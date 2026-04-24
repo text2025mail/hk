@@ -501,7 +501,7 @@
     "sold": 0,
     "gross": 0,
     "price": 120,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 85926,
@@ -4813,7 +4813,7 @@
     "sold": 0,
     "gross": 0,
     "price": 105,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86850,
@@ -4827,7 +4827,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86836,
@@ -4836,12 +4836,12 @@
     "date": "2026-04-24",
     "time": "16:15",
     "total": 260,
-    "available": 260,
+    "available": 258,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86843,
@@ -4855,7 +4855,7 @@
     "sold": 0,
     "gross": 0,
     "price": 95,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86869,
@@ -5256,12 +5256,12 @@
     "date": "2026-04-24",
     "time": "15:55",
     "total": 202,
-    "available": 202,
+    "available": 197,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 5,
+    "gross": 550,
     "price": 110,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86818,
@@ -5275,7 +5275,7 @@
     "sold": 0,
     "gross": 0,
     "price": 170,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86874,
@@ -5289,7 +5289,7 @@
     "sold": 2,
     "gross": 220,
     "price": 110,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 86426,
@@ -5968,13 +5968,13 @@
     "movie": "Night King  (Director\u2019s Cut)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-24",
-    "time": "05:25",
-    "total": 160,
-    "available": 138,
+    "time": "15:30",
+    "total": 191,
+    "available": 187,
     "blocked": 0,
-    "sold": 22,
-    "gross": 2200,
-    "price": 100,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "sold": 4,
+    "gross": 440,
+    "price": 110,
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   }
 ]

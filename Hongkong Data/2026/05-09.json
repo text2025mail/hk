@@ -11,7 +11,7 @@
     "sold": 67,
     "gross": 6365,
     "price": 95,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   },
   {
     "perfIx": 74335,
@@ -25,6 +25,48 @@
     "sold": 113,
     "gross": 22600,
     "price": 200,
-    "last_updated": "2026-04-24 10:49:14 AM IST"
+    "last_updated": "2026-04-24 08:21:34 PM IST"
+  },
+  {
+    "perfIx": 88240,
+    "movie": "Marty Supreme Special Screening",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-09",
+    "time": "05:00",
+    "total": 119,
+    "available": 115,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 1000,
+    "price": 250,
+    "last_updated": "2026-04-24 08:21:34 PM IST"
+  },
+  {
+    "perfIx": 88238,
+    "movie": "A Pale View of Hills",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-09",
+    "time": "08:50",
+    "total": 119,
+    "available": 118,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 95,
+    "price": 95,
+    "last_updated": "2026-04-24 08:21:34 PM IST"
+  },
+  {
+    "perfIx": 88251,
+    "movie": "Portrait of a Lady on Fire",
+    "venue": "Cinema.com.hk",
+    "date": "2026-05-09",
+    "time": "13:55",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "price": 95,
+    "last_updated": "2026-04-24 08:21:34 PM IST"
   }
 ]
