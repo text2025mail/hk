@@ -2,14 +2,14 @@
   "Dead Poets Society (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 204,
-    "gross": 40800,
+    "sold": 207,
+    "gross": 41400,
     "dates": {
       "2026-05-12": {
         "shows": 1,
         "seats": 119,
-        "sold": 91,
-        "gross": 18200
+        "sold": 94,
+        "gross": 18800
       },
       "2026-05-09": {
         "shows": 1,
@@ -186,20 +186,20 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 33,
-    "gross": 3135,
+    "sold": 35,
+    "gross": 3325,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 17,
+        "gross": 1615
       },
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       }
     }
   },
@@ -226,8 +226,8 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 37,
-    "gross": 8140,
+    "sold": 39,
+    "gross": 8580,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -238,8 +238,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 81,
-        "sold": 15,
-        "gross": 3300
+        "sold": 17,
+        "gross": 3740
       }
     }
   },
@@ -300,14 +300,14 @@
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 3,
-    "gross": 285,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 4,
+        "gross": 380
       }
     }
   },
@@ -334,22 +334,22 @@
   "Portrait of a Lady on Fire": {
     "shows": 1,
     "seats": 119,
-    "sold": 53,
-    "gross": 5035,
+    "sold": 58,
+    "gross": 5510,
     "dates": {
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 53,
-        "gross": 5035
+        "sold": 58,
+        "gross": 5510
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 38,
-    "gross": 4015,
+    "sold": 39,
+    "gross": 4125,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -360,8 +360,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 27,
-        "gross": 2970
+        "sold": 28,
+        "gross": 3080
       }
     }
   },
@@ -382,8 +382,8 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 26,
-    "gross": 2725,
+    "sold": 27,
+    "gross": 2835,
     "dates": {
       "2026-05-27": {
         "shows": 1,
@@ -394,8 +394,8 @@
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 17,
-        "gross": 1870
+        "sold": 18,
+        "gross": 1980
       }
     }
   },
@@ -456,8 +456,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 43,
-    "gross": 4085,
+    "sold": 44,
+    "gross": 4180,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -468,8 +468,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 3040
+        "sold": 33,
+        "gross": 3135
       }
     }
   },
@@ -566,28 +566,28 @@
   "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
     "shows": 1,
     "seats": 52,
-    "sold": 18,
-    "gross": 3060,
+    "sold": 22,
+    "gross": 3740,
     "dates": {
       "2026-05-06": {
         "shows": 1,
         "seats": 52,
-        "sold": 18,
-        "gross": 3060
+        "sold": 22,
+        "gross": 3740
       }
     }
   },
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 22,
+    "gross": 2090,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 20,
-        "gross": 1900
+        "sold": 22,
+        "gross": 2090
       }
     }
   },
@@ -622,14 +622,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 58,
-    "gross": 5510,
+    "sold": 59,
+    "gross": 5605,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 58,
-        "gross": 5510
+        "sold": 59,
+        "gross": 5605
       }
     }
   },
