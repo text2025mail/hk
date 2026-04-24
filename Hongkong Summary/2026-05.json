@@ -122,14 +122,14 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 22,
-    "gross": 2880,
+    "sold": 26,
+    "gross": 3360,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 22,
-        "gross": 2880
+        "sold": 26,
+        "gross": 3360
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 30,
-    "gross": 2450,
+    "sold": 32,
+    "gross": 2670,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 30,
-        "gross": 2450
+        "sold": 32,
+        "gross": 2670
       },
       "2026-05-05": {
         "shows": 6,
@@ -426,8 +426,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 16,
-    "gross": 4000,
+    "sold": 17,
+    "gross": 4250,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -438,8 +438,8 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 3000
+        "sold": 13,
+        "gross": 3250
       }
     }
   },
