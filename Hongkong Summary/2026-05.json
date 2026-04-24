@@ -76,10 +76,10 @@
     }
   },
   "Cold War 1994": {
-    "shows": 579,
-    "seats": 116794,
-    "sold": 161,
-    "gross": 14190,
+    "shows": 597,
+    "seats": 118936,
+    "sold": 163,
+    "gross": 14450,
     "dates": {
       "2026-05-01": {
         "shows": 137,
@@ -88,20 +88,20 @@
         "gross": 11440
       },
       "2026-05-05": {
-        "shows": 61,
-        "seats": 13046,
+        "shows": 67,
+        "seats": 13760,
         "sold": 0,
         "gross": 0
       },
       "2026-05-04": {
-        "shows": 61,
-        "seats": 13046,
+        "shows": 67,
+        "seats": 13760,
         "sold": 2,
         "gross": 200
       },
       "2026-05-06": {
-        "shows": 61,
-        "seats": 13046,
+        "shows": 67,
+        "seats": 13760,
         "sold": 0,
         "gross": 0
       },
@@ -114,8 +114,8 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 24,
-        "gross": 2250
+        "sold": 26,
+        "gross": 2510
       }
     }
   },
@@ -580,8 +580,8 @@
   "Life of Pi  (WKF)": {
     "shows": 2,
     "seats": 238,
-    "sold": 153,
-    "gross": 30600,
+    "sold": 154,
+    "gross": 30800,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -592,8 +592,8 @@
       "2026-05-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 52,
-        "gross": 10400
+        "sold": 53,
+        "gross": 10600
       }
     }
   },
