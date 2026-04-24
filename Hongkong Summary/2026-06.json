@@ -104,14 +104,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 27,
-    "gross": 2970,
+    "sold": 28,
+    "gross": 3080,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 27,
-        "gross": 2970
+        "sold": 28,
+        "gross": 3080
       }
     }
   },
@@ -132,14 +132,14 @@
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 12,
-    "gross": 1140,
+    "sold": 13,
+    "gross": 1235,
     "dates": {
       "2026-06-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "sold": 13,
+        "gross": 1235
       }
     }
   },
