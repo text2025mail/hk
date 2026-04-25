@@ -78,20 +78,20 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 905,
-    "gross": 74840,
+    "sold": 978,
+    "gross": 80905,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 679,
-        "gross": 56090
+        "sold": 734,
+        "gross": 60470
       },
       "2026-05-05": {
         "shows": 67,
         "seats": 13760,
-        "sold": 0,
-        "gross": 0
+        "sold": 5,
+        "gross": 425
       },
       "2026-05-04": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 62,
-        "gross": 5085
+        "sold": 65,
+        "gross": 5265
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 145,
-        "gross": 12185
+        "sold": 155,
+        "gross": 13265
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 149,
-    "gross": 17820,
+    "sold": 161,
+    "gross": 19380,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 116,
-        "gross": 13960
+        "sold": 127,
+        "gross": 15380
       },
       "2026-05-05": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 15,
-        "gross": 1940
+        "sold": 16,
+        "gross": 2080
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 128,
-    "gross": 10380,
+    "sold": 147,
+    "gross": 11920,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 112,
-        "gross": 9120
+        "sold": 126,
+        "gross": 10310
       },
       "2026-05-05": {
         "shows": 6,
@@ -196,22 +196,22 @@
       "2026-05-03": {
         "shows": 5,
         "seats": 1600,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 120
       },
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 16,
-        "gross": 1260
+        "sold": 19,
+        "gross": 1490
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 25,
-    "gross": 3450,
+    "sold": 28,
+    "gross": 3900,
     "dates": {
       "2026-05-01": {
         "shows": 13,
@@ -228,22 +228,22 @@
       "2026-05-02": {
         "shows": 13,
         "seats": 1159,
-        "sold": 5,
-        "gross": 720
+        "sold": 8,
+        "gross": 1170
       }
     }
   },
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 30,
-    "gross": 2600,
+    "sold": 31,
+    "gross": 2670,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 16,
-        "gross": 1470
+        "sold": 17,
+        "gross": 1540
       },
       "2026-05-05": {
         "shows": 7,
@@ -426,14 +426,14 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 21,
-    "gross": 5250,
+    "sold": 22,
+    "gross": 5500,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 5,
-        "gross": 1250
+        "sold": 6,
+        "gross": 1500
       },
       "2026-05-02": {
         "shows": 1,
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 77,
-    "gross": 7315,
+    "sold": 78,
+    "gross": 7410,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -458,8 +458,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 66,
-        "gross": 6270
+        "sold": 67,
+        "gross": 6365
       },
       "2026-05-13": {
         "shows": 1,
@@ -890,14 +890,14 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 32,
-    "gross": 2400,
+    "sold": 34,
+    "gross": 2550,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 32,
-        "gross": 2400
+        "sold": 34,
+        "gross": 2550
       }
     }
   },
