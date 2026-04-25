@@ -22,28 +22,28 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 47,
-    "gross": 4465,
+    "sold": 48,
+    "gross": 4560,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 47,
-        "gross": 4465
+        "sold": 48,
+        "gross": 4560
       }
     }
   },
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 54,
-    "gross": 5130,
+    "sold": 55,
+    "gross": 5225,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 54,
-        "gross": 5130
+        "sold": 55,
+        "gross": 5225
       }
     }
   },
@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 310,
-    "gross": 24960,
+    "sold": 465,
+    "gross": 37905,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 243,
-        "gross": 19590
+        "sold": 362,
+        "gross": 29185
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,8 +96,8 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 3,
-        "gross": 330
+        "sold": 5,
+        "gross": 450
       },
       "2026-05-06": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 12,
-        "gross": 970
+        "sold": 21,
+        "gross": 1930
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 50,
-        "gross": 3950
+        "sold": 75,
+        "gross": 6220
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 40,
-    "gross": 5080,
+    "sold": 56,
+    "gross": 7080,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 40,
-        "gross": 5080
+        "sold": 54,
+        "gross": 6880
       },
       "2026-05-05": {
         "shows": 12,
@@ -152,8 +152,8 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 200
       },
       "2026-05-02": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 42,
-    "gross": 3370,
+    "sold": 54,
+    "gross": 4390,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 38,
-        "gross": 3030
+        "sold": 50,
+        "gross": 4050
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 5,
-    "gross": 600,
+    "sold": 8,
+    "gross": 960,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 4,
-        "gross": 480
+        "sold": 7,
+        "gross": 840
       },
       "2026-05-03": {
         "shows": 13,
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 13,
-    "gross": 1160,
+    "sold": 18,
+    "gross": 1610,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 5,
-        "gross": 550
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-05": {
         "shows": 7,
@@ -272,8 +272,8 @@
       "2026-05-02": {
         "shows": 7,
         "seats": 1414,
-        "sold": 7,
-        "gross": 490
+        "sold": 9,
+        "gross": 730
       }
     }
   },
@@ -426,8 +426,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 18,
-    "gross": 4500,
+    "sold": 19,
+    "gross": 4750,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -438,16 +438,16 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 14,
-        "gross": 3500
+        "sold": 15,
+        "gross": 3750
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 66,
-    "gross": 6270,
+    "sold": 71,
+    "gross": 6745,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -458,14 +458,14 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 65,
+        "gross": 6175
       },
       "2026-05-13": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-17": {
         "shows": 1,
@@ -544,34 +544,34 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 7,
-    "gross": 910,
+    "sold": 9,
+    "gross": 1170,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 7,
-        "gross": 910
+        "sold": 9,
+        "gross": 1170
       }
     }
   },
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 3,
     "seats": 357,
-    "sold": 6,
-    "gross": 570,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       },
       "2026-05-10": {
         "shows": 1,
@@ -732,14 +732,14 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 23,
-    "gross": 2185,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 9,
+        "gross": 855
       },
       "2026-05-20": {
         "shows": 1,
@@ -876,14 +876,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 22,
-    "gross": 2090,
+    "sold": 24,
+    "gross": 2280,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 22,
-        "gross": 2090
+        "sold": 24,
+        "gross": 2280
       }
     }
   },
@@ -918,28 +918,28 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 61,
-    "gross": 5795,
+    "sold": 63,
+    "gross": 5985,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 61,
-        "gross": 5795
+        "sold": 63,
+        "gross": 5985
       }
     }
   },
   "Heads or Tails? (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 34,
-    "gross": 3230,
+    "sold": 36,
+    "gross": 3420,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 3230
+        "sold": 36,
+        "gross": 3420
       }
     }
   },
@@ -960,14 +960,14 @@
   "Greice (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 40,
-    "gross": 3800,
+    "sold": 41,
+    "gross": 3895,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 40,
-        "gross": 3800
+        "sold": 41,
+        "gross": 3895
       }
     }
   },
@@ -988,14 +988,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 84,
-    "gross": 7980,
+    "sold": 85,
+    "gross": 8075,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 84,
-        "gross": 7980
+        "sold": 85,
+        "gross": 8075
       }
     }
   }
