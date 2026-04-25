@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1013,
-    "gross": 83895,
+    "sold": 1035,
+    "gross": 85395,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 756,
-        "gross": 62240
+        "sold": 773,
+        "gross": 63440
       },
       "2026-05-05": {
         "shows": 67,
@@ -114,22 +114,22 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 164,
-        "gross": 14115
+        "sold": 169,
+        "gross": 14415
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 167,
-    "gross": 20220,
+    "sold": 182,
+    "gross": 22000,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 131,
-        "gross": 15940
+        "sold": 139,
+        "gross": 16820
       },
       "2026-05-05": {
         "shows": 12,
@@ -140,8 +140,8 @@
       "2026-05-04": {
         "shows": 12,
         "seats": 4086,
-        "sold": 2,
-        "gross": 200
+        "sold": 4,
+        "gross": 400
       },
       "2026-05-06": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 16,
-        "gross": 2080
+        "sold": 21,
+        "gross": 2780
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 149,
-    "gross": 12040,
+    "sold": 155,
+    "gross": 12700,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 128,
-        "gross": 10430
+        "sold": 134,
+        "gross": 11090
       },
       "2026-05-05": {
         "shows": 6,
@@ -800,8 +800,8 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 33,
-    "gross": 9570,
+    "sold": 35,
+    "gross": 10150,
     "dates": {
       "2026-05-17": {
         "shows": 1,
@@ -812,8 +812,8 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 81,
-        "sold": 21,
-        "gross": 6090
+        "sold": 23,
+        "gross": 6670
       }
     }
   },
