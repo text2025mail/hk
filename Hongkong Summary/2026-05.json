@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 170,
-    "gross": 14920,
+    "sold": 310,
+    "gross": 24960,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 135,
-        "gross": 11790
+        "sold": 243,
+        "gross": 19590
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,40 +96,40 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 4,
-        "gross": 320
+        "sold": 3,
+        "gross": 330
       },
       "2026-05-06": {
         "shows": 67,
         "seats": 13760,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 120
       },
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 5,
-        "gross": 300
+        "sold": 12,
+        "gross": 970
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 26,
-        "gross": 2510
+        "sold": 50,
+        "gross": 3950
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 30,
-    "gross": 3880,
+    "sold": 40,
+    "gross": 5080,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 30,
-        "gross": 3880
+        "sold": 40,
+        "gross": 5080
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 32,
-    "gross": 2670,
+    "sold": 42,
+    "gross": 3370,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 32,
-        "gross": 2670
+        "sold": 38,
+        "gross": 3030
       },
       "2026-05-05": {
         "shows": 6,
@@ -202,22 +202,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 0,
-        "gross": 0
+        "sold": 4,
+        "gross": 340
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 3,
-    "gross": 360,
+    "sold": 5,
+    "gross": 600,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 2,
-        "gross": 240
+        "sold": 4,
+        "gross": 480
       },
       "2026-05-03": {
         "shows": 13,
@@ -236,8 +236,8 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 6,
-    "gross": 670,
+    "sold": 13,
+    "gross": 1160,
     "dates": {
       "2026-05-01": {
         "shows": 7,
@@ -272,8 +272,8 @@
       "2026-05-02": {
         "shows": 7,
         "seats": 1414,
-        "sold": 0,
-        "gross": 0
+        "sold": 7,
+        "gross": 490
       }
     }
   },
@@ -426,8 +426,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 17,
-    "gross": 4250,
+    "sold": 18,
+    "gross": 4500,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -438,16 +438,16 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 3250
+        "sold": 14,
+        "gross": 3500
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 62,
-    "gross": 5890,
+    "sold": 66,
+    "gross": 6270,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -458,8 +458,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 62,
-        "gross": 5890
+        "sold": 63,
+        "gross": 5985
       },
       "2026-05-13": {
         "shows": 1,
@@ -476,8 +476,8 @@
       "2026-05-07": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -544,14 +544,14 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 5,
-    "gross": 650,
+    "sold": 7,
+    "gross": 910,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 5,
-        "gross": 650
+        "sold": 7,
+        "gross": 910
       }
     }
   },
@@ -946,14 +946,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 80,
-    "gross": 10000,
+    "sold": 82,
+    "gross": 10250,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 80,
-        "gross": 10000
+        "sold": 82,
+        "gross": 10250
       }
     }
   },

@@ -42,8 +42,8 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 1,
-    "gross": 95,
+    "sold": 4,
+    "gross": 380,
     "dates": {
       "2026-06-21": {
         "shows": 1,
@@ -54,8 +54,8 @@
       "2026-06-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 285
       }
     }
   },
@@ -90,8 +90,8 @@
   "Plainclothes (InDPanda)": {
     "shows": 2,
     "seats": 238,
-    "sold": 68,
-    "gross": 6460,
+    "sold": 69,
+    "gross": 6555,
     "dates": {
       "2026-06-06": {
         "shows": 1,
@@ -102,8 +102,8 @@
       "2026-06-26": {
         "shows": 1,
         "seats": 119,
-        "sold": 26,
-        "gross": 2470
+        "sold": 27,
+        "gross": 2565
       }
     }
   },
