@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1035,
-    "gross": 85395,
+    "sold": 1043,
+    "gross": 86115,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 773,
-        "gross": 63440
+        "sold": 781,
+        "gross": 64160
       },
       "2026-05-05": {
         "shows": 67,
@@ -122,20 +122,20 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 182,
-    "gross": 22000,
+    "sold": 191,
+    "gross": 23030,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 139,
-        "gross": 16820
+        "sold": 143,
+        "gross": 17300
       },
       "2026-05-05": {
         "shows": 12,
         "seats": 4086,
-        "sold": 2,
-        "gross": 200
+        "sold": 7,
+        "gross": 750
       },
       "2026-05-04": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 155,
-    "gross": 12700,
+    "sold": 158,
+    "gross": 12980,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 134,
-        "gross": 11090
+        "sold": 136,
+        "gross": 11310
       },
       "2026-05-05": {
         "shows": 6,
@@ -202,8 +202,8 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 19,
-        "gross": 1490
+        "sold": 20,
+        "gross": 1550
       }
     }
   },
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 81,
-    "gross": 7695,
+    "sold": 83,
+    "gross": 7885,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-07": {
         "shows": 1,
@@ -638,8 +638,8 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 37,
-    "gross": 3770,
+    "sold": 38,
+    "gross": 3880,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -650,16 +650,16 @@
       "2026-05-29": {
         "shows": 1,
         "seats": 146,
-        "sold": 17,
-        "gross": 1870
+        "sold": 18,
+        "gross": 1980
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 42,
-    "gross": 4425,
+    "sold": 43,
+    "gross": 4535,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -670,8 +670,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 29,
-        "gross": 3190
+        "sold": 30,
+        "gross": 3300
       }
     }
   },
