@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 465,
-    "gross": 37905,
+    "sold": 524,
+    "gross": 43030,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 362,
-        "gross": 29185
+        "sold": 409,
+        "gross": 33340
       },
       "2026-05-05": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 21,
-        "gross": 1930
+        "sold": 27,
+        "gross": 2290
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 75,
-        "gross": 6220
+        "sold": 81,
+        "gross": 6830
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 56,
-    "gross": 7080,
+    "sold": 80,
+    "gross": 9920,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 54,
-        "gross": 6880
+        "sold": 68,
+        "gross": 8480
       },
       "2026-05-05": {
         "shows": 12,
@@ -140,8 +140,8 @@
       "2026-05-04": {
         "shows": 12,
         "seats": 4086,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 200
       },
       "2026-05-06": {
         "shows": 12,
@@ -152,28 +152,28 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 2,
-        "gross": 200
+        "sold": 5,
+        "gross": 620
       },
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 0,
-        "gross": 0
+        "sold": 5,
+        "gross": 620
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 54,
-    "gross": 4390,
+    "sold": 72,
+    "gross": 5770,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 50,
-        "gross": 4050
+        "sold": 68,
+        "gross": 5430
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 8,
-    "gross": 960,
+    "sold": 11,
+    "gross": 1410,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 7,
-        "gross": 840
+        "sold": 10,
+        "gross": 1290
       },
       "2026-05-03": {
         "shows": 13,
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 18,
-    "gross": 1610,
+    "sold": 21,
+    "gross": 1920,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 8,
-        "gross": 760
+        "sold": 10,
+        "gross": 1000
       },
       "2026-05-05": {
         "shows": 7,
@@ -272,8 +272,8 @@
       "2026-05-02": {
         "shows": 7,
         "seats": 1414,
-        "sold": 9,
-        "gross": 730
+        "sold": 10,
+        "gross": 800
       }
     }
   },
@@ -378,14 +378,14 @@
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 115,
-    "sold": 23,
-    "gross": 2530,
+    "sold": 24,
+    "gross": 2640,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 115,
-        "sold": 23,
-        "gross": 2530
+        "sold": 24,
+        "gross": 2640
       }
     }
   },
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 71,
-    "gross": 6745,
+    "sold": 72,
+    "gross": 6840,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -458,8 +458,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 65,
-        "gross": 6175
+        "sold": 66,
+        "gross": 6270
       },
       "2026-05-13": {
         "shows": 1,
@@ -484,8 +484,8 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 35,
-    "gross": 3325,
+    "sold": 37,
+    "gross": 3515,
     "dates": {
       "2026-05-22": {
         "shows": 1,
@@ -496,8 +496,8 @@
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
@@ -524,14 +524,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 42,
-    "gross": 9240,
+    "sold": 44,
+    "gross": 9680,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 24,
-        "gross": 5280
+        "sold": 26,
+        "gross": 5720
       },
       "2026-05-30": {
         "shows": 1,
@@ -544,14 +544,14 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 9,
-    "gross": 1170,
+    "sold": 11,
+    "gross": 1430,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 9,
-        "gross": 1170
+        "sold": 11,
+        "gross": 1430
       }
     }
   },
@@ -732,14 +732,14 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 25,
-    "gross": 2375,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 119,
-        "sold": 9,
-        "gross": 855
+        "sold": 10,
+        "gross": 950
       },
       "2026-05-20": {
         "shows": 1,
@@ -766,8 +766,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 46,
-    "gross": 4370,
+    "sold": 48,
+    "gross": 4560,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -778,8 +778,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 3230
+        "sold": 36,
+        "gross": 3420
       }
     }
   },
@@ -946,14 +946,14 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 82,
-    "gross": 10250,
+    "sold": 83,
+    "gross": 10375,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 82,
-        "gross": 10250
+        "sold": 83,
+        "gross": 10375
       }
     }
   },
