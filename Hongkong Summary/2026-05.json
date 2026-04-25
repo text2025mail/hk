@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1013,
-    "gross": 83895,
+    "sold": 1059,
+    "gross": 87905,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 756,
-        "gross": 62240
+        "sold": 794,
+        "gross": 65590
       },
       "2026-05-05": {
         "shows": 67,
@@ -108,40 +108,40 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 67,
-        "gross": 5475
+        "sold": 69,
+        "gross": 5735
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 164,
-        "gross": 14115
+        "sold": 170,
+        "gross": 14515
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 167,
-    "gross": 20220,
+    "sold": 205,
+    "gross": 24790,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 131,
-        "gross": 15940
+        "sold": 157,
+        "gross": 19060
       },
       "2026-05-05": {
         "shows": 12,
         "seats": 4086,
-        "sold": 2,
-        "gross": 200
+        "sold": 7,
+        "gross": 750
       },
       "2026-05-04": {
         "shows": 12,
         "seats": 4086,
-        "sold": 2,
-        "gross": 200
+        "sold": 4,
+        "gross": 400
       },
       "2026-05-06": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 16,
-        "gross": 2080
+        "sold": 21,
+        "gross": 2780
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 149,
-    "gross": 12040,
+    "sold": 163,
+    "gross": 13380,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 128,
-        "gross": 10430
+        "sold": 141,
+        "gross": 11710
       },
       "2026-05-05": {
         "shows": 6,
@@ -202,22 +202,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 19,
-        "gross": 1490
+        "sold": 20,
+        "gross": 1550
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 30,
-    "gross": 4140,
+    "sold": 32,
+    "gross": 4440,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 18,
-        "gross": 2370
+        "sold": 20,
+        "gross": 2670
       },
       "2026-05-03": {
         "shows": 13,
@@ -426,8 +426,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 22,
-    "gross": 5500,
+    "sold": 23,
+    "gross": 5750,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -438,16 +438,16 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 4000
+        "sold": 17,
+        "gross": 4250
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 81,
-    "gross": 7695,
+    "sold": 83,
+    "gross": 7885,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-07": {
         "shows": 1,
@@ -484,14 +484,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 39,
-    "gross": 3705,
+    "sold": 40,
+    "gross": 3800,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 20,
+        "gross": 1900
       },
       "2026-05-27": {
         "shows": 1,
@@ -638,8 +638,8 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 37,
-    "gross": 3770,
+    "sold": 38,
+    "gross": 3880,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -650,16 +650,16 @@
       "2026-05-29": {
         "shows": 1,
         "seats": 146,
-        "sold": 17,
-        "gross": 1870
+        "sold": 18,
+        "gross": 1980
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 42,
-    "gross": 4425,
+    "sold": 43,
+    "gross": 4535,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -670,8 +670,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 29,
-        "gross": 3190
+        "sold": 30,
+        "gross": 3300
       }
     }
   },
@@ -800,8 +800,8 @@
   "Bellini\u2019s I Puritani (The Met 2026)": {
     "shows": 2,
     "seats": 139,
-    "sold": 33,
-    "gross": 9570,
+    "sold": 35,
+    "gross": 10150,
     "dates": {
       "2026-05-17": {
         "shows": 1,
@@ -812,8 +812,8 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 81,
-        "sold": 21,
-        "gross": 6090
+        "sold": 23,
+        "gross": 6670
       }
     }
   },
@@ -848,14 +848,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 32,
-    "gross": 5120,
+    "sold": 33,
+    "gross": 5280,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 127,
-        "sold": 32,
-        "gross": 5120
+        "sold": 33,
+        "gross": 5280
       }
     }
   },
@@ -904,28 +904,28 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 21,
+    "gross": 1995,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 21,
+        "gross": 1995
       }
     }
   },
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 63,
-    "gross": 5985,
+    "sold": 64,
+    "gross": 6080,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 64,
+        "gross": 6080
       }
     }
   },
@@ -974,14 +974,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 73,
-    "gross": 6935,
+    "sold": 74,
+    "gross": 7030,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 6935
+        "sold": 74,
+        "gross": 7030
       }
     }
   },
