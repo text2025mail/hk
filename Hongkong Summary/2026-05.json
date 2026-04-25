@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1053,
-    "gross": 87185,
+    "sold": 1059,
+    "gross": 87905,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 790,
-        "gross": 65130
+        "sold": 794,
+        "gross": 65590
       },
       "2026-05-05": {
         "shows": 67,
@@ -108,8 +108,8 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 67,
-        "gross": 5475
+        "sold": 69,
+        "gross": 5735
       },
       "2026-05-02": {
         "shows": 138,
@@ -122,14 +122,14 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 201,
-    "gross": 24230,
+    "sold": 205,
+    "gross": 24790,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 153,
-        "gross": 18500
+        "sold": 157,
+        "gross": 19060
       },
       "2026-05-05": {
         "shows": 12,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 30,
-    "gross": 4140,
+    "sold": 32,
+    "gross": 4440,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 18,
-        "gross": 2370
+        "sold": 20,
+        "gross": 2670
       },
       "2026-05-03": {
         "shows": 13,
@@ -484,14 +484,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 39,
-    "gross": 3705,
+    "sold": 40,
+    "gross": 3800,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 20,
+        "gross": 1900
       },
       "2026-05-27": {
         "shows": 1,
@@ -904,14 +904,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 20,
-    "gross": 1900,
+    "sold": 21,
+    "gross": 1995,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 21,
+        "gross": 1995
       }
     }
   },
