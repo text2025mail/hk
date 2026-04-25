@@ -36,6 +36,20 @@
   "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
+    "sold": 57,
+    "gross": 5415,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 57,
+        "gross": 5415
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
     "sold": 55,
     "gross": 5225,
     "dates": {
@@ -44,20 +58,6 @@
         "seats": 119,
         "sold": 55,
         "gross": 5225
-      }
-    }
-  },
-  "That Summer in Paris (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 54,
-    "gross": 5130,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 54,
-        "gross": 5130
       }
     }
   },
@@ -78,20 +78,20 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 978,
-    "gross": 80905,
+    "sold": 1013,
+    "gross": 83895,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 734,
-        "gross": 60470
+        "sold": 756,
+        "gross": 62240
       },
       "2026-05-05": {
         "shows": 67,
         "seats": 13760,
-        "sold": 5,
-        "gross": 425
+        "sold": 7,
+        "gross": 585
       },
       "2026-05-04": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 65,
-        "gross": 5265
+        "sold": 67,
+        "gross": 5475
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 155,
-        "gross": 13265
+        "sold": 164,
+        "gross": 14115
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 161,
-    "gross": 19380,
+    "sold": 167,
+    "gross": 20220,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 127,
-        "gross": 15380
+        "sold": 131,
+        "gross": 15940
       },
       "2026-05-05": {
         "shows": 12,
@@ -152,8 +152,8 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 14,
-        "gross": 1520
+        "sold": 16,
+        "gross": 1800
       },
       "2026-05-02": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 147,
-    "gross": 11920,
+    "sold": 149,
+    "gross": 12040,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 126,
-        "gross": 10310
+        "sold": 128,
+        "gross": 10430
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 28,
-    "gross": 3900,
+    "sold": 30,
+    "gross": 4140,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 16,
-        "gross": 2130
+        "sold": 18,
+        "gross": 2370
       },
       "2026-05-03": {
         "shows": 13,
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 31,
-    "gross": 2670,
+    "sold": 33,
+    "gross": 2910,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 17,
-        "gross": 1540
+        "sold": 19,
+        "gross": 1780
       },
       "2026-05-05": {
         "shows": 7,
@@ -446,14 +446,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 78,
-    "gross": 7410,
+    "sold": 81,
+    "gross": 7695,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-04": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 380
+        "sold": 6,
+        "gross": 570
       },
       "2026-05-07": {
         "shows": 1,
@@ -484,14 +484,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 38,
-    "gross": 3610,
+    "sold": 39,
+    "gross": 3705,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 19,
+        "gross": 1805
       },
       "2026-05-27": {
         "shows": 1,
@@ -732,8 +732,8 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 27,
-    "gross": 2565,
+    "sold": 28,
+    "gross": 2660,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -744,8 +744,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 1520
+        "sold": 17,
+        "gross": 1615
       }
     }
   },
@@ -904,14 +904,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 19,
-    "gross": 1805,
+    "sold": 20,
+    "gross": 1900,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 19,
-        "gross": 1805
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
