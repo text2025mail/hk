@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1043,
-    "gross": 86115,
+    "sold": 1053,
+    "gross": 87185,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 781,
-        "gross": 64160
+        "sold": 790,
+        "gross": 65130
       },
       "2026-05-05": {
         "shows": 67,
@@ -114,22 +114,22 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 169,
-        "gross": 14415
+        "sold": 170,
+        "gross": 14515
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 191,
-    "gross": 23030,
+    "sold": 201,
+    "gross": 24230,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 143,
-        "gross": 17300
+        "sold": 153,
+        "gross": 18500
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 158,
-    "gross": 12980,
+    "sold": 163,
+    "gross": 13380,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 136,
-        "gross": 11310
+        "sold": 141,
+        "gross": 11710
       },
       "2026-05-05": {
         "shows": 6,
@@ -426,8 +426,8 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 22,
-    "gross": 5500,
+    "sold": 23,
+    "gross": 5750,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -438,8 +438,8 @@
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 16,
-        "gross": 4000
+        "sold": 17,
+        "gross": 4250
       }
     }
   },
@@ -848,14 +848,14 @@
   "Farewell to my Concubine (4K Restored Version)": {
     "shows": 1,
     "seats": 127,
-    "sold": 32,
-    "gross": 5120,
+    "sold": 33,
+    "gross": 5280,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 127,
-        "sold": 32,
-        "gross": 5120
+        "sold": 33,
+        "gross": 5280
       }
     }
   },
@@ -918,14 +918,14 @@
   "Broken Voices (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 63,
-    "gross": 5985,
+    "sold": 64,
+    "gross": 6080,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 63,
-        "gross": 5985
+        "sold": 64,
+        "gross": 6080
       }
     }
   },
@@ -974,14 +974,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 73,
-    "gross": 6935,
+    "sold": 74,
+    "gross": 7030,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 73,
-        "gross": 6935
+        "sold": 74,
+        "gross": 7030
       }
     }
   },
