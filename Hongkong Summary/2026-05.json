@@ -50,42 +50,42 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 53,
-    "gross": 5035,
+    "sold": 54,
+    "gross": 5130,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 53,
-        "gross": 5035
+        "sold": 54,
+        "gross": 5130
       }
     }
   },
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 67,
-    "gross": 6365,
+    "sold": 68,
+    "gross": 6460,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 67,
-        "gross": 6365
+        "sold": 68,
+        "gross": 6460
       }
     }
   },
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 857,
-    "gross": 70275,
+    "sold": 905,
+    "gross": 74840,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 645,
-        "gross": 52915
+        "sold": 679,
+        "gross": 56090
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,8 +96,8 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 9,
-        "gross": 690
+        "sold": 11,
+        "gross": 900
       },
       "2026-05-06": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 56,
-        "gross": 4425
+        "sold": 62,
+        "gross": 5085
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 139,
-        "gross": 11665
+        "sold": 145,
+        "gross": 12185
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 141,
-    "gross": 16940,
+    "sold": 149,
+    "gross": 17820,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 110,
-        "gross": 13280
+        "sold": 116,
+        "gross": 13960
       },
       "2026-05-05": {
         "shows": 12,
@@ -152,8 +152,8 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 12,
-        "gross": 1320
+        "sold": 14,
+        "gross": 1520
       },
       "2026-05-02": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 120,
-    "gross": 9800,
+    "sold": 128,
+    "gross": 10380,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 104,
-        "gross": 8540
+        "sold": 112,
+        "gross": 9120
       },
       "2026-05-05": {
         "shows": 6,
@@ -236,8 +236,8 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 27,
-    "gross": 2390,
+    "sold": 30,
+    "gross": 2600,
     "dates": {
       "2026-05-01": {
         "shows": 7,
@@ -266,8 +266,8 @@
       "2026-05-03": {
         "shows": 6,
         "seats": 1212,
-        "sold": 1,
-        "gross": 120
+        "sold": 4,
+        "gross": 330
       },
       "2026-05-02": {
         "shows": 7,
@@ -280,8 +280,8 @@
   "As the Water Flows": {
     "shows": 2,
     "seats": 238,
-    "sold": 10,
-    "gross": 870,
+    "sold": 11,
+    "gross": 965,
     "dates": {
       "2026-05-05": {
         "shows": 1,
@@ -292,8 +292,8 @@
       "2026-05-04": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 570
+        "sold": 7,
+        "gross": 665
       }
     }
   },
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 76,
-    "gross": 7220,
+    "sold": 77,
+    "gross": 7315,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 4,
+        "gross": 380
       },
       "2026-05-07": {
         "shows": 1,
@@ -544,14 +544,14 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 14,
-    "gross": 1820,
+    "sold": 15,
+    "gross": 1950,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 14,
-        "gross": 1820
+        "sold": 15,
+        "gross": 1950
       }
     }
   },
