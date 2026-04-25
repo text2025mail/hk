@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 163,
-    "gross": 14450,
+    "sold": 170,
+    "gross": 14920,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 130,
-        "gross": 11440
+        "sold": 135,
+        "gross": 11790
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,8 +96,8 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 2,
-        "gross": 200
+        "sold": 4,
+        "gross": 320
       },
       "2026-05-06": {
         "shows": 67,
@@ -122,14 +122,14 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 26,
-    "gross": 3360,
+    "sold": 30,
+    "gross": 3880,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 26,
-        "gross": 3360
+        "sold": 30,
+        "gross": 3880
       },
       "2026-05-05": {
         "shows": 12,
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 5,
-    "gross": 600,
+    "sold": 6,
+    "gross": 670,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 4,
-        "gross": 480
+        "sold": 5,
+        "gross": 550
       },
       "2026-05-05": {
         "shows": 7,
