@@ -50,14 +50,14 @@
   "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 52,
-    "gross": 4940,
+    "sold": 53,
+    "gross": 5035,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 52,
-        "gross": 4940
+        "sold": 53,
+        "gross": 5035
       }
     }
   },
@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 611,
-    "gross": 50300,
+    "sold": 679,
+    "gross": 55430,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 470,
-        "gross": 38630
+        "sold": 518,
+        "gross": 42290
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,46 +96,46 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 5,
-        "gross": 450
+        "sold": 9,
+        "gross": 690
       },
       "2026-05-06": {
         "shows": 67,
         "seats": 13760,
-        "sold": 6,
-        "gross": 460
+        "sold": 8,
+        "gross": 580
       },
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 33,
-        "gross": 2650
+        "sold": 37,
+        "gross": 2890
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 97,
-        "gross": 8110
+        "sold": 107,
+        "gross": 8980
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 94,
-    "gross": 11480,
+    "sold": 106,
+    "gross": 12840,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 78,
-        "gross": 9560
+        "sold": 88,
+        "gross": 10720
       },
       "2026-05-05": {
         "shows": 12,
         "seats": 4086,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 200
       },
       "2026-05-04": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 84,
-    "gross": 6740,
+    "sold": 88,
+    "gross": 7180,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 79,
-        "gross": 6290
+        "sold": 83,
+        "gross": 6730
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,20 +210,20 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 15,
-    "gross": 2010,
+    "sold": 23,
+    "gross": 3150,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 10,
-        "gross": 1290
+        "sold": 14,
+        "gross": 1830
       },
       "2026-05-03": {
         "shows": 13,
         "seats": 1159,
-        "sold": 0,
-        "gross": 0
+        "sold": 4,
+        "gross": 600
       },
       "2026-05-02": {
         "shows": 13,
@@ -300,14 +300,14 @@
   "A Pale View of Hills": {
     "shows": 5,
     "seats": 595,
-    "sold": 2,
-    "gross": 190,
+    "sold": 5,
+    "gross": 415,
     "dates": {
       "2026-05-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 3,
+        "gross": 225
       },
       "2026-05-09": {
         "shows": 1,
@@ -484,14 +484,14 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 37,
-    "gross": 3515,
+    "sold": 38,
+    "gross": 3610,
     "dates": {
       "2026-05-22": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 18,
+        "gross": 1710
       },
       "2026-05-27": {
         "shows": 1,
@@ -558,8 +558,8 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 3,
     "seats": 357,
-    "sold": 9,
-    "gross": 855,
+    "sold": 10,
+    "gross": 950,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -570,8 +570,8 @@
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 7,
-        "gross": 665
+        "sold": 8,
+        "gross": 760
       },
       "2026-05-10": {
         "shows": 1,
@@ -732,14 +732,14 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-28": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       },
       "2026-05-20": {
         "shows": 1,
@@ -766,8 +766,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 48,
-    "gross": 4560,
+    "sold": 49,
+    "gross": 4655,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -778,8 +778,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 3420
+        "sold": 37,
+        "gross": 3515
       }
     }
   },
@@ -862,28 +862,28 @@
   "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
     "shows": 1,
     "seats": 52,
-    "sold": 26,
-    "gross": 4420,
+    "sold": 30,
+    "gross": 5100,
     "dates": {
       "2026-05-06": {
         "shows": 1,
         "seats": 52,
-        "sold": 26,
-        "gross": 4420
+        "sold": 30,
+        "gross": 5100
       }
     }
   },
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 24,
-    "gross": 2280,
+    "sold": 25,
+    "gross": 2375,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 24,
-        "gross": 2280
+        "sold": 25,
+        "gross": 2375
       }
     }
   },
@@ -904,14 +904,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 18,
-    "gross": 1710,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 18,
-        "gross": 1710
+        "sold": 19,
+        "gross": 1805
       }
     }
   },
@@ -988,14 +988,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 85,
-    "gross": 8075,
+    "sold": 87,
+    "gross": 8265,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 85,
-        "gross": 8075
+        "sold": 87,
+        "gross": 8265
       }
     }
   }
