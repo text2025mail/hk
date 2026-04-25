@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 679,
-    "gross": 55430,
+    "sold": 733,
+    "gross": 59715,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 518,
-        "gross": 42290
+        "sold": 555,
+        "gross": 45145
       },
       "2026-05-05": {
         "shows": 67,
@@ -108,22 +108,22 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 37,
-        "gross": 2890
+        "sold": 47,
+        "gross": 3710
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 107,
-        "gross": 8980
+        "sold": 114,
+        "gross": 9590
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 106,
-    "gross": 12840,
+    "sold": 108,
+    "gross": 13040,
     "dates": {
       "2026-05-01": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 7,
-        "gross": 900
+        "sold": 9,
+        "gross": 1100
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 88,
-    "gross": 7180,
+    "sold": 96,
+    "gross": 7760,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 83,
-        "gross": 6730
+        "sold": 85,
+        "gross": 6950
       },
       "2026-05-05": {
         "shows": 6,
@@ -202,22 +202,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 5,
-        "gross": 450
+        "sold": 11,
+        "gross": 810
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 23,
-    "gross": 3150,
+    "sold": 25,
+    "gross": 3450,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 14,
-        "gross": 1830
+        "sold": 16,
+        "gross": 2130
       },
       "2026-05-03": {
         "shows": 13,
@@ -426,28 +426,28 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 19,
-    "gross": 4750,
+    "sold": 21,
+    "gross": 5250,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 4,
-        "gross": 1000
+        "sold": 5,
+        "gross": 1250
       },
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 3750
+        "sold": 16,
+        "gross": 4000
       }
     }
   },
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 74,
-    "gross": 7030,
+    "sold": 75,
+    "gross": 7125,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 1,
-        "gross": 95
+        "sold": 2,
+        "gross": 190
       },
       "2026-05-07": {
         "shows": 1,
@@ -820,14 +820,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
-    "sold": 96,
-    "gross": 9120,
+    "sold": 98,
+    "gross": 9310,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 96,
-        "gross": 9120
+        "sold": 98,
+        "gross": 9310
       }
     }
   },
@@ -890,14 +890,14 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 30,
-    "gross": 2250,
+    "sold": 32,
+    "gross": 2400,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 30,
-        "gross": 2250
+        "sold": 32,
+        "gross": 2400
       }
     }
   },
