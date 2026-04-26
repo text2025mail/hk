@@ -42,14 +42,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 2,
     "seats": 238,
-    "sold": 8,
-    "gross": 760,
+    "sold": 9,
+    "gross": 855,
     "dates": {
       "2026-06-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 285
+        "sold": 4,
+        "gross": 380
       },
       "2026-06-27": {
         "shows": 1,
@@ -124,14 +124,14 @@
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 130,
-    "sold": 41,
-    "gross": 4510,
+    "sold": 42,
+    "gross": 4620,
     "dates": {
       "2026-06-02": {
         "shows": 1,
         "seats": 130,
-        "sold": 41,
-        "gross": 4510
+        "sold": 42,
+        "gross": 4620
       }
     }
   },
@@ -152,14 +152,14 @@
   "La Musica (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 17,
-    "gross": 1615,
+    "sold": 19,
+    "gross": 1805,
     "dates": {
       "2026-06-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 19,
+        "gross": 1805
       }
     }
   },

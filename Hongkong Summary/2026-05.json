@@ -22,14 +22,14 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 49,
-    "gross": 4655,
+    "sold": 51,
+    "gross": 4845,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 49,
-        "gross": 4655
+        "sold": 51,
+        "gross": 4845
       }
     }
   },
@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1244,
-    "gross": 101670,
+    "sold": 1463,
+    "gross": 119870,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 944,
-        "gross": 76910
+        "sold": 1089,
+        "gross": 88875
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,46 +96,46 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 18,
-        "gross": 1395
+        "sold": 19,
+        "gross": 1455
       },
       "2026-05-06": {
         "shows": 67,
         "seats": 13760,
-        "sold": 8,
-        "gross": 580
+        "sold": 14,
+        "gross": 1260
       },
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 85,
-        "gross": 6745
+        "sold": 105,
+        "gross": 8280
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 182,
-        "gross": 15455
+        "sold": 229,
+        "gross": 19415
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 252,
-    "gross": 30530,
+    "sold": 294,
+    "gross": 35770,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 183,
-        "gross": 22260
+        "sold": 220,
+        "gross": 26920
       },
       "2026-05-05": {
         "shows": 12,
         "seats": 4086,
-        "sold": 7,
-        "gross": 750
+        "sold": 8,
+        "gross": 850
       },
       "2026-05-04": {
         "shows": 12,
@@ -158,28 +158,28 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 40,
-        "gross": 5120
+        "sold": 44,
+        "gross": 5600
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 186,
-    "gross": 14960,
+    "sold": 212,
+    "gross": 17320,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 153,
-        "gross": 12630
+        "sold": 164,
+        "gross": 13640
       },
       "2026-05-05": {
         "shows": 6,
         "seats": 1920,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 120
       },
       "2026-05-04": {
         "shows": 6,
@@ -202,22 +202,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 24,
-        "gross": 1790
+        "sold": 37,
+        "gross": 3020
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 34,
-    "gross": 4740,
+    "sold": 38,
+    "gross": 5340,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 22,
-        "gross": 2970
+        "sold": 26,
+        "gross": 3570
       },
       "2026-05-03": {
         "shows": 13,
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 33,
-    "gross": 2910,
+    "sold": 49,
+    "gross": 4230,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 19,
-        "gross": 1780
+        "sold": 35,
+        "gross": 3100
       },
       "2026-05-05": {
         "shows": 7,
@@ -358,8 +358,8 @@
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 21,
-    "gross": 1995,
+    "sold": 22,
+    "gross": 2090,
     "dates": {
       "2026-05-24": {
         "shows": 1,
@@ -370,8 +370,8 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 119,
-        "sold": 11,
-        "gross": 1045
+        "sold": 12,
+        "gross": 1140
       }
     }
   },
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 87,
-    "gross": 8265,
+    "sold": 88,
+    "gross": 8360,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 10,
-        "gross": 950
+        "sold": 11,
+        "gross": 1045
       },
       "2026-05-07": {
         "shows": 1,
@@ -484,8 +484,8 @@
   "The Night Boat (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 40,
-    "gross": 3800,
+    "sold": 44,
+    "gross": 4180,
     "dates": {
       "2026-05-22": {
         "shows": 1,
@@ -496,8 +496,8 @@
       "2026-05-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 20,
-        "gross": 1900
+        "sold": 24,
+        "gross": 2280
       }
     }
   },
@@ -524,14 +524,14 @@
   "Merrily We Roll Along (2026)": {
     "shows": 2,
     "seats": 208,
-    "sold": 46,
-    "gross": 10120,
+    "sold": 47,
+    "gross": 10340,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 28,
-        "gross": 6160
+        "sold": 29,
+        "gross": 6380
       },
       "2026-05-30": {
         "shows": 1,
@@ -544,28 +544,28 @@
   "HEAT (4K Restoration)": {
     "shows": 1,
     "seats": 127,
-    "sold": 15,
-    "gross": 1950,
+    "sold": 17,
+    "gross": 2210,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 127,
-        "sold": 15,
-        "gross": 1950
+        "sold": 17,
+        "gross": 2210
       }
     }
   },
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 3,
     "seats": 357,
-    "sold": 11,
-    "gross": 1045,
+    "sold": 12,
+    "gross": 1140,
     "dates": {
       "2026-05-16": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 3,
+        "gross": 285
       },
       "2026-05-06": {
         "shows": 1,
@@ -732,8 +732,8 @@
   "Destroy She Said (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 28,
-    "gross": 2660,
+    "sold": 31,
+    "gross": 2945,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -744,8 +744,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 119,
-        "sold": 17,
-        "gross": 1615
+        "sold": 20,
+        "gross": 1900
       }
     }
   },
@@ -766,8 +766,8 @@
   "India Song (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 49,
-    "gross": 4655,
+    "sold": 50,
+    "gross": 4750,
     "dates": {
       "2026-05-31": {
         "shows": 1,
@@ -778,8 +778,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 119,
-        "sold": 37,
-        "gross": 3515
+        "sold": 38,
+        "gross": 3610
       }
     }
   },
@@ -904,14 +904,14 @@
   "Yellow the Sun (FMCP 2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 21,
-    "gross": 1995,
+    "sold": 23,
+    "gross": 2185,
     "dates": {
       "2026-05-21": {
         "shows": 1,
         "seats": 119,
-        "sold": 21,
-        "gross": 1995
+        "sold": 23,
+        "gross": 2185
       }
     }
   },
