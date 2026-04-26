@@ -64,28 +64,28 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 70,
-    "gross": 6650,
+    "sold": 71,
+    "gross": 6745,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 70,
-        "gross": 6650
+        "sold": 71,
+        "gross": 6745
       }
     }
   },
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2065,
-    "gross": 170960,
+    "sold": 2089,
+    "gross": 172995,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1494,
-        "gross": 122985
+        "sold": 1515,
+        "gross": 124720
       },
       "2026-05-05": {
         "shows": 67,
@@ -114,8 +114,8 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 345,
-        "gross": 29885
+        "sold": 348,
+        "gross": 30185
       }
     }
   },
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 315,
-    "gross": 26800,
+    "sold": 320,
+    "gross": 27100,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 246,
-        "gross": 21260
+        "sold": 251,
+        "gross": 21560
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 47,
-    "gross": 6600,
+    "sold": 49,
+    "gross": 6900,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 35,
-        "gross": 4830
+        "sold": 37,
+        "gross": 5130
       },
       "2026-05-03": {
         "shows": 13,
@@ -426,14 +426,14 @@
   "Marty Supreme Special Screening": {
     "shows": 2,
     "seats": 238,
-    "sold": 25,
-    "gross": 6250,
+    "sold": 26,
+    "gross": 6500,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 2000
+        "sold": 9,
+        "gross": 2250
       },
       "2026-05-02": {
         "shows": 1,
