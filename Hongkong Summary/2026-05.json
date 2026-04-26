@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2097,
-    "gross": 173625,
+    "sold": 2103,
+    "gross": 174195,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1523,
-        "gross": 125350
+        "sold": 1529,
+        "gross": 125920
       },
       "2026-05-05": {
         "shows": 67,
@@ -122,14 +122,14 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 415,
-    "gross": 50790,
+    "sold": 417,
+    "gross": 50990,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 320,
-        "gross": 39120
+        "sold": 322,
+        "gross": 39320
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 320,
-    "gross": 27100,
+    "sold": 322,
+    "gross": 27320,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 251,
-        "gross": 21560
+        "sold": 253,
+        "gross": 21780
       },
       "2026-05-05": {
         "shows": 6,
@@ -954,6 +954,20 @@
         "seats": 119,
         "sold": 83,
         "gross": 10375
+      }
+    }
+  },
+  "Assassination Classroom: Our Future Screening": {
+    "shows": 1,
+    "seats": 136,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 136,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
