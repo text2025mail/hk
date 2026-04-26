@@ -64,40 +64,40 @@
   "U Are the Universe (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 68,
-    "gross": 6460,
+    "sold": 69,
+    "gross": 6555,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 68,
-        "gross": 6460
+        "sold": 69,
+        "gross": 6555
       }
     }
   },
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1742,
-    "gross": 143045,
+    "sold": 1799,
+    "gross": 147665,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1265,
-        "gross": 103330
+        "sold": 1306,
+        "gross": 106260
       },
       "2026-05-05": {
         "shows": 67,
         "seats": 13760,
-        "sold": 7,
-        "gross": 585
+        "sold": 9,
+        "gross": 755
       },
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 25,
-        "gross": 1815
+        "sold": 27,
+        "gross": 2005
       },
       "2026-05-06": {
         "shows": 67,
@@ -114,22 +114,22 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 293,
-        "gross": 25135
+        "sold": 305,
+        "gross": 26465
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 343,
-    "gross": 41830,
+    "sold": 351,
+    "gross": 42830,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 259,
-        "gross": 31660
+        "sold": 267,
+        "gross": 32660
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,14 +166,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 248,
-    "gross": 20680,
+    "sold": 259,
+    "gross": 21690,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 196,
-        "gross": 16760
+        "sold": 204,
+        "gross": 17440
       },
       "2026-05-05": {
         "shows": 6,
@@ -202,8 +202,8 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 41,
-        "gross": 3260
+        "sold": 44,
+        "gross": 3590
       }
     }
   },
@@ -236,14 +236,14 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 60,
-    "gross": 5450,
+    "sold": 67,
+    "gross": 6090,
     "dates": {
       "2026-05-01": {
         "shows": 7,
         "seats": 1414,
-        "sold": 45,
-        "gross": 4200
+        "sold": 50,
+        "gross": 4700
       },
       "2026-05-05": {
         "shows": 7,
@@ -266,8 +266,8 @@
       "2026-05-03": {
         "shows": 6,
         "seats": 1212,
-        "sold": 5,
-        "gross": 450
+        "sold": 7,
+        "gross": 590
       },
       "2026-05-02": {
         "shows": 7,
@@ -378,14 +378,14 @@
   "Tough Luck (FMCP 2026)": {
     "shows": 1,
     "seats": 115,
-    "sold": 27,
-    "gross": 2970,
+    "sold": 29,
+    "gross": 3190,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 115,
-        "sold": 27,
-        "gross": 2970
+        "sold": 29,
+        "gross": 3190
       }
     }
   },
@@ -638,8 +638,8 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 41,
-    "gross": 4165,
+    "sold": 43,
+    "gross": 4385,
     "dates": {
       "2026-05-23": {
         "shows": 1,
@@ -650,16 +650,16 @@
       "2026-05-29": {
         "shows": 1,
         "seats": 146,
-        "sold": 18,
-        "gross": 1980
+        "sold": 20,
+        "gross": 2200
       }
     }
   },
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 48,
-    "gross": 5070,
+    "sold": 50,
+    "gross": 5290,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -670,8 +670,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 34,
-        "gross": 3740
+        "sold": 36,
+        "gross": 3960
       }
     }
   },
@@ -712,8 +712,8 @@
   "The Better Me (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 31,
-    "gross": 3215,
+    "sold": 33,
+    "gross": 3435,
     "dates": {
       "2026-05-28": {
         "shows": 1,
@@ -724,8 +724,8 @@
       "2026-05-20": {
         "shows": 1,
         "seats": 115,
-        "sold": 18,
-        "gross": 1980
+        "sold": 20,
+        "gross": 2200
       }
     }
   },
@@ -890,14 +890,14 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 36,
-    "gross": 2700,
+    "sold": 37,
+    "gross": 2775,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 36,
-        "gross": 2700
+        "sold": 37,
+        "gross": 2775
       }
     }
   },
@@ -988,14 +988,14 @@
   "The Dinner (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 87,
-    "gross": 8265,
+    "sold": 88,
+    "gross": 8360,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 87,
-        "gross": 8265
+        "sold": 88,
+        "gross": 8360
       }
     }
   }
