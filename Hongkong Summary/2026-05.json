@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2104,
-    "gross": 174255,
+    "sold": 2111,
+    "gross": 174905,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1530,
-        "gross": 125980
+        "sold": 1535,
+        "gross": 126430
       },
       "2026-05-05": {
         "shows": 67,
@@ -114,16 +114,16 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 348,
-        "gross": 30185
+        "sold": 350,
+        "gross": 30385
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 418,
-    "gross": 51090,
+    "sold": 420,
+    "gross": 51370,
     "dates": {
       "2026-05-01": {
         "shows": 12,
@@ -152,8 +152,8 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 24,
-        "gross": 2840
+        "sold": 26,
+        "gross": 3120
       },
       "2026-05-02": {
         "shows": 12,
@@ -692,8 +692,8 @@
   "Murder in the Building (FMCP 2026)": {
     "shows": 2,
     "seats": 259,
-    "sold": 33,
-    "gross": 3480,
+    "sold": 37,
+    "gross": 3920,
     "dates": {
       "2026-05-27": {
         "shows": 1,
@@ -704,8 +704,8 @@
       "2026-05-21": {
         "shows": 1,
         "seats": 115,
-        "sold": 23,
-        "gross": 2530
+        "sold": 27,
+        "gross": 2970
       }
     }
   },
@@ -834,14 +834,14 @@
   "Plainclothes (InDPanda)": {
     "shows": 1,
     "seats": 119,
-    "sold": 59,
-    "gross": 5605,
+    "sold": 60,
+    "gross": 5700,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 59,
-        "gross": 5605
+        "sold": 60,
+        "gross": 5700
       }
     }
   },
