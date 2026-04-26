@@ -5079,7 +5079,7 @@
     "sold": 2,
     "gross": 340,
     "price": 170,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88054,
@@ -5093,7 +5093,7 @@
     "sold": 4,
     "gross": 380,
     "price": 95,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88101,
@@ -5107,7 +5107,7 @@
     "sold": 2,
     "gross": 240,
     "price": 120,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88076,
@@ -5116,12 +5116,12 @@
     "date": "2026-04-26",
     "time": "16:10",
     "total": 197,
-    "available": 195,
+    "available": 193,
     "blocked": 0,
-    "sold": 2,
-    "gross": 220,
+    "sold": 4,
+    "gross": 440,
     "price": 110,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88047,
@@ -5130,12 +5130,12 @@
     "date": "2026-04-26",
     "time": "16:20",
     "total": 260,
-    "available": 260,
+    "available": 258,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
+    "sold": 2,
+    "gross": 210,
     "price": 105,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88078,
@@ -5149,7 +5149,7 @@
     "sold": 1,
     "gross": 110,
     "price": 110,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   },
   {
     "perfIx": 88138,
@@ -6567,16 +6567,16 @@
   },
   {
     "perfIx": 6,
-    "movie": "Michael (Atmos)",
+    "movie": "Night King  (Director\u2019s Cut)",
     "venue": "Cinema.com.hk",
     "date": "2026-04-26",
-    "time": "15:20",
-    "total": 191,
-    "available": 182,
+    "time": "15:40",
+    "total": 57,
+    "available": 45,
     "blocked": 0,
-    "sold": 9,
-    "gross": 990,
-    "price": 110,
-    "last_updated": "2026-04-26 08:08:05 PM IST"
+    "sold": 12,
+    "gross": 1140,
+    "price": 95,
+    "last_updated": "2026-04-26 09:06:30 PM IST"
   }
 ]
