@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 1068,
-    "gross": 88445,
+    "sold": 1244,
+    "gross": 101670,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 800,
-        "gross": 65950
+        "sold": 944,
+        "gross": 76910
       },
       "2026-05-05": {
         "shows": 67,
@@ -96,8 +96,8 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 11,
-        "gross": 900
+        "sold": 18,
+        "gross": 1395
       },
       "2026-05-06": {
         "shows": 67,
@@ -108,28 +108,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 72,
-        "gross": 5915
+        "sold": 85,
+        "gross": 6745
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 170,
-        "gross": 14515
+        "sold": 182,
+        "gross": 15455
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 207,
-    "gross": 24990,
+    "sold": 252,
+    "gross": 30530,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 157,
-        "gross": 19060
+        "sold": 183,
+        "gross": 22260
       },
       "2026-05-05": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 21,
-        "gross": 2780
+        "sold": 40,
+        "gross": 5120
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 163,
-    "gross": 13380,
+    "sold": 186,
+    "gross": 14960,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 141,
-        "gross": 11710
+        "sold": 153,
+        "gross": 12630
       },
       "2026-05-05": {
         "shows": 6,
@@ -196,28 +196,28 @@
       "2026-05-03": {
         "shows": 5,
         "seats": 1600,
-        "sold": 2,
-        "gross": 120
+        "sold": 9,
+        "gross": 540
       },
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 20,
-        "gross": 1550
+        "sold": 24,
+        "gross": 1790
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 32,
-    "gross": 4440,
+    "sold": 34,
+    "gross": 4740,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 20,
-        "gross": 2670
+        "sold": 22,
+        "gross": 2970
       },
       "2026-05-03": {
         "shows": 13,
@@ -300,14 +300,14 @@
   "A Pale View of Hills": {
     "shows": 5,
     "seats": 595,
-    "sold": 6,
-    "gross": 510,
+    "sold": 7,
+    "gross": 585,
     "dates": {
       "2026-05-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 3,
-        "gross": 225
+        "sold": 4,
+        "gross": 300
       },
       "2026-05-09": {
         "shows": 1,
@@ -446,14 +446,14 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 83,
-    "gross": 7885,
+    "sold": 87,
+    "gross": 8265,
     "dates": {
       "2026-05-09": {
         "shows": 1,
         "seats": 119,
-        "sold": 2,
-        "gross": 190
+        "sold": 4,
+        "gross": 380
       },
       "2026-05-04": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 10,
+        "gross": 950
       },
       "2026-05-07": {
         "shows": 1,
@@ -558,8 +558,8 @@
   "Picnic at Hanging Rock (50th Anniversary 4K Restoration)": {
     "shows": 3,
     "seats": 357,
-    "sold": 10,
-    "gross": 950,
+    "sold": 11,
+    "gross": 1045,
     "dates": {
       "2026-05-16": {
         "shows": 1,
@@ -570,8 +570,8 @@
       "2026-05-06": {
         "shows": 1,
         "seats": 119,
-        "sold": 8,
-        "gross": 760
+        "sold": 9,
+        "gross": 855
       },
       "2026-05-10": {
         "shows": 1,
@@ -638,14 +638,14 @@
   "Marsupilami (FMCP 2026)": {
     "shows": 2,
     "seats": 407,
-    "sold": 38,
-    "gross": 3880,
+    "sold": 41,
+    "gross": 4165,
     "dates": {
       "2026-05-23": {
         "shows": 1,
         "seats": 261,
-        "sold": 20,
-        "gross": 1900
+        "sold": 23,
+        "gross": 2185
       },
       "2026-05-29": {
         "shows": 1,
@@ -658,8 +658,8 @@
   "Family Price (FMCP 2026)": {
     "shows": 2,
     "seats": 290,
-    "sold": 43,
-    "gross": 4535,
+    "sold": 45,
+    "gross": 4755,
     "dates": {
       "2026-05-29": {
         "shows": 1,
@@ -670,8 +670,8 @@
       "2026-05-19": {
         "shows": 1,
         "seats": 146,
-        "sold": 30,
-        "gross": 3300
+        "sold": 32,
+        "gross": 3520
       }
     }
   },
@@ -890,14 +890,14 @@
   "Sirat with Chung Suet Ying (Student Screening)": {
     "shows": 1,
     "seats": 119,
-    "sold": 34,
-    "gross": 2550,
+    "sold": 35,
+    "gross": 2625,
     "dates": {
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 34,
-        "gross": 2550
+        "sold": 35,
+        "gross": 2625
       }
     }
   },
