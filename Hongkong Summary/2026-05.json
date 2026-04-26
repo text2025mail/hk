@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2089,
-    "gross": 172995,
+    "sold": 2103,
+    "gross": 174195,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1515,
-        "gross": 124720
+        "sold": 1529,
+        "gross": 125920
       },
       "2026-05-05": {
         "shows": 67,
@@ -122,14 +122,14 @@
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 412,
-    "gross": 50410,
+    "sold": 418,
+    "gross": 51090,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 318,
-        "gross": 38840
+        "sold": 323,
+        "gross": 39420
       },
       "2026-05-05": {
         "shows": 12,
@@ -158,22 +158,22 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 4086,
-        "sold": 58,
-        "gross": 7480
+        "sold": 59,
+        "gross": 7580
       }
     }
   },
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 320,
-    "gross": 27100,
+    "sold": 323,
+    "gross": 27380,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 251,
-        "gross": 21560
+        "sold": 254,
+        "gross": 21840
       },
       "2026-05-05": {
         "shows": 6,
@@ -210,14 +210,14 @@
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 49,
-    "gross": 6900,
+    "sold": 51,
+    "gross": 7200,
     "dates": {
       "2026-05-01": {
         "shows": 13,
         "seats": 1159,
-        "sold": 37,
-        "gross": 5130
+        "sold": 39,
+        "gross": 5430
       },
       "2026-05-03": {
         "shows": 13,
@@ -338,8 +338,8 @@
   "The Grand Budapest Hotel": {
     "shows": 2,
     "seats": 215,
-    "sold": 7,
-    "gross": 870,
+    "sold": 8,
+    "gross": 1000,
     "dates": {
       "2026-05-24": {
         "shows": 1,
@@ -350,22 +350,22 @@
       "2026-05-30": {
         "shows": 1,
         "seats": 88,
-        "sold": 5,
-        "gross": 650
+        "sold": 6,
+        "gross": 780
       }
     }
   },
   "Nathalie Granger (FMCP 2026)": {
     "shows": 2,
     "seats": 238,
-    "sold": 26,
-    "gross": 2470,
+    "sold": 27,
+    "gross": 2565,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 119,
-        "sold": 13,
-        "gross": 1235
+        "sold": 14,
+        "gross": 1330
       },
       "2026-05-30": {
         "shows": 1,
@@ -446,8 +446,8 @@
   "Portrait of a Lady on Fire": {
     "shows": 5,
     "seats": 595,
-    "sold": 96,
-    "gross": 9120,
+    "sold": 98,
+    "gross": 9310,
     "dates": {
       "2026-05-09": {
         "shows": 1,
@@ -470,8 +470,8 @@
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 15,
-        "gross": 1425
+        "sold": 17,
+        "gross": 1615
       },
       "2026-05-07": {
         "shows": 1,
