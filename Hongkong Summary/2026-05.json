@@ -22,8 +22,8 @@
   "Sound of Falling": {
     "shows": 6,
     "seats": 714,
-    "sold": 6,
-    "gross": 690,
+    "sold": 8,
+    "gross": 920,
     "dates": {
       "2026-05-12": {
         "shows": 1,
@@ -52,8 +52,8 @@
       "2026-05-10": {
         "shows": 1,
         "seats": 119,
-        "sold": 0,
-        "gross": 0
+        "sold": 2,
+        "gross": 230
       },
       "2026-05-07": {
         "shows": 1,
@@ -64,34 +64,6 @@
     }
   },
   "Some Birds (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 53,
-    "gross": 5035,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 53,
-        "gross": 5035
-      }
-    }
-  },
-  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 57,
-    "gross": 5415,
-    "dates": {
-      "2026-05-01": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 57,
-        "gross": 5415
-      }
-    }
-  },
-  "That Summer in Paris (EUFF2026)": {
     "shows": 1,
     "seats": 119,
     "sold": 55,
@@ -105,31 +77,59 @@
       }
     }
   },
-  "U Are the Universe (EUFF2026)": {
+  "How to Be Normal and the Oddness of the Other World (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 71,
-    "gross": 6745,
+    "sold": 59,
+    "gross": 5605,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 71,
-        "gross": 6745
+        "sold": 59,
+        "gross": 5605
+      }
+    }
+  },
+  "That Summer in Paris (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 57,
+    "gross": 5415,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 57,
+        "gross": 5415
+      }
+    }
+  },
+  "U Are the Universe (EUFF2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 72,
+    "gross": 6840,
+    "dates": {
+      "2026-05-01": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 72,
+        "gross": 6840
       }
     }
   },
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2432,
-    "gross": 201635,
+    "sold": 2667,
+    "gross": 220730,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1771,
-        "gross": 146125
+        "sold": 1934,
+        "gross": 159690
       },
       "2026-05-05": {
         "shows": 67,
@@ -140,8 +140,8 @@
       "2026-05-04": {
         "shows": 67,
         "seats": 13760,
-        "sold": 50,
-        "gross": 3455
+        "sold": 53,
+        "gross": 3705
       },
       "2026-05-06": {
         "shows": 67,
@@ -152,28 +152,28 @@
       "2026-05-03": {
         "shows": 121,
         "seats": 23997,
-        "sold": 187,
-        "gross": 15390
+        "sold": 219,
+        "gross": 17650
       },
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 390,
-        "gross": 33815
+        "sold": 427,
+        "gross": 36835
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 459,
-    "gross": 56080,
+    "sold": 475,
+    "gross": 58000,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 361,
-        "gross": 44020
+        "sold": 370,
+        "gross": 44960
       },
       "2026-05-05": {
         "shows": 12,
@@ -196,8 +196,8 @@
       "2026-05-03": {
         "shows": 12,
         "seats": 4086,
-        "sold": 26,
-        "gross": 3120
+        "sold": 33,
+        "gross": 4100
       },
       "2026-05-02": {
         "shows": 12,
@@ -210,14 +210,14 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 364,
-    "gross": 30190,
+    "sold": 385,
+    "gross": 31850,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 3486,
-        "sold": 282,
-        "gross": 23720
+        "sold": 290,
+        "gross": 24500
       },
       "2026-05-05": {
         "shows": 6,
@@ -240,14 +240,14 @@
       "2026-05-03": {
         "shows": 5,
         "seats": 1600,
-        "sold": 17,
-        "gross": 1120
+        "sold": 21,
+        "gross": 1360
       },
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 60,
-        "gross": 5000
+        "sold": 69,
+        "gross": 5640
       }
     }
   },
@@ -280,8 +280,8 @@
   "CINITY LED COLD WAR 1994": {
     "shows": 41,
     "seats": 8282,
-    "sold": 88,
-    "gross": 8240,
+    "sold": 89,
+    "gross": 8360,
     "dates": {
       "2026-05-01": {
         "shows": 7,
@@ -298,8 +298,8 @@
       "2026-05-04": {
         "shows": 7,
         "seats": 1414,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 120
       },
       "2026-05-06": {
         "shows": 7,
@@ -344,14 +344,14 @@
   "A Pale View of Hills": {
     "shows": 5,
     "seats": 595,
-    "sold": 18,
-    "gross": 1590,
+    "sold": 19,
+    "gross": 1665,
     "dates": {
       "2026-05-05": {
         "shows": 1,
         "seats": 119,
-        "sold": 6,
-        "gross": 450
+        "sold": 7,
+        "gross": 525
       },
       "2026-05-09": {
         "shows": 1,
@@ -382,14 +382,14 @@
   "The Grand Budapest Hotel": {
     "shows": 2,
     "seats": 215,
-    "sold": 8,
-    "gross": 1000,
+    "sold": 9,
+    "gross": 1110,
     "dates": {
       "2026-05-24": {
         "shows": 1,
         "seats": 127,
-        "sold": 2,
-        "gross": 220
+        "sold": 3,
+        "gross": 330
       },
       "2026-05-30": {
         "shows": 1,
@@ -450,6 +450,26 @@
         "seats": 127,
         "sold": 37,
         "gross": 4810
+      }
+    }
+  },
+  "Capharnaum (bcSunday)": {
+    "shows": 2,
+    "seats": 246,
+    "sold": 2,
+    "gross": 190,
+    "dates": {
+      "2026-05-24": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 2,
+        "gross": 190
+      },
+      "2026-05-27": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -827,6 +847,40 @@
       }
     }
   },
+  "Anatomy of a Fall (bcSunday)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 2,
+    "gross": 190,
+    "dates": {
+      "2026-05-31": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 2,
+        "gross": 190
+      }
+    }
+  },
+  "On the Basis of Sex (bcSunday)": {
+    "shows": 2,
+    "seats": 246,
+    "sold": 1,
+    "gross": 95,
+    "dates": {
+      "2026-05-13": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-10": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 1,
+        "gross": 95
+      }
+    }
+  },
   "The Nutcracker (Paris Opera Ballet 2026) ": {
     "shows": 1,
     "seats": 58,
@@ -903,6 +957,26 @@
       }
     }
   },
+  "Dark Waters (bcSunday)": {
+    "shows": 2,
+    "seats": 246,
+    "sold": 2,
+    "gross": 190,
+    "dates": {
+      "2026-05-17": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 2,
+        "gross": 190
+      },
+      "2026-05-20": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      }
+    }
+  },
   "4DX ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM IN CINEMAS": {
     "shows": 1,
     "seats": 52,
@@ -917,17 +991,37 @@
       }
     }
   },
+  "Holy Spider (bcSunday)": {
+    "shows": 2,
+    "seats": 246,
+    "sold": 2,
+    "gross": 190,
+    "dates": {
+      "2026-05-06": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
+      },
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 2,
+        "gross": 190
+      }
+    }
+  },
   "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
     "seats": 144,
-    "sold": 25,
-    "gross": 2375,
+    "sold": 26,
+    "gross": 2470,
     "dates": {
       "2026-05-30": {
         "shows": 1,
         "seats": 144,
-        "sold": 25,
-        "gross": 2375
+        "sold": 26,
+        "gross": 2470
       }
     }
   },
@@ -990,28 +1084,42 @@
   "Stormskerry Maja (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 83,
-    "gross": 10375,
+    "sold": 84,
+    "gross": 10500,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 119,
-        "sold": 83,
-        "gross": 10375
+        "sold": 84,
+        "gross": 10500
       }
     }
   },
   "Assassination Classroom: Our Future Screening": {
     "shows": 1,
     "seats": 136,
-    "sold": 9,
-    "gross": 1260,
+    "sold": 12,
+    "gross": 1680,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 136,
-        "sold": 9,
-        "gross": 1260
+        "sold": 12,
+        "gross": 1680
+      }
+    }
+  },
+  "Human Resource": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-05-03": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -1032,14 +1140,14 @@
   "Our Girls (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 75,
-    "gross": 7125,
+    "sold": 77,
+    "gross": 7315,
     "dates": {
       "2026-05-02": {
         "shows": 1,
         "seats": 119,
-        "sold": 75,
-        "gross": 7125
+        "sold": 77,
+        "gross": 7315
       }
     }
   },
