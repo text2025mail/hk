@@ -22,14 +22,14 @@
   "Some Birds (EUFF2026)": {
     "shows": 1,
     "seats": 119,
-    "sold": 52,
-    "gross": 4940,
+    "sold": 53,
+    "gross": 5035,
     "dates": {
       "2026-05-01": {
         "shows": 1,
         "seats": 119,
-        "sold": 52,
-        "gross": 4940
+        "sold": 53,
+        "gross": 5035
       }
     }
   },
@@ -78,14 +78,14 @@
   "Cold War 1994": {
     "shows": 597,
     "seats": 118936,
-    "sold": 2111,
-    "gross": 174905,
+    "sold": 2168,
+    "gross": 179320,
     "dates": {
       "2026-05-01": {
         "shows": 137,
         "seats": 26773,
-        "sold": 1535,
-        "gross": 126430
+        "sold": 1583,
+        "gross": 130010
       },
       "2026-05-05": {
         "shows": 67,
@@ -114,22 +114,22 @@
       "2026-05-02": {
         "shows": 138,
         "seats": 26886,
-        "sold": 350,
-        "gross": 30385
+        "sold": 359,
+        "gross": 31220
       }
     }
   },
   "IMAX Cold War 1994": {
     "shows": 72,
     "seats": 24516,
-    "sold": 420,
-    "gross": 51370,
+    "sold": 438,
+    "gross": 53410,
     "dates": {
       "2026-05-01": {
         "shows": 12,
         "seats": 4086,
-        "sold": 323,
-        "gross": 39420
+        "sold": 341,
+        "gross": 41460
       },
       "2026-05-05": {
         "shows": 12,
@@ -166,8 +166,8 @@
   "CGS Cold War 1994": {
     "shows": 47,
     "seats": 14332,
-    "sold": 323,
-    "gross": 27380,
+    "sold": 326,
+    "gross": 27710,
     "dates": {
       "2026-05-01": {
         "shows": 12,
@@ -184,8 +184,8 @@
       "2026-05-04": {
         "shows": 6,
         "seats": 1920,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 110
       },
       "2026-05-06": {
         "shows": 6,
@@ -202,16 +202,16 @@
       "2026-05-02": {
         "shows": 12,
         "seats": 3486,
-        "sold": 54,
-        "gross": 4540
+        "sold": 56,
+        "gross": 4760
       }
     }
   },
   "4DX Cold War 1994": {
     "shows": 39,
     "seats": 3477,
-    "sold": 51,
-    "gross": 7200,
+    "sold": 53,
+    "gross": 7440,
     "dates": {
       "2026-05-01": {
         "shows": 13,
@@ -222,8 +222,8 @@
       "2026-05-03": {
         "shows": 13,
         "seats": 1159,
-        "sold": 4,
-        "gross": 600
+        "sold": 6,
+        "gross": 840
       },
       "2026-05-02": {
         "shows": 13,
@@ -820,14 +820,14 @@
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
-    "sold": 98,
-    "gross": 9310,
+    "sold": 100,
+    "gross": 9500,
     "dates": {
       "2026-05-17": {
         "shows": 1,
         "seats": 119,
-        "sold": 98,
-        "gross": 9310
+        "sold": 100,
+        "gross": 9500
       }
     }
   },
@@ -960,14 +960,14 @@
   "Assassination Classroom: Our Future Screening": {
     "shows": 1,
     "seats": 136,
-    "sold": 0,
-    "gross": 0,
+    "sold": 1,
+    "gross": 140,
     "dates": {
       "2026-05-03": {
         "shows": 1,
         "seats": 136,
-        "sold": 0,
-        "gross": 0
+        "sold": 1,
+        "gross": 140
       }
     }
   },
