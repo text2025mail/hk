@@ -1,15 +1,49 @@
 {
-  "The Farewell  (WKF)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 93,
-    "gross": 18600,
+  "Let's have a cup of doodh patti chai": {
+    "shows": 2,
+    "seats": 238,
+    "sold": 18,
+    "gross": 1710,
     "dates": {
-      "2026-06-20": {
+      "2026-06-27": {
         "shows": 1,
         "seats": 119,
-        "sold": 93,
-        "gross": 18600
+        "sold": 10,
+        "gross": 950
+      },
+      "2026-06-21": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 8,
+        "gross": 760
+      }
+    }
+  },
+  "Tough Luck (FMCP 2026)": {
+    "shows": 1,
+    "seats": 144,
+    "sold": 9,
+    "gross": 855,
+    "dates": {
+      "2026-06-03": {
+        "shows": 1,
+        "seats": 144,
+        "sold": 9,
+        "gross": 855
+      }
+    }
+  },
+  "Anatomy of a Fall (bcSunday)": {
+    "shows": 1,
+    "seats": 127,
+    "sold": 0,
+    "gross": 0,
+    "dates": {
+      "2026-06-03": {
+        "shows": 1,
+        "seats": 127,
+        "sold": 0,
+        "gross": 0
       }
     }
   },
@@ -25,51 +59,45 @@
         "sold": 8,
         "gross": 1040
       },
-      "2026-06-14": {
-        "shows": 1,
-        "seats": 88,
-        "sold": 9,
-        "gross": 1350
-      },
       "2026-06-07": {
         "shows": 1,
         "seats": 81,
         "sold": 20,
         "gross": 3000
-      }
-    }
-  },
-  "Let's have a cup of doodh patti chai": {
-    "shows": 2,
-    "seats": 238,
-    "sold": 18,
-    "gross": 1710,
-    "dates": {
-      "2026-06-21": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 8,
-        "gross": 760
       },
-      "2026-06-27": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 10,
-        "gross": 950
-      }
-    }
-  },
-  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
-    "shows": 1,
-    "seats": 58,
-    "sold": 2,
-    "gross": 580,
-    "dates": {
       "2026-06-14": {
         "shows": 1,
-        "seats": 58,
-        "sold": 2,
-        "gross": 580
+        "seats": 88,
+        "sold": 9,
+        "gross": 1350
+      }
+    }
+  },
+  "Merrily We Roll Along (2026)": {
+    "shows": 1,
+    "seats": 88,
+    "sold": 16,
+    "gross": 3520,
+    "dates": {
+      "2026-06-07": {
+        "shows": 1,
+        "seats": 88,
+        "sold": 16,
+        "gross": 3520
+      }
+    }
+  },
+  "The Farewell  (WKF)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 93,
+    "gross": 18600,
+    "dates": {
+      "2026-06-20": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 93,
+        "gross": 18600
       }
     }
   },
@@ -107,59 +135,17 @@
       }
     }
   },
-  "Tough Luck (FMCP 2026)": {
+  "Giordano\u2019s Andrea Ch\u00e9nier (The Met 2026)": {
     "shows": 1,
-    "seats": 144,
-    "sold": 9,
-    "gross": 855,
+    "seats": 58,
+    "sold": 2,
+    "gross": 580,
     "dates": {
-      "2026-06-03": {
+      "2026-06-14": {
         "shows": 1,
-        "seats": 144,
-        "sold": 9,
-        "gross": 855
-      }
-    }
-  },
-  "Anatomy of a Fall (bcSunday)": {
-    "shows": 1,
-    "seats": 127,
-    "sold": 0,
-    "gross": 0,
-    "dates": {
-      "2026-06-03": {
-        "shows": 1,
-        "seats": 127,
-        "sold": 0,
-        "gross": 0
-      }
-    }
-  },
-  "Santiago: The Camino Therapy (FMCP 2026)": {
-    "shows": 1,
-    "seats": 130,
-    "sold": 46,
-    "gross": 5060,
-    "dates": {
-      "2026-06-02": {
-        "shows": 1,
-        "seats": 130,
-        "sold": 46,
-        "gross": 5060
-      }
-    }
-  },
-  "Yellow the Sun (FMCP 2026)": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 12,
-    "gross": 1140,
-    "dates": {
-      "2026-06-02": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 12,
-        "gross": 1140
+        "seats": 58,
+        "sold": 2,
+        "gross": 580
       }
     }
   },
@@ -191,17 +177,31 @@
       }
     }
   },
-  "Merrily We Roll Along (2026)": {
+  "Santiago: The Camino Therapy (FMCP 2026)": {
     "shows": 1,
-    "seats": 88,
-    "sold": 16,
-    "gross": 3520,
+    "seats": 130,
+    "sold": 46,
+    "gross": 5060,
     "dates": {
-      "2026-06-07": {
+      "2026-06-02": {
         "shows": 1,
-        "seats": 88,
-        "sold": 16,
-        "gross": 3520
+        "seats": 130,
+        "sold": 46,
+        "gross": 5060
+      }
+    }
+  },
+  "Yellow the Sun (FMCP 2026)": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 12,
+    "gross": 1140,
+    "dates": {
+      "2026-06-02": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 12,
+        "gross": 1140
       }
     }
   }

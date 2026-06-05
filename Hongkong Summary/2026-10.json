@@ -1,18 +1,4 @@
 {
-  "Gabriela Lena Frank\u2019s El \u00daltimo Sue\u00f1o de Frida y Diego(The Met 2026)": {
-    "shows": 1,
-    "seats": 58,
-    "sold": 7,
-    "gross": 2030,
-    "dates": {
-      "2026-10-11": {
-        "shows": 1,
-        "seats": 58,
-        "sold": 7,
-        "gross": 2030
-      }
-    }
-  },
   "Wagner\u2019s Tristan und Isolde (The Met 2026)": {
     "shows": 1,
     "seats": 81,
@@ -24,6 +10,20 @@
         "seats": 81,
         "sold": 21,
         "gross": 7350
+      }
+    }
+  },
+  "Gabriela Lena Frank\u2019s El \u00daltimo Sue\u00f1o de Frida y Diego(The Met 2026)": {
+    "shows": 1,
+    "seats": 58,
+    "sold": 7,
+    "gross": 2030,
+    "dates": {
+      "2026-10-11": {
+        "shows": 1,
+        "seats": 58,
+        "sold": 7,
+        "gross": 2030
       }
     }
   }
