@@ -1,18 +1,4 @@
 {
-  "Red Stars upon the field(GFF 2026) ": {
-    "shows": 1,
-    "seats": 119,
-    "sold": 27,
-    "gross": 2565,
-    "dates": {
-      "2026-07-29": {
-        "shows": 1,
-        "seats": 119,
-        "sold": 27,
-        "gross": 2565
-      }
-    }
-  },
   "Let's have a cup of doodh patti chai": {
     "shows": 1,
     "seats": 119,
@@ -24,6 +10,20 @@
         "seats": 119,
         "sold": 0,
         "gross": 0
+      }
+    }
+  },
+  "Red Stars upon the field(GFF 2026) ": {
+    "shows": 1,
+    "seats": 119,
+    "sold": 27,
+    "gross": 2565,
+    "dates": {
+      "2026-07-29": {
+        "shows": 1,
+        "seats": 119,
+        "sold": 27,
+        "gross": 2565
       }
     }
   }
